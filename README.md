@@ -43,8 +43,8 @@ step 11: offline the gov. office decrypts the QR code for the 'encrypted' filled
 step 12: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
 
-# identifying the risks, 
-especially from non-local agents such as foreign states / groups:
+# Identifying Risks 
+Especially from non-local agents such as foreign states / groups:
 
 1. a bad-agent will intercept either one-time-pads
 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
