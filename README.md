@@ -66,4 +66,12 @@ Especially from non-local agents such as foreign states / groups:
 
 
 # Description Notes:
-For maximum security, while the 'voting' is able to be done remotely, online, over a network, the entire process is not on-line, but rather involves physical printed materials and off-line computers. e.g. if there is no digital record to steal, a non-existent record cannot be stolen. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+This is a proposed process for reasonably secure 'online (over a network) voting.' Part of secure design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the 'online attack surface.' You can feasibly steal or tamper with a file in a network-connected computer from a remote location, but you cannot feasibly tamper with or steal documents in a filing cabinet from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+
+# Implementation Notes:
+These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
+To make accessibility easier, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
+- voters who have no access to a printer
+- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital)
+
+
