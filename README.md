@@ -72,6 +72,7 @@ This is a proposed process for reasonably secure 'online (over a network) voting
 These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
 To make accessibility easier, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
 - voters who have no access to a printer
-- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital)
+- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
 
-
+Additional steps could also be taken to increase the security further. 
+For example, to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff could run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a $40 raspberrypi computer. 
