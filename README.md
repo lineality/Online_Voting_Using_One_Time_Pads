@@ -7,16 +7,20 @@ First let's try to focus on what exactly this question is asking:
 1. Not: Can online voting be absolutely effortless and perfectly ecstatic as an experience? 
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
+4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
 
 Those are important questions but they are not the same as the question of a secure online voting system. 
 
+The question we are focusing on here is the following. 
+Is secure online voting possible? Is it possible for a voter to submit a vote securely over a network?
+
 # Proposed Steps for Secure Online Voting
 
-Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and or vote.  
+Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and or cast their vote.  
 
 Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the One Time Pad Vote Over Network (online voting) process. 
 
-Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one time pads are created, one set of the pads are stored (offline) by the gov., one is kept by the person themselves (physically, off line)
+Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the pads are stored (offline) by the gov., one is kept by the person themselves (physically, off line)
 the software will print and check the one-time pads, but will erase thoroughly from memory (e.g. physically overwrite) any record of what the now-printed one-time-pads were.
 
 Step 3: During the election period, a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, etc) in the form of another QR code
