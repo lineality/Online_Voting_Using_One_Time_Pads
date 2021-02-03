@@ -3,7 +3,7 @@ Online Voting Using One Time Pads
 
 # Clarifying the Question: Is secure online voting possible?
 
-First let's try to focus on what exactly this question is asking:
+To focus on what exactly this question is asking and not asking:
 1. Not: Can online voting be absolutely effortless and perfectly ecstatic as an experience? 
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
