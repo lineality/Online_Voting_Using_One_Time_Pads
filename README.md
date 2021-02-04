@@ -12,8 +12,8 @@ To focus on what goals to focus on and what questions to ask, below is a list of
 Questions we are focusing on include the following: 
 1. Is secure online voting possible? 
 2. Is it possible for a voter to submit a vote securely over a network?
-3. Is it possible for a vote to securely receive a ballot from the voting office? 
-4. Is it possible for the voting office to securely receive a completed ballot from the voter?
+3. Is it possible for a voter to securely receive a ballot from the voting office? 
+4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
 
 
 # Proposed Steps for Secure Online Voting
