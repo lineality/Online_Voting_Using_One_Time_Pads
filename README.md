@@ -83,14 +83,16 @@ To make accessibility easier, it is conceivable that some local voting systems w
 Additional steps could also be taken to increase the security further. 
 For example: 
 
-1. to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff could run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a $40 raspberrypi computer. 
+1. to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff could run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a $40 raspberry pi computer. 
 
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
 Challenges:
 
-One possible area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document.
+One possible area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
 It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is probably not a terminal obstacle. 
 namely, the task is not really subtle character recognition but binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed.
-Though even here, OCR and checking to see that the OCR is correct may be sufficient. 
+Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
+
+
 
