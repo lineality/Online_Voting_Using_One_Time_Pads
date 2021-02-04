@@ -10,9 +10,9 @@ To focus on what goals to focus on and what questions to ask, below is a list of
 4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
 
 Questions we are focusing on include the following: 
-1. Is secure online voting possible? 
-2. Is it possible for a voter to submit a vote securely over a network?
-3. Is it possible for a voter to securely receive a ballot from the voting office? 
+1. Is secure over-a-network (online) voting possible? 
+2. Is it possible for a voter to submit a vote securely over a network (online)?
+3. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
 4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
 
 
