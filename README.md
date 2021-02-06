@@ -1,6 +1,7 @@
 # Online_Voting_Using_One_Time_Pads
 Online Voting Using One Time Pads
 
+
 # Clarifying Goals and Questions: 
 - Main Goal: secure online voting
 - Main Question: Is secure online voting possible?
@@ -9,8 +10,8 @@ To help clarify goals and questions, below are two lists of questions: a list of
 
 ## Questions we are focusing on include the following: 
 1. Is secure over-a-network (online) voting possible? 
-2. Is it possible for a voter to submit a ballot securely over a network (online)?
-3. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
+2. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
+3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
 
 ## Questions we are NOT focusing on include the following: 
@@ -20,11 +21,9 @@ To help clarify goals and questions, below are two lists of questions: a list of
 4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
 
 
-
-
 # Proposed Steps for Secure Online Voting
 
-Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and or cast their vote.  
+Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
 Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the One Time Pad Vote Over Network (online voting) process. 
 
