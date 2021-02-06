@@ -25,36 +25,42 @@ To help clarify goals and questions, below are two lists of questions: a list of
 
 Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
+
+
 Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the One-Time-Pad Vote-Over-a-Network (online voting) process. 
 
 Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 The software will print the one-time pads. The software will check the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 
-Step 3: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
+Step 3: The election office, offline (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter alone. 
+Note: The -ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
+
+Note: it may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary from the standard public ballot (in a context of mapping out a potential attack space). 
+
+Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
-Step 4: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
+Step 5: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
-Step 5: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), 
+Step 6: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), 
 
-Step 6: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
-
-Step 7: the voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is correct.
-
-Step 8: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written.
+Step 7: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
 ~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that it can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard and that perhaps Navada has used successfully. 
 
-step 8: on-line: the voter sends (by whatever agreed upon method) that new QR code to the gov. office
+Step 8: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is correct.
 
-step 9: the gov. office and prints the QR code for the 'encrypted' filled out ballot and deletes the digital record
+Step 9: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written.
 
-step 10: offline, the gov. office prints the QR code for the 'encrypted' filled out ballot.
+Step 10: Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in and checked ballot) to the local election office.
 
-step 11: offline the gov. office decrypts the QR code for the 'encrypted' filled out ballot using the printed QR code for the one-time pad
+Step 11: The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot and deletes the digital record and the memory physically over-written.
 
-step 12: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+Step 12: Offline, using a separate piece of software, the gov. office "decrypts" the QR code for the 'encrypted' filled out ballot using second 2:2 of the pair of printed QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 
+Step 13: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+
+Note: It is not clear that saving the QR codes serves any function. 
 
 # Identifying Risks 
 Especially from non-local agents such as foreign states / groups:
