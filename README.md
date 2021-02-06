@@ -1,11 +1,11 @@
 # Online_Voting_Using_One_Time_Pads
 Online Voting Using One Time Pads
 
-# Clarifying Goals and QuestionS: 
+# Clarifying Goals and Questions: 
 - Main Goal: secure online voting
 - Main Question: Is secure online voting possible?
 
-To focus on clear goals and questions, below is a list of other questions we are not attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking:
+To clarify goals and questions, below is a list of other questions we are not attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking:
 1. Not: Can online voting be absolutely effortless and perfectly ecstatic as an experience? 
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
