@@ -33,7 +33,7 @@ The software will print the one-time pads. The software will check the one-time 
 Step 3: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
-Step 4: the voter then off-line(enforced by software) 'decrypts' the ballot and physically prints it using one piece of software
+Step 4: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
 step 5: the voter then, off-line(enforced by software), fills out the ballot and off-line scans (e.g. by taking a picture) the filled-out ballot 
 
