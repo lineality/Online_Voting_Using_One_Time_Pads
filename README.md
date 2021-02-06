@@ -5,17 +5,21 @@ Online Voting Using One Time Pads
 - Main Goal: secure online voting
 - Main Question: Is secure online voting possible?
 
-To clarify goals and questions, below is a list of other questions we are not attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking:
+To help clarify goals and questions, below are two lists of questions: a list of other questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking:
+
+## Questions we are focusing on include the following: 
+1. Is secure over-a-network (online) voting possible? 
+2. Is it possible for a voter to submit a ballot securely over a network (online)?
+3. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
+4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
+
+## Questions we are NOT focusing on include the following: 
 1. Not: Can online voting be absolutely effortless and perfectly ecstatic as an experience? 
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
 4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
 
-Questions we are focusing on include the following: 
-1. Is secure over-a-network (online) voting possible? 
-2. Is it possible for a voter to submit a vote securely over a network (online)?
-3. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
-4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
+
 
 
 # Proposed Steps for Secure Online Voting
