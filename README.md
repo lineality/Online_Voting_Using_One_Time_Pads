@@ -60,7 +60,7 @@ Step 12: Offline, using a separate piece of software, the gov. office "decrypts"
 
 Step 13: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
-Note: It is not clear that saving the QR codes serves any function. 
+Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used. 
 
 # Identifying Risks 
 Especially from non-local agents such as foreign states / groups:
@@ -70,16 +70,13 @@ Especially from non-local agents such as foreign states / groups:
 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
 	- if the voter loses the QR code the person should cancel the process
 
-
 2. a bad-agent will send the voter a fake ballot
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
-
 
 3. a bad-agent will send the gov. a fake filled-in ballot
 	- the agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
 	- if the voter loses the QR code the person should cancel the process
 	
-
 4. a bad-agent will record a fake record of the vote from the ballot
 	- while a possible risk, this process is the same as for any paper ballot
 
@@ -100,7 +97,7 @@ For example:
 
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
-Challenges:
+## Challenges:
 
 One possible area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
 It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is probably not a terminal obstacle. 
@@ -108,4 +105,4 @@ namely, the task is not really subtle character recognition but binary check-box
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
 
 
-
+# About One Time Pads
