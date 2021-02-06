@@ -25,13 +25,13 @@ To help clarify goals and questions, below are two lists of questions: a list of
 
 Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
-Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the One Time Pad Vote Over Network (online voting) process. 
+Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the One-Time-Pad Vote-Over-a-Network (online voting) process. 
 
-Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the pads are stored (offline) by the gov., one is kept by the person themselves (physically, off line)
-the software will print and check the one-time pads, but will erase thoroughly from memory (e.g. physically overwrite) any record of what the now-printed one-time-pads were.
+Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+The software will print the one-time pads. The software will check the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 
-Step 3: During the election period, a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, etc) in the form of another QR code
-part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
+Step 3: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
+Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
 Step 4: the voter then off-line(enforced by software) 'decrypts' the ballot and physically prints it using one piece of software
 
