@@ -110,4 +110,8 @@ Though even here, OCR and having the vote double-check to see that the OCR is co
 
 
 # About One Time Pads
-pending
+A one-time-pad is not the same as a re-use-able 'code' the 'encodes' a signal that can then also be 'decoded,' though the terminology can be a bit unclear in overlapping between the two. 
+
+There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one time pad 'encrypted' message is with the pad, because it is a one-by-one, one-for-one, one character at a time, change of what the original text says.
+
+One-time-pads codes are not as efficient and user friendly as 're-use-able' codes, but they are more secure and more simple. 
