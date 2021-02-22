@@ -6,7 +6,7 @@ Online Voting Using One Time Pads
 - Main Goal: secure online voting
 - Main Question: Is secure online voting possible?
 
-To help clarify goals and questions, below are two lists of questions: a list of questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
+To clarify goals and questions, below are two lists of questions: a list of questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
 ## Questions we are focusing on include the following: 
 1. Is secure over-a-network (online) voting possible? 
