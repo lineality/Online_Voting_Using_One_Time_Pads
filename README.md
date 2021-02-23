@@ -23,7 +23,7 @@ To clarify goals and questions, below are two lists of questions: a list of ques
 
 # Proposed Steps for Secure Online Voting
 
-Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
+~Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
 
 
