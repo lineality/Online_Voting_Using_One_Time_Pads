@@ -6,7 +6,7 @@ Online Voting Using One Time Pads
 - Main Goal: secure online voting
 - Main Question: Is secure online voting possible?
 
-To clarify goals and questions, below are two lists of questions: a list of questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
+To help clarify goals and questions, below are two lists of questions: a list of questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
 ## Questions we are focusing on include the following: 
 1. Is secure over-a-network (online) voting possible? 
@@ -23,7 +23,7 @@ To clarify goals and questions, below are two lists of questions: a list of ques
 
 # Proposed Steps for Secure Online Voting
 
-~Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
+Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
 
 
@@ -115,3 +115,7 @@ A one-time-pad is not the same as a re-use-able 'code' the 'encodes' a signal th
 There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one time pad 'encrypted' message is with the pad, because it is a one-by-one, one-for-one, one character at a time, change of what the original text says.
 
 One-time-pads codes are not as efficient and user friendly as 're-use-able' codes, but they are more secure and more simple. 
+
+...
+
+Q: Is there a lower-tech version with reasonable security for places with limited resources?
