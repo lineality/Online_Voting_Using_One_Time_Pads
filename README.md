@@ -4,7 +4,11 @@ Online Voting Using One Time Pads
 
 # Clarifying Goals and Questions: 
 - Main Goal: secure online voting
-- Main Question: Is secure online voting possible?
+- Main Questions: 
+#### 1. Is secure online voting possible in principle?
+#### 2. Is reliable online vote result publishing possible in principle?
+#### 3. Can election processes and election results publishing be feasibly, sustainably, pragmatically realistically be implemented given real world limitations on resources? 
+
 
 To help clarify goals and questions, below are two lists of questions: a list of questions that we are attempting to answer or resolve with this project and a list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
@@ -19,6 +23,7 @@ To help clarify goals and questions, below are two lists of questions: a list of
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
 4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
+5. Not: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process when or where there is nothing legitimate to criticize?
 
 
 # Proposed Steps for Secure Online Voting
