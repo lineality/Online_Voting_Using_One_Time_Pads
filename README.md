@@ -5,7 +5,7 @@ Online Voting Using One Time Pads
 # Clarifying Goals and Questions: 
 - Main Goal: secure online voting
 - Main Questions: 
-#### 1. Is secure online voting possible in principle?
+#### 1. Is secure auditable online voting possible in principle?
 #### 2. Is reliable online vote result publishing possible in principle?
 #### 3. Can election processes and election results publishing be feasibly, sustainably, pragmatically realistically be implemented given real world limitations on resources? 
 
@@ -24,6 +24,10 @@ To help clarify goals and questions, below are two lists of questions: a list of
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
 4. Not: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
 5. Not: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process when or where there is nothing legitimate to criticize?
+
+
+# Concept: Universal Procedures and Processes
+The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is not based on not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, permission, labels, etc. A vote is like a physical piece of machined metal, it exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. Any group of people who carry out the science-math process of sound voting have performed sound voting in a way that can be audited and measured and published. No group of people can skip or shortcut required math-science-data processes without having skipped those required processes. Like a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon is following best practice. Probably it is best to simply verify without trust. But under no circumstances can 'trust' replace or permit required processes for people or groups however much they demand and violently enforce their unfounded exemption from required best practice. In other words, if a person or groups says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you or processing your vote a the best practice auditable way", you are by definition in extreme danger of violence.
 
 
 # Proposed Steps for Secure Online Voting
@@ -124,3 +128,35 @@ One-time-pads codes are not as efficient and user friendly as 're-use-able' code
 ...
 
 Q: Is there a lower-tech version with reasonable security for places with limited resources?
+
+...
+
+# A Low tech version of online voting for realistic implementation
+
+1. For example. Some locations may not have: 
+- a. printers ink and paper
+- b. extra air-gapped computers
+- c. a physical location to securely store paper files
+But most locations should have basic mobile phones.
+
+Write down the numbers and confirm with picture
+- (no printers needed)
+- Maybe separate air-gapped mobile device
+
+
+# (mitigation of insecure local voting headquarters)
+2nd step of recording / publishing vote:
+Uuid type random key-field
+Fuzzy time stamp (month year?) unix epoch
+
+
+2. Using a modified blockchain to store results:
+- e.g. university trusted node anchors
+- maybe full-chain so no retroactive?
+- slower but more robust?
+- smaller number of participants? (or pooled participants?)
+- containing hash and voting record?
+- 
+
+3. 
+
