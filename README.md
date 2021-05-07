@@ -213,8 +213,10 @@ Possible Multi-factor Authentication Tools:
 2. picture of hand (for fingerprints)
 3. one time pad
 4. specific device tracking
-5. gis location
-6. separate confirmation login (to confirm vote record (defice, voice, etc) after it has been processed and recorded)
+5. device gis location
+7. ip / mac address details (vpn issues?)
+6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
+7. selfie (time GIS stamped picture of person casting vote)
 
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
