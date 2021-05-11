@@ -225,3 +225,8 @@ Possible Multi-factor Authentication Tools:
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
  
+
+Additional Questions:
+1. What additional vote process transparency information should be included with vote results publishing? 
+https://github.com/lineality/Auditable_Elections_Projects
+
