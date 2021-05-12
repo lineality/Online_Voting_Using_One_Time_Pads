@@ -162,7 +162,7 @@ Write-in may be an issue for the truncated ballot.
 
 The software will print the one-time pads. The software will check the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 
-Step 3: The election office, offline (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter alone. 
+Step 3: The election office, offline (enforced by software), uses the first 1:2 of the pair of "printed" (not on a screen) QR codes to create an 'encrypted' version of the ballot for that one voter alone. 
 Note: The -ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
 
 Note: it may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary from the standard public ballot (in a context of mapping out a potential attack space). 
