@@ -157,10 +157,12 @@ Step 1: Before the election ends: A person, e.g. in person, with ID (or a witnes
 Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 If there is no printer, a short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
-A short-form or truncated ballot main contain, e.g., the number of the option choice and a first/last letter in the candidates name.
-Write-in may be an issue for the truncated ballot. 
+A short-form or truncated ballot may contain, e.g., the number of the option choice and a first/last letter in the candidates name.
+Note: Write-in may be an issue for the truncated ballot. 
 
-The software will print the one-time pads. The software will check the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
+The software will print the one-time pads, or hand written. The software will check the one-time pads (by OCR?). The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
+
+Note: a log of already used one-time-pads to check against...
 
 Step 3: The election office, offline (enforced by software), uses the first 1:2 of the pair of "printed" (not on a screen) QR codes to create an 'encrypted' version of the ballot for that one voter alone. 
 Note: The -ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
