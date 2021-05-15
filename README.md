@@ -11,11 +11,11 @@ Online Voting Using One Time Pads
 #### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible systems?
 
 
-To help clarify goals and questions, below are two lists of questions: one list of questions that we are attempting to answer or resolve with this project and another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
+To help clarify goals and questions, below are two lists of questions. One list of questions that we are attempting to answer or resolve with this project and another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
 
 ## Questions we are focusing on include the following: 
-1. Is secure over-a-network (online) voting possible?? 
+1. Is secure over-a-network (online) voting possible? 
 2. Is it possible for a voter to securely receive a ballot from the voting office over a network (online)? 
 3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for the voting office to securely receive a completed ballot from the voter over a network (online)?
