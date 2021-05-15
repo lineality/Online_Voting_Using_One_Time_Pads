@@ -157,7 +157,7 @@ Step 1: Before the election ends: A person, e.g. in person, with ID (or a witnes
 Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 If there is no printer, a short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
-A short-form or truncated ballot may contain, e.g., the number of the option choice and a first/last letter in the candidates name.
+A short-form or truncated ballot may contain, e.g., the number of the option-choice and perhaps a first/last letter in the candidates name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). Two-factor-no-nul voting?
 Note: Write-in may be an issue for the truncated ballot. 
 
 The software will print the one-time pads, or hand written. The software will check the one-time pads (by OCR?). The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
