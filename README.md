@@ -55,11 +55,13 @@ Part of this process is an at-the-time randomized process of frame-shifting the 
 
 Step 5: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
+(Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
+
 Step 6: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), 
 
 Step 7: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that it can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard and that perhaps Navada has used successfully. 
+~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that it can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard and that perhaps Navada has used successfully. Another 'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 
 Step 8: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is correct.
 
