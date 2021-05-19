@@ -40,7 +40,7 @@ Rule 1: If there is a problem it must be solved in-person by the voter with proo
 
 
 
-Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the Vote-Over-a-Network with One-Time-Pad (online voting) process. (Note: A choice is to allow registration for more than one election.)
+Step 1: Before the election ends: A person, e.g. in person, with ID, goes to the voting office to register for the Vote-Over-a-Network with One-Time-Pad (online voting) process. (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot, for example A. ballots that have been (or can have been) designed at the time of registration and B. standardized or truncated ballots containing just choices and not all the text of the ballot and C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
 
 Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 The software will print the one-time pads. The software will check the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
