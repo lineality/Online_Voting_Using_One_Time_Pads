@@ -15,7 +15,7 @@ To help clarify goals and questions, below are two lists of questions. There is 
 
 
 ## Questions we are focusing on include the following: 
-1. Is secure over-a-network (online) voting possible? 
+1. Is secure over-a-network (online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper system.') 
 2. Is it possible for a voter to securely receive a ballot from a voting office over a network (online)? 
 3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for a voting office to securely receive a completed ballot from the voter over a network (online)?
