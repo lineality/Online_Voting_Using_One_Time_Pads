@@ -46,7 +46,7 @@ Step 1: Before the election ends: A person, e.g. in person, with ID (identifiabl
 
 Step 2: For a given single vote-ballot in a given single election there need to be four paper documents, which are two one-time-pads (where a one-time pad is two identical copies of one unique pad, with the two parties having one copy each of this unique pad. So one pad is two identical paper documents, one for each party. Since there will be two exchanges: the blank-ballot sent to the voter, and the filled-in-ballot send by the voter, there need to be two pads. (Alternately the system could be streamlined to one pad for submitting a standardized public ballot). 
 
-The additional step 
+The additional step of having two pads (one to send the voter a ballot) and not just one pad to inspect that ballot coming in has several advantage. 1. This allows the voter to verify that the ballot they are filling out comes from the voting office at which they registered, and that only someone with physical access to the physical one time pad created at their time and place of registration has sent them this ballot. This allow allows for a comparison by the voting office, likewise, of the ballot sent and the ballot received. 
 
 During the in-person one-time-pad-voter-registration: Two physical copies (e.g QR codes) of two one-time-pads are created; one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
