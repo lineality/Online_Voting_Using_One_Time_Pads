@@ -194,7 +194,13 @@ Step 6: The voter, off-line(using pen and paper), fills out the ballot (selectin
 
 Step 7: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
+"Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
+December 2003 Politics & Policy 31(4):575 - 594
+DOI:10.1111/j.1747-1346.2003.tb00163.x
+Authors: Stephen Knack & Martha Kropf
+University of North Carolina at Charlotte
+https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
 Step 8: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is correct.
 
