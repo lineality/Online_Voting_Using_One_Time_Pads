@@ -194,7 +194,7 @@ Step 6: The voter, off-line(using pen and paper), fills out the ballot (selectin
 
 Step 7: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard and that perhaps Navada has used successfully. 
+~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
 Step 8: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is correct.
 
