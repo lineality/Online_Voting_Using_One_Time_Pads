@@ -73,7 +73,7 @@ Step 7: The voter, off-line(using pen and paper), fills out the ballot (selectin
 
 Step 8: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
+~ Step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
@@ -90,7 +90,7 @@ Step 10: Online: The voter sends (by whatever agreed upon method (website, email
 
 Step 11: The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot and deletes the digital record and the memory physically over-written.
 
-Step 12: Offline, using a separate piece of software, the gov. office "decrypts" the QR code for the 'encrypted' filled out ballot using second 2:2 of the pair of printed QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
+Step 12: Offline, using a separate piece of software, the local election office"decrypts" the QR code for the 'encrypted' filled out ballot using second 2:2 of the pair of printed QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 
 Step 13: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
