@@ -84,7 +84,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 Another 'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-Step 9: The voter confirms the information in their electronic scanned version of their ballot.
+Step 9: The voter confirms the information in their (the voter's) electronic scanned version of their (the voter's) ballot.
 
 Step 10: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice.
 
@@ -263,4 +263,27 @@ Possible Multi-factor Authentication Tools:
 Additional Questions:
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
+
+...
+
+A Voting Rules and Procedures Statement
+
+Time of election
+Repeating or other type of election
+Date of election
+Place of election
+Government Structures and Levels
+Voting Office
+Chain of Command within and above voting office
+
+eligibility rules
+registration rules
+rules per way to vote
+audit rules
+challenge rules
+announcing results rules
+observation rules
+exit poll rules
+other rules
+
 
