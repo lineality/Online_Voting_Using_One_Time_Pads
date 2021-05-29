@@ -71,7 +71,7 @@ Step 6: The voter off-line(enforced by software), inspects and validates that th
 
 Step 7: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
-Step 8: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot, creating not a photo but a document or table of information. 
+Step 8: The voter, offline(enforced by software), scans (e.g. by taking a picture) the completed paper ballot, creating not a photo but a document or table of information. 
 
 ~ Step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
@@ -86,7 +86,7 @@ The voter, offline(enforced by software), scans (e.g. by taking a picture) the f
 
 Step 9: The voter confirms the information in their (the voter's) electronic scanned version of their (the voter's) ballot.
 
-Step 10: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice.
+Step 10: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice.
 
 Step 11: Online: The voter sends (by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)) the new QR code (containing the voter's encrypted filled-in and checked ballot) to the local election office.
 
