@@ -96,6 +96,8 @@ Step 13: Offline, using a separate piece of software, the local election office"
 
 Step 14: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
+Note: These steps are not intended to cover the publication of voting results though that is a relevant question. 
+
 Note: Someone may wish to save a QR code as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
 
 
@@ -173,6 +175,9 @@ Write down the numbers and confirm with picture
 
 
 # A revised thrifty-protocol for resource limited areas: (section under construction)
+
+## Practical Voting
+The goal here is more practical and less abstract. How can a local community organize and carry out a best practice audible vote and publish the results using widely available and accessible technology (such as mobile phones). 
 
 ## Proposed Steps for Secure Online Voting (section under construction)
 
