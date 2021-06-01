@@ -272,7 +272,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 ...
 
-A Voting Rules and Procedures Statement
+## A Voting Rules and Procedures Statement
+
+As part of an election, what other publicly stated 'open' policy and procedure information is important in addition to the ballot itself?
 
 Time of election
 Repeating or other type of election
@@ -287,7 +289,9 @@ registration rules
 rules per way to vote
 audit rules
 challenge rules
-announcing results rules
+announcing and publishing results rules
+reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
+Should there be a 'log' of who makes changes to procedures and how?
 observation rules
 exit poll rules
 other rules
