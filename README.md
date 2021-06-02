@@ -68,7 +68,7 @@ Step 5: Using one piece of software, the voter offline(enforced by software, pos
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
-Step 6: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
+Step 6: The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 Step 7: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
