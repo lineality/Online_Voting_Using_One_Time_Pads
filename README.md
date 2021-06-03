@@ -287,14 +287,15 @@ As part of an election, what other publicly stated 'open' policy and procedure i
 - Chain of Command within and above voting office
 - ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
-eligibility rules
-registration rules
-rules per way to vote
-audit rules
-challenge rules
-over-ruling rules, gov. branches, evidence requirements
-chain of custody, Provenance   
-announcing and publishing results rules
+- eligibility rules
+- registration rules
+- rules per way to vote
+- election audit rules (required audits, optional audits)
+- election-results-challenge rules
+- recount rules (automatic recounts, type of recount, etc.)
+- over-ruling rules, gov. branches, evidence requirements
+- chain of custody, Provenance   
+- announcing and publishing results rules
 reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 Should there be a 'log' of who makes changes to procedures and how?
 observation rules
