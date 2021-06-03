@@ -276,7 +276,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 As part of an election, what other publicly stated 'open' policy and procedure information is important in addition to the ballot itself?
 
-Time of election
+Time of a given election
+schedule for repeating elections
+rules for calling elections
 Repeating or other type of election
 Date of election
 Place of election
