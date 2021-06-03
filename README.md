@@ -289,6 +289,8 @@ registration rules
 rules per way to vote
 audit rules
 challenge rules
+over-ruling rules, gov. branches, evidence requirements
+chain of custody, Provenance   
 announcing and publishing results rules
 reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 Should there be a 'log' of who makes changes to procedures and how?
