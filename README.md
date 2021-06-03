@@ -180,6 +180,11 @@ Write down the numbers and confirm with picture
 ## Practical Voting
 The goal here is more practical and less abstract. How can a local community organize and carry out a best practice audible vote and publish the results using widely available and accessible technology (such as mobile phones). 
 
+Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
+
+Other methods such as chains-of-trust may be useful to harden thrifty online systems.
+
+
 ## Proposed Steps for Secure Online Voting (section under construction)
 
 Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
@@ -300,6 +305,7 @@ As part of an election, what other publicly stated 'open' policy and procedure i
 - Should there be a 'log' of who makes changes to procedures and how?
 - election and ballot counting observation rules
 - exit poll rules (what collected, from whom, released when)
+
 ...other rules
 
 
