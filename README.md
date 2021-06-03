@@ -276,15 +276,16 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 As part of an election, what other publicly stated 'open' policy and procedure information is important in addition to the ballot itself?
 
-Time of a given election
-schedule for repeating elections
-rules for calling elections
-Repeating or other type of election
-Date of election
-Place of election
-Government Structures and Levels
-Voting Office
-Chain of Command within and above voting office
+- time and data of closing of poles for a given election
+- times places methods for ways of voting allowed
+- schedule for repeating elections (e.g. this is a run-off vs. this election is held every 2 years)
+- rules for calling elections
+- Repeating or other type of election
+- Place of election
+- Government Structures and Levels
+- Voting Office data (location, head?, contact, reporting?)
+- Chain of Command within and above voting office
+- ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
 eligibility rules
 registration rules
@@ -298,6 +299,6 @@ reporting information about the vote: procedures, voter enrollment and participa
 Should there be a 'log' of who makes changes to procedures and how?
 observation rules
 exit poll rules
-other rules
+...other rules
 
 
