@@ -277,9 +277,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 ...
 
-## A Voting Rules and Procedures Statement
+## A Voting Rules And Procedures Statement
 
-As part of an election, what other publicly stated 'open' policy and procedure information is important in addition to the ballot itself?
+As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
 
 - time and data of closing of poles for a given election
 - times places methods for ways of voting allowed
