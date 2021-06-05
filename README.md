@@ -102,7 +102,7 @@ Note: These steps are not intended to cover the publication of voting results th
 Note: Someone may wish to save a QR code as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
 
 
-# Identifying Risks 
+# Identifying Risks from bad actors or bad agents
 Especially from non-local agents such as foreign states / groups:
 
 1. a bad-agent will intercept either one-time-pads
@@ -119,6 +119,8 @@ Especially from non-local agents such as foreign states / groups:
 	
 4. a bad-agent will record a fake record of the vote from the ballot
 	- while a possible risk, this process is the same as for any paper ballot
+
+5. a bad agent will act on the behalf of a participant without their participation
 
 
 # Description Notes:
