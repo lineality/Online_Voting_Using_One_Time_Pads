@@ -267,7 +267,10 @@ Possible Multi-factor Authentication Tools:
 5. device gis location
 7. ip / mac address details (vpn issues?)
 6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
-7. selfie (time GIS stamped picture of person casting vote)
+7. face-selfie (time GIS stamped picture of person casting vote)
+8. video of person voting (more secure than static selfie?
+or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
+
 
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
