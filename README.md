@@ -305,7 +305,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - recount rules (automatic recounts, type of recount, etc.)
 - over-ruling-election-results rules, gov. branches, evidence requirements
 - chain of custody, Provenance   
-- announcing and publishing results rules
+- rules, policies, and procedures for announcing and publishing results 
 - reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 - Should there be a 'log' of who makes changes to procedures and how?
 - election and ballot counting observation rules
