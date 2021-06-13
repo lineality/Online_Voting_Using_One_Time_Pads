@@ -300,8 +300,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 
 - eligibility rules
 - registration rules
-- rules per way to vote
-- election audit rules (required audits, optional audits)
+- rules, policies, and procedures for per way to vote
+- rules, policies, and procedures for election audits (required audits, optional audits)
 - election-results-challenge rules
 - rules, policies, and procedures for recount (automatic recounts, type of recount, etc.)
 - overruling-election-results rules, gov. branches, evidence requirements
