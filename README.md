@@ -287,7 +287,7 @@ https://github.com/lineality/Auditable_Elections_Projects
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
 
 - rules, policies, and procedures for how rules, policies, and procedures for voting are made, unmade, and changed
-- time and data of closing of poles for a given election
+- time and data on closing of poles for a given election
 - times places methods for ways of voting allowed
 - schedule for repeating elections (e.g. this is a run-off vs. this election is held every 2 years)
 - rules for calling elections
@@ -313,5 +313,6 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - exit poll rules (what collected, from whom, released when)
 - meetings and correspondence transparency around voloting infrastructure and offices and resources
 - standards guidelines benchmarks and audit materials
+
 
 
