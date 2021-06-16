@@ -313,5 +313,5 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - exit poll rules (what collected, from whom, released when)
 - meetings and correspondence transparency around voloting infrastructure and offices and resources
 - standards guidelines benchmarks and audit materials
-
+- rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 
