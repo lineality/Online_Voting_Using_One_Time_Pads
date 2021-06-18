@@ -314,4 +314,6 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - meetings and correspondence transparency around voloting infrastructure and offices and resources
 - standards guidelines benchmarks and audit materials
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
+- rules, policies, and procedures for voter registration
+- rules, policies, and procedures for voter identification 
 
