@@ -298,7 +298,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Chain of Command within and above voting office
 - ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
-- eligibility rules
+- rules, policies, and procedures for eligibility
 - registration rules
 - rules, policies, and procedures for per way to vote
 - rules, policies, and procedures for election audits (required audits, optional audits)
