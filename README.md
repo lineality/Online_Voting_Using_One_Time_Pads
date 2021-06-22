@@ -311,7 +311,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Should there be a 'log' of who makes changes to procedures and how?
 - election and ballot counting observation rules
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
-- meetings and correspondence transparency around voloting infrastructure and offices and resources
+- rules, policies, and procedures for meetings and correspondence transparency around voloting infrastructure and offices and resources
 - standards guidelines benchmarks and audit materials
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 - rules, policies, and procedures for voter registration
