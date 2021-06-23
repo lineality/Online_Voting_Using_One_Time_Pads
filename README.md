@@ -309,7 +309,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for announcing and publishing results 
 - reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 - Should there be a 'log' of who makes changes to procedures and how?
-- election and ballot counting observation rules
+- rules, policies, and procedures for election and ballot counting observation
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
 - rules, policies, and procedures for meetings and correspondence transparency around voloting infrastructure and offices and resources
 - standards guidelines benchmarks and audit materials
