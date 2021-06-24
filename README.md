@@ -307,7 +307,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - overruling-election-results rules, gov. branches, evidence requirements
 - rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
 - rules, policies, and procedures for announcing and publishing results 
-- reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
+- rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 - Should there be a 'log' of who makes changes to procedures and how?
 - rules, policies, and procedures for election and ballot counting observation
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
