@@ -297,7 +297,6 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Voting Office data (location, head?, contact, reporting?)
 - Chain of Command within and above voting office
 - ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
-
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
