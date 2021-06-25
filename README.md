@@ -11,7 +11,7 @@ Online Voting Using One Time Pads
 #### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible systems?
 
 
-To help clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer or resolve with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
+To clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer or resolve with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
 
 ## Questions we are focusing on include the following: 
@@ -297,6 +297,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Voting Office data (location, head?, contact, reporting?)
 - Chain of Command within and above voting office
 - ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
+
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
