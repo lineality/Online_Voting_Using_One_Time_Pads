@@ -294,7 +294,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Repeating or other type of election
 - Place of election
 - Government Structures and Levels
-- Voting Office data (location, head?, contact, reporting?)
+- Voting Office information (location, head?, contact, reporting?)
 - Chain of Command within and above voting office
 - ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
