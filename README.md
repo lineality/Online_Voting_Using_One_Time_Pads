@@ -302,7 +302,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
 - rules, policies, and procedures for election audits (required audits, optional audits)
-- election-results-challenge rules
+- rules, policies, and procedures for election-results-challenge
 - rules, policies, and procedures for recount (automatic recounts, type of recount, etc.)
 - ules, policies, and procedures for overruling-election-results e.g. by gov. branches, evidence requirements
 - rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
