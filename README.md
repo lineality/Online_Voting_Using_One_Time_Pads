@@ -297,7 +297,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Government Structures and Levels
 - Voting Office information (location, head?, contact, reporting?)
 - Chain of Command within and above voting office
-- ways of contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
+- rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
@@ -316,4 +316,4 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 - rules, policies, and procedures for voter registration
 - rules, policies, and procedures for voter identification 
-- for evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
+- For evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
