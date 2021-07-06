@@ -318,3 +318,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for voter registration
 - rules, policies, and procedures for voter identification 
 - For evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
+- rules, policies, and procedures for raw vote results (including ranked-choice etc.)
+- rules, policies, and procedures for choosing vote calculation method
+- rules, policies, and procedures for vote calculation method
+
+
