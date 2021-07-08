@@ -8,7 +8,7 @@ Online Voting Using One Time Pads
 #### 1. Is secure auditable online voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? 
-#### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible systems?
+#### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible systems?
 
 
 To clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer or resolve with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
