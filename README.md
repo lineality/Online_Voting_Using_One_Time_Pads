@@ -61,7 +61,7 @@ Notes: It may be desirable to have a 'verified public ballot' as opposed to a 'p
 In the case that a truncated-submitted ballot is used, some way may be desired to, e.g. make a short hash of the original ballot itself (e.g. to convert the ballot by OCR or perhaps have a QR code on the ballot (though a QR on a ballot received by a voter code could be forged, whereas a hash made by the voter of the whole ballot could not be). Perhaps having a multi-pass OCR hash of a public ballot submitted with the vote to indicate that the correct ballot was used (again, in the case of a truncated submission, for a full ballot return the whole ballot is there). 
 It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the voting office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
 
-Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
+Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
 Step 5: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
