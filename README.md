@@ -20,7 +20,7 @@ To clarify goals and questions, below are two lists of questions. There is one l
 3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for a voting office to securely receive a completed ballot from the voter over a network (online)?
 
-## Questions we are NOT focusing on include the following: 
+## Questions we are NOT the focus of this project include the following: 
 1. Not: Can online voting be absolutely effortless and perfectly ecstatic as an experience? 
 2. Not: Can a person outside of the voting process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. Not: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
