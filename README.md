@@ -111,10 +111,12 @@ Note: Someone may wish to save a QR code as some form of record. There is no sec
 Especially from non-local agents such as foreign states / groups.
 An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify):
 
-1. a bad-agent will intercept one-time-pads
+1. a bad-agent will intercept one-time-pads:
 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
+
 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
-	- if the voter loses the QR code the person should cancel the process
+
+- if the voter loses the QR code the person should cancel the process
 
 2. a bad-agent will send the voter a fake ballot
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
