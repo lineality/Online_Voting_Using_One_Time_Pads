@@ -125,8 +125,8 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 - the agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
 - if the voter loses the QR code the person should cancel the process
 	
-4. a bad-agent will record a fake record of the vote from the ballot
-	- while a possible risk, this process is the same as for any paper ballot
+4. a bad-agent will record a fake record of the vote from the ballot:
+- while a possible risk, this process is the same as for any paper ballot
 
 5. a bad-agent will act on the behalf of a participant without their participation
 
