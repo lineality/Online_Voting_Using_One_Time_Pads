@@ -176,7 +176,7 @@ Q: Is there a lower-tech version with reasonable security for places with limite
 
 # A Low tech version of online voting for realistic implementation
 
-1. For example. Some locations may not have: 
+1. For example, some locations may not have: 
 - a. printers ink and paper
 - b. extra air-gapped computers
 - c. a physical location to securely store paper files
