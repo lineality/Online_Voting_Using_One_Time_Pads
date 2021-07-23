@@ -157,7 +157,7 @@ At this time or at a later time (depending on choice, timing, etc. (e.g. if the 
 
 One possible area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
 It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is probably not a terminal obstacle. 
-Namely, the task is not really subtle character recognition but binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed.
+The task may not be so much subtle character recognition as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed.
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
 
 
