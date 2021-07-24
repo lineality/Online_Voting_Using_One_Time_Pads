@@ -39,7 +39,6 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: If there is a problem it must be solved in-person with the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
 
-
 Step 1: Before the election ends: A person, e.g. in person, with ID (identifiable as an eligible voter according to local rules), goes to the voting office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
 
 (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot. For example: 
@@ -68,7 +67,7 @@ It may be possible to have both a public verified 'open' ballot format and some 
 
 Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of another QR code.
 
-As an example method for a 'personalized ballot' an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting office can increase confidence that the ballot they receive back from the voter is the one they set). 
+As an example method for a 'personalized ballot' an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
 
 Step 5: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
