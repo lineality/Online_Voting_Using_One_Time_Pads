@@ -78,7 +78,7 @@ Step 6: The voter off-line(enforced by software), inspects and validates that th
 
 Step 7: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
-Step 8: The voter, offline(enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
+Step 8: The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 
 ~ Step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
@@ -335,3 +335,5 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for choosing vote calculation method
 - rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
 - - rules, policies, and procedures for specific-used vote calculation method
+
+
