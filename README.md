@@ -108,8 +108,9 @@ Note: These steps are not intended to cover the publication of voting results th
 Note: Someone may wish to save a QR code as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
 
 
-# Identifying Risks from bad-actors or bad-agents
-Especially from non-local agents such as foreign states / groups.
+# Identifying Risks 
+Here we look at risks from bad-actors or bad-agents,
+especially from non-local agents such as foreign states / groups.
 An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify):
 
 1. a bad-agent will intercept one-time-pads:
