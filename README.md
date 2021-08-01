@@ -39,14 +39,14 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: Problems must be solved in-person with the voter and with proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
-Step 1: Before the election ends: A person, e.g. in person, with ID (identifiable as an eligible voter according to local rules), goes to the voting office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
+Step 1: Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the voting office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
 
 (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot. For example: 
 #### A. ballots that have been (or can have been) designed at the time of registration and 
 #### B. standardized or truncated ballots containing just choices and not all the text of the ballot (possibly a choice (e.g. choice number) and the initials of the person's name as a second factor) and 
 #### C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
 
-Step 2: (During in-person registration) For a given single vote-ballot in a given single election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, 1. the voter and 2. the vote-office). Since there will be two "exchanges" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote office), there need to be two pads. 
+Step 2: (During in-person registration) For a given single vote-ballot in a given single election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, 1. the voter and 2. the vote-office). Since there will be two "exchanges" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. 
 
 (Alternately the system could be streamlined to one pad for submitting a standardized public ballot, but this is less secure as it eliminates the ability of the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
 
