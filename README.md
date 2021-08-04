@@ -95,7 +95,7 @@ Step 9: The voter confirms that the information in their (the voter's)  electron
 
 Step 10: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice.
 
-Step 11: Online: The voter sends the new QR code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
+Step 11: Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
 Step 12: The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, checks (compares) to confirm that the physical print is accurate, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 
