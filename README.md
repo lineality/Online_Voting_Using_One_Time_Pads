@@ -135,6 +135,12 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 6. a bad-agent will attempt to tamper with a public ballot
 
+7. a bad-agent will attempt to tamper with public ballot-confirmation information
+
+8. a bad-agent will attempt to tamper with voting instructions and information about voting procedures
+
+9. a bad-agent will attempt to tamper with vote reporting including any information put out by a voting office or authority.
+
 
 # Description Notes:
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. You can feasibly steal or tamper with a file in a network-connected computer from a remote location, but you cannot feasibly tamper with or steal documents in a filing cabinet from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
