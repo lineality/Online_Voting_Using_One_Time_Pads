@@ -187,15 +187,18 @@ Q: Is there a lower-tech version with reasonable security for places with limite
 # A Low tech version of online voting for realistic implementation
 
 For example, some voting locations (or regions) may not have: 
-- a. printers, ink, and paper
-- b. extra air-gapped computers
-- c. a physical location to securely store paper files
+1. printers, ink, and paper
+2. extra air-gapped computers
+3. a physical location to securely store paper files
 
-But most locations should have basic mobile phones.
+Most locations should have:
+1. basic mobile phones
+2. 
 
-Write down the numbers and confirm with picture
-- (no printers needed)
-- Maybe separate air-gapped mobile device
+
+Writing down the numbers and confirming with picture (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
+
+Maybe separate air-gapped mobile devices would be feasible, or perhaps a more decentralized system would be more secure.
 
 
 # A revised thrifty-protocol for resource limited areas: (section under construction)
