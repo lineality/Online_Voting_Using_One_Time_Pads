@@ -310,6 +310,13 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 ...
 
+Case Studies in Election Disruption and Resiliance:
+-
+-
+-
+
+...
+
 ## A Voting Rules And Procedures Statement
 
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
