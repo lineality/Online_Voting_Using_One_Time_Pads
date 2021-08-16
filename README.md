@@ -16,7 +16,7 @@ To clarify goals and questions, below are two lists of questions. There is one l
 
 ## Questions we are focusing on include the following: 
 1. Is secure over-a-network (online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper system.') 
-2. Is it possible for a voter to securely receive a ballot from a voting office over a network (online)? 
+2. Is it possible for a voter to securely receive a ballot from a Vote-Office over a network (online)? 
 3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for a voting-office to securely receive a completed ballot from the voter over a network (online)? [including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
 
@@ -39,7 +39,7 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: Problems must be solved in-person with the voter and with proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
-Step 1: Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the voting office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
+Step 1: Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Vote-Office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
 
 (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot. For example: 
 #### A. ballots that have been (or can have been) designed at the time of registration and 
@@ -50,11 +50,11 @@ Step 2: (During in-person registration) For a given single vote-ballot in a give
 
 (Alternately the system could be streamlined to one pad for submitting a standardized public ballot, but this is less secure as it eliminates the ability of the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
 
-The additional step of having two pads (one being to send the voter a ballot) and not just one pad to inspect that ballot coming in has several advantages. 1. This allows the voter to verify that the ballot they are filling out comes from the voting office at which they registered, and that only someone with physical access to the physical one time pad created at their time and place of registration has sent them this ballot. This allows for a comparison by the voting office, likewise, of the ballot sent and the ballot received. The benchmark for success here is to be as secure as in-person all-paper voting. Just as it is possible (in theory) for a hostile group to physically take over a voting office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all in-person all-paper voting process to make it more secure and auditable. (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (voting office, federal or state agency, universities, 3rd party certifiers, etc). 
+The additional step of having two pads (one being to send the voter a ballot) and not just one pad to inspect that ballot coming in has several advantages. 1. This allows the voter to verify that the ballot they are filling out comes from the Vote-Office at which they registered, and that only someone with physical access to the physical one time pad created at their time and place of registration has sent them this ballot. This allows for a comparison by the Vote-Office, likewise, of the ballot sent and the ballot received. The benchmark for success here is to be as secure as in-person all-paper voting. Just as it is possible (in theory) for a hostile group to physically take over a Vote-Office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all in-person all-paper voting process to make it more secure and auditable. (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (Vote-Office, federal or state agency, universities, 3rd party certifiers, etc). 
 
 
 
-During the in-person one-time-pad-voter-registration: Two physical copies (e.g QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+During the in-person one-time-pad-voter-registration: Two physical copies (e.g QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 (Note, if this process is done off-line using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
 
@@ -64,7 +64,7 @@ Note: The ballot may be public, but it still needs to be verified. This illustra
 
 Notes: It may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary from the standard public ballot (in a context of mapping out a potential attack space). 
 In the case that a truncated-submitted ballot is used, some way may be desired to, e.g. make a short hash of the original ballot itself (e.g. to convert the ballot by OCR or perhaps have a QR code on the ballot (though a QR on a ballot received by a voter code could be forged, whereas a hash made by the voter of the whole ballot could not be). Perhaps having a multi-pass OCR hash of a public ballot submitted with the vote to indicate that the correct ballot was used (again, in the case of a truncated submission, for a full ballot return the whole ballot is there)(also see asymmetric signing keys). 
-It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the voting office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
+It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the Vote-Office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
 
 Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of another QR code.
 
@@ -139,7 +139,7 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 8. a bad-agent will attempt to tamper with voting instructions and information about voting procedures
 
-9. a bad-agent will attempt to tamper with vote reporting including any information put out by a voting office or authority.
+9. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or authority.
 
 
 # Description Notes:
@@ -219,9 +219,9 @@ General Revisions for Thrifty-Secure-Voting:
 
 Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
-Step 1: Before the election ends: A person, e.g. in person, with ID (or a witness, however ID is confirmed in a given area), goes to the voting office to register for the One-Time-Pad Vote-Over-a-Network (online voting) process. 
+Step 1: Before the election ends: A person, e.g. in person, with ID (or a witness, however ID is confirmed in a given area), goes to the Vote-Office to register for the One-Time-Pad Vote-Over-a-Network (online voting) process. 
 
-Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local voting office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 If there is no printer, a short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
 A short-form or truncated ballot may contain, e.g., the number of the option-choice and perhaps a first/last letter in the candidates name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). Two-factor-no-nul voting?
@@ -330,8 +330,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Repeating or other type of election
 - Place of election
 - Government Structures and Levels
-- Voting Office information (location, head?, contact, reporting?)
-- Chain of Command within and above voting office
+- Vote-Office information (location, head?, contact, reporting?)
+- Chain of Command within and above Vote-Office
 - rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
 - rules, policies, and procedures for eligibility
