@@ -36,7 +36,7 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 
 # Proposed Steps for Secure Online Voting
 
-Rule 1: Problems must be solved in-person with the voter and with proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
+Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
 Step 1: Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Vote-Office to register for the vote-over-a-network with One-Time-Pad (online voting) process. 
