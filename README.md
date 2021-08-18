@@ -39,7 +39,7 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
-Step 1: Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Vote-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
+Step 1: (During in-person registration) Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Vote-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot. For example: 
 #### A. ballots that have been (or can have been) designed at the time of registration and 
@@ -58,7 +58,7 @@ During the in-person one-time-pad-voter-registration: Two physical copies (e.g Q
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 (Note, if this process is done off-line using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
 
-Step 3: (During in-person registration)  For the voting-office to send one ballot to one voter:
+Step 3: (During in-person registration) For the voting-office to send one ballot to one voter:
 The election office, offline (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter. 
 Note: The ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
 
