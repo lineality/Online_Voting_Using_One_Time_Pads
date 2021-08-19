@@ -208,6 +208,8 @@ The goal here is more practical and less abstract. How can a local community org
 
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
+There should be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system. 
+
 Other methods such as chains-of-trust may be useful to harden thrifty online systems.
 
 General Revisions for Thrifty-Secure-Voting:
