@@ -278,6 +278,24 @@ What kind of software (singular or plural) would be needed to arrange an secure 
 
 Could some form of blockchain made of election participants be used as a decentered election results platform? 
 
+Features of a software package:
+1. secure messages between office and voter? (one time pad?)
+2. secure voting platform
+2.1 voter registration
+2.# send or assign ballots
+2.# fill out ballot
+2.# 
+2.# process votes
+2.# produce results report
+2.# 
+2.# schedule election
+2.# publish results report
+
+Mode 1: remote vote office
+Mode 2: decentralized vote office
+
+Maybe each 'election' will have a different signing key to verify?
+
 
 # (mitigation of insecure local voting headquarters)
 2nd step of recording / publishing vote:
