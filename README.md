@@ -274,6 +274,10 @@ Step 13: The printed ballot is counted with the other paper ballots of various k
 
 Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used. 
 
+What kind of software (singular or plural) would be needed to arrange an secure election?
+
+Could some form of blockchain made of election participants be used as a decentered election results platform? 
+
 
 # (mitigation of insecure local voting headquarters)
 2nd step of recording / publishing vote:
