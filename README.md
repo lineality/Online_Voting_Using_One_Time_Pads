@@ -296,6 +296,10 @@ Mode 2: decentralized vote office
 
 Maybe each 'election' will have a different signing key to verify?
 
+software platforms/languages:
+
+
+
 
 # (mitigation of insecure local voting headquarters)
 2nd step of recording / publishing vote:
