@@ -388,6 +388,6 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for raw vote results (including ranked-choice etc.)
 - rules, policies, and procedures for choosing vote calculation method
 - rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
-- - rules, policies, and procedures for specific-used vote calculation method
+- rules, policies, and procedures for specific-used vote calculation method
 
 
