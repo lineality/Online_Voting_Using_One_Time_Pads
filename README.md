@@ -292,6 +292,7 @@ Features of a software package:
 2.# publish results report
 
 Mode 1: remote vote office
+
 Mode 2: decentralized vote office
 
 Maybe each 'election' will have a different signing key to verify?
@@ -332,7 +333,6 @@ Possible Multi-factor Authentication Tools:
 8. video of person voting (more secure than static selfie?
 or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 
-
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
  
@@ -340,6 +340,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 Additional Questions:
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
+
 
 ...
 
