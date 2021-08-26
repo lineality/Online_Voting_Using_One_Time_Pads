@@ -31,7 +31,7 @@ To clarify goals and questions, below are two lists of questions. There is one l
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process when or where there is nothing legitimate to criticize?
 
 ## A debatably separate or peripherally related question may be:
-1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of participation)?
+1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)?
 
 # Concept: Universal Procedures and Processes
 The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is not based on not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habit, permission, labels, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. Any group of people who carry out the math-science-data process of sound voting have performed voting in a way that can be audited and measured and published. No group of people can skip or shortcut required math-science-data processes without having skipped those required math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon is following best practice, though even then probably it is best to simply verify without trust. But under no circumstances can 'trust' replace or permit the skipping of required processes for people or groups however much they demand and violently enforce their unfounded exemption from required best practice. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you or processing your vote in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, and classically defined tyranny.
@@ -395,3 +395,4 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for specific-used vote calculation method
 
 
+****
