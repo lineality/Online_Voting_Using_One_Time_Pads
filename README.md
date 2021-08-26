@@ -395,4 +395,3 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for specific-used vote calculation method
 
 
-****
