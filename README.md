@@ -79,9 +79,9 @@ Step 5: (Receiving the not-yet-completed ballot) Using one piece of software, th
 
 Step 6: (Validate the not-yet-completed Ballot) The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
-Step 7: (Complete Ballot by marking votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 7: (Complete the Ballot by Marking Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
-Step 8: (Digitize the completed ballot) The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
+Step 8: (Digitize the Completed Ballot) The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 
 ~ Step: An optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
