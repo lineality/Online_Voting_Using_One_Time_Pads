@@ -76,11 +76,13 @@ Step 4: (Sending out the not-yet-completed ballot) During the election period (b
 
 As an example method for a 'personalized ballot' an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
 
-Step 5: (Receiving the not-yet-completed ballot) Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
+Step 5: (Receive the not-yet-completed ballot) 
+Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
-Step 6: (Validate the not-yet-completed Ballot) The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
+Step 6: (Validate the not-yet-completed Ballot) 
+The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 Step 7: (Complete the Ballot by Marking Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
