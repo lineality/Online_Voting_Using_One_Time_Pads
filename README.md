@@ -121,7 +121,11 @@ Offline, using a separate piece of software, the local election office "decrypts
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 (Note: depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
-Step 14: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+Step 14: (Process Election Data / Count The Votes)
+The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+
+Step 15: (Publish Election Data)
+The election results are processed and published.
 
 Note: These steps are not intended to cover the publication of voting results though that is a relevant question. 
 
