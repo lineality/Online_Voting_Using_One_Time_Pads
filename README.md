@@ -319,6 +319,14 @@ Maybe each 'election' will have a different signing key to verify?
 
 software platforms/languages:
 
+Project:
+"Pseudocode for voting infrastructure"
+- including how to create randomized representative voting districts
+- including how to do ranked choice voting
+- including how to do (term) ? representational voting
+
+
+
 
 
 
