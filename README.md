@@ -165,6 +165,8 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 9. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or authority.
 
+10. a bad-agent may seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times places, registration, ballot items, etc). 
+
 
 # Description Notes:
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. You can feasibly steal or tamper with a file in a network-connected computer from a remote location, but you cannot feasibly tamper with or steal documents in a filing cabinet from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
@@ -298,6 +300,8 @@ Note: It is not clear that saving the QR codes serves any function, nor is there
 What kind of software (singular or plural) would be needed to arrange an secure election?
 
 Could some form of blockchain made of election participants be used as a decentered election results platform? 
+
+Part of an online system may be to increase the number of channels by which people can try to vote, and possible have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 Features of a software package:
 1. secure messages between office and voter? (one time pad?)
