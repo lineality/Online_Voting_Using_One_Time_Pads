@@ -169,7 +169,9 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 
 # Description Notes:
-This is a proposed process for reasonably secure 'online (over a network) voting.' Part of design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. You can feasibly steal or tamper with a file in a network-connected computer from a remote location, but you cannot feasibly tamper with or steal documents in a filing cabinet from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+This is a proposed process for reasonably secure 'online (over a network) voting.' Part of design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+
+The primary focus of this 
 
 
 # Implementation Notes:
