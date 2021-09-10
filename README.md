@@ -6,7 +6,7 @@ Online Voting Using One Time Pads
 ## Part 2: Practical Secure Online Voting
 
 # Clarifying Goals and Questions: 
-- Main Goal: systematize secure online voting
+- Main Goal: Systematize secure online voting.
 - Main Questions: 
 #### 1. Is secure auditable online voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
