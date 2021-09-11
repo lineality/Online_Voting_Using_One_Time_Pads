@@ -271,17 +271,14 @@ The software will print the one-time pads, or hand written. The software will ch
 
 Note: a log of already used one-time-pads to check against...?
 
-Step 3: The election office, offline (enforced by software), uses the first 1:2 of the pair of "printed" (not on a screen) QR codes to create an 'encrypted' version of the ballot for that one voter alone. 
-Note: The -ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
-
-Note: it may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary from the standard public ballot (in a context of mapping out a potential attack space). 
+Step 3: 
 
 Step 4: During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
-Step 5: Using one piece of software, the voter offline(enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
+Step 5: 
 
-Step 6: The voter, off-line(using pen and paper), fills out the ballot (selecting their votes), 
+Step 6: 
 
 Step 7: The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
