@@ -259,7 +259,7 @@ vote by phone system, tied to that phone...(note: if you loose the phone)
 
 Rule 1: If there is a problem it must be solved in-person by the voter with proof of identification, in the same way that the person would register to vote and/or cast their vote.  
 
-Step 1: Before the election ends: A person, e.g. in person, with ID (or a witness, however ID is confirmed in a given area), goes to the Vote-Office to register for the One-Time-Pad Vote-Over-a-Network (online voting) process. 
+Step 1: 
 
 Step 2: During the in-person one-time-pad-voter-registration: two physical copies (e.g QR codes) of two one-time-pads are created, one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 If there is no printer, a short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
