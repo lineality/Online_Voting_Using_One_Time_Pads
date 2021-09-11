@@ -290,9 +290,9 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-Step 8: The voter off-line(enforced by software) inspects and validates that their version of their ballot is correct and verified,  .
+Step 8: 
 
-Step 9: The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the ballot, producing a new QR code. All digital files of the unencrypted ballot are removed and the memory physically over-written.
+Step 9: 
 
 Step 10: Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in and checked ballot) to the local election office.
 
