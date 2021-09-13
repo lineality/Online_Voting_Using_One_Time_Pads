@@ -298,9 +298,10 @@ Step 10: Online: The voter sends (by whatever agreed upon method (website, email
 
 Step 11: 
 
-Step 12: Offline, using a separate piece of software, the gov. office "decrypts" the QR code for the 'encrypted' filled out ballot using second 2:2 of the pair of printed QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
+Step 12: 
 
-Step 13: The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+Step 13: 
+
 
 Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used. 
 
