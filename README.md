@@ -233,7 +233,7 @@ Maybe separate air-gapped mobile devices would be feasible, or perhaps a more de
 # A revised thrifty-protocol for resource limited areas: (section under construction)
 
 ## Practical Voting
-The goal here is more practical and less abstract. How can a local community organize and carry out a best practice audible vote and publish the results using widely available and accessible technology (such as mobile phones). 
+The goal here is more practical and less abstract: How can a local community organize and carry out a best practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones). 
 
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
