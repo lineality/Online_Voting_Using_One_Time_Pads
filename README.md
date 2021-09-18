@@ -235,6 +235,10 @@ Maybe separate air-gapped mobile devices would be feasible, or perhaps a more de
 ## Practical Voting
 The goal here is more practical and less abstract: How can a local community organize and carry out a best practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones). 
 
+What are some of the factors that characterize a realistically resource constrained and limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
+
+Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? 
+
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
 There should be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system. 
