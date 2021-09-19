@@ -264,8 +264,6 @@ vote by phone system, tied to that phone...(note: if you loose the phone)
 
 Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
 
-Rule 1: 
-
 Step 1: 
 
 Step 2:
