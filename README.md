@@ -86,6 +86,8 @@ Using one piece of software, the voter offline (enforced by software, possibly h
 Step 6: (Validate the not-yet-completed Ballot) 
 The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
+(Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
+
 Step 7: (Complete the Ballot by Marking Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 Step 8: (Digitize the Completed Ballot) 
