@@ -445,3 +445,5 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 
 #### Question: A. What is the relationship between secure end to end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
 
+
+### Issue/Task: user interface for setting up an election
