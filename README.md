@@ -119,7 +119,7 @@ The local election office physically prints onto paper the QR code for the 'encr
 2. Check
 3. Delete
 
-Step 13: (Processing the submitted ballots)
+Step 13: (Processing the Voter-submitted ballot)
 Offline, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
