@@ -14,7 +14,7 @@ Online Voting Using One Time Pads
 #### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible systems?
 
 
-To clarify the goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
+To clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get confused and mixed together with questions that we are asking.
 
 
 ## Questions we are focusing on include the following: 
@@ -158,7 +158,9 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 4. a bad-agent will record a fake record of the vote from the ballot:
 - while a possible risk, this process is the same as for any paper ballot
 
-5. a bad-agent will act on the behalf of a participant without their participation
+5. a bad-agent will act on the behalf of a participant without the voter's participation
+
+#. a bad-agent will act on the behalf of the voting office without the voting-office's participation
 
 6. a bad-agent will attempt to tamper with a public ballot
 
