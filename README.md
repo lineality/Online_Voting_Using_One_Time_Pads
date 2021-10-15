@@ -249,7 +249,7 @@ There should be some option for physical printed documents, but there will most 
 
 Other methods such as chains-of-trust may be useful to harden thrifty online systems.
 
-General Revisions for Thrifty-Secure-Voting:
+#### General Revisions for Thrifty-Secure-Voting:
 1. no physical printed copies or separate air-gapped hardware
 ?. one pad per set of elections vs. two pads per single election (backup pads?)
 
