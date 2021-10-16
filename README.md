@@ -43,7 +43,7 @@ Rule 1: Problems must be solved in-person with the voter present and with that v
 
 
 Step 1: (During in-person registration) 
-Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Vote-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
+Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: A choice is to allow registration for more than one election. This issue relates to the form of the submitted ballot. For example: 
 #### A. ballots that have been (or can have been) designed at the time of registration and 
