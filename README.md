@@ -318,7 +318,7 @@ What kind of software (singular or plural) would be needed to arrange an secure 
 
 Could some form of blockchain made of election participants be used as a decentered election results platform? 
 
-Part of an online system may be to increase the number of channels by which people can try to vote, and possible have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
+Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 Features of a software package:
 1. secure messages between office and voter? (one time pad?)
