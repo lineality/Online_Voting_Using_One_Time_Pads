@@ -113,7 +113,7 @@ The voter off-line(enforced by software) uses the one-time-pad to 'encrypt' the 
 Step 11: (Submit encrypted ballot over network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
-Step 12: (Processing the Voter's Encrypted ballot)
+Step 12: (Processing the voter's encrypted ballot)
 The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 1. Print
 2. Check
