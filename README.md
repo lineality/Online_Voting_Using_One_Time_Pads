@@ -314,7 +314,7 @@ Step 13:
 
 Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used. 
 
-What kind of software (singular or plural) would be needed to arrange an secure election?
+What kind of software (singular or plural) would be needed to arrange a secure election?
 
 Could some form of blockchain made of election participants be used as a decentered election results platform? 
 
