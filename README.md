@@ -161,9 +161,9 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 #. a bad-agent will act on the behalf of the voting office without the voting-office's participation
 
-6. a bad-agent will attempt to tamper with a public ballot (e.g. public information posted about the ballot by the voting office)
+6. a bad-agent will attempt to tamper with a public ballot (e.g. a ballot itself, e.g. downloading a ballot to use)
 
-7. a bad-agent will attempt to tamper with public ballot-confirmation information
+7. a bad-agent will attempt to tamper with public ballot-confirmation information (e.g. public information posted about the ballot by the voting office, describing and understanding the ballot and ballot issues)
 
 8. a bad-agent will attempt to tamper with voting instructions and information about voting procedures
 
