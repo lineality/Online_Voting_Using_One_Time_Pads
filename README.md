@@ -141,11 +141,11 @@ Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or
 An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 1. constant 'internet background radiation,' 2. unintentional user-misuse 3. unintentional administrative bungling, 4. oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 6. software design problems that cause time, logistical, or reliability problems, 7. etc.)
 
 1. a bad-agent will intercept one-time-pads:
-- the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
+1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
 
-- the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
+1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
 
-- if the voter loses the QR code the person should cancel the process
+1.3 - if the voter loses the QR code the person should cancel the process
 
 2. a bad-agent will send the voter a fake blank-ballot:
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
@@ -161,7 +161,7 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 #. a bad-agent will act on the behalf of the voting office without the voting-office's participation
 
-6. a bad-agent will attempt to tamper with a public ballot
+6. a bad-agent will attempt to tamper with a public ballot (e.g. public information posted about the ballot by the voting office)
 
 7. a bad-agent will attempt to tamper with public ballot-confirmation information
 
