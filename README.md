@@ -252,14 +252,11 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 1. no physical printed copies or separate air-gapped hardware
 ?. one pad per set of elections vs. two pads per single election (backup pads?)
 
-
-individual permission drop-off folders (like S3)
-
-anonymized ballots (storing data without direct connection to user information)
-
-face-picture when sending in vote
-
-vote by phone system, tied to that phone...(note: if you loose the phone)
+Notes:
+- individual permission drop-off folders (like S3)
+- anonymized ballots (storing data without direct connection to user information)
+- face-picture when sending in vote
+- vote by phone system, tied to that phone...(note: if you loose the phone)
 
 
 
