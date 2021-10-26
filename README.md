@@ -204,7 +204,9 @@ Though even here, OCR and having the vote double-check to see that the OCR is co
 
 
 # About One Time Pads
-A one-time-pad is not the same as a re-use-able 'code' that 'encodes' a signal that can then also be 'decoded,' though the terminology can be a bit unclear in overlapping between the two. 
+A one-time-pad is not the same as a re-use-able 'code' that 'encodes' a signal that can then also be 'decoded.' Unfortunately, the terminology can be overlapping and so a bit unclear between the two. For example, the term 'encode,' is used in both cases. 
+
+A 'one time pad' is, historically, literally, a physical note-pad that is only used one time, hence the term "one-time-pad."
 
 There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad, because it is a one-by-one, one-for-one, one character at a time, change of what the original text says.
 
