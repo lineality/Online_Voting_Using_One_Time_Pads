@@ -224,6 +224,7 @@ For example, some voting locations (or regions) may not have:
 1. printers, ink, and paper
 2. extra air-gapped computers
 3. a physical location to securely store paper files
+4. broadband wireless internet
 
 Most locations should have:
 1. basic mobile phones
