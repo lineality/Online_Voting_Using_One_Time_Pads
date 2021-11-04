@@ -145,7 +145,6 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
 
 1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
-
 1.3 - if the voter loses the QR code the person should cancel the process
 
 2. a bad-agent will send the voter a fake blank-ballot:
