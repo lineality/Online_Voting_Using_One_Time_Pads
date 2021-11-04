@@ -236,7 +236,7 @@ Writing down the numbers and confirming with picture (no printers needed) may be
 Maybe separate air-gapped mobile devices would be feasible, or perhaps a more decentralized system would be more secure.
 
 
-# A revised thrifty-protocol for resource limited areas: (section under construction)
+# An alternative thrifty-protocol for resource limited areas: (section under construction)
 
 ## Practical Voting
 The goal here is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones). 
