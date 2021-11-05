@@ -60,7 +60,7 @@ The additional step of having two pads (one being to send the voter a ballot) an
 
 
 
-During the in-person one-time-pad-voter-registration: Two physical copies (e.g QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+During the in-person one-time-pad-voter-registration: Two physical copies (e.g. QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
 
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
 (Note, if this process is done off-line using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
