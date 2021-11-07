@@ -89,7 +89,7 @@ The voter off-line(enforced by software), inspects and validates that their digi
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-Step 7: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices), (details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 7: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 Step 8: (Digitize the Completed Ballot) 
 The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
