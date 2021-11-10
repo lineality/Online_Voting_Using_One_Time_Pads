@@ -326,14 +326,14 @@ Features of a practical voting software package:
 1. secure messages between office and voter? (one time pad?)
 2. secure voting platform
 2.1 voter registration
-2.# send or assign ballots
-2.# fill out ballot
-2.# 
-2.# process votes
-2.# produce results report
-2.# 
-2.# schedule election
-2.# publish results report
+# send or assign ballots
+# fill out ballot
+# 
+# process votes
+# produce results report
+# 
+# schedule election
+# publish results report
 
 Mode 1: remote vote office
 
