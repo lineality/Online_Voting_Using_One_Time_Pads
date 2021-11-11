@@ -326,14 +326,13 @@ Part of an online system may be to increase the number of channels by which peop
 1. secure messages between office and voter? (one time pad?)
 2. secure voting platform
 2.1 voter registration
-# send or assign ballots
-# fill out ballot
-# 
-# process votes
-# produce results report
-# 
-# schedule election
-# publish results report
+3. send or assign ballots
+4. fill out ballot
+5.
+5. process votes
+6. produce results report
+7. schedule election
+8. publish results report
 
 Mode 1: remote vote office
 
