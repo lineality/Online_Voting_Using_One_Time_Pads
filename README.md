@@ -313,7 +313,7 @@ Step 12:
 Step 13: 
 
 
-Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used. 
+Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
 
 What kind of software (singular or plural) would be needed to arrange a secure election?
 
