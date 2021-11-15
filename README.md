@@ -279,7 +279,7 @@ A short-form or truncated ballot may contain, e.g., the number of the option-cho
 Note: Write-in may be an issue for the truncated ballot. 
 
 
-Note: a log of already used one-time-pads to check against...?
+Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
 Step 3: 
 
