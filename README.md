@@ -327,11 +327,14 @@ Part of an online system may be to increase the number of channels by which peop
 
 #### Features of a practical voting software package:
 1. secure messages between office and voter? (one time pad?)
-2. secure voting platform
+2. secure voting platform (receive ballot)
 2.1 voter registration
-3. send or assign ballots
-4. fill out ballot
-5.
+2.2 send or assign ballots
+2.3 fill out ballot
+2.4 submit ballot
+3.1 receive votes
+3.2 validate votes
+3.3 decrypt votes
 5. process votes
 6. produce results report
 7. schedule election
