@@ -273,7 +273,8 @@ Step 1:
 
 Step 2:
 
-If there is no printer, a short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
+While the thrifty-protocol is designed to avoid extra printer hardware, the option still exists to hand-write a one-time pad. 
+A short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
 A short-form or truncated ballot may contain, e.g., the number of the option-choice and perhaps a first/last letter in the candidates name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). Two-factor-no-nul voting?
 Note: Write-in may be an issue for the truncated ballot. 
