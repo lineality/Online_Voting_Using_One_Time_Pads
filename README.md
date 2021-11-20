@@ -269,7 +269,11 @@ Notes:
 
 Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
 
-Step 1: 
+Step 1: (During online registration) 
+Before the election ends: A person, registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
+e.g. using signing signatures, people could have something e.g. mailed to them (or received from an office) to use to authenticate their online connection. 
+
+
 
 Step 2:
 
