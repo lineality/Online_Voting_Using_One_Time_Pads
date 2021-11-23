@@ -227,8 +227,7 @@ For example, some voting locations (or regions) may not have:
 
 Most locations should have:
 1. basic mobile phones
-2. 
-3. 
+2. basic (not high speed) internet access
 
 
 Writing down the numbers and confirming with picture (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
