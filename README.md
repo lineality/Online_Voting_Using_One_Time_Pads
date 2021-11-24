@@ -297,7 +297,7 @@ Step 5: (Vote Gets the not-yet-completed ballot)
 
 Step 6: (Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
-(note: finding universities to host copies of the final ballot may be a good option, or
+(note: finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutible ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
 Step 7: 
