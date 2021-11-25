@@ -286,6 +286,7 @@ Note: Write-in may be an issue for the truncated ballot.
 Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
 Step 3: 
+Q: one time pads vs. signing keys for transmitting ballots
 
 
 
