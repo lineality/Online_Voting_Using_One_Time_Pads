@@ -465,3 +465,17 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 
 
 ### Issue/Task: user interface for setting up an election
+
+
+Q: a standardized .csv ballot format
+including information about the ballot
+signing key information
+possible vote customization information
+vote choices
+etc.
+Q: ways to make sure the .csv ballot is not mis-read or garbled
+e.g. maybe including item number, vote choice, and first letter/number of vote choice name in the vote, may prevent arbitrary misinterpretation of votes
+Q: possible requiring of ballot being completely filled out
+- digital signature etc.
+- checksum etc.
+
