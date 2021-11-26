@@ -311,7 +311,7 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-Step 8: 
+Step 8: (this step needed for thrifty-version?)(extra other steps?)
 
 Step 9: (Check completed-ballot for errors) 
 
