@@ -313,7 +313,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 Step 8: 
 
-Step 9: 
+Step 9: (Check completed-ballot for errors) 
 
 Step 10: Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in and checked ballot) to the local election office.
 
