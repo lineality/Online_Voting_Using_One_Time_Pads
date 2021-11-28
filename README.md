@@ -323,7 +323,7 @@ some kind of MFA or blockchain leger system?
 
 Step 12: 
 
-Step 13: 
+Step 13: (Processing the Voter-submitted ballot)
 
 (publishing?)
 
