@@ -321,9 +321,15 @@ Step 11: (Submit encrypted-ballot over network)
 Q: recommended methods?
 some kind of MFA or blockchain leger system?
 
-Step 12: 
+Step 12: (Processing the voter's encrypted ballot)
 
 Step 13: (Processing the Voter-submitted ballot)
+
+Step 14: (Process Election Data / Count The Votes)
+
+Step 15: (Publish Election Data)
+
+
 
 (publishing?)
 
