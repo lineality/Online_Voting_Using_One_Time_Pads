@@ -256,6 +256,11 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 ?. one pad per set of elections vs. two pads per single election (backup pads?)
 3. more cryptographic signature use?
 
+Topic:
+- use of one time pads and signing signatures
+
+
+
 Notes:
 - individual permission drop-off folders (like S3)
 - anonymized ballots (storing data without direct connection to user information)
