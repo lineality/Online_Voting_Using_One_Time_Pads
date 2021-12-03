@@ -296,6 +296,11 @@ Q: one time pads vs. signing keys for transmitting ballots
 
 
 Step 4: (send ballot?)
+3 options:
+1. a posted signed ballot 
+2. an ballot including a unique personal id sent only to that one person 
+3. both
+
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
