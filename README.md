@@ -12,7 +12,6 @@ Online Voting Using One Time Pads
 #### 2. Is reliable online-vote-result-publishing possible in principle?
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? 
 #### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible systems?
-g
 
 
 To clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get mixed together with questions that we are asking.
@@ -239,7 +238,7 @@ Maybe separate air-gapped mobile devices would be feasible, or perhaps a more de
 # An alternative thrifty-protocol for resource-limited situations/geographies: (section under construction)
 
 ## Practical Voting
-The goal here is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones). 
+The goal here (for this practical-tool section, vs. the above secure voting in principle) is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones). 
 
 What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
 
