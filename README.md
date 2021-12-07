@@ -332,8 +332,12 @@ Q: recommended methods?
 some kind of MFA or blockchain leger system?
 
 Step 12: (Processing the voter's encrypted ballot)
+- thrifty encryption choice?
 
 Step 13: (Processing the Voter-submitted ballot)
+- format of ballot
+
+voter checks on status?
 
 Step 14: (Process Election Data / Count The Votes)
 
