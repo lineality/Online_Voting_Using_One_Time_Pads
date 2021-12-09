@@ -311,7 +311,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 (note: finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutible ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-Step 7: 
+Step 7: (Complete the Ballot, Mark Votes) 
 
 ~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
