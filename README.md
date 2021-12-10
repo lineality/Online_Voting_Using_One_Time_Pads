@@ -267,7 +267,7 @@ Notes:
 - face-picture when sending in vote
 - vote by phone system, tied to that phone...(note: if you loose the phone)
 
-
+- csv ballot format...
 
 ## Proposed Steps for Secure Online Voting (section under construction)
 
