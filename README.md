@@ -305,6 +305,8 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random. 
 
 Step 5: (Voter Gets the not-yet-completed ballot)  
+A. sent to user
+B. posted on several public sites and signed and can be compaired/verified
 
 Step 6: (Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
