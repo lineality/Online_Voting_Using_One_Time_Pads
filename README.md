@@ -345,6 +345,7 @@ Step 13: (Processing the Voter-submitted ballot)
 voter checks on status?
 
 Step 14: (Process Election Data / Count The Votes)
+(storage: block chain or other immutable ledger?)
 
 Step 15: (Publish Election Data)
 
