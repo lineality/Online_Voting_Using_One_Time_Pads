@@ -341,7 +341,7 @@ Step 12: (Processing the voter's encrypted ballot)
 
 Step 13: (Processing the Voter-submitted ballot)
 - format of ballot
-
+csv?
 voter checks on status?
 
 Step 14: (Process Election Data / Count The Votes)
