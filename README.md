@@ -330,7 +330,7 @@ Step 8: (this step needed for thrifty-version?)(extra other steps?)
 Step 9: (Check completed-ballot for errors) 
 (see step 7?)
 
-Step 10: Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in and checked ballot) to the local election office.
+Step 10: Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 Step 11: (Submit encrypted-ballot over network) 
 Q: recommended methods?
