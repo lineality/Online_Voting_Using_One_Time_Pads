@@ -393,6 +393,8 @@ Project:
 - including how to do ranked choice voting
 - including how to do (term) ? representational voting
 
+- boundaries of population and geography of vote
+
 
 
 
