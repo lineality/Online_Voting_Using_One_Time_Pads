@@ -297,7 +297,7 @@ Q: one time pads vs. signing keys for transmitting ballots
 
 Step 4: (send ballot?)
 3 options:
-1. a publicly posted signed ballot (varifiable)
+1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
 3. both
 
