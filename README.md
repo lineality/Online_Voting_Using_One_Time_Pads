@@ -333,7 +333,7 @@ Step 10: Online: The voter sends (by whatever agreed upon method (website, email
 
 Step 11: (Submit encrypted-ballot over network) 
 Q: recommended methods?
-some kind of MFA or blockchain leger system?
+some kind of MFA or blockchain ledger system?
 
 Step 12: (Processing the voter's encrypted ballot)
 - thrifty encryption choice?
