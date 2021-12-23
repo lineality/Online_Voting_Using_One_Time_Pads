@@ -141,7 +141,7 @@ Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or
 An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 1. constant 'internet background radiation,' 2. unintentional user-misuse 3. unintentional administrative bungling, 4. oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 6. software design problems that cause time, logistical, or reliability problems, 7. etc.)
 
 1. a bad-agent will intercept one-time-pads:
-1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steam from the person, without anyone knowing the QR codes were stolen. 
+1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
 1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
 1.3 - if the voter loses the QR code the person should cancel the process
