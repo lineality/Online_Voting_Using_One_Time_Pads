@@ -268,7 +268,7 @@ Notes:
 
 - csv ballot format...
 
-## Proposed Steps for Secure Online Voting (section under construction)
+# Proposed Steps for a Practical  Secure Online Voting (section under construction)
 
 Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
 
