@@ -216,7 +216,7 @@ Q: Is there a lower-tech version with reasonable security for places with limite
 
 ...
 
-# A low-tech version of online voting for realistic implementation
+# A pragmatic version of online voting for realistic practical implementation
 
 For example, some voting locations (or regions) may not have: 
 1. printers, ink, and paper
