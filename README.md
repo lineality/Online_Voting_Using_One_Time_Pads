@@ -158,6 +158,9 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 - while a possible risk, this process is the same as for any paper ballot
 
 5. a bad-agent will act on the behalf of a participant without the voter's participation
+- cast a vote
+- cancel or change registration
+- try to register or get registration information
 
 6. a bad-agent will act on the behalf of the voting office without the voting-office's participation
 
