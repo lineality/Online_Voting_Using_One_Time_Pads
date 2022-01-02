@@ -366,7 +366,7 @@ Could some form of blockchain made of election participants be used as a decente
 Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 
-# A Practical Voting Software Package
+# A Practical Election Management Package
 
 #### Features of a practical voting software package:
 1. secure messages between office and voter? (one time pad?)
