@@ -229,7 +229,7 @@ For example, some voting locations (or regions) may not have:
 3. a physical location to securely store paper files
 4. broadband wireless internet
 
-Most locations should have:
+Most locations can be assumed to have and required to have:
 1. basic mobile phones
 2. basic (not high speed) internet access
 
