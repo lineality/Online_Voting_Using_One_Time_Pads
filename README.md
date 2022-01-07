@@ -234,7 +234,7 @@ Most locations can be assumed to have and required to have:
 2. basic (not high speed) internet access
 
 
-Writing down the numbers and confirming with picture (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
+Writing down the numbers and confirming with a photo (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
 
 Maybe separate air-gapped mobile devices would be feasible, or perhaps a more decentralized system would be more secure.
 
