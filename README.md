@@ -151,7 +151,7 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
 
 3. a bad-agent will send the gov. a fake filled-in ballot:
-- 3.1  The agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
+- 3.1  The bad-agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
 - 3.2  If the voter loses the QR code the person should cancel the process.
 	
 4. a bad-agent will record a fake record of the vote from the ballot:
