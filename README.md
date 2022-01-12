@@ -377,6 +377,7 @@ Part of an online system may be to increase the number of channels by which peop
 2.2 send or assign ballots
 2.3 fill out ballot
 2.4 submit ballot
+3. Processing votes
 3.1 receive votes
 3.2 validate votes
 3.3 decrypt votes
