@@ -279,8 +279,8 @@ Note: This thrifty and pragmatic (if not perfect) system does not assume there i
 
 Step 1: (During online registration) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
-e.g. using signing signatures, people could have something e.g. mailed to them (or received from an office) to use to authenticate their online connection. 
-
+This may be done entirely online for most-practical voting, or other elements may be added. A kind of hybrid may involve people could have something e.g. snail-mailed to them (or picked up with ID from an office) to use to authenticate their online connection. 
+note: using signing signatures,
 
 
 Step 2:
