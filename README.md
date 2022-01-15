@@ -269,7 +269,7 @@ Notes:
 - individual permission drop-off folders (like S3)
 - anonymized ballots (storing data without direct connection to user information)
 - face-picture when sending in vote
-- vote by phone system, tied to that phone...(note: if you loose the phone)
+- vote by phone system, tied to that phone...(note: if you lose the phone)
 
 - csv ballot format...
 
