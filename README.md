@@ -129,7 +129,7 @@ The voter's completed ballot is stored along with any completed paper ballot (e.
 Step 14: (Process Election Data / Count The Votes)
 The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
-Step 15: (Publish Election Data)
+Step 15: (Publish Election Results Data)
 The election results are processed and published.
 (The publication of election results is perhaps not strictly part of the question of 'secure voting' but in practice it is likely often a requirement.)
 
