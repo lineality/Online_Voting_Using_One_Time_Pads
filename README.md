@@ -216,7 +216,7 @@ One-time-pads codes are not as efficient and user friendly as 're-use-able' code
 
 ...
 
-Q: Is there a lower-tech version with reasonable security for places with limited resources?
+Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
 ...
 
