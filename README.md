@@ -521,3 +521,17 @@ Q: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
 
+
+
+practical model 2:
+Similar to baseline secure model with these changes:
+- allows registered phone number use:
+	- ballots can be exchanged by ~sms or 
+	- possible voice print ID: e.g. similar to online-voter registration credentials
+	- 
+
+practical model 3:
+Use of block chain ledger
+
+practical model 4:
+using nft smart contracts as a framework for parts of the election
