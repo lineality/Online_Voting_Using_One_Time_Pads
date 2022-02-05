@@ -4,6 +4,7 @@ Online Voting Using One Time Pads
 # Contents:
 ## Part 1: Secure Online Voting in Principle
 ## Part 2: Practical Secure Online Voting
+## Part 3: Overall Voting Systems
 
 # Clarifying Goals and Questions: 
 - Main Goal: Systematize secure online voting.
@@ -173,6 +174,8 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 10. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority
 
 11. a bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
+
+12. a bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
 
 # Description Notes:
