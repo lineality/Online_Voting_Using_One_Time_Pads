@@ -409,10 +409,7 @@ Project:
 
 - boundaries of population and geography of vote
 
-- rules for voter participation/qualification in an automated voter system
-
-
-
+- (make) rules for voter participation/qualification in an automated voter system
 
 
 
