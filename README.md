@@ -547,3 +547,8 @@ Does it make sense to have lower security standards around registration for voti
 # Voting, Contracts, and Smart Contracts:
 
 What are the feasible properties of smart contracts that relate to elections, either for their use in a particular situation or as a discussion to elucidate needs and functions?
+
+
+# Computer, OS, and Network security of voting office
+What OS, what network architecture, and what cyber security strategies should be voting office use:
+
