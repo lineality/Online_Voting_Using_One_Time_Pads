@@ -553,3 +553,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - topic: 
 - topic: memory throttling 
 
+
+Standards and measures
+- file types
+- data types
+- calculation methods
+- statistical methods and disclosure
