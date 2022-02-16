@@ -550,7 +550,7 @@ What are the feasible properties of smart contracts that relate to elections, ei
 # voting office setup: Computer, OS, and Network security
 What OS, what network architecture, and what cyber security strategies should/could voting offices use?
 - topic: stateless machines
-- topic: airgapped machines
+- topic: air-gapped machines
 - topic: not-networked Operating Systems
 - topic: memory throttling 
 
