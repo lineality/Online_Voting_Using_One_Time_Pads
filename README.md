@@ -559,4 +559,7 @@ Standards and measures
 - file types
 - data types
 - calculation methods
-- statistical methods and disclosure
+- statistical methods 
+- disclosure of methods
+
+Advantages of anonymized public ledgers of votes:
