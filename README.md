@@ -566,3 +566,11 @@ Standards and measures
 - disclosure of methods
 
 Advantages of anonymized public ledgers of votes:
+
+
+
+....
+
+Overall Discussion:
+
+Why are various technologies used for voting, and what is different about 'electronic' 'network' and various data structure technologies
