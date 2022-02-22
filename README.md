@@ -567,11 +567,15 @@ Standards and measures
 
 Advantages of anonymized public ledgers of votes:
 
+....
 
+# Auditing election processes (vs. specific elections)
+- operationally defining problems with election procedures
+- processes for finding local concensus or agreement on areas of trade-off compromise, or ambiguity (identification, registration, voting age, duration of vote being open, campaign finance, etc.)
 
 ....
 
-Overall Discussion:
+# Overall Discussion:
 
 Why are specific technologies used for voting? What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 In the timeline of technologies, which technologies are appropriate and inappropriate and why?
