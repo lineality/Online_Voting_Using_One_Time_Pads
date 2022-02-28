@@ -579,7 +579,7 @@ Advantages of anonymized public ledgers of votes:
 
 Why are specific technologies used for voting? What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 In the timeline of technologies, which technologies are appropriate and inappropriate and why?
-(e.g. complete census vs. statistical sampling)
+- (e.g. complete census vs. statistical sampling)
 
 
 
