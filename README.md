@@ -587,4 +587,6 @@ In the timeline of technologies, which technologies are appropriate and inapprop
 - accessibility vs. security
 - smaller attack space vs. fancy interface
 
-voting and principles of security (ease of use vs. security etc)
+# voting and principles of security (ease of use vs. security etc)
+
+
