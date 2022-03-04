@@ -583,10 +583,12 @@ In the timeline of technologies, which technologies are appropriate and inapprop
 
 
 
-# Tradeoffs in voting:
+# Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
+- direct vs. representation
+- 
 
 # voting and principles of security (ease of use vs. security etc)
-
+- 
 
