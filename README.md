@@ -565,11 +565,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - statistical methods 
 - disclosure of methods
 
-Advantages of anonymized public ledgers of votes:
+# Advantages of anonymized public ledgers of votes:
+-
 
 ....
 
-# Auditing election processes (vs. specific elections)
+# Auditing election processes (vs. specific elections):
 - operationally defining problems with election procedures
 - processes for finding local consensus or agreement on areas of trade-off compromise, or ambiguity (identification, registration, voting age, duration of vote being open, campaign finance, etc.)
 
