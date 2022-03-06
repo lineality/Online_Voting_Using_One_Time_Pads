@@ -578,8 +578,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 # Overall Discussion:
 
-Why are specific technologies used for voting? What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
-In the timeline of technologies, which technologies are appropriate and inappropriate and why?
+- Why are specific technologies used for voting? 
+
+- What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
+
+- In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
 
 
