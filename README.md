@@ -1,598 +1,839 @@
-# Online_Voting_Using_One_Time_Pads
-Online Voting Using One Time Pads
+# Python_Tips_And_Tricks
+Quick Guide to Useful Python Items
 
-# Contents:
-## Part 1: Secure Online Voting in Principle
-## Part 2: Practical Secure Online Voting
-## Part 3: Overall Voting Systems
-
-# Clarifying Goals and Questions: 
-- Main Goal: Systematize secure online voting.
-- Main Questions: 
-#### 1. Is secure-auditable online voting possible in principle?
-#### 2. Is reliable online-vote-result-publishing possible in principle?
-#### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? 
-#### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible systems?
+# 
 
 
-To clarify goals and questions, below are two lists of questions. There is one list of questions that we are attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help so that questions we are not asking do not get mixed together with questions that we are asking.
+## Example Sandbox Colab 
+https://colab.research.google.com/drive/1t5oDF2qXfEYqmc2ssvep01Wa-1yOldHP?usp=sharing 
+
+## Runtime Comparison: Compare Two Solutions
+https://colab.research.google.com/drive/1jvkSq9Bsh83X4amgHLN6CJj5vtlhSbNO#scrollTo=54qBU7WHI2zU
+
+## Pipenv & IDE Configuration Guide
+linux pipenv, linter, formatter, vsCode, atom, vim, jupyter notebook, configuration & setup
+https://docs.google.com/document/d/1dZJI20D7uIknT1pdlTSmlHH1WPYdVhs2PSUyH1qdnUo/edit 
+
+## Recommended General Python Courses
+- https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/ 
+- https://www.udemy.com/course/ultimate-python-tutorial/ Derek Banas
 
 
-## Questions we are focusing on include the following: 
-1. Is secure over-a-network (online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper system.') 
-2. Is it possible for a voter to securely receive a ballot from a Vote-Office over a network (online)? 
-3. Is it possible for a voter to submit a ballot securely over a network (online)?
-4. Is it possible for a voting-office to securely receive a completed ballot from the voter over a network (online)? [including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
+## Debugger: vsCode
 
-## Questions that are NOT the focus of this project include the following: 
-1. NOT: Can online voting be an absolutely effortless and perfectly ecstatic experience?
-2. NOT: Can a person outside of the direct-voting-process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
-3. NOT: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.) 
-4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
-5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
-6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
+#### vsCode Debugger in Python, 4-Lesson-Course:
+https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
 
-## A debatably separate or peripherally related question may be:
-1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
+# ~Unix Terminal 
+#### print text file in terminal
+```
+$ cat file_name
+```
 
-# Concept: Universal Voting Procedures and Processes
-The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is not based on not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habit, permission, labels, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. Any group of people who carry out the math-science-data process of sound voting have performed voting in a way that can be audited and measured and published. No group of people can skip or shortcut required math-science-data processes without having skipped those required math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon is following best practice, though even then probably it is best to simply verify without trust. But under no circumstances can 'trust' replace or permit the skipping of required processes for people or groups however much they demand and violently enforce their unfounded exemption from required best practice. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you or processing your vote in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, and classically defined tyranny.
+#### Content Map Skills for Debugging:
+- breakpoints
+- traversing
+- "current scope"
+- step into vs. step out
+- call stack
+- variables: local vs. global
+- the debugger-console
+- inspecting 'state'
 
-
-# Proposed Steps for Secure Online Voting
-
-Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
-
-
-Step 1: (During in-person registration) 
-Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
-
-(Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
-#### A. ballots that have been (or can have been) designed at the time of registration and 
-#### B. Standardized or truncated ballots containing just choices and not all the text of the ballot (possibly a choice (e.g. choice number) and the initials of the person's name as a second factor) and 
-#### C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
-
-Step 2: (During in-person registration: Make one-time-pads.) 
-For a given single vote-ballot in a given single election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, in this case: 1. The Voter and 2. The Vote-Office). Since there will be two "exchanges" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. E.g. If the voter obtains a ballot from a compromised public ballot website or a fake website (disinformation) then that vote may be disrupted.
-
-(Alternately the voting-system could be streamlined to use only one pad for submitting a standardized public ballot, but this shorter process does not include the step for the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
-
-The additional step of having two pads (one being to send the voter a ballot) and not just one pad to inspect that ballot coming in has several advantages. This allows the voter to verify that the ballot they are filling out comes from the Vote-Office at which they registered, and that only someone with physical access to the physical one time pad created at their time and place of registration has sent them this ballot. This allows for a comparison by the Vote-Office, likewise, of the ballot sent and the ballot received. The benchmark for success here is to be as secure as in-person all-paper voting. Just as it is possible (in theory) for a hostile group to physically take over a Vote-Office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer of verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all in-person all-paper voting process to make it more secure and auditable. (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (Vote-Office, federal or state agency, universities, 3rd party certifiers, etc). 
+#so more head displays
+#override display option
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
 
 
-During the in-person one-time-pad-voter-registration: Two physical copies (e.g. QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+## enumerate: cleanly separate and use both indices and list-items
+```
+# list / array
+input_list = [1,2,3]
+ 
+for index, list_item in enumerate(input_list):
+   print(index,list_item)
+ 
+# dictionary (just keys)
+input_dict = {1:"a", 2:"b", 3:"c"}
+ 
+for index, key in enumerate(input_dict):
+   print(index, key)
+ 
+# dictionary (keys and values!)
+input_dict = {1:"a", 2:"b", 3:"c"}
+ 
+for index, (key, value) in enumerate(input_dict.items()):
+   print(index, key, value)
+```
 
-The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
-(Note, if this process is done off-line using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
+## collections counter (dictionary of item counts)
+```
+import collections
+from collections import Counter
+ 
+# 4 'a's & 2 'b's
+input_list = ['a', 'a', 'a', 'a', 'b', 'b']
+ 
+counter_dict = collections.Counter(input_list)
+ 
+print(counter_dict)
+ 
+print(type(counter_dict))
+ 
+print(counter_dict['a'])
+ 
+print('a' in counter_dict)
+https://colab.research.google.com/drive/1jvkSq9Bsh83X4amgHLN6CJj5vtlhSbNO#scrollTo=54qBU7WHI2zU
 
-Step 3: (During in-person Registration: Create Encrypted Ballot) 
-For the voting-office to send one ballot to one voter:
-The election office, offline (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter. 
-Note: The ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
+```
 
-Notes: It may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary (for security and verification) from the standard public ballot (in a context of mapping out a potential attack space). 
-In the case that a truncated-submitted ballot is used, some way may be desired to, e.g. make a short hash of the original ballot itself (e.g. to convert the ballot by OCR or perhaps have a QR code on the ballot (though a QR on a ballot received by a voter code could be forged, whereas a hash made by the voter of the whole ballot could not be). Perhaps having a multi-pass OCR hash of a public ballot submitted with the vote to indicate that the correct ballot was used (again, in the case of a truncated submission, for a full ballot return the whole ballot is there)(also see asymmetric signing keys). 
-It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the Vote-Office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
+## sort vs. sorted (in place, reverse order)
+
+#### item.sort() vs. sorted(item)
+#### sort --> in place
+#### sorted --> not 'in place'
+#### sorted --> has reverse-order feature
+```
+# sorted(item)
+numbers = [1, 3, 5, 9, 0]
+ 
+print(numbers)
+ 
+print(sorted(numbers))
+ 
+print(numbers)
+```
+ 
+```
+# item.sort
+ 
+numbers = [1, 3, 5, 9, 0]
+ 
+print(numbers)
+ 
+print(numbers.sort())
+ 
+print(numbers)
+ 
+```
+ 
+```
+# reverse order
+# reverse sorted(item)
+numbers = [1, 3, 5, 9, 0]
+ 
+print(numbers)
+ 
+print(sorted(numbers, reverse = True))
+ 
+print(numbers)
+ 
+```
+## Slicing with intervals (and reversing)
+
+In addition to from and to, you can also slice at an interval
+e.g. from items 1-20, but only every 5th item.
+AND
+If you pick an interval of -1...it reverses your list. 
+ 
+```
+list1 = [1,2,3,4,5,6,7,8]
+ 
+# whole list
+print( list1 )
+ 
+# from and to
+print( list1[0:3] )
+ 
+# add an interval!
+print( list1[1:7:2] )
+ 
+# reverses list
+print( list1[::-1] )
+ 
+ 
+ 
+```
+ 
+## Large .csv with non-utf8 encoding
+ 
+```
+import pandas as pd
+df = pd.read_csv("FY2018_archived_opportunities.csv", encoding = "ISO-8859-1")
+```
 
 
-Step 4: (Sending out the not-yet-completed ballot to the voter) 
-During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon ("electronic" or non-paper) method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of a QR code.
+## ~ The tilde operator
+~ for 0 count offset index
+~x
+-X 
+-1
 
-Note: As an example method for a 'personalized ballot,' a randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
-
-Step 5: (Receive the not-yet-completed ballot) 
-Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
-
-(Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
-
-Step 6: (Validate the not-yet-completed Ballot) 
-The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
-
-(Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
-
-Step 7: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
-
-Step 8: (Digitize the Completed Ballot) 
-The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
-
-~ Step: An optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
-
-Reference:
-See: 
-"Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
-December 2003 Politics & Policy 31(4):575 - 594
-DOI:10.1111/j.1747-1346.2003.tb00163.x
-Authors: Stephen Knack & Martha Kropf
-University of North Carolina at Charlotte
-https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
-
-Another 'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
-The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
-
-Step 9: (Check completed-ballot for errors) 
-The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
-
-Step 10: (Encrypt the Ballot) 
-The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
-
-Step 11: (Submit encrypted-ballot over network) 
-Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
-
-Step 12: (Processing the voter's encrypted ballot)
-The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
-1. Print
-2. Check
-3. Delete
-
-Step 13: (Processing the Voter-submitted ballot)
-Offline, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
-(Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
-The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
-(Note: depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
-
-Step 14: (Process Election Data / Count The Votes)
-The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
-
-Step 15: (Publish Election-Results Data)
-The election results are processed and published.
-(The publication of election results is perhaps not strictly part of the question of 'secure voting' but in practice it is likely often a requirement.)
+one thing - ()
+set - {}
+list - []
 
 
-Note: Someone may wish to save a QR code (or equivilent) as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
+## zip:
+#### iterates over two list
 
 
-# Identifying Risks 
-Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
-An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 1. constant 'internet background radiation,' 2. unintentional user-misuse 3. unintentional administrative bungling, 4. oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 6. software design problems that cause time, logistical, or reliability problems, 7. etc.)
+## list to string
+''.join(["a","b"])
 
-1. a bad-agent will intercept one-time-pads:
-1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
-1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
-1.3 - if the voter loses the QR code the person should cancel the process
 
-2. a bad-agent will send the voter a fake blank-ballot:
-- additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
 
-3. a bad-agent will send the gov. a fake filled-in ballot:
-- 3.1  The bad-agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
-- 3.2  If the voter loses the QR code the person should cancel the process.
+# Check (For) Remainder & Check (For) Integer
+# Not Mod
+
+```
+# set a value
+check_this = 5
+ 
+# Boolean return for checking divisibility
+not check_this % 2
+
+# look at the outcome of a computation
+check_this = 5/2
+ 
+# Boolean return for checking if result is an integer
+check_this.is_integer()
+```
+
 	
-4. a bad-agent will record a fake record of the vote from the ballot:
-- while a possible risk, this process is the same as for any paper ballot
 
-5. a bad-agent will act on the behalf of a participant without the voter's participation
-- cast a vote
-- cancel or change registration
-- try to register or get registration information
+## all()
+## Check everything in a list
 
-6. a bad-agent will act on the behalf of the voting office without the voting-office's participation
+#### boolean_result = all(element > 3 for element in test_list)
+```
+test_list = [1, 3, 5, 9, 0]
+ 
+boolean_result = all(element > 3 for element in test_list)
+boolean_result
+```
 
-7. a bad-agent will attempt to tamper with a public ballot (e.g. a ballot itself, e.g. downloading a ballot to use)
+```
+test_list = [1, 3, 5, 9, 0]
+ 
+# check if items are less than 10
+boolean_result = all(element < 10 for element in test_list)
+boolean_result
+```
 
-8. a bad-agent will attempt to tamper with public ballot-confirmation information (e.g. public information posted about the ballot by the voting office, describing and understanding the ballot and ballot issues)
+```
+test_list = ["a", "b", "c"]
+ 
+# check if all items are strings
+boolean_result = all(type(element) == str for element in test_list)
+boolean_result
 
-9. a bad-agent will attempt to tamper with voting instructions and information about voting procedures
+```
 
-10. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority
+Term Note: Ternary operation: "In computer science, a ternary operator is an operator that takes three arguments."
 
-11. a bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
+## if-else ternary:
 
-12. a bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
-
-
-# Description Notes:
-This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
-
-The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
-
-
-# Implementation Notes:
-These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
-To make accessibility easier, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
-- voters who have no access to a printer
-- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
-
-Additional steps could also be taken to increase the security further. 
-For example: 
-1. to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff could run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a $40 raspberry pi computer. 
-2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
-
-## Unique Ballots:
-At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (offline) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
+```
+apple = "red"
+red_fruit = True if apple == "red" else False
+ 
+# inspection
+print(red_fruit)
+```
 
 
-## Challenges:
-
-One possible area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
-It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is probably not a terminal obstacle. 
-
-The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear easily defined targets such as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
-Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
+## to get file extension:
+use filename.split('.')[-1] to split on the period separating the extension and filename and select the extension
 
 
-# About One Time Pads
-A one-time-pad is not the same as a re-use-able 'code.' A re-use-able code 'encodes' a signal and is re-used, such that 'breaking the code' will allow decrypting the document. A one-time-pad is different. A one-time-pad is not such a 'code.' A one-time-pad is a one-for-one set of changes for every character in the document, each completely random, with no pattern, and the one-time-pad is used only one-time. Even in principle you cannot 'break' a one-time pad however much you examine the encrypted document (unless the one-time-pad itself is somehow extremely defective).  Unfortunately, the terminology can be overlapping and a bit unclear between the two. For example, the terms 'encode' and 'decode' may be used in both cases, and the overall process and purpose is usually similar or the same. 
+## glob:
+#### glob is an optimized, built-in, unix related, pattern matcher for file names
+#### glob can use regeX-like wildcard searches: *, ?, [ranges]
+ 
+https://www.geeksforgeeks.org/how-to-use-glob-function-to-find-files-recursively-in-python/ 
+ 
+```
+# find and print name of .txt files in the Current Working Directory
+import glob
+ 
+print(glob.glob("*.txt"))
+ 
+```
 
-A 'one time pad' historically was literally a pair of identical physical note-pads, each page of which was used one time, hence the term "one-time-pad."
 
-There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad, because it is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no shortcut. Every character or element or number of the entire document is individually substituted for something else. 
 
-One-time-pads codes are not as efficient and user friendly as 're-use-able' codes in some ways, but they are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' 
-
-...
-
-Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
 ...
 
-# Part 2: Practical Secure Online Voting
-### A pragmatic version of online voting for realistic practical implementation
-
-For example, some voting locations (or regions) may not have: 
-1. printers, ink, and paper
-2. extra air-gapped computers
-3. a physical location to securely store paper files
-4. broadband wireless internet
-
-Most locations can be assumed to have and required to have:
-1. basic mobile phones
-2. basic (not high speed) internet access
-
-
-Writing down the numbers and confirming with a photo (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
-
-Maybe separate air-gapped mobile devices would be feasible, or perhaps a more decentralized system would be more secure.
-
-
-# An alternative thrifty-protocol for resource-limited situations/geographies: (section under construction)
-
-## Practical Voting
-The goal here (for this practical-tool section, vs. the above secure voting in principle) is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best-practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones)?
-
-What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
-
-Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? 
-
-Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
-
-There should be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system. 
-
-Other methods such as chains-of-trust may be useful to harden thrifty online systems.
-
-#### General Revisions for Thrifty-Secure-Voting:
-1. no physical printed copies 
-2. no separate air-gapped hardware
-?. one pad per set of elections vs. two pads per single election (backup pads?)
-3. more cryptographic signature use?
-
-Topic:
-- use of one time pads and signing signatures
-
-
-
-Notes:
-- individual permission drop-off folders (like S3)
-- anonymized ballots (storing data without direct connection to user information)
-- face-picture when sending in vote
-- vote by phone system, tied to that phone...(note: if you lose the phone)
-
-Ballot format standardization?
-- csv format: pads, ballots, votes
-
-# Proposed Steps for a Practical  Secure Online Voting (section under construction)
-
-Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
-
-Step 1: (During online registration) 
-Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
-This may be done entirely online for most-practical voting, or other elements may be added.
-
-For entirely online voting there is the challenge of selecting who on the internet may participate. 
-A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection. 
-note: using signing signatures,
-
-
-Step 2:
-
-While the thrifty-protocol is designed to avoid extra printer hardware, the option still exists to hand-write a one-time pad. 
-A short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
-
-A short-form or truncated ballot may contain, e.g., the number of the option-choice and perhaps a first/last letter in the candidates name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). Two-factor-no-nul voting?
-Note: Write-in may be an issue for the truncated ballot. 
-
-
-Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
-
-Step 3: (this step needed for thrifty-version?)(extra other steps?)
-Q: one time pads vs. signing keys for transmitting ballots
-
-
-
-Step 4: (send ballot?)
-3 options:
-1. a publicly posted signed ballot (verifiable)
-2. a ballot including a unique personal id sent only to that one person 
-3. both
-
-During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
-Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
-
-Step 5: (Voter Gets the not-yet-completed ballot)  
-A. sent to user
-B. posted on several public sites and signed and can be compared/verified
-
-Step 6: (Voter Validate the not-yet-completed Ballot) 
-The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
-(note: finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutible ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
-
-
-Step 7: (Complete the Ballot, Mark Votes) 
-e.g. csv format of data (vs. pdf type doc)
-Q: id such as biometric data
-
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
-"Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
-December 2003 Politics & Policy 31(4):575 - 594
-DOI:10.1111/j.1747-1346.2003.tb00163.x
-Authors: Stephen Knack & Martha Kropf
-University of North Carolina at Charlotte
-https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
-
-Step 8: (this step needed for thrifty-version?)(extra other steps?)
-
-Step 9: (Check completed-ballot for errors) 
-(see step 7?)
-
-Step 10: (Encrypt the Ballot) 
-
-Step 11: (Submit encrypted-ballot over network) 
-Q: recommended methods?
-some kind of MFA or blockchain ledger system?
-
-Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
-
-Step 12: (Processing the voter's encrypted ballot)
-- thrifty encryption choice?
-
-Step 13: (Processing the Voter-submitted ballot)
-- format of ballot
-(csv?)
-(voter checks on status?)
-
-Step 14: (Process Election Data / Count The Votes)
-(storage: block chain or other immutable ledger?)
-
-Step 15: (Publish Election Data)
-
-
-
-(election results publishing...parts of process)
-
-Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
-
-What kind of software (singular or plural) would be needed to arrange a secure election?
-
-Could some form of blockchain made of election participants be used as a decentered election results platform? 
-
-Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
-
-
-# A Practical Election Management Package
-
-#### Features of a practical voting software package:
-1. secure messages between office and voter? (one time pad?)
-2. secure voting platform (receive ballot)
-2.1 voter registration
-2.2 send or assign ballots
-2.3 fill out ballot
-2.4 submit ballot
-3. Processing votes
-3.1 receive votes
-3.2 validate votes
-3.3 decrypt votes
-5. process votes
-6. produce results report
-7. schedule election
-8. publish results report
-
-Mode 1: remote vote office
-
-Mode 2: decentralized vote office
-
-Maybe each 'election' will have a different signing key to verify?
-
-software platforms/languages:
-
-Project:
-"Pseudocode for voting infrastructure"
-- including how to create randomized representative voting districts
-- including how to do ranked choice voting
-- including how to do (term) ? representational voting
-
-- boundaries of population and geography of vote
-
-- (make) rules for voter participation/qualification in an automated voter system
-
-
-
-# (mitigation of insecure local voting headquarters)
-2nd step of recording / publishing vote:
-Uuid type random key-field
-Fuzzy time stamp (month year?) unix epoch
-
-
-2. Using a modified blockchain to store results:
-- e.g. university trusted node anchors
-- maybe full-chain so no retroactive?
-- slower but more robust?
-- smaller number of participants? (or pooled participants?)
-- containing hash and voting record?
-
-
-
-
-
-....
-
-Possible Multi-factor Authentication Tools:
-1. voice print
-2. picture of hand (for fingerprints)
-3. one time pad
-4. specific device tracking
-5. device gis location
-7. ip / mac address details (vpn issues?)
-6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
-7. face-selfie (time GIS stamped picture of person casting vote)
-8. video of person voting (more secure than static selfie?
-or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
-
-(plus)
-1. public security log data/meta-data to be inspected by anyone about the system
+# slice reversing
+#### return the reverse order of a list
+list1[::-1]
+
+
+try-except block
+
+
+...
+
+Zip
+
+$zip myfile.zip filename.txt
+
+
+# open a file with "with open"
+To avoid issues with not-closing files, some say this is the default best practice for python
+
+```
+with open(file.txt', "r") as file_object:
+# read file content
+data = file_object.read()
+# print file contents
+print(data)
+
+# using "with statement" with open() function
+ 
+# make it
+with open('sample.txt', "w") as file_object:
+   # read file content
+   file_object.write("write to file\n")
+ 
+# read it
+with open('sample.txt', "r") as file_object:
+   # read file content
+   data = file_object.read()
+   # print file contents
+   print(data)
+ 
+# add to it
+with open('sample.txt', "a") as file_object:
+   # read file content
+   file_object.write("write more to file\n")
+ 
+# read it
+with open('sample.txt', "r") as file_object:
+   # read file content
+   data = file_object.read()
+   # print file contents
+   print(data)
+ 
+# Check if file is closed
+if file_object.closed == False:
+   print('File is not closed')
+else:
+   print('File is closed')
+```
+
+## Truncating and Rounding
+Truncating and rounding to a given decimal place (without extra libraries etc.) can be oddly not straight forward considering how easy so many things are in vanilla python. Here is one function from: https://realpython.com/python-rounding/
+
+```
+# This sets the default number of decimals to 2
+def truncate(n, decimals=2):
+    multiplier = 10 ** decimals
+    return int(n * multiplier) / multiplier
+```
+
+
+## Decimal Type vs. Float Type
+(e.g. for AWS)
+
+```
+from decimal import Decimal
+ 
+def decimal_type_truncated(n, decimals=2):
+  multiplier = 10 ** decimals
+  return Decimal(n * multiplier) / multiplier
+
+decimal_type_truncated(0.6, 2)
+
+```
+# Date Time & Posix Time!
+```
+# Convert a datetime.date object to a datetime.datetime object
+from datetime import date, datetime
+ 
+just_a_date = date.today()
+ 
+# inspection
+print(just_a_date)
+ 
+converted_to_datetime = datetime.combine( just_a_date, datetime.min.time())
+# inspection
+print(converted_to_datetime)
+```
+
+# Date Time & Posix Time!
+
+https://colab.research.google.com/drive/1VHk7J2yU2s8zX7fO7VU7pZyfbogKxQlt#scrollTo=UbEzt--NLs-7
+
+Datetime functions in Python make dealing with times and time ranges manageable. Here are some useful snippets for dealing with dates and time ranges.
+
+```
+# There and Back Again: Normal -> Posix -> Normal
+ 
+import datetime, calendar, time
+from datetime import date, datetime
+ 
+year = 2021
+month = 12
+day = 14
+ 
+Sample_Time = datetime(year,month,day)
+ 
+print("Staring with Normal Time")
+print(Sample_Time)
+print(type(Sample_Time))
+ 
+# Current Time UTC
+ 
+date_time = datetime.utcnow()
+print("\nCurrent Time UTC")
+print(date_time)
+print(type(date_time))
+ 
+# Posix UTC Seconds
+date_time = datetime.utcnow()
+Posix_UTC = calendar.timegm(date_time.utctimetuple())
+print("\nPosix UTC")
+print(Posix_UTC)
+print(type(Posix_UTC))
+ 
+ 
+# Posix UTC miliseconds
+date = datetime.utcnow()
+unix_time_miliseconds = datetime.timestamp(date)*1000
+print("\nPosix UTC miliseconds")
+print(unix_time_miliseconds)
+print(type(unix_time_miliseconds))
+ 
+Time_Stamp = Posix_UTC
+ 
+try:
+   # if you encounter a "year is out of range" error
+   # the timestamp may be in milliseconds, try
+   # `Time_Stamp /= 1000` in that case
+   date_time = datetime.utcfromtimestamp(Time_Stamp).strftime('%Y-%m-%d %H:%M:%S')
+   print("\nCurrent Time UTC")
+   print(date_time)
+   print(type(date_time))
+ 
+except:
+   Time_Stamp /= 1000
+   date_time = datetime.utcfromtimestamp(Time_Stamp).strftime('%Y-%m-%d %H:%M:%S')
+   print("\nCurrent Time UTC")
+   print(date_time)
+   print(type(date_time))
+ 
+Time_Stamp_Mili = unix_time_miliseconds
+ 
+ 
+try:
+   # if you encounter a "year is out of range" error
+   # the timestamp may be in milliseconds, try
+   # `Time_Stamp /= 1000` in that case
+   date_time = datetime.utcfromtimestamp(Time_Stamp).strftime('%Y-%m-%d %H:%M:%S')
+   print("\nCurrent Time UTC")
+   print(date_time)
+   print(type(date_time))
+ 
+except:
+   Time_Stamp_Mili /= 1000
+   date_time = datetime.utcfromtimestamp(Time_Stamp).strftime('%Y-%m-%d %H:%M:%S')
+   print("\nCurrent Time UTC")
+   print(date_time)
+   print(type(date_time))
+
+```
+
+## sample Readable-date-string
+```
+from datetime import datetime
+date_time = datetime.utcnow()
+date_time.strftime('%Y_%m_%d_%H_%M_%S')
+```
+
+
+```
+import datetime, calendar, time
+from datetime import date, datetime
+ 
+# get time
+Sample_Time = datetime.utcnow()
+ 
+# make readable string
+readable_string = Sample_Time.strftime('%Y-%m-%d %H:%M:%S')
+ 
+print('type: ', type(readable_string))
+print(readable_string)
+```
+
+## or
+```
+import datetime, calendar, time
+from datetime import date, datetime
+ 
+# get time
+Sample_Time = datetime.utcnow()
+ 
+# make readable string
+readable_string = Sample_Time.strftime('%Y-%m')
+ 
+print('type: ', type(readable_string))
+print(readable_string)
+
+```
+
+
+
+## Recreate a pipenv from a pipenv-lock file
+
+```
+pipenv install restore
+```
+
+
+## Merge a List of Lists into a One List
+
+```
+list_of_lists = [[9, 2, 9, 4], [5, 9, 7], [8, 9]]
+merged_list = [i for sublist in list_of_lists for i in sublist]
+merged_list
+
+```
+
+
+## Deal with Standard "Unicode Error"
+```
+import pandas as pd
+df = pd.read_csv("YOUR_FILE_NAME_HERE.csv", encoding = "ISO-8859-1" )
+```
+
+
+## Formatting: Decimals
+http://cis.bentley.edu/sandbox/wp-content/uploads/Documentation-on-f-strings.pdf
+'''
+x = 4.5 print(f'This will print out the variable x: {x:.3f}') 
+'''
+
+
+## Transform Pandas: Carry out a function on each item in a pandas dataframe column
+```
+# e.g. feature engineer a new column which is the length of a string in another column
+# https://towardsdatascience.com/when-to-use-pandas-transform-function-df8861aa0dcf
+
+# Step 1: Make a Function
+def name_len(name):
+    return len(name)
+
+# Step 2: df.transform(name_of_function)
+df["name_len"] = df["Contractors"].transform(name_len)
+```
+
+## Unspecified number of multiple function inputs: "Variable Argument Lists"
+```
+## Unspecified number of multiple function inputs: "Variable Argument Lists"
+
+def add_these(*input_numbers_to_add):
+
+        total_for_output = 0
+
+        for this_number in input_numbers_to_add:
+            total_for_output += this_number
+
+        return total_for_output
+
+# Run Program
+add_these(2,3,4)
+
+```
+
+
+## Unzip in Python
+```
+import zipfile
+
+# # Extract whole zip file to your current working directory: 
+with zipfile.ZipFile("TARGET_FILE_NAME.zip","r") as zf:
+    zf.extractall()
+```
+
+
+## Iter-items: example: use pandas iteritems to iterate through a df column to feature-engineer values in a new column from two dataframes to transform zipcodes into geocodes:
+
+
+```
+
+!wget https://gist.githubusercontent.com/erichurst/7882666/raw/5bdc46db47d9515269ab12ed6fb2850377fd869e/US%2520Zip%2520Codes%2520from%25202013%2520Government%2520Data
+
+zip_df = pd.read_csv("US Zip Codes from 2013 Government Data")
+
+
+# make new columns
+df["geo_lat"] = 0.0
+df["geo_long"] = 0.0
+ 
+# test where your data are going
+index = 1
+# geolat
+print(df.iloc[index, 29])
+# geolong
+print(df.iloc[index, 30])
  
 
-Additional Questions:
-1. What additional vote process transparency information should be included with vote results publishing? 
-https://github.com/lineality/Auditable_Elections_Projects
+# script for making geocodes for zipcodes from list
+for index, value in df["zip_code"].iteritems():
+ 
+   if (value in zip_df["ZIP"].values) != False:
+ 
+       # geolat
+       df.iloc[index, 29] = zip_df[zip_df["ZIP"] == value]["LAT"].values[0]
+ 
+       # geolong
+       df.iloc[index, 30] = zip_df[zip_df["ZIP"] == value]["LNG"].values[0]
+ 
+   #else: print("0")
+ 
+print("Done!")
 
 
-...
+```
 
-Case Studies in Election Disruption and Resiliance:
--
--
--
+## Google Colab auto make and auto download a timestamp-named .csv file
 
-...
+```
 
-## A Voting Rules And Procedures Statement
-
-As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
-
-- rules, policies, and procedures for how rules, policies, and procedures for voting are made, unmade, and changed
-- time and data on opening and closing of poles for a given election
-- times places methods for ways of voting allowed
-- rules, policies, and procedures schedule for repeating elections
-- specific schedule for repeating elections (e.g. this is a run-off vs. this election is held every 2 years)
-- rules for calling elections
-- Repeating or other type of election
-- Place of election
-- Government Structures and Levels
-- Vote-Office information (location, head?, contact, reporting?)
-- Chain of Command within and above Vote-Office
-- rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
-
-- rules, policies, and procedures for eligibility
-- rules, policies, and procedures for voter-registration
-- rules, policies, and procedures for per way to vote
-- rules, policies, and procedures for election audits (required audits, optional audits)
-- rules, policies, and procedures for election-results-challenge
-- rules, policies, and procedures for recount (automatic recounts, type of recount, etc.)
-- ules, policies, and procedures for overruling-election-results e.g. by gov. branches, evidence requirements
-- rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
-- rules, policies, and procedures for announcing and publishing results 
-- rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
-- Should there be a 'log' of who makes changes to procedures and how?
-- rules, policies, and procedures for election and ballot counting observation
-- rules, policies, and procedures for exit polls (what collected, from whom, released when)
-- rules, policies, and procedures for meetings and correspondence transparency around voloting infrastructure and offices and resources
-- rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
-- rules, policies, and procedures for voter registration
-- rules, policies, and procedures for voter identification 
-- For evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
-- rules, policies, and procedures for raw vote results (including ranked-choice etc.)
-- rules, policies, and procedures for choosing vote calculation method
-- rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
-- rules, policies, and procedures for specific-used vote calculation method
+# # make and download a time-stamped saved copy of .csv
+ 
+import datetime, calendar, time
+from datetime import date, datetime
+from google.colab import files
+ 
+# get time (stamp)
+Sample_Time = datetime.utcnow()
+ 
+# make timestamp text (string)
+timestamp_string = str( Sample_Time.strftime('v_%Y_%m_%d__%H%M_%S') )
+ 
+# make file name
+file_name = f'save_csv_{timestamp_string}.csv'
+ 
+# make .csv from your dataframe (df)
+df.to_csv( file_name, index = True )
+ 
+# download .csv
+files.download( file_name )
+ 
+```
 
 
 
-#### Question: A. What is the relationship between secure end to end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
+## JSON and nested-Dictionary string search in python:
+If you have a nested dictionary as a string (e.g. from an AWS result), you can dig into that nested dictionary BUT you may need to convert that string into a json object first.
+
+```
+import json
+dict_string = """{"body":{"item":12}, "key":3}"""
+ 
+dict1 = json.loads(dict_string)
+dict1["body"]["item"]
+
+```
 
 
-### Issue/Task: user interface for setting up an election
+## Regex in Python: Regular Expressions
+Here is a real example where you will need to extract data that you want.
+This is a bit of a cludge using a combination of string 'slicing'[#:#] with Regex.
 
-
-Q: a standardized .csv ballot format
-including information about the ballot
-signing key information
-possible vote customization information
-vote choices
-etc.
-Q: ways to make sure the .csv ballot is not mis-read or garbled
-e.g. maybe including item number, vote choice, and first letter/number of vote choice name in the vote, may prevent arbitrary misinterpretation of votes
-Q: possible requiring of ballot being completely filled out
-- digital signature etc.
-- checksum etc.
-
-
-practical model 2:
-Similar to baseline secure model with these changes:
-- allows registered phone number use:
-	- ballots can be exchanged by ~sms or 
-	- possible voice print ID: e.g. similar to online-voter registration credentials
-
-
-practical model 3:
-Use of block chain ledger
-
-practical model 4:
-using nft smart contracts as a framework for parts of the election
-
-practical model 5:
-using existing online registration systems
-
-A note on election security and registration security: 
-Does it make sense to have lower security standards around registration for voting than casting of votes? A similar or perhaps identical question is: Does it make sense to have a less security system for registration than for voting? E.g. in Pennsylvania in 2022 you can register to vote and change your party-registration, address, etc., on a simple website with no additional security, no MFA multi factor authentication, no personal in face verification, no biometrics, no mailing address sent verification, etc. And I have never heard anyone complain about the insecurity of this registration system, and a proposal to use the same system for voting immediately results in a vitriolic hyperbolic uproar of arm-waving indignation. Personally I think online registration should be more secure. My overall point here is that both registration and voting should be discussed and implemented as they relate to each-other, and not treated as if they are unrelated with inconsistent security considerations. If the standard for security is good enough for registration, that should be the same standard for voting.
-
-
-# Voting, Contracts, and Smart Contracts:
-What are the feasible properties of smart contracts that relate to elections, either for their use in a particular situation or as a discussion to elucidate needs and functions?
-
-
-# voting office setup: Computer, OS, and Network security
-What OS, what network architecture, and what cyber security strategies should/could voting offices use?
-- topic: stateless machines
-- topic: air-gapped machines
-- topic: not-networked Operating Systems
-- topic: memory throttling 
-
-
-# Standards and Measures
-- file types
-- data types
-- calculation methods
-- statistical methods 
-- disclosure of methods
-
-# Advantages of anonymized public ledgers of votes:
--
-
-....
-
-# Auditing election processes (vs. specific elections):
-- operationally defining problems with election procedures
-- processes for finding local consensus or agreement on areas of trade-off compromise, or ambiguity (identification, registration, voting age, duration of vote being open, campaign finance, etc.)
-
-....
-
-# Overall Discussion:
-
-- Why are specific technologies used for voting? 
-
-- What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
-
-- In the timeline of technologies, which technologies are appropriate and inappropriate and why?
-- (e.g. complete census vs. statistical sampling)
+```
+import re
+ 
+# object from AWS directory query
+text = "s3.ObjectSummary(bucket_name='YOUR_BUCKET_NAME', key='YOUR_FOLDER_NAME/YOUR_FILE_NAME.csv')"
+ 
+# after this
+after_this = 'key='
+ 
+# get item after your choice of characters:
+pattern = f'(?<={after_this}).*$'
+# use regex
+target = re.findall(pattern,text)
+ 
+# strip out extra characters
+target = str(target[0][1:-2])
+# inspection of results
+print(target)
+ 
+```
 
 
 
-# Tradeoffs in Voting:
-- accessibility vs. security
-- smaller attack space vs. fancy interface
-- direct vs. representation
-- 
+# Sum List of Numbers
 
-# voting and principles of security (ease of use vs. security etc)
-- 
+```
+total = sum(item for item in NAME_OF_YOUR_LIST)
+```
+
+
+# Create a Row-Number Column (as the first column)
+```
+import pandas as pd
+import numpy as np
+
+# Create a new row containing row numbers:
+df['Row_Number'] = np.arange(df.shape[0]) + 1
+
+# Select new row to be moved to the front (made the first column)
+new_first_column = df.pop('Row_Number')
+  
+# Move new row to the front (make it the first column)
+df.insert(0, 'Row_Number', new_first_column)
+```
+
+
+
+
+
+
+```
+# function to turn a string into a list for pandas
+ 
+def string_to_list(string_input):
+ 
+   # print( type( string_input ) )
+   # print("1", string_input  )
+ 
+   string_input = string_input.replace("[", "")
+   # print("2", string_input  )
+ 
+   string_input = string_input.replace("]", "")
+   # print("3", string_input  )
+ 
+   string_input = string_input.replace('"', "")
+   # print("4", string_input  )
+ 
+   string_input = string_input.replace("'", "")
+   # print("5", string_input  )
+ 
+   string_input = list(string_input.split(','))
+   # print("6",  string_input  )
+ 
+   return string_input
+ 
+# Testing The Function
+string_input1 = '["1","2","3"]'
+print( type( string_input1) )
+ 
+string_input2 = '["Abc","bbb","ccc"]'
+print( type( string_input2) )
+ 
+print( string_to_list(string_input1) )
+print( type( string_to_list(string_input1) ) )
+ 
+print( string_to_list(string_input2) )
+print( type( string_to_list(string_input2) ) )
+
+```
+
+
+
+
+
+# Script to make a dictionary/display of column iloc index values
+
+```
+########################################################
+# Make and Print Dictionary of Column Names and Indices
+########################################################
+
+import pandas as pd
+
+df = pd.read_csv("xyz.csv")
+
+# make a dictionary to store the values
+index_dict = {}
+
+# iterate through each item in the list of df columns
+for index, item in enumerate(df.columns):
+    # # inspection
+    # print( index, item )
+
+    # add index as the key, and item as the value in the dictionary
+    index_dict[index] = item
+
+#print( index_dict )
+index_dict
+```
+
+
+# To then drop a list of rows by index number:
+
+```
+# # Example List
+# list_of_indices_to_drop = [26,25,24,23,22,21,20,17,16,14,12,11,10,9,7,6,5,4,3,2]
+ 
+for i in list_of_indices_to_drop:
+   this_column = index_dict[i]
+ 
+   df = df.drop([this_column], axis = 1)
+ 
+# # inspection
+# df.head(1)   
+
+```
+
+# infer data types of columns:
+```
+for column in df.columns:
+   print(pd.api.types.infer_dtype(df[column]))
+```
+
+# infer data types of columns:
+
+```
+def sort_dict_by_values(input_dict):
+  
+   output = dict( sorted( input_dict.items(),key= lambda x:x[1] ) )
+ 
+   return output
+ 
+# Test it!
+this_dic = {4:70, 6: 550, 8: 5, 5: 64, 2: 3}
+print(sort_dict_by_values(this_dic))
+ 
+```
+
+
+# slice dictionary keys (e.g. get a list of the top 5 items)
+```
+def get_top_five_keys(this_dict):
+ 
+   return list(dict.keys(this_dict))[:5]
+ 
+# Test it
+this_dic = {4:70, 6: 550, 8: 5, 5: 64, 2: 3}
+print( get_top_five_keys(this_dic) )
+ 
+
+```
+
+
+# turn list-as-string into a list
+################
+# Format .......
+################
+# TODO: fix this
+raw_string_list = raw_string_list.split(',')
+ 
+new_list = []
+ 
+for i in raw_string_list:
+   new_list.append( int(i) )
+ 
+# inspection
+print(type(new_list), new_list)
+
 
