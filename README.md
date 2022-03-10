@@ -180,6 +180,8 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 
 12. a bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
+13. a bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
+
 
 # Description Notes:
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
@@ -586,10 +588,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - (e.g. complete census vs. statistical sampling)
 
 
+
 # Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
 - direct vs. representation
+- 
 
 # voting and principles of security (ease of use vs. security etc)
 - 
