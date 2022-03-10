@@ -586,12 +586,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 - (e.g. complete census vs. statistical sampling)
 
 
-
 # Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
 - direct vs. representation
-- 
 
 # voting and principles of security (ease of use vs. security etc)
 - 
