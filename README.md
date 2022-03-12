@@ -398,9 +398,11 @@ Part of an online system may be to increase the number of channels by which peop
 7. schedule election
 8. publish results report
 
+Mode 1: 
+
 Mode 1: remote vote office
 
-Mode 2: decentralized vote office
+Mode 2: decentralized vote office (distributed among voters)
 
 Maybe each 'election' will have a different signing key to verify?
 
@@ -597,3 +599,4 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 # voting and principles of security (ease of use vs. security etc)
 - 
+
