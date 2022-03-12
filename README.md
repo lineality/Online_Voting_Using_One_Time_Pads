@@ -597,4 +597,3 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 # voting and principles of security (ease of use vs. security etc)
 - 
-
