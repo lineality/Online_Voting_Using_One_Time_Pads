@@ -398,11 +398,13 @@ Part of an online system may be to increase the number of channels by which peop
 7. schedule election
 8. publish results report
 
-Mode 1: 
+Mode 1: single physical vote office
 
-Mode 1: remote vote office
+Mode 2: meta-population of physical vote offices
 
-Mode 2: decentralized vote office (distributed among voters)
+Mode 3: remote vote office(s)
+
+Mode 4: decentralized vote office (distributed among voters)
 
 Maybe each 'election' will have a different signing key to verify?
 
