@@ -191,6 +191,7 @@ The primary focus of this report is the question of whether casting a ballot/vot
 
 # Implementation Notes:
 These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
+
 To make accessibility easier, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
 - voters who have no access to a printer
 - voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
@@ -201,7 +202,7 @@ Additional steps could also be taken to increase the security further.
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
 ## Unique Ballots:
-At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (offline) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
+At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (offline) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
 
 
 ## Challenges:
