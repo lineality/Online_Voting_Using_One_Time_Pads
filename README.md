@@ -227,7 +227,7 @@ One-time-pads codes are not as efficient and user friendly as 're-use-able' code
 
 Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
-...
+
 
 # Part 2: Practical Secure Online Voting
 ### A pragmatic version of online voting for realistic practical implementation
