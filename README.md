@@ -514,10 +514,11 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for choosing vote calculation method
 - rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
 - rules, policies, and procedures for specific-used vote calculation method
+- rules, policies, and procedures for the storage of records from past elections
+- rules, policies, and procedures for "stateless" voting machines
 
 
-
-#### Question: A. What is the relationship between secure end to end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
+#### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
 
 
 ### Issue/Task: user interface for setting up an election
