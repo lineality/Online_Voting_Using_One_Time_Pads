@@ -1,5 +1,5 @@
 # Online_Voting_Using_One_Time_Pads
-Online Voting Using One Time Pads
+Online Voting Using One Time Pads 
 
 # Contents:
 ## Part 1: Secure Online Voting in Principle
@@ -516,6 +516,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for specific-used vote calculation method
 - rules, policies, and procedures for the storage of records from past elections
 - rules, policies, and procedures for "stateless" voting machines
+- rules, policies, and procedures for election observers
+- rules, policies, and procedures for auditing, vetting, and guarantors 
 
 
 #### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
