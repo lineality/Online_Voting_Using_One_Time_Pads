@@ -95,6 +95,7 @@ Step 7: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and pape
 
 Step 8: (Digitize the Completed Ballot) 
 The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
+(Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?)
 
 ~ Step: An optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
@@ -113,7 +114,7 @@ The voter, offline(enforced by software), scans (e.g. by taking a picture) the f
 Step 9: (Check completed-ballot for errors) 
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
-Step 10: (Encrypt the Ballot) 
+Step 10: (Encrypt the ballot) 
 The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
 Step 11: (Submit encrypted-ballot over network) 
