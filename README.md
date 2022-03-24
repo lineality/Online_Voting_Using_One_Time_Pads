@@ -111,10 +111,10 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 Another 'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-Step 9: (Check completed-ballot for errors) 
+Step 9: (Check Completed-Ballot for Errors) 
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
-Step 10: (Encrypt the ballot) 
+Step 10: (Encrypt the Ballot) 
 The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
 Step 11: (Submit encrypted-ballot over network) 
@@ -221,7 +221,7 @@ Though even here, OCR and having the vote double-check to see that the OCR is co
 # About One Time Pads
 A one-time-pad is not the same as a re-use-able 'code.' A re-use-able code 'encodes' a signal and is re-used, such that 'breaking the code' will allow decrypting the document. A one-time-pad is different. A one-time-pad is not such a 'code.' A one-time-pad is a one-for-one set of changes for every character in the document, each completely random, with no pattern, and the one-time-pad is used only one-time. Even in principle you cannot 'break' a one-time pad however much you examine the encrypted document (unless the one-time-pad itself is somehow extremely defective).  Unfortunately, the terminology can be overlapping and a bit unclear between the two. For example, the terms 'encode' and 'decode' may be used in both cases, and the overall process and purpose is usually similar or the same. 
 
-A 'one time pad' historically was literally a pair of identical physical note-pads, each page of which was used one time, hence the term "one-time-pad."
+A 'one time pad' historically was literally a pair of identical physical note-pads (the same set of characters on pages 1,2,3 etc. of both notebooks, like two copies of the same book (like two identical copies of Alice in Wonderland, with the same characters on the same numbered page of each book), where each page of which was used one time, hence the term "one-time-pad."
 
 With a one-time-pad, every character or element or number of the entire document is individually substituted for something else. There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad; a one-time-pad is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no shortcut. Every character or element or number of the entire document is individually substituted for something else. 
 
@@ -610,3 +610,4 @@ What OS, what network architecture, and what cyber security strategies should/co
 # voting and principles of security (ease of use vs. security etc)
 - 
 
+note: RC4 used correctly
