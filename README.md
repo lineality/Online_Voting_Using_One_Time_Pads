@@ -469,10 +469,17 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 ...
 
-Case Studies in Election Disruption and Resiliance:
--
--
--
+Case Studies in Election Disruption and Resilience:
+- 
+- 
+- 
+
+Case Studies in Disrupted and Problematic Elections:
+- 
+- 
+- 
+
+
 
 ...
 
