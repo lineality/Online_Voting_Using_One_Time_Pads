@@ -295,7 +295,7 @@ Step 1: (During online registration)
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 This may be done entirely online for most-practical voting, or other elements may be added.
 
-For entirely online voting there is the challenge of selecting who on the internet may participate. 
+For entirely-online-voting there is the challenge of selecting who on the internet may participate. 
 A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection. 
 note: using signing signatures,
 
