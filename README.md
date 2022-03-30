@@ -619,3 +619,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 - 
 
 note: RC4 used correctly
+
+
+
+Improvised Network in case of public internet disruptions:
+- 
