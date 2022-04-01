@@ -352,6 +352,7 @@ Step 9: (Check completed-ballot for errors)
 (see step 7?)
 
 Step 10: (Encrypt the Ballot) 
+Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
 Step 11: (Submit encrypted-ballot over network) 
 Q: recommended methods?
@@ -371,7 +372,6 @@ Step 14: (Process Election Data / Count The Votes)
 (storage: block chain or other immutable ledger?)
 
 Step 15: (Publish Election Data)
-
 
 
 (election results publishing...parts of process)
@@ -595,6 +595,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 - operationally defining problems with election procedures
 - processes for finding local consensus or agreement on areas of trade-off compromise, or ambiguity (identification, registration, voting age, duration of vote being open, campaign finance, etc.)
 - cross regional and international audits
+- basic election (not-computer) audit
+- computer-electronics audit of election
+
+
 
 ....
 
