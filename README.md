@@ -149,6 +149,8 @@ Note: Someone may wish to save a QR code (or equivilent) as some form of record.
 Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
 An 'agent' may be anything from a single person to a group to an AI-bot or software suit, malware, ransomware, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 1. constant 'internet background radiation,' 2. unintentional user-misuse 3. unintentional administrative bungling, 4. oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 6. software design problems that cause time, logistical, or reliability problems, 7. etc.)
 
+Note: it may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered and not ignored simply because it was not entirely successful. 
+
 1. a bad-agent will intercept one-time-pads:
 1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
@@ -185,6 +187,10 @@ An 'agent' may be anything from a single person to a group to an AI-bot or softw
 12. a bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
 13. a bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
+
+14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent
+
+15. a bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act.
 
 
 # Description Notes:
