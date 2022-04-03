@@ -274,10 +274,11 @@ There should be some option for physical printed documents, but there will most 
 Other methods such as chains-of-trust may be useful to harden thrifty online systems.
 
 #### General Revisions for Thrifty-Secure-Voting:
-1. no physical printed copies 
-2. no separate air-gapped hardware
-?. one pad per set of elections vs. two pads per single election (backup pads?)
-3. more cryptographic signature use?
+1. ideally use-able with only standard mobile devices possessed by voters
+2. no physical printed copies 
+3. no separate air-gapped hardware
+4. one pad per set of elections vs. two pads per single election (backup pads?)
+5. more cryptographic signature use?
 
 Topic:
 - use of one time pads and signing signatures
@@ -634,3 +635,9 @@ note: RC4 used correctly
 
 Improvised Network in case of public internet disruptions:
 - 
+
+
+# DNS policy:
+- direct DNS with no lookup
+
+
