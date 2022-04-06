@@ -641,4 +641,4 @@ Improvised Network in case of public internet disruptions:
 # DNS policy:
 - direct DNS with no lookup
 
-
+# Modes for server posted material that cannot be altered by any command on that server
