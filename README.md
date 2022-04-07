@@ -637,7 +637,6 @@ note: RC4 used correctly
 Improvised Network in case of public internet disruptions:
 - 
 
-
 # DNS policy:
 - direct DNS with no lookup
 
