@@ -388,7 +388,9 @@ Note: It is not clear that saving the QR codes serves any function, nor is there
 
 What kind of software (singular or plural) would be needed to arrange a secure election?
 
-Immutable-Ledger Data-Structures: Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
+Immutable-Ledger Data-Structures (blockchains): 
+- Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
+- General record and evidence chains. (admittance of observers, reports, events, etc.)
 
 Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
@@ -642,3 +644,5 @@ Improvised Network in case of public internet disruptions:
 - direct DNS with no lookup
 
 # Modes for server posted material that cannot be altered by any command on that server
+
+
