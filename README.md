@@ -645,4 +645,5 @@ Improvised Network in case of public internet disruptions:
 
 # Modes for server posted material that cannot be altered by any command on that server
 
-
+# Backup signal transmission for areas with disturbances to telecommunications:
+- the need for emergency ad hoc EM spectrum signal protocols
