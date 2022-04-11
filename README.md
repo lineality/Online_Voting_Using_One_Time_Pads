@@ -90,7 +90,7 @@ Step 6: (decrypt and print ballot [off-line])
 Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
 
-Step 6: (Validate the not-yet-completed Ballot [off-line]) 
+Step 7: (Validate the not-yet-completed Ballot [off-line]) 
 The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
