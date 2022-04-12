@@ -95,9 +95,9 @@ The voter off-line(enforced by software), inspects and validates that their digi
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-Step 7: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 8: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
-Step 8: (Digitize the Completed Ballot) 
+Step 9: (Digitize the Completed Ballot) 
 The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 (Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?)
 
@@ -115,33 +115,33 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 Another 'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 
-Step 9: (Check Completed-Ballot for Errors) 
+Step 10: (Check Completed-Ballot for Errors) 
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
-Step 10: (Encrypt the Ballot) 
+Step 11: (Encrypt the Ballot) 
 The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
-Step 11: (Submit encrypted-ballot over network) 
+Step 12: (Submit encrypted-ballot over network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
-Step 12: (Processing the voter's encrypted ballot)
+Step 13: (Processing the voter's encrypted ballot)
 The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 1. Print
 2. Check
 3. Delete
 
-Step 13: (Processing the Voter-Submitted Ballot)
+Step 14: (Processing the Voter-Submitted Ballot)
 Offline, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 (Note: depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
-Note: if the ballot is processed on an off-line not-connected to a network computer then the chances of 'hacking' the vote are reduces (the 'attack surface' is reduced). 
+Note: if the ballot is processed on an off-line not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
-Step 14: (Process Election Data / Count The Votes)
+Step 15: (Process Election Data / Count The Votes)
 The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
-Step 15: (Publish Election-Results Data)
+Step 16: (Publish Election-Results Data)
 The election results are processed and published.
 (The publication of election results is perhaps not strictly part of the question of 'secure voting' but in practice it is likely often a requirement.)
 
