@@ -630,8 +630,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 # Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
-- direct vs. representation
-- 
+- direct-vote vs. representational
+- ease of vote vs. super-secure-vote
 
 # voting and principles of security (ease of use vs. security etc)
 - 
