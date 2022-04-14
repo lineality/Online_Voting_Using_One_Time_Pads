@@ -363,10 +363,10 @@ Step 8: (this step needed for thrifty-version?)(extra other steps?)
 Step 9: (Check completed-ballot for errors) 
 (see step 7?)
 
-Step 10: (Encrypt the Ballot) 
+Step 10: (Encrypt the completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
-Step 11: (Submit encrypted-ballot over network) 
+Step 11: (voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
