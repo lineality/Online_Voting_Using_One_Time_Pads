@@ -226,7 +226,7 @@ It is also possible that OCR (optical character recognition) may not be good eno
 
 The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear easily defined targets such as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
-(Note: the direct use of .csv files may be ideal.)
+(Note: the direct use of .csv files may be ideal, which may account for write-in and other edge cases.)
 
 
 # About One Time Pads
