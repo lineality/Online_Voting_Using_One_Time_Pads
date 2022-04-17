@@ -245,7 +245,7 @@ Q: Is there a lower-tech version with reasonable security for geographic locatio
 
 
 # Part 2: Practical Secure Online Voting
-### A pragmatic version of online voting for realistic practical implementation
+### Goal: practical version of online voting for realistic implementation
 
 For example, some voting locations (or regions) may not have: 
 1. printers, ink, and paper
