@@ -652,3 +652,7 @@ Improvised Network in case of public internet disruptions:
 
 # Backup signal transmission for areas with disturbances to telecommunications:
 - the need for emergency ad hoc EM spectrum signal protocols
+
+# On the operational definition of voting issue and voting choices.
+
+# Preempting issues with NLP and voting software.
