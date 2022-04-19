@@ -655,4 +655,8 @@ Improvised Network in case of public internet disruptions:
 
 # On the operational definition of voting issue and voting choices.
 
-# Preempting issues with NLP and voting software.
+# Preempting issues with NLP (Natural Language Processing) and voting software
+- interpretation and ambiguity
+- spelling correction
+
+
