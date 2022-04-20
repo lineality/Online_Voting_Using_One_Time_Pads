@@ -659,4 +659,5 @@ Improvised Network in case of public internet disruptions:
 - interpretation and ambiguity
 - spelling correction
 
-
+# Ballot Fraud Detection
+- Machine Learning and Fraud Detection 
