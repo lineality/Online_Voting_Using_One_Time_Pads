@@ -86,7 +86,7 @@ Voter Receives Ballot online.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
-Step 6: (decrypt and print ballot [off-line])
+Step 6: (Decrypt and print ballot [off-line])
 Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
 
 
