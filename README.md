@@ -2,8 +2,8 @@
 Online Voting Using One Time Pads 
 
 # Contents:
-## Part 1: Secure Online Voting in Principle
-## Part 2: Practical Secure Online Voting
+## Part 1: Secure Online-Voting in-Principle
+## Part 2: Practical & Secure Online-Voting
 ## Part 3: Whole Election Platforms
 
 # Clarifying Goals and Questions: 
