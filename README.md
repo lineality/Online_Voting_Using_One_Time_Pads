@@ -4,7 +4,7 @@ Online Voting Using One Time Pads
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical & Secure Online-Voting
-## Part 3: Whole Election Platforms
+## Part 3: Whole Election And Vote Analysis Platforms
 
 # Clarifying Goals and Questions: 
 - Main Goal: Systematize secure online voting.
