@@ -303,7 +303,7 @@ Ballot format standardization?
 
 Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
 
-Step 1: (During online registration) 
+Step 1: (Voter-Setup: During online registration time period) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 This may be done entirely online for most-practical voting, or other elements may be added.
 (Note: setup questions for entirely online vote: How list of voters is selected or checked. Voter identification online... In theory the same online system as for current voter-registration may be used and considered sufficient.)
@@ -313,7 +313,7 @@ A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up w
 note: using signing signatures,
 
 
-Step 2:
+Step 2: 
 
 While the thrifty-protocol is designed to avoid extra printer hardware, the option still exists to hand-write a one-time pad. 
 A short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
@@ -329,7 +329,7 @@ Q: one time pads vs. signing keys for transmitting ballots
 
 
 
-Step 4: (send ballot?)
+Step 4: Voter Obtains Ballot Online(over-a-network)(send ballot?)
 3 options:
 1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
