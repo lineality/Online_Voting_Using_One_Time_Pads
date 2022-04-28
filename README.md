@@ -301,7 +301,11 @@ Ballot format standardization?
 
 # Proposed Steps for a Practical  Secure Online Voting (section under construction)
 
-Note: This thrifty and pragmatic (if not perfect) system does not assume there is a voting office either as a building or as human staff.
+Note: This thrifty-and-pragmatic (if not perfect) system does not assume:
+- that there is a voting office either as a building or as human staff
+- that voting-areas can afford any equipment beyond voters having mobile phones
+- that a voting-area can afford a large staff to manage the election
+- that there are institutions for safe and secure elections
 
 Step 1: (Voter-Setup: During online registration time period) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
