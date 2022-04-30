@@ -4,7 +4,7 @@ Online Voting Using One Time Pads
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical & Secure Online-Voting
-## Part 3: Whole Election And Vote Analysis Platform
+## Part 3: Whole Election And Vote Analysis Platforms
 
 # Clarifying Goals and Questions: 
 - Main Goal: Systematize secure online voting.
@@ -45,7 +45,7 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
-Step 1: (During in-person registration [off-line]) 
+Step 1: (During in-person registration [off-line]: voter registers) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
@@ -334,7 +334,7 @@ Q: one time pads vs. signing keys for transmitting ballots
 
 
 
-Step 4: Voter Obtains Ballot Online(over-a-network)(send ballot?)
+Step 4: Voter Obtains Ballot Online(over-a-network)
 3 options:
 1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
