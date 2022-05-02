@@ -667,4 +667,6 @@ Improvised Network in case of public internet disruptions:
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
 
+# reducing a .csv file to a QR code...
+- can a standard ballot sized csv file fit into a .csv file?
 
