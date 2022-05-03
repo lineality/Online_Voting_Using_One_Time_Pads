@@ -364,15 +364,13 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-Step 8: (this step needed for thrifty-version?)(extra other steps?)
-
-Step 9: (Check completed-ballot for errors) 
+Step 8: (Check completed-ballot for errors) 
 (see step 7?)
 
-Step 10: (Encrypt the completed-Ballot) 
+Step 9: (Encrypt the completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
-Step 11: (voter Submit encrypted-ballot over network) 
+Step 10: (voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
@@ -390,6 +388,9 @@ Step 14: (Process Election Data / Count The Votes)
 (storage: block chain or other immutable ledger?)
 
 Step 15: (Publish Election Data)
+
+Step 16: (Publish Election Report)
+
 
 
 (election results publishing...parts of process)
