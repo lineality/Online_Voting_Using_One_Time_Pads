@@ -226,7 +226,7 @@ It is also possible that OCR (optical character recognition) may not be good eno
 
 The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear easily defined targets such as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
-(Note: the direct use of .csv files may be ideal, which may account for write-in and other edge cases.)
+(Note: The direct use of .csv files may be ideal. CSV files can also account for write-in and other edge cases. Any 'field' to fill in can simply be included either as an item in the same row and or as a column heading)
 
 
 # About One Time Pads
@@ -667,6 +667,20 @@ Improvised Network in case of public internet disruptions:
 
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
+
+# Standardized .csv ballot formats
+flat files with no header needed
+first column: category
+second column: vote item
+third column: vote choice
+
+voter id as first row
+
+voter_id_number, voters_number, MY_NUMBER\n
+voter_id_name, voters_id, MY_NAME\n
+judges, judge_1, MY_CHOICE\n
+
+
 
 # reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
