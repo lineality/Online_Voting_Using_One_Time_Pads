@@ -685,3 +685,5 @@ judges, judge_1, MY_CHOICE\n
 # reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
 
+# Participant and Rules based process for maintaining and publishing about voting system and election
+-  
