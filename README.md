@@ -688,3 +688,15 @@ judges, judge_1, MY_CHOICE\n
 
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
+
+
+
+# Voting Statistic Package
+- frequentist
+- Baysian
+- data analysis
+- data visualization
+- statistics and machine learning
+- decision trees and statistics
+- continuous functions vs. classification
+- targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
