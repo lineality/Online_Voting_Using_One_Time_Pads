@@ -689,6 +689,7 @@ judges, judge_1, MY_CHOICE\n
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
 
+# on productures, "trust", measures, standards, and ethics
 
 
 # Voting Statistic Package
