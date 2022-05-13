@@ -701,3 +701,6 @@ judges, judge_1, MY_CHOICE\n
 - decision trees and statistics
 - continuous functions vs. classification
 - targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
+
+
+#  Records, versioning, documentations, testing standards
