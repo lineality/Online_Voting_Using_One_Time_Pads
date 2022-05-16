@@ -647,6 +647,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - smaller attack space vs. fancy interface
 - direct-vote vs. representational
 - ease of vote vs. super-secure-vote
+- direct participation by voters vs. time consuming processes
 
 # voting and principles of security (ease of use vs. security etc)
 - 
