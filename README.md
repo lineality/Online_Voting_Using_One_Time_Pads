@@ -164,16 +164,20 @@ An 'agent' may be anything from a single person to a group of people to an AI-bo
 Note: it may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered and not ignored simply because it was not entirely successful. 
 
 1. a bad-agent will intercept one-time-pads:
+
 1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
 1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
+
 1.3 - if the voter loses the QR code the person should cancel the process
 
 2. a bad-agent will send the voter a fake blank-ballot:
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
 
-3. a bad-agent will send the gov. a fake filled-in ballot:
+3. A bad-agent will send the gov. a fake filled-in ballot:
+
 - 3.1  The bad-agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
+
 - 3.2  If the voter loses the QR code the person should cancel the process.
 	
 4. a bad-agent will record a fake record of the vote from the ballot:
@@ -194,15 +198,17 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 
 10. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority
 
-11. a bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
+11. A bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
 
-12. a bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
+12. A bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
 13. a bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
 
-14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent
+14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
 
 15. a bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act.
+
+16. a bad-agent will attempt to re-purpose the voting system for their own uses.
 
 
 # Description Notes:
