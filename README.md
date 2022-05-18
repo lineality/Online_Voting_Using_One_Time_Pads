@@ -632,7 +632,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - cross regional and international audits
 - basic election (not-computer) audit
 - computer-electronics audit of election
-
+- security audit
+- long term data storage and records audit
+- step by step audit of process?
 
 
 ....
