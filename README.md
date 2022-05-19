@@ -720,3 +720,8 @@ judges, judge_1, MY_CHOICE\n
 
 
 #  Records, versioning, documentations, testing standards
+
+# platform and OS safety policies
+- OS update policies
+- choice of OS
+- 
