@@ -725,3 +725,5 @@ judges, judge_1, MY_CHOICE\n
 - OS update policies
 - choice of OS
 - 
+
+# passwords, devices, fido, etc.
