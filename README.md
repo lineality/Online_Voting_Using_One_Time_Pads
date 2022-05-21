@@ -45,6 +45,11 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
 
+Q: Design issue or option: printable-document format vs. .csv format
+- reading document
+- storing document
+- converting document
+
 Step 1: (During in-person registration [off-line]: voter registers) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
@@ -125,7 +130,7 @@ The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' th
 Step 12: (Voter Submits Encrypted-ballot Over-a-Network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
-Step 13: (Processing the voter's encrypted ballot)
+Step 13: (Processing the Voter's Encrypted Ballot)
 The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 1. Print
 2. Check
