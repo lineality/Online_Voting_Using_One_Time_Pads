@@ -732,3 +732,8 @@ judges, judge_1, MY_CHOICE\n
 - 
 
 # passwords, devices, fido, etc.
+
+
+# forms of encryption and trade-offs 
+
+
