@@ -422,7 +422,7 @@ Immutable-Ledger Data-Structures (blockchains):
 - Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
 - General record and evidence chains. (admittance of observers, reports, events, etc.)
 
-Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
+Resilience: One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 
 # A Practical Election Management Package
