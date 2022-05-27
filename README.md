@@ -736,4 +736,6 @@ judges, judge_1, MY_CHOICE\n
 
 # forms of encryption and trade-offs 
 
+# memory management: security
 
+# login management
