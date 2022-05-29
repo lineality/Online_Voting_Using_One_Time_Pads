@@ -739,3 +739,12 @@ judges, judge_1, MY_CHOICE\n
 # memory management: security
 
 # login management
+
+# Security: Type of attacks that cannot be prevented
+- social engineering attacks
+- 
+
+# Security: Types of 'encryption' that cannot be broken
+- one time pads
+- navigation-blind entry
+
