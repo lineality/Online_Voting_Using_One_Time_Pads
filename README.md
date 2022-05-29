@@ -740,11 +740,12 @@ judges, judge_1, MY_CHOICE\n
 
 # login management
 
-# Security: Type of attacks that cannot be prevented
+# Security: Type of attacks that cannot be entirely prevented:
 - social engineering attacks
-- 
+- physical site destruction
 
-# Security: Types of 'encryption' that cannot be broken
+
+# Security: Types of 'encryption' that cannot be broken:
 - one time pads
-- navigation-blind entry
-
+- navigation-blind OS
+- 
