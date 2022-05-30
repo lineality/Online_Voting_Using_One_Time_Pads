@@ -743,6 +743,7 @@ judges, judge_1, MY_CHOICE\n
 # Security: Type of attacks that cannot be entirely prevented:
 - social engineering attacks
 - physical site destruction
+- distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
 
 # Security: Types of 'encryption' that cannot be broken:
