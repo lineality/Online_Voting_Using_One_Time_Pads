@@ -222,10 +222,11 @@ This is a proposed process for reasonably secure 'online (over a network) voting
 The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
 
 
-# Implementation:
+# Implementation: 
+(see practical implementation as separate after proof of concept implementation)
 These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
 
-To make improve accessibility, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
+To improve accessibility, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
 - voters who have no access to a printer
 - voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
 
