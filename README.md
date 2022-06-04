@@ -587,7 +587,7 @@ Q: possible requiring of ballot being completely filled out
 - checksum etc.
 
 
-practical model 2:
+## Practical Model 2:
 Similar to baseline secure model with these changes:
 - allows registered phone number use:
 	- ballots can be exchanged by ~sms or 
@@ -750,3 +750,9 @@ judges, judge_1, MY_CHOICE\n
 - one time pads
 - navigation-blind OS
 - 
+
+
+...
+
+## The need for a resource-thin framework
+
