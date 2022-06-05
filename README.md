@@ -756,3 +756,5 @@ judges, judge_1, MY_CHOICE\n
 
 ## The need for a resource-thin framework
 
+Note: https://www.grc.com/securitynow.htm 
+SN Episode #873: australian digital driver's license as case study in similar system, not Gibson's certificate based solution 
