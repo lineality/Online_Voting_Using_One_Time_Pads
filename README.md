@@ -758,3 +758,10 @@ judges, judge_1, MY_CHOICE\n
 
 Note: https://www.grc.com/securitynow.htm 
 SN Episode #873: australian digital driver's license as case study in similar system, not Gibson's certificate based solution 
+
+
+...
+
+## topics in voter enrollement
+
+...
