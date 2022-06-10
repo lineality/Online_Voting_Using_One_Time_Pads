@@ -212,9 +212,11 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 
 14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
 
-15. a bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act.
+15. a bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act. (APT?)
 
 16. a bad-agent will attempt to re-purpose the voting system for their own uses.
+
+17. a bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification
 
 
 # Description Notes:
