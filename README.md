@@ -280,10 +280,10 @@ Most locations can be assumed to have and required to have:
 1. basic mobile phones
 2. basic (not high speed) internet access
 
-
 Writing down the numbers and confirming with a photo (no printers needed) may be able to replace a printed QR code system while still having a paper-backup form, if only as an option (e.g. you cannot hack into and change a piece of paper). 
 
-A separate air-gapped mobile devices would be feasible, or perhaps a more decentralized system would be more secure.
+A separate air-gapped mobile device would be feasible, or perhaps a more decentralized system would be more secure.
+(note: 'certificate' model)
 
 
 # An alternative thrifty-protocol for resource-limited situations/geographies: (section under construction)
