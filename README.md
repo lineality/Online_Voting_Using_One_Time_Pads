@@ -180,7 +180,7 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 2. a bad-agent will send the voter a fake blank-ballot:
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
 
-3. A bad-agent will send the gov. a fake filled-in ballot:
+3. A bad-agent will send the voting system a fake filled-in ballot (pretending to be the voter):
 
 - 3.1  The bad-agent would need to have both stolen QR codes and a stolen ballot that was sent to the voter.
 
