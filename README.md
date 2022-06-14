@@ -775,3 +775,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## quantum computer challenges to block chains and smart contracts
 
 ## identifying issues candidates and choices clearly
+
+
+## Statistical analysis in error checking of voting data
+
+
