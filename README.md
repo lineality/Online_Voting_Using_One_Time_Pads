@@ -259,7 +259,7 @@ Historically, a 'one time pad' was literally a pair of identical physical paper 
 
 With a one-time-pad, every character (letter, number, symbol, etc.) in a document is individually substituted for something else. There is no pattern or system behind a one-time-code that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad; a one-time-pad is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no shortcut. Every character or element or number of the entire document is individually substituted for something else. 
 
-One-time-pads codes are not as efficient and user friendly as 're-use-able' codes in some ways, but they are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' 
+One-time-pads are not as efficient and user friendly as 're-use-able' codes in some ways, but they are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' 
 
 ...
 
