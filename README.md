@@ -776,7 +776,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## identifying issues candidates and choices clearly
 
-
 ## Statistical analysis in error checking of voting data
+
+## Voting systems, governance, and overall sustainability measures
 
 
