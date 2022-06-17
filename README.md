@@ -308,8 +308,7 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 4. one pad per set of elections vs. two pads per single election (backup pads?)
 5. more cryptographic signature use?
 
-Topic:
-- use of one time pads and signing signatures
+#### Topic: use of one time pads and signing signatures
 
 
 
