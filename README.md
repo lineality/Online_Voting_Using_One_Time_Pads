@@ -340,14 +340,13 @@ A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up w
 note: using signing signatures,
 
 
-Step 2: 
+(Step 2: )
 
 While the thrifty-protocol is designed to avoid extra printer hardware, the option still exists to hand-write a one-time pad. 
 A short-form ballot one time pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
 A short-form or truncated ballot may contain, e.g., the number of the option-choice and perhaps a first/last letter in the candidates name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). Two-factor-no-nul voting?
 Note: Write-in may be an issue for the truncated ballot. 
-
 
 Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
