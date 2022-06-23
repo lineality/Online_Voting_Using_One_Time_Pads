@@ -304,7 +304,7 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 
 #### General Revisions for Thrifty-Secure-Voting:
 1. ideally use-able with only standard mobile devices possessed by voters
-2. no physical printed copies 
+2. no physical printed copies, so a change from OCR and paper documents to basic characters in a file. 
 3. no separate air-gapped hardware
 4. one pad per set of elections vs. two pads per single election (backup pads?)
 5. more cryptographic signature use?
