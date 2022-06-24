@@ -780,3 +780,4 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## Voting systems, governance, and overall sustainability measures
 
 
+## Election Types, Calculation of Results, next steps based on results
