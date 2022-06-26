@@ -781,3 +781,5 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 
 ## Election Types, Calculation of Results, next steps based on results
+
+## Quantum Computing, Blockains, Smart Contracts, and Voting Systems: Security Planning
