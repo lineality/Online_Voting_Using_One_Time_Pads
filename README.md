@@ -783,3 +783,10 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## Election Types, Calculation of Results, next steps based on results
 
 ## Quantum Computing, Blockains, Smart Contracts, and Voting Systems: Security Planning
+
+## Voting systems in general:
+1. high tech and low tech, voting and information
+2. voting in governmental elections vs. voting in any multi-person project
+3. voting and definitions
+
+
