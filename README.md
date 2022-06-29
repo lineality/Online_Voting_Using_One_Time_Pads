@@ -474,13 +474,14 @@ Uuid type random key-field
 Fuzzy time stamp (month year?) unix epoch
 
 
-2. Using a modified blockchain to store results:
+2. Using a blockchain (or modified blockchain) to store results:
 - e.g. university trusted node anchors
 - maybe full-chain so no retroactive?
 - slower but more robust?
 - smaller number of participants? (or pooled participants?)
 - containing hash and voting record?
 
+3. Using smart-contracts to manage processes through elections
 
 
 
