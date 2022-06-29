@@ -468,8 +468,7 @@ Project:
 - (make) rules for voter participation/qualification in an automated voter system
 
 
-
-# (mitigation of insecure local voting headquarters)
+### (mitigation of insecure local voting headquarters)
 2nd step of recording / publishing vote:
 Uuid type random key-field
 Fuzzy time stamp (month year?) unix epoch
