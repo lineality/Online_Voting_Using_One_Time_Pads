@@ -704,7 +704,7 @@ voter_id_number, voters_number, MY_NUMBER\n
 voter_id_name, voters_id, MY_NAME\n
 judges, judge_1, MY_CHOICE\n
 
-
+(standards on documentation)
 
 # reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
@@ -790,4 +790,5 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 2. voting in governmental elections vs. voting in any multi-person project
 3. voting and definitions
 
+# languages, character types, and voting systems
 
