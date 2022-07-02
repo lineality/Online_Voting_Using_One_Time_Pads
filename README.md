@@ -794,3 +794,5 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 # languages, character types, and voting systems
 
+## OCR
+Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting, is handled. Including the question of whether OCR should be avoided.
