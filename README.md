@@ -45,6 +45,7 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 
 Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
+Rules: Voting issues must be definable and defined in measurable and testable ways.
 
 Q: Design issue or option: printable-document format vs. .csv format
 - reading document
