@@ -83,7 +83,7 @@ In the case that a truncated-submitted ballot is used, some way may be desired t
 It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the Vote-Office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
 
 
-Step 4: (Sending out the not-yet-completed ballot to the voter) 
+Step 4: (Sending Out the not-yet-completed Ballot to the Voter) 
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon ("electronic" or non-paper) method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of a QR code.
 (note: document vs. .csv file format)
 
