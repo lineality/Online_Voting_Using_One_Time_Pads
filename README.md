@@ -83,27 +83,29 @@ In the case that a truncated-submitted ballot is used, some way may be desired t
 It may be possible to have both a public verified 'open' ballot format and some unique element for the voter to check that the ballot comes from the Vote-Office with the voters one-time-pad (such as a unique id code at the bottom or top of the ballot)
 
 
-Step 4: (Sending Out the not-yet-completed Ballot to the Voter) 
+Step 4: (Sending Out the Not-Yet-Completed Ballot to the Voter) 
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent [from the voting-office to the voter] by whatever agreed upon ("electronic" or non-paper) method (website, email, SMS-text, mobile-app, S3, api-endpoint, etc.) in the form of a QR code.
 (note: document vs. .csv file format)
 
 #### Note: As an example method for a 'personalized ballot,' a randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
 
-Step 5: (Receive the not-yet-completed ballot [on-line]) 
+Step 5: (Voter Receives the not-yet-completed ballot [over-a-network]) 
 Voter Receives Ballot online.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
 Step 6: (Decrypt and print ballot [off-line])
-Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot and then physically prints the ballot.
+Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot.
 
+Step 7:(Print Ballot [off-line])
+physically prints the decrypted ballot
 
-Step 7: (Validate the not-yet-completed Ballot [off-line]) 
+Step 8: (Validate the not-yet-completed Ballot [off-line]) 
 The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-Step 8: (Complete the Ballot, Mark Votes) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 8: (Mark Ballot with Vote Choices6) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 Step 9: (Digitize the Completed Ballot) 
 The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
