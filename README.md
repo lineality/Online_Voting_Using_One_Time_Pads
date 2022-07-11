@@ -105,9 +105,9 @@ The voter off-line(enforced by software), inspects and validates that their digi
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-Step 8: (Mark Ballot with Vote Choices6) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 9: (Mark Ballot with Vote Choices6) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
-Step 9: (Digitize the Completed Ballot) 
+Step 10: (Digitize the Completed Ballot) 
 The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 (Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?) 
 
@@ -128,22 +128,22 @@ Another ~'multifactor' check may be to both indicate a choice and give some info
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 (Q: ...print formats...)
 
-Step 10: (Check Completed-Ballot for Errors) 
+Step 11: (Check Completed-Ballot for Errors) 
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
-Step 11: (Encrypt the Ballot) 
+Step 12: (Encrypt the Ballot) 
 The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
-Step 12: (Voter Submits Encrypted-ballot Over-a-Network) 
+Step 13: (Voter Submits Encrypted-ballot Over-a-Network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
-Step 13: (Processing the Voter's Encrypted Ballot)
+Step 14: (Processing the Voter's Encrypted Ballot)
 The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical, and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 1. Print
 2. Check
 3. Delete
 
-Step 14: (Processing the Voter-Submitted Ballot)
+Step 15: (Processing the Voter-Submitted Ballot)
 Offline, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
@@ -153,10 +153,12 @@ Q: How much data can a QR code contain? How redundant can a QR be for error-corr
 
 Note: If the ballot is processed on an off-line not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
-Step 15: (Process Election Data / Count The Votes)
+Enter voter data into results data set.
+
+Step 16: (Process Election Data / Count The Votes)
 The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
 
-Step 16: (Publish Election-Results Data)
+Step 17: (Publish Election-Results Data)
 The election results are processed and published.
 (The publication of election results is perhaps not strictly part of the question of 'secure voting' but in practice it is likely often a requirement.)
 
@@ -244,6 +246,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 Additional steps could also be taken to increase the security further. 
 #### For example: 
 1. to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontroller. 
+
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
 ## Unique Ballots:
@@ -797,7 +800,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 2. voting in governmental elections vs. voting in any multi-person project
 3. voting and definitions
 
-# languages, character-types(language character sets, UTF8 etc), and voting systems
+#  languages, character-types(language character sets, UTF8 etc), and voting systems
 
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting, is handled. Including the question of whether OCR should be avoided.
