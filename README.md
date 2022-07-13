@@ -1,5 +1,6 @@
 # Online_Voting_Using_One_Time_Pads
-Online Voting Using One Time Pads 
+#### Online Voting Using One Time Pads 
+#### & Notes on General Election Software
 
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle
@@ -153,7 +154,7 @@ Q: How much data can a QR code contain? How redundant can a QR be for error-corr
 
 Note: If the ballot is processed on an off-line not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
-Enter voter data into results data set.
+Enter voter data into the election-results-data-set.
 
 Step 16: (Process Election Data / Count The Votes)
 The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
