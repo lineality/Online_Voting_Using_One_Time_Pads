@@ -44,9 +44,16 @@ The view taken here is that 'voting' is a science-like process. Voting is based 
 
 # Proposed Steps for Secure Online Voting
 
-Rule 1: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
+Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
 
-Rules: Voting issues must be definable and defined in measurable and testable ways.
+Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
+
+Rule/Assumption 3: Empirical and hypothetical tests and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. 
+
+Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
+
+Rule/Assumption 5: If the context is critiquing the mechanics of casting votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to this context of submitting a ballot. (E.g. Complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to cast/submit votes/ballots.)
+
 
 Q: Design issue or option: printable-document format vs. .csv format
 - reading document
