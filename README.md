@@ -123,14 +123,14 @@ The voter, offline (enforced by software), scans (e.g. by taking a picture) the 
 
 Q: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
 
-Reference:
-See: 
+Reference: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
 Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
+(end of reference)
 
 Another ~'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
