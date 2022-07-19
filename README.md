@@ -20,7 +20,7 @@ To clarify goals and questions, below are two lists of questions. There is a lis
 
 
 ## Questions we are trying to answer and focus on here on include the following: 
-1. Is secure over-a-network (online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper system.') 
+1. Is secure over-a-network (online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper voting system.') 
 2. Is it possible for a voter to securely receive a ballot from a Vote-Office over a network (online)? 
 3. Is it possible for a voter to submit a ballot securely over a network (online)?
 4. Is it possible for a voting-office to securely receive a completed ballot from the voter over a network (online)? [including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
@@ -36,6 +36,9 @@ To clarify goals and questions, below are two lists of questions. There is a lis
 
 ## A debatably separate or peripherally related question may be:
 1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
+
+2. Is there a way to define voting as a more general operationally defined process that leads to more timely and practical deployments of voting tools and features?
+
 
 # Concept: Universal Voting Procedures and Processes
 
