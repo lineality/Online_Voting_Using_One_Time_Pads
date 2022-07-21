@@ -536,17 +536,17 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 ...
 
-Case Studies in Election Disruption and Resilience:
-- 
-- 
-- 
-
-Case Studies in Disrupted and Problematic Elections:
-- 
-- 
+#### Case Studies in Election Disruption and Resilience:
+(2020)
 - 
 
 
+#### Case Studies in Disrupted and Problematic Elections:
+(international?)
+- 
+
+#### Case Studies in Failing to agree locally on election rules:
+-
 
 ...
 
