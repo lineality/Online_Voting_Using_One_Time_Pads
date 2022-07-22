@@ -239,6 +239,9 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 
 17. a bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification
 
+18. disrupting the network?
+
+
 
 # Description Notes:
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
