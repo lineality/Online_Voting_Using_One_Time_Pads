@@ -241,6 +241,8 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 
 18. disrupting the network?
 
+19. a bad agent may behave in ways that are indeterminately incompetant and malicious. 
+
 
 
 # Description Notes:
