@@ -824,3 +824,13 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting, is handled. Including the question of whether OCR should be avoided.
+
+
+# General Voting System Study Links
+https://www.youtube.com/greymatter/search?query=elections 
+
+# Voting System Design Study Links
+https://www.youtube.com/greymatter/search?query=elections 
+
+## Election Data Study Link
+https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
