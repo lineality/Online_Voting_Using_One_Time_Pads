@@ -259,9 +259,9 @@ To improve accessibility, it is conceivable that some local voting systems would
 - voters who have no access to a printer
 - voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
 
-Additional steps could also be taken to increase the security further. 
-#### For example: 
-1. to reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontroller. 
+#### Additional steps could also be taken to increase security. 
+### For example: 
+1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontroller. 
 
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
