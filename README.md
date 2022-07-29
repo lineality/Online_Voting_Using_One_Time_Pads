@@ -215,21 +215,21 @@ Note: it may be important to consider both (unsuccessful) attempts and successfu
 - cancel or change registration
 - try to register or get registration information
 
-6. a bad-agent will act on the behalf of the voting office without the voting-office's participation
+6. A bad-agent will act on the behalf of the voting office without the voting-office's participation.
 
-7. a bad-agent will attempt to tamper with a public ballot (e.g. a ballot itself, e.g. downloading a ballot to use)
+7. A bad-agent will attempt to tamper with a public ballot (e.g. a ballot itself, e.g. downloading a ballot to use).
 
-8. a bad-agent will attempt to tamper with public ballot-confirmation information (e.g. public information posted about the ballot by the voting office, describing and understanding the ballot and ballot issues)
+8. A bad-agent will attempt to tamper with public ballot-confirmation information (e.g. public information posted about the ballot by the voting office, describing and understanding the ballot and ballot issues).
 
-9. a bad-agent will attempt to tamper with voting instructions and information about voting procedures
+9. A bad-agent will attempt to tamper with voting instructions and information about voting procedures.
 
-10. a bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority
+10. A bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority.
 
 11. A bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
 
 12. A bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
-13. a bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
+13. A bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
 
 14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
 
