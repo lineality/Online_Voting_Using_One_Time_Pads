@@ -51,7 +51,7 @@ Rule/Assumption 1: There is a physical voting-office, just as there would be in 
 
 Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
-Rule/Assumption 3: Empirical and hypothetical tests and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. 
+Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. 
 
 Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
 
@@ -396,9 +396,11 @@ Step 4: Voter Obtains Ballot Online(over-a-network)
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
 
+
 Step 5: (Voter Gets the not-yet-completed ballot)  
 A. sent to user
 B. posted on several public sites and signed and can be compared/verified
+
 
 Step 6: (Voter Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
