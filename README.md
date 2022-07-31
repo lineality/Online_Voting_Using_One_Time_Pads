@@ -100,6 +100,14 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 
 #### Note: As an example method for a 'personalized ballot,' a randomized process of frame-shifting the ballot so that where exactly on the page each person's vote-choices appears is random, increasing the entropy of the unique ballot (e.g. so that the voting-office can increase confidence that the ballot they receive back from the voter is the one they set). 
 
+#### Note: Public Ballot vs. Private Ballot vs. Hybrid
+1. Public 'open' ballots over a network and verifiable, maybe multi-factor verifiable. (Asymmetric signed by voting office, asymmetric signed by other trusted groups: ngo, university, sister cities, etc. The idea being that 'multi-factor' significantly increases the difficulty of attack; a public open-ledger ballot on a block-chain type system may also be either an alternative or another multi-factor. 
+2. 
+3. 
+
+#### Note: Another type of hybrid approach is the physically hand out general or unique ballots at the ballot office to the voter in-person, in the same process where the voter registers to vote.
+
+
 Step 5: (Voter Receives the not-yet-completed ballot [over-a-network]) 
 Voter Receives Ballot online.
 
