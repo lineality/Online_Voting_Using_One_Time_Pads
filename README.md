@@ -102,8 +102,8 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 
 #### Note: Public Ballot vs. Private Ballot vs. Hybrid
 1. Public 'open' ballots over a network and verifiable, maybe multi-factor verifiable. (Asymmetric signed by voting office, asymmetric signed by other trusted groups: ngo, university, sister cities, etc. The idea being that 'multi-factor' significantly increases the difficulty of attack; a public open-ledger ballot on a block-chain type system may also be either an alternative or another multi-factor. 
-2. 
-3. 
+2. Send the vote (or allow them to download) a private ballot (or a public ballot)
+
 
 #### Note: Another type of hybrid approach is the physically hand out general or unique ballots at the ballot office to the voter in-person, in the same process where the voter registers to vote.
 
