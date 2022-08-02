@@ -12,8 +12,8 @@
 - Main Questions: 
 #### 1. Is secure-auditable online-voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
-#### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? 
-#### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible and pragmatic-practical-systems?
+#### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? How is security measured? What specific measures are required for security to be sufficient?
+#### 4. What are differences between ideal-maximum-security-systems and sufficiently-secure more-accessible or realistically-feasible and pragmatic-practical-systems? 
 
 
 To clarify goals and questions, below are two lists of questions. There is a list of questions that we ARE attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are not asking do not get mixed together with questions that we are asking.
