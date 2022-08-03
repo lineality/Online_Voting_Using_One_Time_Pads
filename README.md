@@ -852,3 +852,6 @@ https://www.youtube.com/greymatter/search?query=elections
 ## Data Visualization & Elections
 - https://plotly.com/python/v3/ipython-notebooks/ukelectionbbg/ 
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
+
+## Who: Age Voting Tests and Voter Qualification
+
