@@ -393,6 +393,7 @@ Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of a
 
 Step 3: (this step needed for thrifty-version?)(extra other steps?)
 Q: one time pads vs. signing keys for transmitting ballots
+also: multiple party signing keys?
 
 
 Step 4: Voter Obtains Ballot Online(over-a-network)
