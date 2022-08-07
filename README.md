@@ -420,7 +420,9 @@ Step 7: (Complete the Ballot, Mark Votes)
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. See: 
+~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+
+#### See: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
