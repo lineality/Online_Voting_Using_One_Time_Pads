@@ -827,6 +827,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## Election Types, Calculation of Results, next steps based on results
 
 ## Quantum Computing, Blockains, Smart Contracts, and Voting Systems: Security Planning
+- Are aspects of smart contracts useful for issues such as a runoff where potentially two or more groups of participants are in conflict/competition?
 
 ## Voting systems in general:
 1. high tech and low tech, voting and information
