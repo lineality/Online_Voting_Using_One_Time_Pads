@@ -143,7 +143,7 @@ University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 (end of reference)
 
-Another ~'multifactor' check may be to both indicate a choice and give some information about that choice, e.g. option 2 and the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
+Another ~'multifactor' check may be to both indicate a choice(mark a vote) and give some information about that choice, e.g. mark candidate 2 and in a second field enter the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot. 
 (Q: ...print formats...)
 
