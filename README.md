@@ -185,7 +185,9 @@ The election results are processed and published.
 Note: Someone may wish to save a QR code (or equivalent) as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
 
 
-# Identifying Risks 
+# Risks, Attacks & Security
+
+## Identifying Risks 
 Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
 An 'agent' may be anything from a single person to a group of people to an AI-bot, software suit, malware software, ransomware software, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 
 -1. constant 'internet background radiation,' 
@@ -196,7 +198,7 @@ An 'agent' may be anything from a single person to a group of people to an AI-bo
 -6. software design problems that cause time, logistical, or reliability problems, 
 -7. etc.)
 
-Note: it may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered and not ignored simply because it was not entirely successful. 
+Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered and not ignored simply because it was not entirely successful. 
 
 1. a bad-agent will intercept one-time-pads:
 
@@ -862,4 +864,3 @@ https://www.youtube.com/greymatter/search?query=elections
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
 
 ## Who: Age Voting Tests and Voter Qualification
-
