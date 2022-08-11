@@ -2,7 +2,7 @@
 #### Online Voting Using One Time Pads 
 #### & Notes on General Election Software
 
-# Contents:
+# Contents: 
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical & Secure Online-Voting
 ## Part 3: Whole Election And Vote Analysis Platforms
@@ -864,3 +864,4 @@ https://www.youtube.com/greymatter/search?query=elections
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
 
 ## Who: Age Voting Tests and Voter Qualification
+
