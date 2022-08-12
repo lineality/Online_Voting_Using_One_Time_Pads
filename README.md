@@ -542,8 +542,12 @@ Possible Multi-factor Authentication Tools:
 7. ip / mac address details (vpn issues?)
 6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
 7. face-selfie (time GIS stamped picture of person casting vote)
-8. video of person voting (more secure than static selfie?
+8. video of person voting (more secure than static selfie?)
 or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
+
+## Specific Deep-fake and NN-generated-photo detection
+- fake account setup
+- malicious files (fake or altered pictures for deception)
 
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
