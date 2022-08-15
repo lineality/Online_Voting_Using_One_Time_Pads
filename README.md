@@ -1,6 +1,5 @@
 # Online_Voting_Using_One_Time_Pads
-#### Online Voting Using One Time Pads 
-#### & Notes on General Election Software
+#### Online Voting Using One Time Pads & Notes on General Election Software
 
 # Contents: 
 ## Part 1: Secure Online-Voting in-Principle
