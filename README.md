@@ -814,6 +814,9 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## topics in voter enrollment
 
+## historical debates on voter participation
+- John Adams
+
 ...
 
 ## proportional vs. first past the post
