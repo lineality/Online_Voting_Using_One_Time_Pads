@@ -207,7 +207,7 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 1.3 - if the voter loses the QR code the person should cancel the process
 
-2. a bad-agent will send the voter a fake blank-ballot:
+2. A bad-agent will send the voter a fake blank-ballot:
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
 
 3. A bad-agent will send the voting system a fake filled-in ballot (pretending to be the voter):
@@ -216,10 +216,10 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 - 3.2  If the voter loses the QR code the person should cancel the process.
 	
-4. a bad-agent will record a fake record of the vote from the ballot:
+4. A bad-agent will record a fake record of the vote from the ballot:
 - while a possible risk, this process is the same as for any paper ballot
 
-5. a bad-agent will act on the behalf of a participant without the voter's participation
+5. A bad-agent will act on the behalf of a participant without the voter's participation
 - cast a vote
 - cancel or change registration
 - try to register or get registration information
@@ -240,17 +240,19 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 13. A bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
 
-14. a bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
+14. A bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
 
-15. a bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act. (APT?)
+15. A bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act. (APT?)
 
-16. a bad-agent will attempt to re-purpose the voting system for their own uses.
+16. A bad-agent will attempt to re-purpose the voting system for their own uses.
 
-17. a bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification
+17. A bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification
 
-18. disrupting the network?
+18. A bad-agent will attempt to disrupt the network.
 
-19. a bad agent may behave in ways that are indeterminately incompetant and malicious. 
+19. A bad agent may behave in ways that are indeterminately incompetant and malicious. 
+
+20. A bad-agent will attempt social engineering attacks.
 
 
 
