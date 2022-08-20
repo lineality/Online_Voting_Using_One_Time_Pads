@@ -578,7 +578,6 @@ https://github.com/lineality/Auditable_Elections_Projects
 ## A Voting Rules And Procedures Statement
 
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
-
 - rules, policies, and procedures for how rules, policies, and procedures for voting are made, unmade, and changed
 - time and data on opening and closing of poles for a given election
 - times places methods for ways of voting allowed
@@ -590,8 +589,9 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Government Structures and Levels
 - Vote-Office information (location, head?, contact, reporting?)
 - Chain of Command within and above Vote-Office
-- rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 
+## Rules, Policies, and Procedures
+- rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
