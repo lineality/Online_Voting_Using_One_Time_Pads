@@ -197,15 +197,15 @@ An 'agent' may be anything from a single person to a group of people to an AI-bo
 -6. software design problems that cause time, logistical, or reliability problems, 
 -7. etc.)
 
-Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered and not ignored simply because it was not entirely successful. 
+Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attempts to be a unit of attack, not successes. 
 
-1. a bad-agent will intercept one-time-pads:
+1. A bad-agent will intercept one-time-pads:
 
-1.1 - the agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
+1.1 - The agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
-1.2 - the one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
+1.2 - The one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
 
-1.3 - if the voter loses the QR code the person should cancel the process
+1.3 - If the voter loses the QR code the person should cancel the process.
 
 2. A bad-agent will send the voter a fake blank-ballot:
 - additional step: there can be additional checks such as a passphrase chosen by the person which could not be electronically surveilled from any computer (e.g. written in pen on the QR pad) 
