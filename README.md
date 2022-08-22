@@ -439,7 +439,7 @@ Step 8: (Check Completed-Ballot for Errors)
 Step 9: (Encrypt the Completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
-Step 10: (voter Submit encrypted-ballot over network) 
+Step 10: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
