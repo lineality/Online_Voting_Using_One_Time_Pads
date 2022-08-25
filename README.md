@@ -50,11 +50,11 @@ Rule/Assumption 1: There is a physical voting-office, just as there would be in 
 
 Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
-Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. 
+Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. [E.g. "I just like it." or: "I just don't like it." Are not sufficient reasons to use or not use a given process.
 
 Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
 
-Rule/Assumption 5: If the context is critiquing the mechanics of casting votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to this context of submitting a ballot. (E.g. Complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to cast/submit votes/ballots.)
+Rule/Assumption 5: If the context is critiquing the mechanics of casting votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to cast/submit votes/ballots.)
 
 
 Q: Design question: printable-document format vs. .csv format
@@ -62,7 +62,7 @@ Q: Design question: printable-document format vs. .csv format
 - storing document
 - converting document
 
-Step 1: (During in-person registration [off-line]: voter registers) 
+Step 1: (During in-person registration [not-over-a-network/not-online]: voter registers) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
@@ -78,14 +78,14 @@ For a given single vote-ballot in a given single election (note: multiple is ano
 The additional step of having two pads (one being to send the voter a ballot) and not just one pad to inspect that ballot coming in has several advantages. This allows the voter to verify that the ballot they are filling out comes from the Vote-Office at which they registered, and that only someone with physical access to the physical one time pad created at their time and place of registration has sent them this ballot. This allows for a comparison by the Vote-Office, likewise, of the ballot sent and the ballot received. The benchmark for success here is for an over-a-network(online) voting system to be as-secure-as an in-person, all-paper, voting system. Just as it is possible (in theory) for a hostile group to physically take over a Vote-Office and issue people fake ballots, or send people fake mail-in ballots in the mail, this one-time-pad-vote-by-network proposal does not prevent such physical attacks on physical paper voting infrastructure. It does however create an extra layer of verifications that can be used during and after the vote takes place, which in theory could also be used to security-harden an all-in-person all-paper voting process to make it more secure and auditable (this may also relate to the use of and questions about asymmetric keys which are different from one-time-pads). (Note: Another additional or alternative method for some of these checks may be cryptographic signing (with optional multiple signatures) from trusted authorities (Vote-Office, federal or state agency, universities, 3rd party certifiers, etc). 
 
 
-During the in-person one-time-pad-voter-registration: Two physical copies (e.g. QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (offline) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, offline).
+During the in-person one-time-pad-voter-registration: Two physical copies (e.g. QR codes printed on paper) of two one-time-pads are created; one set of the two pads are stored (not-over-a-network/not-online) by the local Vote-Office, the other set (pair) of one time pads is kept by the voter themselves (physically, not-over-a-network/not-online).
 
 The software will print the one-time pads. The software will check (confirm, verify) the one-time pads. The software will erase thoroughly from memory (e.g. physically overwrite) any record of what the printed one-time-pads were.
-(Note, if this process is done off-line using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
+(Note, if this process is done not-over-a-network/not-online using a dedicated machine, the risk (attack-surface) of someone being able to take (exfiltrate) the one-time-pads is reduced. Especially if the custom machine does not have enough memory to store any old pads but can only process and re-write-over one pad at a time.)
 
 Step 3: (During in-person Registration: Create Encrypted Ballot) 
 For the voting-office to send one ballot to one voter:
-The election office, offline (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter. 
+The election office, not-over-a-network/not-online (enforced by software), uses the first 1:2 of the pair of printed QR codes to create an 'encrypted' version of the ballot for that one voter. 
 Note: The ballot may be public, but it still needs to be verified. This illustrates the "verification" role sometimes lumped together with "security" and "encryption." The emphasis is not on 'hiding' the public ballot form, but on verifying that the specific ballot form that the voter is filling out is (identical to) the form that the local election office gave them.
 
 Note: It may be desirable to have a 'verified public ballot' as opposed to a 'private ballot' which in theory could vary (for security and verification) from the standard public ballot (in a context of mapping out a potential attack space). 
@@ -112,24 +112,24 @@ Voter Receives Ballot online.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
-Step 6: (Decrypt and print ballot [off-line])
-Using one piece of software, the voter offline (enforced by software, possibly hardware) 'decrypts' the ballot.
+Step 6: (Decrypt and print ballot [not-over-a-network/not-online])
+Using one piece of software, the voter not-over-a-network/not-online (enforced by software, possibly hardware) 'decrypts' the ballot.
 
-Step 7:(Print Ballot [off-line])
+Step 7:(Print Ballot [not-over-a-network/not-online])
 physically prints the decrypted ballot
 
-Step 8: (Validate the not-yet-completed Ballot [off-line]) 
-The voter off-line(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
+Step 8: (Validate the not-yet-completed Ballot [not-over-a-network/not-online]) 
+The voter not-over-a-network/not-online(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-Step 9: (Mark Ballot with Vote Choices) The voter, off-line(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+Step 9: (Mark Ballot with Vote Choices [not-over-a-network/not-online]) The voter, not-over-a-network/not-online(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 Step 10: (Digitize the Completed Ballot) 
-The voter, offline (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
+The voter, not-over-a-network/not-online (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 (Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?) 
 
-~ Step: An optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+~ Step: An optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
 Q: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
 
@@ -143,14 +143,14 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 (end of reference)
 
 Another ~'multifactor' check may be to both mark a vote-choice on the ballot also and give some information about that choice, e.g. mark candidate 2 and in a second field enter the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
-The voter, offline(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot.  
+The voter, not-over-a-network/not-online(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot.  
 (Q: ...print formats...)
 
 Step 11: (Check Completed-Ballot for Errors) 
 The voter confirms that the information in their (the voter's)  electronic scanned ballot is the same as the paper version of their (the voter's) filled out ballot. (Checking for errors.) (Note: Automated processes for checking ballots for standard mistakes.)
 
 Step 12: (Encrypt the Ballot) 
-The voter, off-line(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
+The voter, not-over-a-network/not-online(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
 Step 13: (Voter Submits Encrypted-ballot Over-a-Network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
@@ -162,14 +162,14 @@ The local election office physically prints onto paper the QR code for the 'encr
 3. Delete
 
 Step 15: (Processing the Voter-Submitted Ballot)
-Offline, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
+not-over-a-network/not-online, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 (Note: Depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
 Q: How much data can a QR code contain? How redundant can a QR be for error-correction?
 
-Note: If the ballot is processed on an off-line not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
+Note: If the ballot is processed on an not-over-a-network/not-online not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
 Enter voter data into the election-results-data-set.
 
@@ -203,7 +203,7 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 1.1 - The agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
 
-1.2 - The one-time-pads are never stored digitally anywhere, but are only physically printed by an off-line computer.
+1.2 - The one-time-pads are never stored digitally anywhere, but are only physically printed by an not-over-a-network/not-online computer.
 
 1.3 - If the voter loses the QR code the person should cancel the process.
 
@@ -257,7 +257,7 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 
 # Description Notes:
-This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and off-line computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
+This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and not-over-a-network/not-online computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
 
 The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
 
@@ -277,7 +277,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
 ## Unique Ballots:
-At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (offline) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
+At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (not-over-a-network/not-online) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
 
 
 ## Challenges:
@@ -408,7 +408,7 @@ Step 4: Voter Obtains Ballot Online(over-a-network)
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
 
-
+  
 Step 5: (Voter Gets the not-yet-completed ballot)  
 A. sent to user
 B. posted on several public sites and signed and can be compared/verified
@@ -423,7 +423,7 @@ Step 7: (Complete the Ballot, Mark Votes)
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
-~ step: an optional intermediate step here is to have a 3rd set of offline-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
+~ step: an optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
 #### See Article: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
