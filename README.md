@@ -410,9 +410,10 @@ Part of this process is an at-the-time randomized process of frame-shifting the 
 
   
 Step 5: (Voter Gets the not-yet-completed ballot)  
-A. sent to user
-B. posted on several public sites and signed and can be compared/verified
-
+Optional ways to do this:
+- A. sent to user
+- B. posted on several public sites and signed and can be compared/verified
+- C. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
 
 Step 6: (Voter Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
