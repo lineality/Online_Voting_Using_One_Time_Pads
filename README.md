@@ -191,13 +191,13 @@ Note: Someone may wish to save a QR code (or equivalent) as some form of record.
 ## Identifying Risks 
 Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
 An 'agent' may be anything from a single person to a group of people to an AI-bot, software suit, malware software, ransomware software, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 
--1. constant 'internet background radiation,' 
--2. unintentional user-misuse 
--3. unintentional administrative bungling, 
--4. oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 
+-1. Constant 'internet background radiation,' 
+-2. Unintentional user-misuse 
+-3. Unintentional administrative bungling, 
+-4. Oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 
 -5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 
--6. software design problems that cause time, logistical, or reliability problems, 
--7. etc.)
+-6. Software design problems that cause time, logistical, or reliability problems.
+-7. Etc.
 
 Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attempts to be a unit of attack, not successes. 
 
