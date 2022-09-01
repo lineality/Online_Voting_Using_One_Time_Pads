@@ -34,7 +34,7 @@ To clarify goals and questions, below are two lists of questions. There is a lis
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
 6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
 
-## Peripherally related questions may be:
+## Peripherally related questions:
 1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
 
 2. Is there a way to define voting as a more general operationally defined process that leads to more timely and practical deployments of voting tools and features?
@@ -873,3 +873,4 @@ https://www.youtube.com/greymatter/search?query=elections
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
 
 ## Who: Age Voting Tests and Voter Qualification
+
