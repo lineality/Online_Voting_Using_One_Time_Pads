@@ -183,7 +183,11 @@ The election results are processed and published.
 (The publication of election results is perhaps not strictly part of the question of 'secure voting' but in practice it is likely often a requirement.)
 
 
-Note: Someone may wish to save a QR code (or equivalent) as some form of record. There is no security need to carefully dispose of used QR codes after they is used because they are only used once; for example obtaining an old QR code (one time pad) will not in any possible way help to "decrypt" another future one-time-pad, one-time-pads are not similar to passwords in this way (leaking archived passwords would likely be considered some form of security breach, whereas accessing already disposed of QR codes is useless; literally a set of random  numbers that won't help anyone to do anything elicit, this is the point and function of a one-time-pad). 
+# Information-Entropy, One time pads, old pads, and random number generation.
+The neglected topic of entropy often comes back to byte us. If:
+If someone wishes to save old one-time-pads(e.g. QR-codes). Or: If someone does not dispose of old one-time-pads(e.g. QR-codes). And: If one-time-pads(e.g. QR-codes) were not generated in a sufficiently random way, then by studying a collection of old one-time-pads(e.g. QR-codes) that were generated using a not-sufficiently-random process it could be possible (or even trivial) to 'hack' the one-time-pad(e.g. QR-code) generation process and thereby be able to disrupt many parts of the voting system.
+
+
 
 
 # Risks, Attacks & Security
