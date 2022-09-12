@@ -514,6 +514,8 @@ Resilience: One strategy: Part of an online system may be to increase the number
 7. schedule election
 8. publish results report
 
+### Mode of Voting Offices
+
 Mode 1: single physical vote office
 
 Mode 2: meta-population of physical vote offices
@@ -901,6 +903,7 @@ https://www.youtube.com/greymatter/search?query=elections
 - error check against incorrect reading
 - sufficient identification and verification information
 - practical use for size and processing
+
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
