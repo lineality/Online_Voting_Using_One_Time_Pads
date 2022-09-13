@@ -514,21 +514,17 @@ Resilience: One strategy: Part of an online system may be to increase the number
 7. schedule election
 8. publish results report
 
-### Mode of Voting Offices
-
-Mode 1: single physical vote office
-
-Mode 2: meta-population of physical vote offices
-
-Mode 3: remote vote office(s)
-
-Mode 4: decentralized vote office (distributed among voters)
+#### Mode of Voting Offices
+- Mode 1: single physical vote office
+- Mode 2: meta-population of physical vote offices
+- Mode 3: remote vote office(s)
+- Mode 4: decentralized vote office (distributed among voters)
 
 Maybe each 'election' will have a different signing key to verify?
 
 software platforms/languages:
 
-Project:
+(Project)
 ## "Pseudocode for voting infrastructure"
 - including how to create randomized representative voting districts
 - including how to do ranked choice voting
