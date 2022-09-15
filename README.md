@@ -14,13 +14,13 @@
 #### 1. Is secure-auditable online-voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? How is security measured? What specific measures are required for security to be sufficient?
-#### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible/practical-to-implement, systems? 
+#### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible/practical-to-implement, systems (e.g. a perfect system vs. a good system, as in "not letting the perfect be the enemy of the good")? 
 
 
 To clarify goals and questions, below are two lists of questions. There is a list of questions that we ARE attempting to answer with this project, and there is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are not asking do not get mixed together with questions that we are asking.
 
 
-## Questions we are trying to answer and focus on here on include the following: 
+## Questions to answer and focus on here on include the following: 
 1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper voting system.') 
 2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)? 
 3. Is it possible for a voter to submit a ballot securely over-a-network(online)?
@@ -28,11 +28,11 @@ To clarify goals and questions, below are two lists of questions. There is a lis
 5. Is a voting system practical and realistic to implement?
 6. What is the best way, or what are the best ways, of concretely defining "over-a-network(online)"?
 
-## Questions that are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
+## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
 1. NOT: Can online voting be an absolutely effortless and perfectly ecstatic experience?
 2. NOT: Can a person outside of the direct-voting-process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
 3. NOT: Can a person make no mistakes while filling out their ballot? (Though some additional safeguards from this have been successfully used in some states.See reference.) 
-4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical breakin or loss of records due to causes such as fires. 
+4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical break-in or loss of records due to causes such as fires. 
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
 6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
 
