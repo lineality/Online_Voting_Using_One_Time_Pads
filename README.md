@@ -275,7 +275,7 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 
 
 
-# Description Notes:
+# Description & Overview of Process-in-Principle:
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and not-over-a-network/not-online computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
 
 The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
@@ -287,11 +287,16 @@ These are recommendations for a reasonably secure online voting system that shou
 
 To improve accessibility, it is conceivable that some local voting systems would prefer to simplify some of the security step to allow broader accessibility:
 - voters who have no access to a printer
-- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person. 
+- voters who cannot physically travel (e.g. elderly persons in retirement home or hospital), perhaps allowing a proxy to carry documents for that person.
+
+- institutions large or small such as retirement homes or other such community organizations are well placed to be involved where voters are not physically able to travel to poles. 
+
+- Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
+
 
 #### Additional steps can be taken to increase security. 
 ### For example: 
-1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontroller. 
+1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
@@ -301,32 +306,32 @@ At this time or at a later time (depending on choice, timing, etc. (e.g. if the 
 
 ## Challenges:
 
-One area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
-It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is probably not a terminal obstacle. (note: .csv files may have a standardizing role here) 
+One area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate physical or mental handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
+It is also possible that OCR (optical character recognition) may not be good enough to read the ballot, but given the use of OCR to read more obscurely printed checks etc., this is possibly. not a terminal obstacle. (note: .csv files may have a standardizing role here) 
 
 Note: It might be possible to make a kind of hybrid document solution. There can be a QR code that gives template and instruction information as to what the fields are, then items selected (boxes filled, or circles filled in) can be identified without the use of OCR. In the case of write-in ballot areas, there may be various factors that make OCR 'good enough.' e.g. if any candidate receives enough write-in votes, that situation will make that popular name a more likely candidate for matching in the case of mostly illegible scrawling. And having one letter per box may also help legibility for write-in names. 
 
 The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear easily defined targets such as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
-(Note: The direct use of .csv files may be ideal. CSV files can also account for write-in and other edge cases. Any 'field' to fill in can simply be included either as an item in the same row and or as a column heading)
+(Note: The direct use of .csv files may be ideal. CSV files can also account for write-in and other edge cases. Any 'field' to fill in can simply be included either as an item in the same row and or as a column heading).
 
 
 # About One Time Pads
 A one-time-pad is not the same as a re-use-able 'code.' A re-use-able code 'encodes' a signal and is re-used, such that 'breaking the code' will allow decrypting the document. A one-time-pad is different; a unique one-time-pad is used only one time. A one-time-pad is a one-for-one set of changes for every character in the document, each completely random, with no pattern, and each one-time-pad is used only one-time. Even in principle you cannot 'break' a one-time pad however much you examine the encrypted document (unless the one-time-pad itself is somehow defective: to be a real one time pad it must be used only once and it must be unique and random).  Unfortunately, the terminology can be overlapping and a bit unclear between the reusable codes and one-time-pads. For example, the terms 'encode' and 'decode' may be used in both cases, and the overall process and purpose is usually similar or the same. 
 
-Historically, a 'one time pad' was literally a pair of identical physical paper note-pads, two notebooks, with the same set of characters on corresponding pages 1,2,3 etc. in both notebooks. By analogy this is like two copies of the same book (such as two identical copies and identical editions of Alice in Wonderland), with the same exact characters on the same numbered page of each book). Each code (e.g. each page) was used only one time, hence the term "one-time-pad": a pair of identical physical paper note-pads, each page of which was used only one time: a "one time pad."
+Historically, a 'one time pad' was literally a pair of identical physical paper note-pads, two notebooks, with the same set of characters on corresponding pages 1,2,3 etc. in both notebooks. By analogy this is like two copies of the same book (such as two identical copies and identical editions of Alice in Wonderland), with the same exact characters on the same numbered page of each book). Each code (e.g. each page) was used only one time, hence the term "one-time-pad". In summary: a pair of identical physical paper note-pads, each page of which was used only one time: a "one time pad."
 
 With a one-time-pad, every character (letter, number, symbol, etc.) in the document that you are encrypting is individually changed using just one character in the [one time]pad. There is no predetermining pattern or system behind the sequence of changes resulting from using a one-time-pad that can be outsmarted or 'cracked.' The only way to 'decode' a one-time-pad 'encrypted' message is with that one-time-pad; a one-time-pad is a one-by-one, one-for-one, one character at a time, change of what the original text says. There is no key. There is no password. There is no equation. There is no shortcut. Every character or unit of the entire document is individually changed into something else in an independent way. 
 
 One-time-pads are not as efficient and user-friendly as shorter and or 're-use-able' codes in some ways, but one-time-pads are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' The one-time-pad must be as long as the original text itself, unlike a 'password' or short 'key' that might be only eight characters long. 
 
 
+Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources? 
+- focusing on accessible technology?
+
+
 
 ...
-
-Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
-
-
 
 # Part 2: Practical Secure Online Voting
 ### Goal: practical version of online voting for realistic implementation
