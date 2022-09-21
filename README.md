@@ -4,8 +4,8 @@
 
 # Contents: 
 ## Part 1: Secure Online-Voting in-Principle
-## Part 2: Practical & Secure Online-Voting
-## Part 3: Whole Election And Vote Analysis Platforms
+## Part 2: Practical-&-Secure Online-Voting
+## Part 3: Whole-Election and Vote-Analysis Platforms
 
 
 # Clarifying Goals and Questions:  
@@ -570,6 +570,7 @@ Possible Multi-factor Authentication Tools:
 8. video of person voting (more secure than static selfie?)
 or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 
+
 ## Specific Deep-fake and NN-generated-photo detection
 - fake account setup
 - malicious files (fake or altered pictures for deception)
@@ -583,7 +584,6 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 https://github.com/lineality/Auditable_Elections_Projects
 
 
-
 #### Case Studies in Election Disruption and Resilience:
 - (2020?)
 
@@ -595,9 +595,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 #### Case Studies in Failing to agree locally on election rules:
 -
 
-...
 
-## A Voting Rules And Procedures Statement
+
+## Rules-And-Procedures Statements-&-Documentation for Elections
 
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
 - rules, policies, and procedures for how rules, policies, and procedures for voting are made, unmade, and changed
