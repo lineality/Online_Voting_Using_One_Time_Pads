@@ -544,7 +544,7 @@ Uuid type random key-field
 Fuzzy time stamp (month year?) unix epoch
 
 
-2. Using a blockchain (or modified blockchain) to store results:
+2. Using a distributed ledgers (blockchains or modified blockchains) to store results:
 - e.g. university trusted node anchors
 - maybe full-chain so no retroactive?
 - slower but more robust?
