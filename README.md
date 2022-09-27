@@ -538,10 +538,23 @@ software platforms/languages:
 
 
 ### (mitigation of insecure local voting headquarters)
+- lack of physical voting office
+- lack of secure physical voting office
+- lack of clarity about voting area or district
 2nd step of recording / publishing vote:
 Uuid type random key-field
 Fuzzy time stamp (month year?) unix epoch
 
+## holding elections in repressed areas not 'allowed' to hold their own elections
+- distributed self-organization
+- privacy and security
+- auditable publication with private information not exposed
+- it should be possible for an area to willingly hold an election and publish the results for them to be scrutinized as a fair and due process election without exposing security concerns or identities of any specific people involved
+- diasporic communities
+- philes? (distributed communities based on projects/interests/views?)
+- 
+
+## elections vs. managing open source software vs. git
 
 2. Using a distributed ledgers (blockchains or modified blockchains) to store results:
 - e.g. university trusted node anchors
