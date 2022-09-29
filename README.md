@@ -364,7 +364,7 @@ The goal here (for this practical-tool section, vs. the above secure voting in p
 
 What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
 
-Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? 
+Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? Or more generally, what roles do 'institutions' including legal institutions, have with a fundamentally STEM/math/engineering process of carrying out and publishing the results of elections which have no reliance upon culture or belief and yet the results of which for practicality must be integrated with the 'social' system that is voting? 
 
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
