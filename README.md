@@ -236,7 +236,13 @@ Note: It may be important to consider both (unsuccessful) attempts and successfu
 - 3.2  If a voter loses the QR code then that voter should cancel/restart the process.
 	
 4. A bad-agent will record a fake record of the vote from the ballot:
-- while a possible risk, this process is the same as for any paper ballot
+- while a possible risk, depending on the online-voting system this process (a fake record of the vote from the ballot) is the same as for any paper ballot.
+Variants:
+- change existing record
+- corrupt original-record-creation process (bugs and loopholes in design)
+- manually interfere physically in vote office during process putting in false information
+- social engineering attack to the same end (e.g. impersonating a voter, pole worker, technician, etc.)
+
 
 5. A bad-agent will act on the behalf of a participant without the voter's participation
 - cast a vote
