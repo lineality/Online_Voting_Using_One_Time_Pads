@@ -632,7 +632,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Chain of Command within and above Vote-Office
 
 ## Rules, Policies, and Procedures
-- rules, policies, and procedures contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
+- rules, policies, and procedures for contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
@@ -644,13 +644,13 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for announcing and publishing results 
 - rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 - Should there be a 'log' of who makes changes to procedures and how?
-- rules, policies, and procedures for election and ballot counting observation
+- rules, policies, and procedures for open and transparent observation of election and ballot counting & processing
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
 - rules, policies, and procedures for meetings and correspondence transparency around voloting infrastructure and offices and resources
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 - rules, policies, and procedures for voter registration
 - rules, policies, and procedures for voter identification 
-- For evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
+- rules, policies, and procedures for evaluation of best practice, performance, and ethics: standards, guidelines, benchmarks and audit materials
 - rules, policies, and procedures for raw vote results (including ranked-choice etc.)
 - rules, policies, and procedures for choosing vote calculation method
 - rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
@@ -658,7 +658,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for the storage of records from past elections
 - rules, policies, and procedures for "stateless" voting machines
 - rules, policies, and procedures for election observers
-- rules, policies, and procedures for auditing, vetting, and guarantors 
+- rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security 
 
 
 #### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
