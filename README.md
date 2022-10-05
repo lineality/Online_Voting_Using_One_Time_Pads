@@ -465,7 +465,9 @@ University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
 Step 8: (Check Completed-Ballot for Errors) 
-(see step 7?)
+- impossible options
+- no-vote blanks
+- test-process errors (something breaks processing)
 
 Step 9: (Encrypt the Completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
