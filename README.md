@@ -429,7 +429,7 @@ Q: one time pads vs. signing keys for transmitting ballots
 also: multiple party signing keys?
 
 
-Step 4: Voter Obtains Ballot Online(over-a-network)
+Step 4: Voter Obtains Ballot Online
 #### 3 options:
 1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
