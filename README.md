@@ -218,6 +218,7 @@ An 'agent' may be anything from a single person to a group of people to an AI-bo
 
 Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attempts to be a unit of attack, not successes. 
 
+## Bad-agents
 1. A bad-agent will intercept one-time-pads:
 
 1.1 - The agent would need to be physically in the room during the QR code creation, to break into the gov. office, or to physically steal from the person, without anyone knowing the QR codes were stolen. 
