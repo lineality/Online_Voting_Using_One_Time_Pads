@@ -39,7 +39,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 ## Peripherally related questions:
 1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
 
-2. Is there a way to define voting as a more general operationally defined process that leads to more timely and practical deployments of voting tools and features?
+2. Is there a way to define voting as a more general operationally-defined process that leads to more timely and practical deployments of voting tools and features?
 
 
 # Concept: Universal Voting Procedures and Processes
@@ -415,7 +415,7 @@ note: using signing signatures,
 
 (Step 2: )
 
-While the thrifty-protocol is designed to avoid extra printer hardware, the option still exists to hand-write a one-time pad. 
+While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
 (Q: How reliable is OCR? is that an issue?)
