@@ -490,10 +490,11 @@ Step 13: (Processing the Voter-submitted ballot)
 Step 14: (Process Election Data / Count The Votes)
 (storage: block chain or other immutable ledger?)
 
-Step 15: (Publish Election Data)
+Step 15: (Publish Election Vote-Results-Data)
 
 Step 16: (Publish Election Report)
 
+Q: Background tests and checks during whole process?
 
 
 (election results publishing...parts of process)
