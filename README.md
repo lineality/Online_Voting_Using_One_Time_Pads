@@ -132,7 +132,8 @@ The voter not-over-a-network/not-online(enforced by software), inspects and vali
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
-#### Step 9: (Mark/Complete/Fill-in Ballot with Vote-Choices [not-over-a-network/not-online]) The voter, not-over-a-network/not-online(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+#### Step 9: (Complete/Mark/Fill-in the Ballot with Vote-Choices [not-over-a-network/not-online]) 
+The voter, not-over-a-network/not-online(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
 
 #### Step 10: (Digitize the Completed Ballot not-over-a-network/not-online] ) 
 The voter, not-over-a-network/not-online (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
