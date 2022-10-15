@@ -261,11 +261,11 @@ Variants:
 
 10. A bad-agent will attempt to tamper with vote reporting including any information put out by a Vote-Office or similar authority.
 
-11. A bad-agent will seek to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
+11. A bad-agent will attempt to disrupt the sending and receiving of vote information (including but not restricted to blank and filled-in ballots (e.g. voting times, places, registration, ballot items, etc). 
 
-12. A bad-agent will participate in general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
+12. A bad-agent will attempt general or specific disinformation attacks that negatively impact the overall voting and election processes and systems. 
 
-13. A bad agent may try to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
+13. A bad agent will attempt to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
 
 14. A bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
 
