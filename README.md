@@ -407,7 +407,7 @@ Note: This thrifty-and-pragmatic (if not perfect) system does not assume:
 - that a voting-area can afford a large staff to manage the election
 - that there are institutions for safe and secure elections
 
-Step 1: (Voter-Setup: During online registration time period) 
+Step 1: (Voter-Setup: During online registration time period [over-a-network / online]) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 This may be done entirely online for most-practical voting, or other elements may be added.
 (Note: setup questions for entirely online vote: How list of voters is selected or checked. Voter identification online... In theory the same online system as for current voter-registration may be used and considered sufficient.)
@@ -439,6 +439,7 @@ Step 4: Voter Obtains Ballot Online
 1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
 3. both
+4. some kind of redundancy and checking between sources and agreement of online ballots. (e.g. .edu hosting, or distributed software held by voters?)
 
 During the election period (be that months, weeks, days, hours, etc.), a one-time-pad 'encoded' ballot is sent by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.) in the form of another QR code.
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
