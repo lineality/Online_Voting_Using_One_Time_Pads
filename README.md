@@ -445,18 +445,18 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
 
   
-Step 5: (Voter Gets the not-yet-completed ballot)  
+#### Step 5: (Voter Gets the not-yet-completed ballot)  
 Optional ways to do this:
 - A. sent to user
 - B. posted on several public sites and signed and can be compared/verified
 - C. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
 
-Step 6: (Voter Validate the not-yet-completed Ballot) 
+#### Step 6: (Voter Validate the not-yet-completed Ballot) 
 The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-Step 7: (Complete the Ballot, Mark Votes) 
+#### Step 7: (Complete the Ballot, Mark Votes) 
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
@@ -470,37 +470,38 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-Step 8: (Check Completed-Ballot for Errors) 
+#### Step 8: (Check Completed-Ballot for Errors) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
-Step 9: (Encrypt the Completed-Ballot) 
+#### Step 9: (Encrypt the Completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
-Step 10: (Voter Submit encrypted-ballot over network) 
+#### Step 10: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
-Step 12: (Processing the encrypted Voter-submitteds ballot)
+#### Step 12: (Processing the encrypted Voter-submitteds ballot)
 - thrifty encryption choice?
 
-Step 13: (Processing the Voter-submitted ballot)
+#### Step 13: (Processing the Voter-submitted ballot)
 - format of ballot
 (csv?)
 (voter checks on status?)
 
-Step 14: (Process Election Data / Count The Votes)
+#### Step 14: (Process Election Data / Count The Votes)
 (storage: block chain or other immutable ledger?)
 
-Step 15: (Publish Election Vote-Results-Data)
+#### Step 15: (Publish Election Vote-Results-Data)
 
-Step 16: (Publish Election Report)
+#### Step 16: (Publish Election Report)
 
+
+### Notes:
 Q: Background tests and checks during whole process?
-
 
 (election results publishing...parts of process)
 
