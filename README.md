@@ -399,15 +399,17 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 - csv format: pads, ballots, votes
 
 
-# Proposed Steps for a Practical  Secure Online Voting (section under construction)
+# Proposed Steps for Practical Secure Online Voting (section under construction)
 
-Note: This thrifty-and-pragmatic (if not perfect) system does not assume:
+For a voting system to be practical, the requirements for implementation and assumptions about what resources voters have must align and align with reality. 
+
+#### This thrifty-and-pragmatic (if not perfect) system does NOT assume:
 - that there is a voting office either as a building or as human staff
 - that voting-areas can afford any equipment beyond voters having mobile phones
 - that a voting-area can afford a large staff to manage the election
 - that there are institutions for safe and secure elections
 
-Step 1: (Voter-Setup: During online registration time period [over-a-network / online]) 
+#### Step 1: (Voter-Setup: During online registration time period [over-a-network / online]) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 This may be done entirely online for most-practical voting, or other elements may be added.
 (Note: setup questions for entirely online vote: How list of voters is selected or checked. Voter identification online... In theory the same online system as for current voter-registration may be used and considered sufficient.)
@@ -417,7 +419,7 @@ A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up w
 note: using signing signatures,
 
 
-(Step 2: )
+#### (Step 2: )
 
 While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
@@ -429,7 +431,7 @@ Note: Write-in may be an issue for the truncated ballot.
 
 Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
-Step 3: (this step needed for thrifty-version?)(extra other steps?)
+#### Step 3: (this step needed for thrifty-version?)(extra other steps?)
 Q: one time pads vs. signing keys for transmitting ballots
 also: multiple party signing keys?
 
