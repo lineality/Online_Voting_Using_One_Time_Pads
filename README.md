@@ -409,7 +409,14 @@ For a voting system to be practical, the requirements for implementation and ass
 - that a voting-area can afford a large staff to manage the election
 - that there are institutions for safe and secure elections
 
-#### Step 1: (Voter-Setup: During online registration time period [over-a-network / online]) 
+
+#### Step 1: (Election-Setup: [over-a-network / online]) 
+- scheduling
+- enrollment
+- standards protocols methods and procedures
+- 
+
+#### Step 2: (Voter-Setup: During online registration time period [over-a-network / online]) 
 Before the election ends: A voter registers for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 This may be done entirely online for most-practical voting, or other elements may be added.
 (Note: setup questions for entirely online vote: How list of voters is selected or checked. Voter identification online... In theory the same online system as for current voter-registration may be used and considered sufficient.)
@@ -417,9 +424,6 @@ This may be done entirely online for most-practical voting, or other elements ma
 For entirely-online-voting there is the challenge of selecting who on the internet may participate. 
 A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection. 
 note: using signing signatures,
-
-
-#### (Step 2: )
 
 While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
@@ -435,12 +439,11 @@ Note: Write-in may be an issue for the truncated ballot.
 
 Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
-#### Step 3: (this step needed for thrifty-version?)(extra other steps?)
 Q: one time pads vs. signing keys for transmitting ballots
 also: multiple party signing keys?
 
 
-Step 4: Voter Obtains Ballot Online
+Step 3: Voter Obtains Ballot Online
 #### 3 options:
 1. a publicly posted signed ballot (verifiable)
 2. a ballot including a unique personal id sent only to that one person 
@@ -451,18 +454,18 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
 
   
-#### Step 5: (Voter Gets the not-yet-completed ballot)  
+#### Step 4: (Voter Gets the not-yet-completed ballot)  
 Optional ways to do this:
 - A. sent to user
 - B. posted on several public sites and signed and can be compared/verified
 - C. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
 
-#### Step 6: (Voter Validate the not-yet-completed Ballot) 
-The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources and signing keys.
+#### Step 5: (Voter Validate the not-yet-completed Ballot) 
+The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys. There could be both manual and automatic options to balance ease of use with manual thoroughness. 
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-#### Step 7: (Complete the Ballot, Mark Votes) 
+#### Step 6: (Complete the Ballot, Mark Votes) 
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
@@ -476,12 +479,12 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-#### Step 8: (Check Completed-Ballot for Errors) 
+#### Step 7: (Check Completed-Ballot for Errors) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
-#### Step 9: (Encrypt the Completed-Ballot) 
+#### Step 8: (Encrypt the Completed-Ballot) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
 #### Step 10: (Voter Submit encrypted-ballot over network) 
@@ -499,11 +502,13 @@ Online: The voter sends (by whatever agreed upon method (website, email, text, s
 (voter checks on status?)
 
 #### Step 14: (Process Election Data / Count The Votes)
-(storage: block chain or other immutable ledger?)
+(storage: distributed? immutable ledger?)
 
 #### Step 15: (Publish Election Vote-Results-Data)
+- automated?
 
 #### Step 16: (Publish Election Report)
+- automated?
 
 
 ### Notes:
