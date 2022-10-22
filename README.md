@@ -768,7 +768,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 - (e.g. complete census vs. statistical sampling)
 
 
-
 # Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
@@ -944,6 +943,7 @@ https://www.youtube.com/greymatter/search?query=elections
 - error check against incorrect reading
 - sufficient identification and verification information
 - practical use for size and processing
+
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
