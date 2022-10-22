@@ -945,6 +945,5 @@ https://www.youtube.com/greymatter/search?query=elections
 - sufficient identification and verification information
 - practical use for size and processing
 
-
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
