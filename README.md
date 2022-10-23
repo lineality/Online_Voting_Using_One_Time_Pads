@@ -313,7 +313,6 @@ At this time or at a later time (depending on choice, timing, etc. (e.g. if the 
 
 
 ## Challenges:
-
 One area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate physical or mental handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
 It is also possible that OCR (optical character recognition) may not be good enough to perform a computer-automated visual reading of a printed paper ballot, but given the use of OCR to read more obscurely printed checks, sloppily written mailing addresses on envelopes, etc., this is possibly not a terminal obstacle. 
 #### (note: .csv files may have a standardizing role here) 
@@ -943,6 +942,7 @@ https://www.youtube.com/greymatter/search?query=elections
 - error check against incorrect reading
 - sufficient identification and verification information
 - practical use for size and processing
+
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
