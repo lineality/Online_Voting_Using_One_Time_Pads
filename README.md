@@ -678,6 +678,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for the storage of records from past elections
 - rules, policies, and procedures for "stateless" voting machines
 - rules, policies, and procedures for election observers
+- rules, policies, and procedures for canvassing
+- rules, policies, and procedures for advertising
 - rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security 
 
 
