@@ -478,12 +478,12 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
-#### Step 7: (Check Completed-Ballot for Errors) 
+#### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
-#### Step 8: (Encrypt the Completed-Ballot) 
+#### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
 #### Step 10: (Voter Submit encrypted-ballot over network) 
@@ -511,7 +511,7 @@ Online: The voter sends (by whatever agreed upon method (website, email, text, s
 
 
 ### Notes:
-Q: Background tests and checks during whole process?
+Q: Background tests and checks during the whole process?
 
 (election results publishing...parts of process)
 
