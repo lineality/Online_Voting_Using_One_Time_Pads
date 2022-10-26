@@ -43,7 +43,6 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 
 
 # Concept: Universality and Voting-Procedures and Voting-Processes
-
 The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is neither based on nor negated by not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habits, permission, labels, declarations, blustering, doubts, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. The behavior and functionality of a vote is equivalent to that vote's repeatedly measurable features. Any group of people who carry out the STEM-math-science-data process of best-practice-voting have performed voting in a way that can be audited, measured, repeated, clearly discussed, debugged, and results published. No group of people can skip or shortcut required STEM-math-science-data processes without having skipped those required STEM-math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon IS following best practice, though even then it is best to verify without trust that best practice is being followed. Under no circumstances can (so called) 'trust' replace or permit the skipping of best-practice-processes for people or groups, however much disinformation may demand and violently seek to enforce exemptions from best-practice-processes. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you, or processing your vote, in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, disinformation, and classically-defined tyranny.
 
 # Conceptual Note on Identification & Verification
@@ -54,23 +53,23 @@ Like anything else, 'social engineering' and physical disruption are not prevent
 
 
 # Proposed Steps for Secure Online Voting
+## Rules & Assumptions
+- Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
 
-Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
+- Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
-Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
+- Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. [E.g. "I just like it." or: "I just don't like it." Are not sufficient reasons to use or to not use a given voting process.]
 
-Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. [E.g. "I just like it." or: "I just don't like it." Are not sufficient reasons to use or to not use a given voting process.]
+- Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
 
-Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
-
-Rule/Assumption 5: If the context is critiquing the mechanics of casting/submitting ballots and votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to (the context of the mechanics of) casting/submitting ballots and votes.)
-
+- Rule/Assumption 5: If the context is critiquing the mechanics of casting/submitting ballots and votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to (the context of the mechanics of) casting/submitting ballots and votes.)
 
 Q: Design question: printable-document format vs. .csv format
 - reading document
 - storing document
 - converting document
 
+## Steps
 #### Step 1: (During in-person registration [not-over-a-network/not-online]: voter registers) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
