@@ -70,7 +70,7 @@ Q: Design question: printable-document format vs. .csv format
 - converting document
 
 ## Steps
-#### Step 1: (During in-person registration [not-over-a-network/not-online]: voter registers) 
+#### Step 1: (During in-person voter registration: start registration [not-over-a-network/not-online]:) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
