@@ -493,6 +493,7 @@ Online: The voter sends (by whatever agreed upon method (website, email, text, s
 
 #### Step 12: (Processing the encrypted Voter-submitteds ballot)
 - thrifty encryption choice?
+Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
 
 #### Step 13: (Processing the Voter-submitted ballot)
 - format of ballot
