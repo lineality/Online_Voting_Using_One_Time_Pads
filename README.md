@@ -596,7 +596,7 @@ Fuzzy time stamp (month year?) unix epoch
 
 ....
 
-Possible Multi-factor Authentication Tools:
+#### Possible Multi-factor Authentication Tools:
 1. voice print
 2. picture of hand (for fingerprints)
 3. one time pad
@@ -609,7 +609,7 @@ Possible Multi-factor Authentication Tools:
 or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 
 
-## Specific Deep-fake and NN-generated-photo detection
+### Specific Deep-fake and NN-generated-photo detection
 - fake account setup
 - malicious files (fake or altered pictures for deception)
 - user login protocols
@@ -618,7 +618,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
 1. public security log data/meta-data to be inspected by anyone about the system
  
 
-## Additional Questions:
+# Additional Questions:
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
 
