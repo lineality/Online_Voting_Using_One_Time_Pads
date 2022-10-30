@@ -120,24 +120,28 @@ Voter Receives Ballot online.
 
 (Note: There is a choice here between using a public standardized ballot or a per-person ballot (e.g. with a unique id number or such, to verify that the ballot-form sent was the same as that received, or a short-form vote which contains just the choices and not all the text of the ballot.)
 
+
 #### Step 6: (Decrypt and print ballot [not-over-a-network/not-online])
 Using one piece of software, the voter not-over-a-network/not-online (enforced by software, possibly hardware) 'decrypts' the ballot.
 
+
 #### Step 7:(Print Ballot [not-over-a-network/not-online])
 physically prints the decrypted ballot
+
 
 #### Step 8: (Validate the not-yet-completed Ballot [not-over-a-network/not-online]) 
 The voter not-over-a-network/not-online(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
 (Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
 
+
 #### Step 9: (Complete/Mark/Fill-in the Ballot with Vote-Choices [not-over-a-network/not-online]) 
 The voter, not-over-a-network/not-online(using pen and paper), fills out the ballot (selecting their vote choices). (Details here may be important in some way: filling in a circle, selecting an option number, multi-factor, non-over-under-voting checks, etc.)
+
 
 #### Step 10: (Digitize the Completed Ballot not-over-a-network/not-online] ) 
 The voter, not-over-a-network/not-online (enforced by software), scans (e.g. by taking a picture) the completed-filled-in paper ballot, creating not a photo but a document or table of information (so that the one-time-pad can convert character by character). 
 (Note: maybe some kind of mono-space font and dashes between lines to avoid spacing errors?) 
-
 
 
 #### Step 11: (Check Completed-Ballot for Errors [not-over-a-network/not-online]) 
@@ -164,10 +168,12 @@ The voter, not-over-a-network/not-online(enforced by software), scans (e.g. by t
 #### Step 12: (Encrypt the Ballot [not-over-a-network/not-online]) 
 The voter, not-over-a-network/not-online(enforced by software), uses the one-time-pad to 'encrypt' the completed ballot, producing a new QR code (which is then 'encrypted' ballot). All digital files of the unencrypted ballot are removed and the memory physically over-written on the voter's device. The paper copy of the voter's ballot can be saved for evidence or destroyed for privacy based on the voter's choice. (Note: signing signatures can be used with the printed ballot or QR-code to increase confidence that the ballot is authentic. This combines advantages of asymmetric encryption along with a physical printed paper trail for audits.)
 
-Step 13: (Voter Submits Encrypted-ballot Over-a-Network) 
+
+#### Step 13: (Voter Submits Encrypted-ballot Over-a-Network) 
 Online: The voter sends their completed-ballot-QR-code (containing the voter's encrypted filled-in and checked ballot) to the local election office (sent by whatever agreed upon method (website, email, text, messaging software, shared storage (e.g. S3), api-endpoint, etc.)).
 
-Step 14: (Initial Handling of Voter's Encrypted Ballot [Over-a-Network])
+
+#### Step 14: (Initial Handling of Voter's Encrypted Ballot [Over-a-Network])
 The local election office physically prints onto paper the QR code for the 'encrypted' filled out ballot, and then (double) checks (compares) to confirm that the physical print (of the electronically-sent QR code) is accurate/identical (to the QR code submitted by the voter), and (if printing is accurate) deletes the digital record and the memory is physically over-written.
 1. Print
 2. Check
@@ -175,7 +181,8 @@ The local election office physically prints onto paper the QR code for the 'encr
  
 Note: This step will most likely be done on a "computer" that is connected to a "network."
 
-Step 15: (Processing the Voter-Submitted Ballot [not-over-a-network / not-online])
+
+#### Step 15: (Processing the Voter-Submitted Ballot [not-over-a-network / not-online])
 not-over-a-network/not-online, using a separate piece of software, the local election office "decrypts" the QR code for the 'encrypted' completed(choices-filled-in) ballot using the second(2:2) of the pair of printed (pad)QR codes for the one-time pad, and physically prints on paper the voter's filled-in ballot. 
 (Note: one choice in designing the software is to directly-print-to-paper or to decrypt and display on a screen or possible save as a computer file)
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
@@ -187,8 +194,10 @@ Note: If the ballot is processed on an not-over-a-network/not-online not-connect
 
 Enter voter data into the election-results-data-set.
 
+
 #### Step 16: (Process Election Data / Count The Votes)
 The printed ballot is counted with the other paper ballots of various kinds during the normal election ballot count process.
+
 
 #### Step 17: (Publish Election-Results Data)
 The election results are processed and published.
@@ -208,12 +217,12 @@ If someone wishes to save old one-time-pads(e.g. QR-codes). Or: If someone does 
 ## Identifying Risks 
 Here we look at risks from bad-actors or bad-agents. A bad-agent may be human or automated, may be local or non-local agents such as foreign states / groups. (As of 2022 ransomware is popular, and it is possible that an election system could be targeted e.g. for ransom, so designing a distributed and attack resistant framework may be important.)
 An 'agent' may be anything from a single person to a group of people to an AI-bot, software suit, malware software, ransomware software, thinktank, etc. (or something unclear and not simple to identify) (note: other areas of risks should be explored, and may include: 
--1. Constant 'internet background radiation,' 
--2. Unintentional user-misuse 
--3. Unintentional administrative bungling, 
--4. Oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible), 
+-1. Constant 'internet background radiation'
+-2. Unintentional user-misuse
+-3. Unintentional administrative bungling
+-4. Oversights and biases (e.g. setting up a voting system and obsessing so much over absolutely obscure vote secrecy that vote auditing and best practice domestic and international observation of the vote process is impeded, impracticable, or impossible)
 -5. practical feasibility vs. ideals in principle (possibly similar to "letting the perfect be the enemy of the good') 
--6. Software design problems that cause time, logistical, or reliability problems.
+-6. Software design problems that cause time, logistical, or reliability problems
 -7. Etc.
 
 Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attempts to be a unit of attack, not successes. 
