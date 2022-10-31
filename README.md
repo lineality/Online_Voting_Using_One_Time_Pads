@@ -70,6 +70,7 @@ Q: Design question: printable-document format vs. .csv format
 - converting document
 
 ## Steps
+
 #### Step 1: (During in-person voter registration: start registration [not-over-a-network/not-online]:) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
@@ -446,6 +447,11 @@ Note: Write-in may be an issue for the truncated ballot.
 
 Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
+The idea of a non-recoverable system, disposable, that you would restart if something went wrong, but no back-doors, side doors, etc.
+voter...re-register...multiple register?
+
+note: squirel? grc.com 
+
 Q: one time pads vs. signing keys for transmitting ballots
 also: multiple party signing keys?
 
@@ -486,13 +492,16 @@ Authors: Stephen Knack & Martha Kropf
 University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
+
 #### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
+
 #### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
+
 
 #### Step 10: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
@@ -500,9 +509,11 @@ some kind of MFA or blockchain ledger system?
 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
+
 #### Step 12: (Processing the encrypted Voter-submitteds ballot)
 - thrifty encryption choice?
 Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
+
 
 #### Step 13: (Processing the Voter-submitted ballot)
 - format of ballot
