@@ -478,7 +478,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-#### Step 6: (Complete the Ballot, Mark Votes) 
+#### Step 5: (Complete the Ballot, Mark Votes) 
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
@@ -964,6 +964,7 @@ https://www.youtube.com/greymatter/search?query=elections
 - error check against incorrect reading
 - sufficient identification and verification information
 - practical use for size and processing
+
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
