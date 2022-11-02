@@ -493,40 +493,40 @@ University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
 
-#### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
+#### Step 6: (Check Completed-Ballot for Errors [done by voter]) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
 
-#### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
+#### Step 7: (Encrypt the Completed-Ballot [done by voter]) 
 Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
 
 
-#### Step 10: (Voter Submit encrypted-ballot over network) 
+#### Step 8: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 
-#### Step 12: (Processing the encrypted Voter-submitteds ballot)
+#### Step 9: (Processing the encrypted Voter-submitteds ballot)
 - thrifty encryption choice?
 Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
 
 
-#### Step 13: (Processing the Voter-submitted ballot)
+#### Step 10: (Processing the Voter-submitted ballot)
 - format of ballot
 (csv?)
 (voter checks on status?)
 
-#### Step 14: (Process Election Data / Count The Votes)
+#### Step 11: (Process Election Data / Count The Votes)
 (storage: distributed? immutable ledger?)
 
-#### Step 15: (Publish Election Vote-Results-Data)
+#### Step 12: (Publish Election Vote-Results-Data)
 - automated?
 
-#### Step 16: (Publish Election Report)
+#### Step 13: (Publish Election Report)
 - automated?
 
 
@@ -651,9 +651,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 (international?)
 - 
 
+
 #### Case Studies in Failing to agree locally on election rules:
 -
-
 
 
 ## Rules-And-Procedures Statements-&-Documentation for Elections
@@ -671,7 +671,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - Vote-Office information (location, head?, contact, reporting?)
 - Chain of Command within and above Vote-Office
 
-## Rules, Policies, and Procedures
+
+# Rules, Policies, and Procedures
 - rules, policies, and procedures for contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
 - rules, policies, and procedures for eligibility
 - rules, policies, and procedures for voter-registration
