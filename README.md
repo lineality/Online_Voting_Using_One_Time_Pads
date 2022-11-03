@@ -17,16 +17,18 @@
 #### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible/practical-to-implement, systems? (e.g. a perfect system vs. a good system, as in "not letting the perfect be the enemy of the good")
 
 
+## Questions For Clarification
 To clarify goals and questions, below are two lists of questions. Below is a list of questions that we ARE attempting to answer with this project, and below is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are NOT asking do not become confused with questions that we are asking.
 
 
-## Questions to answer and focus on include the following: 
+### Questions to answer and focus on include the following: 
 1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper voting system.') 
 2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)? 
 3. Is it possible for a voter to submit a ballot securely over-a-network(online)?
 4. Is it possible for a voting-office to securely receive a completed ballot from the voter over-a-network(online)? [including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
 5. Is a voting system practical and realistic to implement?
 6. What is the best way, or what are the best ways, of concretely defining "over-a-network(online)"?
+
 
 ## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
 1. NOT: Can online voting be an absolutely effortless and perfectly ecstatic experience?
@@ -35,6 +37,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 4. NOT: Can the physical offices of staff be absolutely impenetrable to a physical break-in or loss of records due to causes such as fires. 
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
 6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
+
 
 ## Peripherally related questions:
 1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
@@ -45,6 +48,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 # Concept: Universality and Voting-Procedures and Voting-Processes
 The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is neither based on nor negated by not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habits, permission, labels, declarations, blustering, doubts, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. The behavior and functionality of a vote is equivalent to that vote's repeatedly measurable features. Any group of people who carry out the STEM-math-science-data process of best-practice-voting have performed voting in a way that can be audited, measured, repeated, clearly discussed, debugged, and results published. No group of people can skip or shortcut required STEM-math-science-data processes without having skipped those required STEM-math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon IS following best practice, though even then it is best to verify without trust that best practice is being followed. Under no circumstances can (so called) 'trust' replace or permit the skipping of best-practice-processes for people or groups, however much disinformation may demand and violently seek to enforce exemptions from best-practice-processes. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you, or processing your vote, in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, disinformation, and classically-defined tyranny.
 
+
 # Conceptual Note on Identification & Verification
 ## Voter Identification, Voting-Office Identification, And One-Time-Pads
 One way of looking at the use of one-time-pads when voting (entirely setting aside the topic of online or computer networks) is that having the voter (and the voting-office) produce a one-time pad during registration for use during an election the same as issuing a voter a form of voter-id (and also giving the voting-office a verification id that the voter can check). There are various advantages to using a one-time pad over a declaratory-seal-of-much-specialness or other fuzzy form of identification. Anyone can counterfeit a 'super-special-seal', but you cannot counterfeit a matching one-time-pad. And the one-time-pad can be used with the same robustness whether it is in-person, a paper envelope in the mail, by telegraph or telephone, or over a network like the internet.
@@ -53,6 +57,7 @@ Like anything else, 'social engineering' and physical disruption are not prevent
 
 
 # Proposed Steps for Secure Online Voting
+
 ## Rules & Assumptions
 - Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
 
@@ -80,7 +85,7 @@ Before the election ends: A person, e.g. in-person, with ID (identifiable as an 
 #### C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
 
 #### Step 2: (During in-person registration: Make one-time-pads.) 
-For a given single vote-ballot in a given single election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, in this case: 1. The Voter and 2. The Vote-Office). Since there will be two "exchanges" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. E.g. If the voter obtains a ballot from a compromised public ballot website or a fake website (disinformation) then that vote may be disrupted.
+For a given single vote-ballot in a given single-election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, in this case: 1. The Voter and 2. The Vote-Office). Since there will be two "exchanges (people sending things to each other)" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. E.g. If the voter obtains a ballot from a compromised public ballot website or a fake website (disinformation) then that vote could be disrupted unless the problem is detected and the danger avoided.
 
 (Alternately the voting-system could be streamlined to use only one pad for submitting a standardized public ballot, but this shorter process does not include the step for the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
 
