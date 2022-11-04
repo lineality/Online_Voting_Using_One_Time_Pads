@@ -918,6 +918,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## identifying issues candidates and choices clearly
 
 ## Statistical analysis in error checking of voting data
+- Frequentism vs. Bayes
+- Feature Comparison in Non-Parametric Models
 
 ## Voting systems, governance, and overall sustainability measures
 
