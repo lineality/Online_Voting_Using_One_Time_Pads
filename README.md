@@ -505,7 +505,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 
 #### Step 7: (Encrypt the Completed-Ballot [done by voter]) 
-Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot?
+Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have anonymized id?
 
 
 #### Step 8: (Voter Submit encrypted-ballot over network) 
@@ -708,6 +708,9 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for advertising
 - rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security 
 
+# Best Practice Examples
+- never record any private information in an internet or public exposed system, e.g. use a random id.
+- 
 
 #### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
 
