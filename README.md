@@ -156,6 +156,9 @@ The voter confirms that the information in their (the voter's)  electronic scann
 ~ Step: An optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
 Q: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
+- various ocr applications that can be used
+- open source
+- safety, reliability issues
 
 Reference: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
