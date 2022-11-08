@@ -608,21 +608,20 @@ Fuzzy time stamp (month year?) unix epoch
 - philes? (distributed communities based on projects/interests/views?)
 - 
 
-## elections vs. managing open source software vs. git
+## Managing Elections vs. managing Open-Source Projects
+- git
+- book ref...
 
+# ?
 2. Using a distributed ledgers (blockchains or modified blockchains) to store results:
 - e.g. university trusted node anchors
 - maybe full-chain so no retroactive?
 - slower but more robust?
 - smaller number of participants? (or pooled participants?)
 - containing hash and voting record?
-
 3. Using smart-contracts to manage processes through elections
 
 
-
-
-....
 
 #### Possible Multi-factor Authentication Tools:
 1. voice print
