@@ -1,5 +1,5 @@
 # Online_Voting_Using_One_Time_Pads
-#### Online Voting Using One Time Pads & Notes on General Election Software
+#### Online-Voting Using One-Time-Pads & Notes on Election-Software
 
 
 # Contents: 
@@ -57,6 +57,8 @@ Like anything else, 'social engineering' and physical disruption are not prevent
 
 
 # Proposed Steps for Secure Online Voting
+This section is primarily a proof of concept, though it should be possible to implement. The emphasis here is on best-practice process, not on maximum convenience or maximum time-resource cost efficiency. So while this model may not be ideal to use directly in all situations, it may be seen (provided tests and audits) as an ideal to not stray too far from. 
+
 
 ## Rules & Assumptions
 - Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
