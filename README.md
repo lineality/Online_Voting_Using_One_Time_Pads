@@ -490,7 +490,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-#### Step 5: (Complete the Ballot, Mark Votes) 
+#### Step 6: (Complete the Ballot, Mark Votes) 
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
@@ -522,23 +522,20 @@ some kind of MFA or blockchain ledger system?
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 
-#### Step 9: (Processing the encrypted Voter-submitteds ballot)
+#### Step 9: (Process the Encrypted Voter-Submitted Ballot)
 - thrifty encryption choice?
 Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
-
-
-#### Step 10: (Processing the Voter-submitted ballot)
 - format of ballot
 (csv?)
 (voter checks on status?)
 
-#### Step 11: (Process Election Data / Count The Votes)
+#### Step 10: (Process Election Data / Count The Votes)
 (storage: distributed? immutable ledger?)
 
-#### Step 12: (Publish Election Vote-Results-Data)
+#### Step 11: (Publish Election Vote-Results-Data)
 - automated?
 
-#### Step 13: (Publish Election Report)
+#### Step 12: (Publish Election Report)
 - automated?
 
 
