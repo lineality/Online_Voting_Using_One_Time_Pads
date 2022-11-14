@@ -505,37 +505,39 @@ University of North Carolina at Charlotte
 https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ballot_Intentional_Undervoting_in_American_Presidential_Elections 
 
 
-#### Step 6: (Check Completed-Ballot for Errors [done by voter]) 
+#### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
 - impossible options
 - no-vote blanks
 - test-process errors (something breaks processing)
 
 
-#### Step 7: (Encrypt the Completed-Ballot [done by voter]) 
-Q: if an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have anonymized id?
+#### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
+Q: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have anonymized id?
 
 
-#### Step 8: (Voter Submit encrypted-ballot over network) 
+#### Step 9: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
 some kind of MFA or blockchain ledger system?
 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 
-#### Step 9: (Process the Encrypted Voter-Submitted Ballot)
+#### Step 10: (Process the Encrypted Voter-Submitted Ballot)
 - thrifty encryption choice?
 Arguably this is a key area if one-time-pads are not being used, or not in the same way as the proof-of-concept. 
 - format of ballot
 (csv?)
 (voter checks on status?)
+- decrypt
+- data-entry: vote into system
 
-#### Step 10: (Process Election Data / Count The Votes)
+#### Step 11: (Process Election Data / Count The Votes)
 (storage: distributed? immutable ledger?)
 
-#### Step 11: (Publish Election Vote-Results-Data)
+#### Step 12: (Publish Election Vote-Results-Data)
 - automated?
 
-#### Step 12: (Publish Election Report)
+#### Step 13: (Publish Election Report)
 - automated?
 
 
