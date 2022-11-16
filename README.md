@@ -555,6 +555,7 @@ What kind of software (singular or plural) would be needed to arrange a secure e
 Immutable-Ledger Data-Structures (blockchains): 
 - Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
 - General record and evidence chains. (admittance of observers, reports, events, etc.)
+- Note: while 'blockchains' per-se have gotten a lot of bad press, there are various ways to accomplish the goal of having distributed redundancy. 
 
 Resilience: One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
@@ -982,6 +983,7 @@ https://www.youtube.com/greymatter/search?query=elections
 - error check against incorrect reading
 - sufficient identification and verification information
 - practical use for size and processing
+
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
