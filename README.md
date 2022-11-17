@@ -987,3 +987,7 @@ https://www.youtube.com/greymatter/search?query=elections
 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
+
+
+
+Include pre-election polling?
