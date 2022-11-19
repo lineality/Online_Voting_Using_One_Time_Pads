@@ -994,3 +994,4 @@ Include pre-election polling?
 - Voting vs. polling
 - representation and statistical representation
 - vote by proxy
+- exit polls?
