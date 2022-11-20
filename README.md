@@ -559,6 +559,7 @@ Immutable-Ledger Data-Structures (blockchains):
 
 Resilience: One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
+Is there a formal way to map the attack-surface areas of, and to compare, different systems of voting?
 
 # A Practical Election Management Package
 
