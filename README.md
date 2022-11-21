@@ -996,3 +996,8 @@ Include pre-election polling?
 - representation and statistical representation
 - vote by proxy
 - exit polls?
+
+#### Ballot design issues:
+- question phasing
+- choice phrasing
+- clarifications of language
