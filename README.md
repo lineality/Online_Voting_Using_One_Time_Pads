@@ -1004,3 +1004,18 @@ Include pre-election polling?
 
 
 ## Variations on Enrollment and Voter Test
+- age text
+- local test
+- stake-holder test
+- 'citizenship' test
+- land ownership test
+- knowledge of ballot issues test
+
+edge cases:
+- families
+- institutions
+- pre-participants (children)
+- post-participants (elderly)
+
+
+## 
