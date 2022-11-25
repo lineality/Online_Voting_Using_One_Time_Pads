@@ -532,6 +532,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 (voter checks on status?)
 - decrypt
 - data-entry: vote into system
+- an advantage, possibly a significant one, is the ability to skip optical text recognition and keep all data in a stable digital format.
 
 #### Step 11: (Process Election Data / Count The Votes)
 (storage: distributed? immutable ledger?)
@@ -963,7 +964,7 @@ Where optical character recognition is used, what standards can be optional and 
 - https://www.youtube.com/greymatter/search?query=elections 
 
 # Voting System Design Study Links
-https://www.youtube.com/greymatter/search?query=elections 
+- https://www.youtube.com/greymatter/search?query=elections 
 
 ## Election Data Study Link
 - https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
@@ -1003,8 +1004,8 @@ Include pre-election polling?
 - clarifications of language
 
 
-## Variations on Enrollment and Voter Test
-- age text
+## Variations on Enrollment and Voter-Tests
+- age test
 - local test
 - stake-holder test
 - 'citizenship' test
@@ -1017,5 +1018,11 @@ edge cases:
 - pre-participants (children)
 - post-participants (elderly)
 
+
+## Modes of Election
+- first pass the post
+- proportional representation
+- run-off
+- ranked-choice
 
 
