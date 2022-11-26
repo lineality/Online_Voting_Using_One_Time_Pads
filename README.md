@@ -960,13 +960,13 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting is handled. Including the question of whether OCR should be avoided.
 
 
-# General Voting System Study Links
+## General Voting System Study Links (appendix)
 - https://www.youtube.com/greymatter/search?query=elections 
 
-# Voting System Design Study Links
+## Voting System Design Study Links (appendix)
 - https://www.youtube.com/greymatter/search?query=elections 
 
-## Election Data Study Link
+#### Election Data Study Link
 - https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
 
 
@@ -975,9 +975,9 @@ Where optical character recognition is used, what standards can be optional and 
 - https://stackoverflow.com/questions/63092441/fast-way-to-visualize-huge-tables-with-dash-and-plotly-python 
 
 
-## Who: Age Voting Tests and Voter Qualification
+# Who: Age Voting Tests and Voter Qualification
 
-# How should we think about what a ballot is, what it contains, and what it does?
+#### How should we think about what a ballot is, what it contains, and what it does?
 - where it comes from
 - id of who fills it out
 - error checks against incorrect filling out
@@ -1012,7 +1012,7 @@ Include pre-election polling?
 - land ownership test
 - knowledge of ballot issues test
 
-edge cases:
+#### election enrollment edge cases:
 - families
 - institutions
 - pre-participants (children)
