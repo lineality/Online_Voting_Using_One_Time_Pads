@@ -641,7 +641,11 @@ Fuzzy time stamp (month year?) unix epoch
 6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
 7. face-selfie (time GIS stamped picture of person casting vote)
 8. video of person voting (more secure than static selfie?)
-or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting
+or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
+9. timestamps? (timestamp plus geolocation?)
+10. finger prints
+11. wearable bio-signatures?
+
 
 
 ### Specific Deep-fake and NN-generated-photo detection
