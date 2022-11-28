@@ -415,7 +415,7 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 - anonymized ballots (storing data without direct connection to user information)
 - face-picture when sending in vote
 - vote by phone system, tied to that phone...(note: if you lose the phone)
-
+- 'done by voter' means voter-side-software vs. vote-system/office-side-software, not necessarily manually done. e.g. automated error checking.
 
 ## Ballot format standardization?
 - csv format: pads, ballots, votes
@@ -481,7 +481,7 @@ During the election period (be that months, weeks, days, hours, etc.), a one-tim
 Part of this process is an at-the-time randomized process of frame-shifting the ballot so that the location on the page where each person's vote-choices appear is random. 
 
   
-#### Step 4: (Voter Gets the not-yet-completed ballot)  
+#### Step 4: (Voter Gets the not-yet-completed Ballot)  
 Optional ways to do this:
 - A. sent to user
 - B. posted on several public sites and signed and can be compared/verified
@@ -492,7 +492,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
-#### Step 6: (Complete the Ballot, Mark Votes) 
+#### Step 6: (Voter Completes the Ballot, Marks Votes) 
 e.g. csv format of data (vs. pdf type doc)
 Q: id such as biometric data
 
