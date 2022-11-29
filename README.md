@@ -344,7 +344,7 @@ It is also possible that OCR (optical character recognition) may not be good eno
 
 Note: It might be possible to make a kind of hybrid document solution. There can be a QR code that gives template and instruction information as to what the fields are, then items selected (boxes filled, or circles filled in) can be identified without the use of OCR. In the case of write-in ballot areas, there may be various factors that make OCR 'good enough.' e.g. if any candidate receives enough write-in votes, that situation will make that popular name a more likely candidate for matching in the case of mostly illegible scrawling. And having one letter per box may also help legibility for write-in names. 
 
-The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear easily defined targets such as binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
+The task of automated ballot-reading perhaps should be steered away from subtle character recognition of natural-language phrases and towards clear, easily defined, targets such as a binary check-box selection. An exception to this may be write-in ballots which do occur, where some other system may be needed (binary as in: checked-box vs. not-checked-box).
 Though even here, OCR and having the vote double-check to see that the OCR is correct may be sufficient. 
 (Note: The direct use of .csv files may be ideal. CSV files can also account for write-in and other edge cases. Any 'field' to fill in can simply be included either as an item in the same row and or as a column heading).
 
@@ -459,7 +459,7 @@ e.g.,
 (also a check against vote left empty?)
 Note: Write-in may be an issue for the truncated ballot. 
 
-Note: ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
+#### Note: Ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
 The idea of a non-recoverable system, disposable, that you would restart if something went wrong, but no back-doors, side doors, etc.
 voter...re-register...multiple register?
@@ -1030,3 +1030,5 @@ Include pre-election polling?
 - ranked-choice
 
 
+### Software Requirements & Security Standards
+- memory safe languages
