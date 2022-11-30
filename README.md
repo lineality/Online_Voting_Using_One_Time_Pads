@@ -699,14 +699,14 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for election audits (required audits, optional audits)
 - rules, policies, and procedures for election-results-challenge
 - rules, policies, and procedures for recount (automatic recounts, type of recount, etc.)
-- ules, policies, and procedures for overruling-election-results e.g. by gov. branches, evidence requirements
+- rules, policies, and procedures for overruling-election-results e.g. by gov. branches, evidence requirements
 - rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
 - rules, policies, and procedures for announcing and publishing results 
 - rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
 - Should there be a 'log' of who makes changes to procedures and how?
 - rules, policies, and procedures for open and transparent observation of election and ballot counting & processing
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
-- rules, policies, and procedures for meetings and correspondence transparency around voloting infrastructure and offices and resources
+- rules, policies, and procedures for meetings and correspondence transparency around voting infrastructure and offices and resources
 - rules, policies, and procedures for foreign domestic local and internal interference with the attacks on the election process
 - rules, policies, and procedures for voter registration
 - rules, policies, and procedures for voter identification 
@@ -1032,3 +1032,9 @@ Include pre-election polling?
 
 ### Software Requirements & Security Standards
 - memory safe languages
+
+
+
+#### defining 'disinformation'
+
+
