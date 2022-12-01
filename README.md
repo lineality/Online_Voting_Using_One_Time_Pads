@@ -693,7 +693,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 
 # Rules, Policies, and Procedures
 - rules, policies, and procedures for contacting media or watchdogs about suspicious anything (emails, threats, voter intimidation, etc.)
-- rules, policies, and procedures for eligibility
+- rules, policies, and procedures for eligibility and voter enrollment
+- rules, policies, and procedures for selecting election-staff
 - rules, policies, and procedures for voter-registration
 - rules, policies, and procedures for per way to vote
 - rules, policies, and procedures for election audits (required audits, optional audits)
