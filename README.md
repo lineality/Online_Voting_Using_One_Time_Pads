@@ -727,7 +727,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - never record any private information in an internet or public exposed system, e.g. use a random id.
 - 
 
-#### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (indlucing media files) and voting systems?
+#### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (including media files) and voting systems?
 
 
 ### Issue/Task: user interface for setting up an election
@@ -1038,4 +1038,13 @@ Include pre-election polling?
 
 #### defining 'disinformation'
 
+
+## scaling needs for larger elections
+- 
+
+
+...
+
+minimal and non-minal software for voting
+-
 
