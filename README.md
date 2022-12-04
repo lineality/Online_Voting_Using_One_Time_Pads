@@ -722,6 +722,9 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for canvassing
 - rules, policies, and procedures for advertising
 - rules, policies, and procedures for auditing, vetting, and guarantors: items to be audited: ballot counting, whole voting system, audits themselves, security 
+- rules, policies, and procedures on best practice
+- rules, policies, and procedures on rules
+- rules, policies, and procedures on disinformation & nihilism
 
 # Best Practice Examples
 - never record any private information in an internet or public exposed system, e.g. use a random id.
