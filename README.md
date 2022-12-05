@@ -1035,11 +1035,15 @@ Include pre-election polling?
 
 
 ### Software Requirements & Security Standards
-- memory safe languages
+- Memory Safe Languages
 
 
 
-#### defining 'disinformation'
+## Defining 'Disinformation'
+Verification, stem-information, and disinformation
+- resources:
+- history
+-
 
 
 ## scaling needs for larger elections
