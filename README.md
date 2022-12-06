@@ -675,7 +675,8 @@ https://github.com/lineality/Auditable_Elections_Projects
 -
 
 
-## Rules-And-Procedures Statements-&-Documentation for Elections
+## Goals Rule Policies Procedures Methods etc.
+Rules-And-Procedures Statements-&-Documentation for Elections
 
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
 - rules, policies, and procedures for how rules, policies, and procedures for voting are made, unmade, and changed
@@ -725,6 +726,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures on best practice
 - rules, policies, and procedures on rules
 - rules, policies, and procedures on disinformation & nihilism
+- rules, policies, and procedures on interactions between separate or connected groups holding elections.
 
 # Best Practice Examples
 - never record any private information in an internet or public exposed system, e.g. use a random id.
