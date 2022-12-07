@@ -705,7 +705,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for chain of custody of election materials, equipment, etc., Provenance   
 - rules, policies, and procedures for announcing and publishing results 
 - rules, policies, and procedures for reporting information about the vote: procedures, voter enrollment and participation numbers, etc. 
-- Should there be a 'log' of who makes changes to procedures and how?
+-- Should there be a 'log' of who makes changes to procedures and how?
 - rules, policies, and procedures for open and transparent observation of election and ballot counting & processing
 - rules, policies, and procedures for exit polls (what collected, from whom, released when)
 - rules, policies, and procedures for meetings and correspondence transparency around voting infrastructure and offices and resources
