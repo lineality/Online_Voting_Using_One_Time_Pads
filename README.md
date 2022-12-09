@@ -989,7 +989,7 @@ Where optical character recognition is used, what standards can be optional and 
 
 #### How should we think about what a ballot is, what it contains, and what it does?
 - where it comes from
-- id of who fills it out
+- id of who fills ballot out
 - error checks against incorrect filling out
 - disambiguation of content
 - error check against incorrect reading
