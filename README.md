@@ -420,6 +420,8 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 
 ## Ballot format standardization?
 - csv format: pads, ballots, votes
+- data format / presentation format 
+- character type...ascii?
 
 
 # Proposed Steps for Practical Secure Online Voting (section under construction)
