@@ -14,7 +14,7 @@
 #### 1. Is secure-auditable online-voting possible in principle?
 #### 2. Is reliable online-vote-result-publishing possible in principle?
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? How is security measured? What specific measures are required for security to be sufficient?
-#### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible/practical-to-implement, systems? (e.g. a perfect system vs. a good system, as in "not letting the perfect be the enemy of the good")
+#### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible / practical-to-implement, systems? (e.g. a perfect system vs. a good system, as in "not letting the perfect be the enemy of the good")
 
 
 ## Questions For Clarification
