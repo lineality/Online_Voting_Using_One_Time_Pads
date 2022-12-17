@@ -660,6 +660,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 1. public security log data/meta-data to be inspected by anyone about the system
  
 
+
 # Additional Questions:
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
@@ -668,15 +669,12 @@ https://github.com/lineality/Auditable_Elections_Projects
 #### Case Studies in Election Disruption and Resilience:
 - (2020?)
 
-
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
 - 
 
-
 #### Case Studies in Failing to agree locally on election rules:
 -
-
 
 ## Goals Rule Policies Procedures Methods etc.
 Rules-And-Procedures Statements-&-Documentation for Elections
@@ -731,9 +729,11 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures on disinformation & nihilism
 - rules, policies, and procedures on interactions between separate or connected groups holding elections.
 
+
+
+
 # Best Practice Examples
 - never record any private information in an internet or public exposed system, e.g. use a random id.
-- 
 
 #### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (including media files) and voting systems?
 
