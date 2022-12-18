@@ -1032,7 +1032,7 @@ Include pre-election polling?
 - post-participants (elderly)
 
 
-## Modes of Election
+### Modes of Election
 - first pass the post
 - proportional representation
 - run-off
@@ -1044,23 +1044,21 @@ Include pre-election polling?
 
 
 
-## Defining 'Disinformation'
+### Defining 'Disinformation'
 Verification, stem-information, and disinformation
 - resources:
 - history
 -
 
 
-## scaling needs for larger elections
+### scaling needs for larger elections
 - 
 
 
-...
-
-minimal and non-minal software for voting
+### minimal and non-minal software for voting
 -
 
 
-## Agile, Security, & Voting: General best practice vs. specific voting system best practice
+### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
 What do international election inspectors look for?
