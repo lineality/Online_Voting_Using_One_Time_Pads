@@ -1018,14 +1018,16 @@ Include pre-election polling?
 
 
 ## Variations on Enrollment and Voter-Tests
+Q: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification? 
 - age test
 - local test
 - stake-holder test
 - 'citizenship' test
 - land ownership test
 - knowledge of ballot issues test
+- 
 
-#### election enrollment edge cases:
+### election enrollment edge cases:
 - families
 - institutions
 - pre-participants (children)
@@ -1062,3 +1064,8 @@ Verification, stem-information, and disinformation
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
 What do international election inspectors look for?
+
+### Mandate Based Representation
+Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model). 
+(see: https://www.amazon.com/Decline-Rise-Democracy-History-Antiquity/dp/B088ZKZDTY/ )
+
