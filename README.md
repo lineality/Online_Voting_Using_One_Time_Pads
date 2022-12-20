@@ -1058,7 +1058,9 @@ Verification, stem-information, and disinformation
 
 
 ### minimal and non-minal software for voting
--
+- 
+
+#### trade off in user interface design: secure but use-able
 
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
