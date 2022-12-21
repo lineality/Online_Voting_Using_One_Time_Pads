@@ -1071,3 +1071,6 @@ What do international election inspectors look for?
 Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model). 
 (see: https://www.amazon.com/Decline-Rise-Democracy-History-Antiquity/dp/B088ZKZDTY/ )
 
+
+## Disinformation and Elections: Measuring and Modeling Information and Effects
+- 
