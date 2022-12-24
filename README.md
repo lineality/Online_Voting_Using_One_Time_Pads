@@ -1054,6 +1054,7 @@ Verification, stem-information, and disinformation
 
 
 ### scaling needs for larger elections
+scale factors and elections:
 - 
 
 
@@ -1073,5 +1074,6 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 
 ## Disinformation and Elections: Measuring and Modeling Information and Effects
-- 
-- 
+- identifying disinformation
+- preventing disinformation
+- stopping spread of collapse including disinformation
