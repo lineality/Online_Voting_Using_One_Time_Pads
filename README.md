@@ -25,7 +25,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper-ballot-voting-system.') 
 2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)? 
 3. Is it possible for a voter to submit a ballot securely over-a-network(online)?
-4. Is it possible for a voting-office to securely receive a completed ballot from the voter over-a-network(online)? [including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
+4. Is it possible for a voting-office to securely receive a completed ballot from the voter over-a-network(online)? [Including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
 5. Is there an effective equivalent of 'encryption' to allow non-tampering over-a-network?
 6. Is there an effective equivalent of 'encryption' to allow privacy over-a-network?
 7. Is a voting system practical and realistic to implement?
