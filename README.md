@@ -655,6 +655,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 - fake account setup
 - malicious files (fake or altered pictures for deception)
 - user login protocols
+- authentication topics:
 
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
