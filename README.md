@@ -193,7 +193,7 @@ The local election office physically prints onto paper the QR code for the 'encr
 2. Check
 3. Delete
  
-Note: This step will most likely be done on a "computer" that is connected to a "network."
+##### Note: This step will most likely be done on a "computer" that is connected to a "network."
 
 
 #### Step 15: (Processing the Voter-Submitted Ballot [not-over-a-network / not-online])
