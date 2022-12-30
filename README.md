@@ -1060,6 +1060,7 @@ scale factors and elections:
 
 
 ### minimal and non-minal software for voting
+- is there such a thing as a simple micro-election that can be quick and secure?
 - 
 
 #### trade off in user interface design: secure but use-able
