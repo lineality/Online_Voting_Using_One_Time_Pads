@@ -369,13 +369,13 @@ One-time-pads are not as efficient and user-friendly as shorter and or 're-use-a
 # Part 2: Practical Secure Online Voting
 ### Goal: practical version of online voting for realistic implementation
 
-For example, some voting locations (or regions) may not have: 
+####  Some voting locations (or regions) may not have: 
 1. printers, ink, and paper
 2. extra air-gapped computers
 3. a physical location to securely store paper files
 4. broadband wireless internet
 
-Most locations can be assumed to have and required to have:
+#### Most locations can be assumed to have and required to have:
 1. basic mobile phones
 2. basic (not high speed) internet access
 
@@ -385,14 +385,15 @@ A separate air-gapped mobile device would be feasible, or perhaps a more decentr
 (note: 'certificate' model)
 
 
-# An alternative thrifty-protocol for resource-limited situations/geographies: (section under construction)
+# An alternative thrifty-protocol for resource-limited situations/geographies 
+(section under construction)
 
 ## Practical Voting
 The goal here (for this practical-tool section, vs. the above secure voting in principle) is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best-practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones)?
 
 What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
 
-Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? Or more generally, what roles do 'institutions' including legal institutions, have with a fundamentally STEM/math/engineering process of carrying out and publishing the results of elections which have no reliance upon culture or belief and yet the results of which for practicality must be integrated with the 'social' system that is voting? (probably a bad analogy example: you do not need social institutions to measure the temperature of the (for example) the air, but without 'institutions' around standards and measures and even media of communciation it would be infeasible to physically or intellectually communicate and use that measurement-data. (E.g. go back in time a million years: you could measure the temperature of the air just fine, but how would you usefully-communicate that temperature-information to STEM-institution-less-communities of people and how would they use that information?)
+Question: Can virtual distributed elections be best carried out with or without support from institutions such as universities? Or more generally, what roles do 'institutions' including legal institutions, have with a fundamentally STEM/math/engineering process of carrying out and publishing the results of elections which have no reliance upon culture or belief and yet the results of which for practicality must be integrated with the 'social' system that is voting? (probably a bad analogy example: you do not need social institutions to measure the temperature of the (for example) the air, but without 'institutions' around standards and measures and even media of communication it would be infeasible to physically or intellectually communicate and use that measurement-data. (E.g. go back in time a million years: you could measure the temperature of the air just fine, but how would you usefully-communicate that temperature-information to STEM-institution-less-communities of people and how would they use that information?)
 
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
