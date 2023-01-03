@@ -1083,3 +1083,10 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 - identifying disinformation
 - preventing disinformation
 - stopping spread of collapse including disinformation
+
+
+
+# Bibliography & Resources
+- book, decline and rise of democracy
+- voting...book...name?
+- 
