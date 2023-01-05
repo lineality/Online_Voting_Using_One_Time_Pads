@@ -1047,8 +1047,17 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 
 
 ### Software Requirements & Security Standards
-- Memory Safe Languages
+- Memory Safe Languages: Rust vs. C
+- ratio of security problems that are memory management problems
 
+
+
+## anticipating hardware attacks
+- not all security problems target problems with software
+
+
+## anticipating social-engineering attacks
+- 
 
 
 ### Defining 'Disinformation'
