@@ -326,10 +326,15 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 
 ### Additional steps can be taken to increase security. 
+Security section:
 #### For example: 
 1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
+
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
+
+
+
 
 
 ## Unique Ballots:
@@ -551,21 +556,22 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - automated?
 
 
-### Notes:
-Q: Background tests and checks during the whole process?
+# Notes:
+#### Q: Background tests and checks during the whole process?
 
-(election results publishing...parts of process)
+#### (election results publishing...parts of process)
 
-Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
+#### Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
 
-What kind of software (singular or plural) would be needed to arrange a secure election?
+#### What kind of software (singular or plural) would be needed to arrange a secure election?
 
-Immutable-Ledger Data-Structures (blockchains): 
+#### Immutable-Ledger Data-Structures (blockchains): 
 - Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
 - General record and evidence chains. (admittance of observers, reports, events, etc.)
 - Note: while 'blockchains' per-se have gotten a lot of bad press, there are various ways to accomplish the goal of having distributed redundancy. 
 
-Resilience: One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
+#### Resilience: 
+One strategy: Part of an online system may be to increase the number of channels by which people can try to vote, and possibly have a backup-pad. Thereby, if bad-agents shut down the main channel for sending in votes (which may be a single point of failure) the process will not be disrupted.
 
 Is there a formal way to map the attack-surface areas of, and to compare, different systems of voting?
 
