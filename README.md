@@ -333,8 +333,11 @@ Security section:
 
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
-
-
+3. Known issues and areas:
+- memory issues: use memory safe languages
+- fonts: restrict and regulate character-set use
+- communications and fishing: don't use insecure systems such as email, SMS texts, http, ftp, etc.
+- 
 
 
 ## Unique Ballots:
