@@ -508,7 +508,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 
 #### Step 6: (Voter Completes the Ballot, Marks Votes) 
 e.g. csv format of data (vs. pdf type doc)
-Q: id such as biometric data
+Q: id such as biometric data?
 
 ~ step: an optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
