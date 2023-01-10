@@ -1106,4 +1106,12 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 # Bibliography & Resources
 - book, decline and rise of democracy
 - voting...book...name?
-- 
+
+#### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
+Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
+https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
+
+#### What You Need to Know About Voting--and Why (Legal Expert Series) 
+June 16, 2020
+by Kim Wehle (Author)
+https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
