@@ -1105,8 +1105,9 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 # Bibliography & Resources
 
-#### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
-Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
+#### The Decline and Rise of Democracy: A Global History from Antiquity to Today 
+(The Princeton Economic History of the Western World, 80)
+#### Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
 https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
 
 #### What You Need to Know About Voting--and Why (Legal Expert Series) 
