@@ -1106,6 +1106,7 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 # Bibliography & Resources
 
+## Books
 #### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
 Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
 https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
@@ -1115,6 +1116,13 @@ June 16, 2020
 by Kim Wehle (Author)
 https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
 
+## Web
+
 #### CGP Grey
 https://www.youtube.com/@CGPGrey/search?query=elections 
 https://www.youtube.com/@CGPGrey/search?query=voting 
+
+
+## Important case study in password handling:
+- https://twit.tv/shows/security-now/episodes/905 
+- https://twit.tv/shows/security-now/episodes/904 
