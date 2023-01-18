@@ -1126,3 +1126,4 @@ https://www.youtube.com/@CGPGrey/search?query=voting
 ## Important case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
+- alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
