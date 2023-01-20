@@ -1108,13 +1108,20 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 ## Books
 #### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
+
 Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
-https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
+- https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
 
 #### What You Need to Know About Voting--and Why (Legal Expert Series) 
-June 16, 2020
+June 16, 2020, 
 by Kim Wehle (Author)
-https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
+- https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
+
+#### Sandworm 
+Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
+by Andy Greenberg, Mark Bramhall, et al. 
+Hardcover – November 5, 2019
+- https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/ 
 
 ## Web
 
