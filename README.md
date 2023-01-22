@@ -1123,6 +1123,10 @@ by Andy Greenberg, Mark Bramhall, et al.
 Hardcover – November 5, 2019
 - https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/ 
 
+
+#### 
+(Maybe Nate silver book signal noise)
+
 ## Web
 
 #### CGP Grey
