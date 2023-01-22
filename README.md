@@ -1123,6 +1123,10 @@ by Andy Greenberg, Mark Bramhall, et al.
 Hardcover – November 5, 2019
 - https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/ 
 
+#### We Are All Targets: 
+How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos
+by Matt Potter, Matthew Waterson, et al.
+https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
 
 #### 
 (Maybe Nate silver book signal noise)
