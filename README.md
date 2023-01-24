@@ -1134,7 +1134,8 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 #### 
 (Maybe Nate silver book signal noise)
 
-
+####
+(Maybe model-land book)
 
 ## Web
 
@@ -1143,7 +1144,7 @@ https://www.youtube.com/@CGPGrey/search?query=elections
 https://www.youtube.com/@CGPGrey/search?query=voting 
 
 
-## Important case study in password handling:
+#### Case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
