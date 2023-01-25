@@ -1148,3 +1148,7 @@ https://www.youtube.com/@CGPGrey/search?query=voting
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
+
+#### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
+- https://twit.tv/shows/security-now/episodes/906 
+- alternate source episode 906: https://www.grc.com/securitynow.htm 
