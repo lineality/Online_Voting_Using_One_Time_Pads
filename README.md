@@ -1112,18 +1112,18 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
 - https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
 
-#### What You Need to Know About Voting--and Why (Legal Expert Series) 
+#### What You Need to Know About Voting and Why (Legal Expert Series) 
 June 16, 2020, 
 by Kim Wehle (Author)
 - https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
 
-#### Sandworm 
+#### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
 by Andy Greenberg, Mark Bramhall, et al. 
 Hardcover – November 5, 2019
 - https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/ 
 
-#### We Are All Targets: 
+#### [excellent history of early internet] We Are All Targets: 
 How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos
 by Matt Potter, Matthew Waterson, et al.
 https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
@@ -1137,17 +1137,19 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ####
 (Maybe model-land book)
 
+
 ## Web
 
-#### CGP Grey
-https://www.youtube.com/@CGPGrey/search?query=elections 
-https://www.youtube.com/@CGPGrey/search?query=voting 
+#### C.G.P. Gray on Elections & Voting Systems
+- https://www.youtube.com/@CGPGrey/search?query=elections 
+- https://www.youtube.com/@CGPGrey/search?query=voting 
 
 
 #### Case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
+
 
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
