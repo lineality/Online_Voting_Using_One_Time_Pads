@@ -1133,6 +1133,7 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 
 #### 
 (Maybe Nate silver book signal noise)
+https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
 
 ####
 (Maybe model-land book)
