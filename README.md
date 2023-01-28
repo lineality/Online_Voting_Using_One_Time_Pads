@@ -1106,9 +1106,8 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 # Bibliography & Resources
 
-## Books
+## Books on Elections
 #### The Decline and Rise of Democracy: A Global History from Antiquity to Today (The Princeton Economic History of the Western World, 80)
-
 Part of: The Princeton Economic History of the Western World (49 books) | by David Stasavage | Aug 24, 2021
 - https://www.amazon.com/Decline-Rise-Democracy-Antiquity-Princeton/dp/0691228973 
 
@@ -1117,6 +1116,17 @@ June 16, 2020,
 by Kim Wehle (Author)
 - https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
 
+
+## Books on Analysis & Statistics
+#### 
+(Maybe Nate silver book signal noise)
+https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
+
+####
+(Maybe model-land book)
+
+
+## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
 by Andy Greenberg, Mark Bramhall, et al. 
@@ -1132,12 +1142,10 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ( Cult of the dead cow )
 
 #### 
-(Maybe Nate silver book signal noise)
-https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
+( A people's history of computing )
 
 ####
-(Maybe model-land book)
-
+( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
 
 ## Web
 
@@ -1150,7 +1158,6 @@ https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R5
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
-
 
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
