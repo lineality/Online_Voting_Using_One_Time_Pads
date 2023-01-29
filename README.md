@@ -1147,6 +1147,9 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ####
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
 
+## Books on Project Management
+( )
+
 ## Web
 
 #### C.G.P. Gray on Elections & Voting Systems
