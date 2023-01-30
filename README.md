@@ -1142,7 +1142,7 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ( Cult of the dead cow )
 
 #### 
-( A people's history of computing )
+( A people's history of Computing )
 
 ####
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
