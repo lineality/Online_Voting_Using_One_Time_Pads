@@ -1031,6 +1031,7 @@ Include pre-election polling?
 - clarifications of language
 
 
+# Enrollment, Qualification, Inclusion, Selection
 ## Variations on Enrollment and Voter-Tests
 Q: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification? 
 - age test
