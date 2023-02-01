@@ -1124,7 +1124,7 @@ by Kim Wehle (Author)
 https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
 
 ####
-(Maybe model-land book)
+(model-land book)
 
 
 ## Books on Secure Computer Systems & Networks
