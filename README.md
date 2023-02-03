@@ -1167,3 +1167,10 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
 - alternate source episode 906: https://www.grc.com/securitynow.htm 
+
+
+### Case Studies
+- eastern Europe and Russia
+-- post wwii
+-- post 1989
+
