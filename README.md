@@ -1126,6 +1126,7 @@ https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R5
 
 ####
 (model-land book)
+note: comments on nate silver, comments on election results, but not a rigorous analysis.
 
 
 ## Books on Secure Computer Systems & Networks
