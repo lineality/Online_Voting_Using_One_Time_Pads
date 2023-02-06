@@ -1078,6 +1078,12 @@ Verification, stem-information, and disinformation
 -
 
 
+#  System Archecture
+(see: grc, security-now)
+### Trustless Archetecture / System deisgn
+### Secure by design
+### provably secure
+
 ### scaling needs for larger elections
 scale factors and elections:
 - 
