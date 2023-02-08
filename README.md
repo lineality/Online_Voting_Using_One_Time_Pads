@@ -1062,7 +1062,6 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 - ratio of security problems that are memory management problems
 
 
-
 ## anticipating hardware attacks
 - not all security problems target problems with software
 
