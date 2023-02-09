@@ -567,6 +567,8 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 
 #### What kind of software (singular or plural) would be needed to arrange a secure election?
 
+#### Voting and the byzantine general problem
+
 #### Immutable-Ledger Data-Structures (blockchains): 
 - Could some form of blockchain constructed by election participants be used as a decentered election results platform? 
 - General record and evidence chains. (admittance of observers, reports, events, etc.)
