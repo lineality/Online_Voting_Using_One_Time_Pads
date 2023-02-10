@@ -1157,12 +1157,13 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ####
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
 
-maybe book on data intesive systems
-
 ####
 NLP in action
 
 
+## Other Books
+(Virtual Society)
+(maybe book on data intensive systems)
 
 ## Books on Project Management
 ( )
