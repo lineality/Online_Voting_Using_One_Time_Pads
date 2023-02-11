@@ -240,7 +240,7 @@ An 'agent' may be anything from a single person to a group of people to an AI-bo
 -6. Software design problems that cause time, logistical, or reliability problems
 -7. Etc.
 
-Note: It may be important to consider both (unsuccessful) attempts and successful attacks. An unsuccessful attempt should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attempts to be a unit of attack, not successes. 
+Note: It may be important to consider both (unsuccessful) attempted-attacks and successful attacks. An unsuccessful attempted-attack should likely be considered important and not ignored simply because it was not entirely successful. E.g. possibly considering attack-attempts to be the unit in attack-space, not successful-attacks. 
 
 ## Bad-agents
 1. A bad-agent will intercept one-time-pads:
