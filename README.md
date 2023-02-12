@@ -1161,6 +1161,10 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 NLP in action
 
 
+## Books on Product Development
+- history of the future
+- open source study book...title? (no starch?)
+
 ## Other Books
 (Virtual Society)
 (maybe book on data intensive systems)
