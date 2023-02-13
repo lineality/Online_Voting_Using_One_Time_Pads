@@ -1045,7 +1045,7 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 - knowledge of ballot issues test
 - 
 
-### election enrollment edge cases:
+### Election-Enrollment Edge-Cases:
 - families
 - institutions
 - pre-participants (children)
