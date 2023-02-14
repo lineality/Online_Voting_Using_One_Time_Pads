@@ -830,22 +830,26 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 # Overall Discussion:
 
-- Why are specific technologies used for voting? 
 
-- What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
+## Defining & Systematizing Elections as 'projects' with Agile and Six Sigma
+-
+
+### Why are specific technologies used for voting? 
+
+### What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 
 - In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
 
 
-# Tradeoffs in Voting:
+## Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
 - direct-vote vs. representational
 - ease of vote vs. super-secure-vote
 - direct participation by voters vs. time consuming processes
 
-# voting and principles of security (ease of use vs. security etc)
+## voting and principles of security (ease of use vs. security etc)
 - 
 
 note: RC4 used correctly (discarding early output)
@@ -1194,3 +1198,4 @@ NLP in action
 -- post wwii
 -- post 1989
 
+s
