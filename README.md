@@ -939,6 +939,10 @@ judges, judge_1, MY_CHOICE\n
 - 
 
 
+## Scaling and computational efficiency (big o)
+
+## Managing decentralized (or centralized) projects
+
 ...
 
 ## The need for a resource-thin framework
