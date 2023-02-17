@@ -943,6 +943,10 @@ judges, judge_1, MY_CHOICE\n
 
 ## Managing decentralized (or centralized) projects
 
+
+## Forms of democracy and types and structures of elections:
+- forms of decision making in history from 'the decline and rise of democracy' book
+
 ...
 
 ## The need for a resource-thin framework
@@ -1138,11 +1142,8 @@ by Kim Wehle (Author)
 #### 
 (Maybe Nate silver book signal noise)
 https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
-
-####
-(model-land book)
-note: comments on nate silver, comments on election results, but not a rigorous analysis.
-
+ 
+#### Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We 
 
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
@@ -1201,4 +1202,6 @@ NLP in action
 - eastern Europe and Russia
 -- post wwii
 -- post 1989
+
+
 
