@@ -1143,7 +1143,12 @@ by Kim Wehle (Author)
 (Maybe Nate silver book signal noise)
 https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
  
-#### Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We 
+#### Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
+by Erica Thompson (Author)
+Publisher ‏ : ‎ Basic Books (December 6, 2022)
+https://www.amazon.com/Escape-Model-Land-Mathematical-Models/dp/1541600983/
+note: comments on nate silver, comments on election results, but not a rigorous analysis.
+
 
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
