@@ -1150,6 +1150,7 @@ https://www.amazon.com/Escape-Model-Land-Mathematical-Models/dp/1541600983/
 note: comments on nate silver, comments on election results, but not a rigorous analysis.
 
 
+
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
