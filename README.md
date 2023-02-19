@@ -1150,6 +1150,12 @@ https://www.amazon.com/Escape-Model-Land-Mathematical-Models/dp/1541600983/
 note: comments on nate silver, comments on election results, but not a rigorous analysis.
 
 
+## Modeling and Elections
+- tests vs. models
+- representation and region of vote (jerimandering or not)
+- election observation and inspection
+- election prediction
+
 
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
