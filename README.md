@@ -998,6 +998,9 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 - analysis of why post-internet polling has been so wrong
 
 
+## Possible roles of language detection, e.g. election monitoring interference tools
+- Can 'junk food language' Be Detected?
+
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting is handled. Including the question of whether OCR should be avoided.
 
