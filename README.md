@@ -290,7 +290,7 @@ Variants:
 
 13. A bad agent will attempt to disrupt or disperse the population or geography of a vote (creating a need for refugee voting). 
 
-14. A bad agent will attempt to gain access to then sell or transfer that access to a separate attacker-agent.
+14. A bad agent will attempt to gain access to a system (network, server, etc.) as a goal in and of itself: e.g. to then sell or transfer that access to a separate attacker-agent.
 
 15. A bad-agent will attempt to lurk undetected in the target system indefinitely, waiting and planning for a good time to act. (APT?) (see: canary; see: living off the land)
 
