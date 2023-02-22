@@ -692,7 +692,7 @@ https://github.com/lineality/Auditable_Elections_Projects
 #### Case Studies in Failing to agree locally on election rules:
 -
 
-## Goals Rule Policies Procedures Methods etc.
+# Goals, Rules, Policies, Procedures, & Methods, Statements (etc.)
 Rules-And-Procedures Statements-&-Documentation for Elections
 
 As part of an election, other publicly stated 'open' policy and procedure information is important in addition to the ballot itself.
@@ -824,6 +824,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - security audit
 - long term data storage and records audit
 - step by step audit of process?
+
+...
+
 
 
 ....
