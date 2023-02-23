@@ -828,6 +828,31 @@ What OS, what network architecture, and what cyber security strategies should/co
 ...
 
 
+# Whole Voting System
+- cross-platform
+- secure-by-design
+- resource-thrifty
+- scale-able
+
+#### Election Results Analysis
+
+#### Election Inspection
+
+#### Post-Election Audit
+
+#### Specific Vote Plan
+- scope of included voters
+- scale of data/geography
+- hardware needs
+- software needs
+- level of security
+
+#### Pre-Election Setup
+
+#### Election
+
+#### Post-Election
+
 
 ....
 
