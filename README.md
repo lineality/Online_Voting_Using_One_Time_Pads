@@ -1121,6 +1121,10 @@ Verification, stem-information, and disinformation
 - history
 -
 
+### election space analysis
+- NLP
+- matrix formats of election data
+
 
 #  System Archecture
 (see: grc, security-now)
