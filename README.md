@@ -975,6 +975,8 @@ judges, judge_1, MY_CHOICE\n
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history from 'the decline and rise of democracy' book
 
+## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
+
 ...
 
 ## The need for a resource-thin framework
