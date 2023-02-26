@@ -919,7 +919,7 @@ judges, judge_1, MY_CHOICE\n
 
 (standards on documentation)
 
-# reducing a .csv file to a QR code...
+# Reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
 
 # Participant and Rules based process for maintaining and publishing about voting system and election
@@ -976,6 +976,14 @@ judges, judge_1, MY_CHOICE\n
 - forms of decision making in history from 'the decline and rise of democracy' book
 
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
+
+
+## Visualization of Election Data
+- principles
+- planning
+- monitoring
+- results
+- reporting
 
 ...
 
