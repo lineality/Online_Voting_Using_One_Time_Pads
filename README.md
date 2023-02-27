@@ -928,6 +928,9 @@ judges, judge_1, MY_CHOICE\n
 # on productures, "trust", measures, standards, and ethics
 
 
+## the importance of open-source for software testing
+
+
 # Voting Statistic Package
 - frequentist
 - Baysian
