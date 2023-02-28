@@ -1264,4 +1264,5 @@ NLP in action
 -- post 1989
 
 
-
+## Articles:
+- https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
