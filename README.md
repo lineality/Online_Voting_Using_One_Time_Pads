@@ -1229,9 +1229,14 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ####
 NLP in action
 
+Deep Learning with Python, Second Edition
+by Francois Chollet | Dec 21, 2021
+https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/
 
 ## Books on Product Development
-- history of the future
+- history of the future 
+by Blake J. Harris, Stephen Graybill, et al.
+https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 - open source study book...title? (no starch?)
 
 ## Other Books
