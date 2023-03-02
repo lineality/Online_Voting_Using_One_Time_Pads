@@ -379,6 +379,15 @@ Details: The first part of this report is a more abstract proof-of-concept about
 # Part 2: Practical Secure Online Voting
 ### Goal: practical version of online voting for realistic implementation
 
+There is a difference between only the step of casting a vote being done online-over-a-network (to get the advantages of votes being cast from anywhere during a longer time-frame), and the entire election being held online, over-a-network. There are advantages and disadvantages to an online, decentered, open-source, election-system. Advantages:
+- open source
+- audit-able
+- test-able
+- faster
+- cheaper
+- available to oppressed and under-represented groups
+- modular: voting and election do not only happen during governmental elections, that is just one instance of a more general process. 
+
 ####  Some voting locations (or regions) may not have: 
 1. printers, ink, and paper
 2. extra air-gapped computers
@@ -476,12 +485,12 @@ Note: Write-in may be an issue for the truncated ballot.
 #### Note: Ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
 
 The idea of a non-recoverable system, disposable, that you would restart if something went wrong, but no back-doors, side doors, etc.
-voter...re-register...multiple register?
+voter...re-register...multiple registrations?
 
-note: squirel? grc.com 
+note: squirel grc.com 
 
 Q: one time pads vs. signing keys for transmitting ballots
-also: multiple party signing keys?
+Also: multiple party signing keys?
 
 
 #### Step 3: Voter Obtains Ballot Online
@@ -497,12 +506,13 @@ Part of this process is an at-the-time randomized process of frame-shifting the 
   
 #### Step 4: (Voter Gets the not-yet-completed Ballot)  
 Optional ways to do this:
-- A. sent to user
-- B. posted on several public sites and signed and can be compared/verified
-- C. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
+- A. posted on several public sites and signed and can be compared/verified
+- B. collecting from (and perhaps compared across) various sources by voting software, e.g. a minimal and secure mobile device software application ("app")
+(For the most-resource efficient system, individually sending personalized ballots should perhaps be avoided. Question: What are the factors around this? Does a ballot need to be individualized? How does it need to be individualized?)
+
 
 #### Step 5: (Voter Validate the not-yet-completed Ballot) 
-The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys. There could be both manual and automatic options to balance ease of use with manual thoroughness. 
+The voter on-line inspects and validates the ballot. Most likely by checking and comparing multiple sources,possibly signing keys, maybe multiple signing certificates. There could be both manual and automatic options to balance ease of use with manual thoroughness. 
 (note: Finding universities to host copies of the final ballot may be a good option. But this step may not be feasible or necessary.) (Something like a blockchain (immutable ledger) for all users of the voting system may suffice as a good-enough decentered immutable portable verified storage system.)
 
 
@@ -522,8 +532,8 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 
 #### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
-- impossible options
-- no-vote blanks
+- impossible options (more than one option selected where only one can be)
+- no-vote blanks (or too few for multiple selections, possible make vote choices clear so that one selection is required for each question. )
 - test-process errors (something breaks processing)
 
 
