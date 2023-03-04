@@ -123,7 +123,7 @@ Note: Public Ballot vs. Private Ballot vs. Hybrid
 1. Public 'open' ballots over a network and verifiable, maybe multi-factor verifiable. (Asymmetric signed by voting office, asymmetric signed by other trusted groups: ngo, university, sister cities, etc. The idea being that 'multi-factor' significantly increases the difficulty of attack; a public open-ledger ballot on a block-chain type system may also be either an alternative or another multi-factor. 
 2. Send the vote (or allow them to download) a private ballot (or a public ballot)
 
-Note: Another type of hybrid approach is the physically hand out general or unique ballots at the ballot office to the voter in-person, in the same process where the voter registers to vote.
+Note: Another type of hybrid approach is to physically hand out general or unique ballots at the ballot office to the voter in-person, in the same process where the voter registers to vote.
 
 
 #### Step 5: (Voter Receives the not-yet-completed ballot [over-a-network]) 
@@ -1281,4 +1281,3 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-s
