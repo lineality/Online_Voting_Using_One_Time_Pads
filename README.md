@@ -1009,6 +1009,10 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Succession
 
+## Methods for Consensus
+
+
+
 ...
 
 ## topics in voter enrollment
