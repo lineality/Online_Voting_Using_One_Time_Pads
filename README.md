@@ -1,5 +1,6 @@
-# Online_Voting_Using_One_Time_Pads
-#### Online-Voting Using One-Time-Pads & Notes on Election-Software
+##### Online_Voting_Using_One_Time_Pads
+
+# Voting, Decision, & Consensus Systems in Networks and in General
 
 
 # Contents: 
