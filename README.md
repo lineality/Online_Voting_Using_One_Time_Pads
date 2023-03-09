@@ -1253,9 +1253,10 @@ by Francois Chollet | Dec 21, 2021
 https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/
 
 ## Books on Product Development
-- history of the future 
+The History of the Future 
 by Blake J. Harris, Stephen Graybill, et al.
 https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
+
 - open source study book...title? (no starch?)
 
 ## Other Books
@@ -1265,9 +1266,9 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 ## Books on Project Management
 ( )
 
-## Web
+## Web Resources:
 
-#### C.G.P. Gray on Elections & Voting Systems
+#### C.G.P. Gray on Elections & Voting Systems 
 - https://www.youtube.com/@CGPGrey/search?query=elections 
 - https://www.youtube.com/@CGPGrey/search?query=voting 
 
@@ -1277,12 +1278,13 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
 
+
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
 - alternate source episode 906: https://www.grc.com/securitynow.htm 
 
 
-### Case Studies
+### Election Case Studies (section not complete)
 - eastern Europe and Russia
 -- post wwii
 -- post 1989
