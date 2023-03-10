@@ -992,6 +992,7 @@ judges, judge_1, MY_CHOICE\n
 
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
 
+## Quantifying elections, votes, decisions, agreement, choices
 
 ## Visualization of Election Data
 - principles
