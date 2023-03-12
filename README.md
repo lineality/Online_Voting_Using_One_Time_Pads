@@ -892,7 +892,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - 
 
 note: RC4 used correctly (discarding early output)
-
+https://en.wikipedia.org/wiki/RC4 
 
 
 Improvised Network in case of public internet disruptions:
