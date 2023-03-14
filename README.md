@@ -987,6 +987,10 @@ judges, judge_1, MY_CHOICE\n
 
 ## Managing decentralized (or centralized) projects
 
+## Laws Policies, and Voting-Elections about each-other: 
+	- a Matrix With Feedback
+	- 
+
 
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history from 'the decline and rise of democracy' book
