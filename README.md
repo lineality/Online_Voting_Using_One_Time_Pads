@@ -1019,7 +1019,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Methods for Consensus
 
-
+## Systematizing, Ethics and Projects in Elections
 
 ...
 
