@@ -417,7 +417,7 @@ Question: Can virtual distributed elections be best carried out with or without 
 
 Thrifty voting systems may make more use of available multi-factor authentication and less use of equipment-expensive methods (such as dedicated printing and scanning machines). 
 
-There should be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system. 
+Depending on the details of the situation, there may be some option for physical printed documents, but there will most likely be more use of non-paper methods for a thrifty resource-slim and more user-friendly system, for example in cases where there is no possible way to use physical documents. 
 
 Other methods such as chains-of-trust may be useful to harden thrifty online systems.?
 
