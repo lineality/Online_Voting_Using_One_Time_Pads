@@ -469,7 +469,7 @@ This may be done entirely online for most-practical voting, or other elements ma
 
 For entirely-online-voting there is the challenge of selecting who on the internet may participate. 
 A kind of hybrid may involve e.g. sending snail-mailed to voters (or picked up with ID from an office) to use to authenticate their online connection. 
-note: using signing signatures,
+note: using signing-signatures
 
 While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
@@ -1301,3 +1301,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
