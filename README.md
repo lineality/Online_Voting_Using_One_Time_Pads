@@ -307,13 +307,13 @@ Variants:
 
 
 
-## Description & Overview of Process-in-Principle:
+## Description & Overview of Process-in-Principle
 This is a proposed process for reasonably secure 'online (over a network) voting.' Part of this design is that the entire process is not on-line. Rather, physical printed materials and not-over-a-network/not-online computers are used to reduce the online attack surface. A person or bad-agent can feasibly steal or tamper with a file in a network-connected computer from a remote location, but a person or bad-agent cannot feasibly/easily tamper with or steal documents in a filing cabinet or from a computer connected to the internet. This particular solution is not a perfect-for-all-cases solution. E.g. This will not be easy to use for persons who cannot ever travel themselves to a gov. office or polling place. 
 
 The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
 
 
-## Implementation: 
+## Implementation
 (see practical implementation as separate after proof of concept implementation)
 These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
 
@@ -327,7 +327,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 
 ### Additional steps can be taken to increase security. 
-Security section:
+Security section
 #### For example: 
 1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
@@ -340,7 +340,7 @@ Security section:
 - communications and fishing: don't use insecure systems such as email, SMS texts, http, ftp, etc.
 
 
-## Unique Ballots:
+## Unique Ballots
 At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (not-over-a-network/not-online) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
 (todo: list pros and cons of using unique ballots (per voter)
 
