@@ -270,7 +270,7 @@ Variants:
 - social engineering attack to the same end (e.g. impersonating a voter, pole worker, technician, etc.)
 
 
-5. A bad-agent will act on the behalf of a participant without the voter's participation
+5. A bad-agent will act on the behalf of a participant without the voter's participation:
 - cast a vote
 - cancel or change registration
 - try to register or get registration information
@@ -297,7 +297,7 @@ Variants:
 
 16. A bad-agent will attempt to re-purpose the voting system for their own uses.
 
-17. A bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification
+17. A bad-agent will attempt to disrupt access to the voting tools and processes, from enrollment to voting to results reporting and verification.
 
 18. A bad-agent will attempt to disrupt the network.
 
