@@ -609,6 +609,9 @@ Is there a formal way to map the attack-surface areas of, and to compare, differ
 6. produce results report
 7. schedule election
 8. publish results report
+9. Automation of parts and all parts of elections
+10. Elections including/between non-human project elements (AI)
+
 
 #### Mode of Voting Offices
 - Mode 1: single physical vote office
