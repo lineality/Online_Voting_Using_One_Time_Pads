@@ -1235,7 +1235,6 @@ note: comments on nate silver, comments on election results, but not a rigorous 
 - election observation and inspection
 - election prediction
 
-
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
@@ -1301,8 +1300,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 -- post wwii
 -- post 1989
 
-
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-
-
