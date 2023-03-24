@@ -368,7 +368,7 @@ With a one-time-pad, every character (letter, number, symbol, etc.) in the docum
 One-time-pads are not as efficient and user-friendly as shorter and or 're-use-able' codes in some ways, but one-time-pads are more secure and more simple. Because there is no 'key,' there is no possibility in principle to 'guess the key.' The one-time-pad must be as long as the original text itself, unlike a 'password' or short 'key' that might be only eight characters long. 
 
 
-#### low-tech security & limited-resources
+#### Low-Tech Security & Limited-Resources
 Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
 Details: The first part of this report is a more abstract proof-of-concept about whether one-time-pad voting over a network is any less secure than one-time-pad secured voting over-a-network. However, in reality actual voters and voting-offices may refuse to use an ideal secure voting system (for reasons legitimate or illegitimate). It is entirely within keeping with computer science that there are multiple possible solutions to a problem, and while one solution may be perfectly fine in theory it is simply not practical or feasible to implement (often: requiring too many resources (including time as a resources), either relatively too many (resources-required) compared to another solution or too many as in that requirement simply cannot be met with known technology (e.g. taking a length of time longer than the age of the universe to solve the problem: in principle: problem solved! in practical reality: problem not solved.)). There should be a discussion of what a good-enough solution is, and how a good-enough solution may meet the practical demands of users. 
@@ -428,7 +428,8 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 4. one pad per set of elections vs. two pads per single election (backup pads?)
 5. more cryptographic signature use?
 
-#### Topic: use of one time pads and signing signatures
+
+#### Topic: use of one time pads plus signing signatures
 
 
 
@@ -920,6 +921,8 @@ Improvised Network in case of public internet disruptions:
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
 
+# Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
+
 # Standardized .csv ballot formats
 flat files with no header needed
 first column: category
@@ -1235,6 +1238,7 @@ note: comments on nate silver, comments on election results, but not a rigorous 
 - election observation and inspection
 - election prediction
 
+
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
@@ -1300,5 +1304,8 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 -- post wwii
 -- post 1989
 
+
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
