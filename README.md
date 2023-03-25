@@ -64,7 +64,7 @@ Like anything else, 'social engineering' and physical disruption are not prevent
 This section is primarily a proof of concept, though it should be possible to implement. The emphasis here is on best-practice process, not on maximum convenience or maximum time-resource cost efficiency. So while this model may not be ideal to use directly in all situations, it may be seen (provided tests and audits) as an ideal to not stray too far from. 
 
 
-## Rules & Assumptions
+## Rules & Assumptions (For Conceptual-Ideal Election)
 - Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
 
 - Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
@@ -80,7 +80,7 @@ Q: Design question: printable-document format vs. .csv format
 - storing document
 - converting document
 
-## Steps
+## Steps (For Conceptual-Ideal Election)
 
 #### Step 1: (During in-person voter registration: start registration [not-over-a-network/not-online]:) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
