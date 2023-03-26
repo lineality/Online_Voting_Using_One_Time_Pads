@@ -1028,6 +1028,11 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Methods for Consensus
 
+
+## Automated Decision Making & Hybrid-Participant (h.sapiens & machine)
+
+
+
 ## Systematizing, Ethics and Projects in Elections
 
 ...
