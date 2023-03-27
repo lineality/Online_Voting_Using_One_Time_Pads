@@ -1015,6 +1015,9 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - results
 - reporting
 
+
+## System Explainability & System Reliability Standardization
+
 ...
 
 ## The need for a resource-thin framework
