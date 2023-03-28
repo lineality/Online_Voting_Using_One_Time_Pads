@@ -561,6 +561,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - data-entry: vote into system
 - an advantage, possibly a significant one, is the ability to skip optical text recognition and keep all data in a stable digital format.
 
+
 #### Step 11: (Process Election Data / Count The Votes)
 (storage: distributed? immutable ledger?)
 
@@ -1315,3 +1316,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
