@@ -709,6 +709,10 @@ https://github.com/lineality/Auditable_Elections_Projects
 #### Case Studies in Failing to agree locally on election rules:
 -
 
+#### Case Studies in Long Term Technical Design Issues:
+- SN https://www.grc.com/sn/sn-914-notes.pdf 
+
+
 # Goals, Rules, Policies, Procedures, & Methods, Statements (etc.)
 Rules-And-Procedures Statements-&-Documentation for Elections
 
