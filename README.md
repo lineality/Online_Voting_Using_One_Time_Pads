@@ -475,7 +475,7 @@ note: using signing-signatures
 While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
-(Q: How reliable is OCR? is that an issue?)
+(Q: How reliable is OCR? Is OCR reliability an issue? Is this a strong argument for all-digital and no-conversion process? (can still be printed or saved records etc.)
 
 A short-form or truncated ballot may contain, 
 e.g., 
