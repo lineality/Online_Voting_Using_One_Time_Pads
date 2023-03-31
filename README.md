@@ -31,6 +31,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 6. Is there an effective equivalent of 'encryption' to allow privacy & security over-a-network?
 7. Is a voting system practical and realistic to implement?
 8. What is the best way, or what are the best ways, of concretely defining "over-a-network(online)"?
+9. What specific instances are there of voting within systems and projects that share the same core processes of choice, voting, and decision making, coordination, etc., while covering applications beyond the single instance of, for example, US national presidential elections, and that cover more partially or entirely automated systems?
 
 
 ## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
