@@ -1,6 +1,7 @@
 ##### Online_Voting_Using_One_Time_Pads
 
 # Voting, Decision, & Consensus Systems in Networks and in General
+#### project context decision making between participants and multiple components
 
 
 # Contents: 
@@ -900,7 +901,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - direct participation by voters vs. time consuming processes
 
 ## voting and principles of security (ease of use vs. security etc)
-
+- 
 
 note: RC4 used correctly (discarding early output)
 https://en.wikipedia.org/wiki/RC4 
@@ -966,6 +967,8 @@ judges, judge_1, MY_CHOICE\n
 - continuous functions vs. classification
 - targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
 
+
+# System Health, System Coordination, System Voting
 
 #  Records, versioning, documentations, testing standards
 
@@ -1039,6 +1042,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 
 ## Automated Decision Making & Hybrid-Participant (h.sapiens & machine)
+
 
 
 ## Systematizing, Ethics and Projects in Elections
@@ -1165,6 +1169,7 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 ### Software Requirements & Security Standards
 - Memory Safe Languages: Rust vs. C
 - ratio of security problems that are memory management problems
+
 
 ## anticipating hardware attacks
 - not all security problems target problems with software
@@ -1315,6 +1320,7 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 - eastern Europe and Russia
 -- post wwii
 -- post 1989
+
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
