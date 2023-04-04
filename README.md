@@ -1,7 +1,7 @@
 ##### Online_Voting_Using_One_Time_Pads
 
 # Voting, Decision, & Consensus Systems in Networks and in General
-#### project context decision making between participants and multiple components
+#### Project-Context Decision-Making Involving Participants and Components
 
 
 # Contents: 
@@ -1324,3 +1324,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
