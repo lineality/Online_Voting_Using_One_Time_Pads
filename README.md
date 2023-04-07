@@ -856,6 +856,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - secure-by-design
 - resource-thrifty
 - scale-able
+- open and audit-able
 
 #### Election Results Analysis
 
@@ -877,13 +878,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 #### Post-Election
 
 
-....
-
 # Overall Discussion:
 
-
 ## Defining & Systematizing Elections as 'projects' with Agile and Six Sigma
--
 
 ### Why are specific technologies used for voting? 
 
