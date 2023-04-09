@@ -1124,7 +1124,7 @@ Where optical character recognition is used, what standards can be optional and 
 # Formalized General Processes:
 - Is 'voting' parts of another more generalized set of processes?
 
-
+### coordination disinformation and the byzantine generals problem
 
 Include pre-election polling?
 - Voting vs. polling
