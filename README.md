@@ -1253,6 +1253,11 @@ note: comments on nate silver, comments on election results, but not a rigorous 
 - election prediction
 
 
+## Data Diversity Modeling and representation
+Invisible Women: Data Bias in a World Designed for Men
+by Caroline Criado Perez | Mar 2, 2021
+https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419735217
+
 ## Books on Secure Computer Systems & Networks
 #### [case study] Sandworm 
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
@@ -1275,7 +1280,7 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
 
 ####
-NLP in action 1st
+NLP in action 1st ed
 
 Deep Learning with Python, Second Edition
 by Francois Chollet | Dec 21, 2021
