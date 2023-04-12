@@ -542,7 +542,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 
 #### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
-Details depend on file system being used.
+Details depend on the file system being used.
 Q: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have an anonymized id?
 
 
