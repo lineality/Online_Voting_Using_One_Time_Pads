@@ -440,7 +440,7 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 - anonymized ballots (storing data without direct connection to user information)
 - face-picture when sending in vote
 - vote by phone system, tied to that phone...(note: if you lose the phone)
-- 'done by voter' means voter-side-software vs. vote-system/office-side-software, not necessarily manually done. e.g. automated error checking.
+- 'done by voter' means voter-side-software vs. vote-system/voting-office-side-software, not necessarily manually done. e.g. automated error checking. (better terms probably needed)
 
 ## Ballot format standardization?
 - csv format: pads, ballots, votes
