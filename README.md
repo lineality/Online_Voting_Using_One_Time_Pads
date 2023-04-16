@@ -571,7 +571,19 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - automated?
 
 #### Step 13: (Publish Election Report)
-- automated?
+- documentation on system architecture
+- policies
+- rules
+- enrollment
+- method of vote-counting
+- security audit of system
+- security audit of election
+- questionnaires and poles
+- rules for margins, recounts, challenges, runoffs, etc.
+- open source system code
+- anonymized election results
+- election schedule
+
 
 
 # Notes:
