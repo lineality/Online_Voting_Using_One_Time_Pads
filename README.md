@@ -1187,7 +1187,6 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 ## anticipating social-engineering attacks
 - 
 
-
 ### Defining 'Disinformation'
 Verification, stem-information, and disinformation
 - resources:
@@ -1198,10 +1197,9 @@ Verification, stem-information, and disinformation
 - NLP
 - matrix formats of election data
 
-
 #  System Archecture
 (see: grc, security-now)
-### Trustless Archetecture / System deisgn
+### Trustless Architecture / System design
 ### Secure by design
 ### provably secure
 
@@ -1209,22 +1207,24 @@ Verification, stem-information, and disinformation
 scale factors and elections:
 - 
 
+### Specific AI-ML issues for voting and coordinated decision making:
+- NLP
+- disinformation?
 
 ### minimal and non-minal software for voting
 - is there such a thing as a simple micro-election that can be quick and secure?
 
-
 #### trade-off in user interface design: secure but use-able
-
+0
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
-What do international election inspectors look for?
+Q: What do international election inspectors look for?
 
-### Mandate Based Representation
+### Mandate-Based Representation
 Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model). 
 (see: https://www.amazon.com/Decline-Rise-Democracy-History-Antiquity/dp/B088ZKZDTY/ )
-
+(history: 'fall and rise of democracy' book)
 
 ## Disinformation and Elections: Measuring and Modeling Information and Effects
 - identifying disinformation
@@ -1245,7 +1245,6 @@ June 16, 2020,
 by Kim Wehle (Author)
 - https://www.amazon.com/What-Need-Know-About-Voting/dp/0062974785 
 
-
 ## Books on Analysis & Statistics
 #### 
 (Maybe Nate silver book signal noise)
@@ -1257,13 +1256,11 @@ Publisher ‏ : ‎ Basic Books (December 6, 2022)
 https://www.amazon.com/Escape-Model-Land-Mathematical-Models/dp/1541600983/
 note: comments on nate silver, comments on election results, but not a rigorous analysis.
 
-
 ## Modeling and Elections
 - tests vs. models
 - representation and region of vote (jerimandering or not)
 - election observation and inspection
 - election prediction
-
 
 ## Data Diversity Modeling and representation
 Invisible Women: Data Bias in a World Designed for Men
@@ -1294,6 +1291,9 @@ https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737
 ####
 NLP in action 1st ed
 
+####
+NLP in action 2nd ed
+
 Deep Learning with Python, Second Edition
 by Francois Chollet | Dec 21, 2021
 https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/
@@ -1310,6 +1310,7 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 (maybe book on data intensive systems)
 
 ## Books on Project Management
+( )
 
 ## Web Resources:
 
