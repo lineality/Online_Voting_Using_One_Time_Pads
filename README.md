@@ -805,18 +805,16 @@ Q: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
 
-
 ## Practical Model 2:
 Similar to baseline secure model with these changes:
 - allows registered phone number use:
 	- ballots can be exchanged by ~sms or 
 	- possible voice print ID: e.g. similar to online-voter registration credentials
 
-
-practical model 3:
+### Practical Model 3:
 Use of block chain ledger
 
-practical model 4:
+### Practical Model 4:
 using nft smart contracts as a framework for parts of the election
 
 practical model 5:
@@ -825,10 +823,8 @@ using existing online registration systems
 A note on election security and registration security: 
 Does it make sense to have lower security standards around registration for voting than casting of votes? A similar or perhaps identical question is: Does it make sense to have a less security system for registration than for voting? E.g. in Pennsylvania in 2022 you can register to vote and change your party-registration, address, etc., on a simple website with no additional security, no MFA multi factor authentication, no personal in face verification, no biometrics, no mailing address sent verification, etc. And I have never heard anyone complain about the insecurity of this registration system, and a proposal to use the same system for voting immediately results in a vitriolic hyperbolic uproar of arm-waving indignation. Personally I think online registration should be more secure. My overall point here is that both registration and voting should be discussed and implemented as they relate to each-other, and not treated as if they are unrelated with inconsistent security considerations. If the standard for security is good enough for registration, that should be the same standard for voting.
 
-
 # Voting, Contracts, and Smart Contracts:
 What are the feasible properties of smart contracts that relate to elections, either for their use in a particular situation or as a discussion to elucidate needs and functions?
-
 
 # voting office setup: Computer, OS, and Network security
 What OS, what network architecture, and what cyber security strategies should/could voting offices use?
@@ -889,7 +885,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 #### Post-Election
 
-
 # Overall Discussion:
 
 ## Defining & Systematizing Elections as 'projects' with Agile and Six Sigma
@@ -900,7 +895,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 - In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
-
 
 ## Tradeoffs in Voting:
 - accessibility vs. security
@@ -918,7 +912,6 @@ https://en.wikipedia.org/wiki/RC4
 
 Improvised Network in case of public internet disruptions:
 - 
-
 
 # DNS policy:
 - direct DNS with no lookup
@@ -1067,7 +1060,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## proportional vs. first past the post
 
-## runnoff elections and contracts
+## runoff elections and contracts
 
 ## quantum computer challenges to block chains and smart contracts
 
@@ -1197,7 +1190,7 @@ Verification, stem-information, and disinformation
 - NLP
 - matrix formats of election data
 
-#  System Archecture
+#  System Architecture
 (see: grc, security-now)
 ### Trustless Architecture / System design
 ### Secure by design
