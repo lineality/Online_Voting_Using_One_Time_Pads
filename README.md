@@ -536,6 +536,8 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 
 #### Step 7: (Check Completed-Ballot for Errors [done by voter]) 
+- sanitizing inputs
+- adversarial inputs
 - impossible options (more than one option selected where only one can be)
 - no-vote blanks (or too few for multiple selections, possible make vote choices clear so that one selection is required for each question. )
 - test-process errors (something breaks processing)
@@ -565,7 +567,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 
 
 #### Step 11: (Process Election Data / Count The Votes)
-(storage: distributed? immutable ledger?)
+(storage: distributed? immutable-ledger?)
 
 #### Step 12: (Publish Election Vote-Results-Data)
 - automated?
@@ -1328,5 +1330,8 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 -- post wwii
 -- post 1989
 
+
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
