@@ -539,7 +539,8 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 - sanitizing inputs
 - adversarial inputs
 - impossible options (more than one option selected where only one can be)
-- no-vote blanks (or too few for multiple selections, possible make vote choices clear so that one selection is required for each question. )
+- no-vote blanks 
+- too few for multiple selections, possible make vote choices clear so that one selection is required for each question. )
 - test-process errors (something breaks processing)
 
 
@@ -649,6 +650,7 @@ software platforms/languages:
 - boundaries of population and geography of vote
 - (make) rules for voter participation/qualification in an automated voter system
 
+? known formatting issues that make voting more difficult for the voter?
 
 ### (mitigation of insecure local voting headquarters)
 - lack of physical voting office
