@@ -396,6 +396,8 @@ There is a difference between only the step of casting a vote being done online-
 2. extra air-gapped computers
 3. a physical location to securely store paper files
 4. broadband wireless internet
+5. a find-able standardized address for voters to find
+6. a safe location to vote
 
 #### Most locations can be assumed to have and required to have:
 1. basic mobile phones
