@@ -590,7 +590,6 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 - election schedule
 
 
-
 # Notes:
 #### Q: Background tests and checks during the whole process?
 
@@ -821,7 +820,7 @@ Similar to baseline secure model with these changes:
 Use of block chain ledger
 
 ### Practical Model 4:
-using nft smart contracts as a framework for parts of the election
+using smart contracts as a framework for parts of the election
 
 practical model 5:
 using existing online registration systems
