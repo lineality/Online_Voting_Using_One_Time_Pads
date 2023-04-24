@@ -1157,7 +1157,6 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 - 'citizenship' test
 - land ownership test
 - knowledge of ballot issues test
-- 
 
 ### Election-Enrollment Edge-Cases:
 - families
@@ -1165,25 +1164,22 @@ Q: Are there, in principle, systems that select qualified voters yet which have 
 - pre-participants (children)
 - post-participants (elderly)
 
-
 ### Modes of Election
 - first pass the post
 - proportional representation
 - run-off
 - ranked-choice
 
-
 ### Software Requirements & Security Standards
 - Memory Safe Languages: Rust vs. C
 - ratio of security problems that are memory management problems
-
 
 ## anticipating hardware attacks
 - not all security problems target problems with software
 
 
 ## anticipating social-engineering attacks
-- 
+- options for testing?
 
 ### Defining 'Disinformation'
 Verification, stem-information, and disinformation
