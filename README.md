@@ -77,7 +77,8 @@ This section is primarily a proof of concept, though it should be possible to im
 
 - Rule/Assumption 5: If the context is critiquing the mechanics of casting/submitting ballots and votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to (the context of the mechanics of) casting/submitting ballots and votes.)
 
-Q: Design question: printable-document format vs. .csv format
+Q: Design questions: 
+- printable-document format vs. .csv format?
 - reading document
 - storing document
 - converting document
