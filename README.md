@@ -71,7 +71,8 @@ This section is primarily a proof of concept, though it should be possible to im
 
 - Rule/Assumption 2: Problems must be solved in-person with the voter present and with that voter's proof of identification in the same way that the person would register to vote (and/or cast their vote in an in-person election).  
 
-- Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. [E.g. "I just like it." or: "I just don't like it." Are not sufficient reasons to use or to not use a given voting process.]
+- Rule/Assumption 3: Empirical tests, hypothetical tests, and security checks should be done to demonstrate how this (or any) voting system measurably succeeds or measurably fails to work. In some cases falsifiability may need to be a criteria for types of requirements for voting and coordination systems.
+[E.g. "I just like it." or: "I just don't like it." or "It must (or must not) have undefineable_property_X." are not sufficient reasons to use or to not use a given voting process.]
 
 - Rule/Assumption 4: Voting issues must be definable and defined in measurable and testable ways. E.g. If this system does work, disinformation will be used to prevent it from working. 
 
