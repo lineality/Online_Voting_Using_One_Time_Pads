@@ -335,7 +335,6 @@ Security section
 #### For example: 
 1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
-
 2. Put safeguards into the software to at least try to prevent using the same one-time-pad more than once. 
 
 3. Known issues and areas:
@@ -348,12 +347,12 @@ Security section
 At this time or at a later time (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (not-over-a-network/not-online) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
 (todo: list pros and cons of using unique ballots (per voter)
 
+
 ## Challenges:
 One area that may cause issues is if the office or voter is 'unable' to scan or take a clear photo of the document, in the same way that some people are 'unable' (which ranges from people having legitimate physical or mental handicaps to people not bothering to try) to take a clear picture of their check for their bank (so a less secure non-printed option may be desired in some cases).
 It is also possible that OCR (optical character recognition) may not be good enough to perform a computer-automated visual reading of a printed paper ballot, but given the use of OCR to read more obscurely printed checks, sloppily written mailing addresses on envelopes, etc., this is possibly not a terminal obstacle. 
 #### (note: .csv files may have a standardizing role here) 
 #### (note: writing characters in a grid may have a standardizing role here) 
-
 
 Note: It might be possible to make a kind of hybrid document solution. There can be a QR code that gives template and instruction information as to what the fields are, then items selected (boxes filled, or circles filled in) can be identified without the use of OCR. In the case of write-in ballot areas, there may be various factors that make OCR 'good enough.' e.g. if any candidate receives enough write-in votes, that situation will make that popular name a more likely candidate for matching in the case of mostly illegible scrawling. And having one letter per box may also help legibility for write-in names. 
 
