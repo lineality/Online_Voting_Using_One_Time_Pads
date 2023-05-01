@@ -1210,7 +1210,7 @@ scale factors and elections:
 - is there such a thing as a simple micro-election that can be quick and secure?
 
 #### trade-off in user interface design: secure but use-able
-0
+- 
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
@@ -1305,6 +1305,7 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 (maybe book on data intensive systems)
 
 ## Books on Project Management
+( )
 
 ## Web Resources:
 
