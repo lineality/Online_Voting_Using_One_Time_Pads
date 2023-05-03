@@ -87,7 +87,7 @@ Q: Design Questions:
 
 ## Steps (For Conceptual-Ideal Election)
 
-#### Step 1: (During in-person voter registration: start registration [not-over-a-network/not-online]:) 
+#### Step 1: (During in-person Voter Registration: start registration [not-over-a-network/not-online]:) 
 Before the election ends: A person, e.g. in-person, with ID (identifiable as an eligible voter according to local rules), goes to the Voting-Office to register for the vote-over-a-network (with One-Time-Pad) (online voting) process. 
 
 (Note: There is a system-design-choice to allow (or not) registration for more than one election. This issue can be related to the format/type of the submitted ballot. For example: 
@@ -95,7 +95,7 @@ Before the election ends: A person, e.g. in-person, with ID (identifiable as an 
 #### B. Standardized or truncated ballots containing just choices and not all the text of the ballot (possibly a choice (e.g. choice number) and the initials of the person's name as a second factor) and 
 #### C. whether whatever form of ballot is customized for each voter (e.g. with a custom-id, verifiable as going to and coming from that one voter) or whether the ballot is standardized (and verifiable as the standard ballot for that election or more standardized) )
 
-#### Step 2: (During in-person registration: Make one-time-pads.) 
+#### Step 2: (During in-person Registration: Make one-time-pads.) 
 For a given single vote-ballot in a given single-election (note: multiple is another design option) there need to be four physical paper documents. One "pad" (as defined here) is two identical paper documents, one for each party (two parties, in this case: 1. The Voter and 2. The Vote-Office). Since there will be two "exchanges (people sending things to each other)" (one (1) where the blank-ballot is sent to the voter, and another (2) where the filled-in-ballot is sent by the voter to the vote-office), there need to be two pads. E.g. If the voter obtains a ballot from a compromised public ballot website or a fake website (disinformation) then that vote could be disrupted unless the problem is detected and the danger avoided.
 
 (Alternately the voting-system could be streamlined to use only one pad for submitting a standardized public ballot, but this shorter process does not include the step for the voter to confirm that the ballot was sent by the vote-office and it also prevents the office from confirming that the ballot used was the same ballot sent by the vote-office to the voter. See below for more details.) 
