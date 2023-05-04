@@ -310,6 +310,8 @@ Variants:
 
 20. A bad-agent will attempt social engineering attacks.
 
+21. A bad-agent will use disinformation.
+
 
 
 ## Description & Overview of Process-in-Principle
