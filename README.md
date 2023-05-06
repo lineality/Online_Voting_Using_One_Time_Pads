@@ -1051,8 +1051,11 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Methods for Consensus
 
+## Automation, Explanation, Testing
 
 ## Automated Decision Making & Hybrid-Participant (h.sapiens & machine)
+
+## On-Edge vs. large tool
 
 
 
