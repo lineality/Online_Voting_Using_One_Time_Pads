@@ -722,8 +722,9 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 https://github.com/lineality/Auditable_Elections_Projects
 
 
-#### Case Studies in Election Disruption and Resilience:
-- (2020?)
+#### Case Studies in Election Resilience to Disruption:
+- Estonia?
+- 
 
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
