@@ -489,7 +489,7 @@ A short-form or truncated ballot may contain,
 e.g., 
 - the number of the option-choice and perhaps 
 - a first/last letter in the candidate's name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). 
-(also a check against vote left empty?)
+(also a check against a vote left empty?)
 Note: Write-in may be an issue for the truncated ballot. 
 
 #### Note: Ways to make sure a one-time-pad is not being used a 2nd time...a log of already used one-time-pads to check against...?...or a small hash?
