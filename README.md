@@ -671,7 +671,7 @@ Fuzzy time stamp (month year?) unix epoch
 - auditable publication with private information not exposed
 - it should be possible for an area to willingly hold an election and publish the results for them to be scrutinized as a fair and due process election without exposing security concerns or identities of any specific people involved
 - diasporic communities
-- philes? (distributed communities based on projects/interests/views?)
+- philes? (term? distributed communities based on projects/interests/views?)
 - 
 
 ## Managing Elections vs. managing Open-Source Projects
