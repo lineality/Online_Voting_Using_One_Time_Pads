@@ -723,6 +723,8 @@ https://github.com/lineality/Auditable_Elections_Projects
 
 
 #### Case Studies in Election Resilience to Disruption:
+(related issue: geopolitical violence & cybercrime?)
+(types of sources, books, articles, news...)
 - Estonia?
 - 
 
