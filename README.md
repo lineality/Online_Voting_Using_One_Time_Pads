@@ -497,7 +497,7 @@ Note: Write-in may be an issue for the truncated ballot.
 The idea of a non-recoverable system, disposable, that you would restart if something went wrong, but no back-doors, side doors, etc.
 voter...re-register...multiple registrations?
 
-note: squirel grc.com 
+note: https://sqrl.grc.com/pages/getting_started_with_sqrl/ 
 
 Q: one time pads vs. signing keys for transmitting ballots
 Also: multiple party signing keys?
