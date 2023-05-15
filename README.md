@@ -312,6 +312,8 @@ Variants:
 
 21. A bad-agent will use disinformation.
 
+22. A bad-agent will attempt to disrupt infrastructure that the election relies upon (electricity, post office, transportation, new-media, schools, etc.).
+
 
 
 ## Description & Overview of Process-in-Principle
