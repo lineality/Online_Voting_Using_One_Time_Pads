@@ -830,7 +830,10 @@ Similar to baseline secure model with these changes:
 Use of block chain ledger
 
 ### Practical Model 4:
-using smart contracts as a framework for parts of the election
+
+speculation: ways of using smart contracts as a framework for parts of the election?
+Is technology mature enough?
+Security issues?
 
 practical model 5:
 using existing online registration systems
