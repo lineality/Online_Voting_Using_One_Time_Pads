@@ -439,9 +439,10 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 5. more cryptographic signature use?
 
 
-#### Topic: use of one time pads plus signing signatures
 
-
+#### Topic/idea: use of one time pads plus signing signatures
+#### use and issues with signing certificates
+#### feasibility of one time pads: attack surface of initial sharing
 
 #### Notes:
 - individual permission drop-off folders (like S3)
