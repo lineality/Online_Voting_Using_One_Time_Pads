@@ -149,7 +149,7 @@ physically prints the decrypted ballot
 #### Step 8: (Validate the not-yet-completed Ballot [not-over-a-network/not-online]) 
 The voter not-over-a-network/not-online(enforced by software), inspects and validates that their digital scanned version of their not-yet-filled-out-ballot is the correct ballot-form intended for that election (e.g. not a tampered with or accidentally incorrect ballot). There are various and possibly multiple ways to check this (elaboration pending).
 
-(Note on Steps 5 and 6: possibly the validity of the ballot could or should be checked during both steps)
+(Note: possibly the validity of the ballot could or should be checked during both steps)
 
 
 #### Step 9: (Complete/Mark/Fill-in the Ballot with Vote-Choices [not-over-a-network/not-online]) 
