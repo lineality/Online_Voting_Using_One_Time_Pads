@@ -713,6 +713,8 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 - fake account setup
 - malicious files (fake or altered pictures for deception)
 - user login protocols
+- adversarial input to automated systems(in sense just like SQL injection attacks)
+- GPT LLM concerns (be specific)
 - authentication topics:
 
 (plus)
