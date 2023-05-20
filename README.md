@@ -719,7 +719,6 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 
 (plus)
 1. public security log data/meta-data to be inspected by anyone about the system
- 
 
 
 # Additional Questions:
