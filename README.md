@@ -1053,6 +1053,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## The need for a resource-thin framework
 
+## server options, and serverless options
+
 Note: https://www.grc.com/securitynow.htm 
 SN Episode #873: australian digital driver's license as case study in similar system, not Gibson's certificate based solution 
 
