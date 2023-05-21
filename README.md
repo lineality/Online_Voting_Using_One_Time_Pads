@@ -1017,7 +1017,6 @@ judges, judge_1, MY_CHOICE\n
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
 - navigation-blind OS
-- 
 
 
 ### Voting Logistics and Ethics: Western Chasm
