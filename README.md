@@ -488,8 +488,8 @@ A short-form ballot one-time-pad good for several ballots may be hand written an
 
 (Q: How reliable is OCR? Is OCR reliability an issue? Is this a strong argument for all-digital and no-conversion process? (can still be printed or saved records etc.)
 
-A short-form or truncated ballot may contain, 
-e.g., 
+A short-form or truncated ballot may contain:
+e.g.
 - the number of the option-choice and perhaps 
 - a first/last letter in the candidate's name (which could also serve as a check, similar to an empty choice check, if the name-letter does not agree with the number option). 
 (also a check against a vote left empty?)
