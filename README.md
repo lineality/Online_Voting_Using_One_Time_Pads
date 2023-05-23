@@ -84,6 +84,7 @@ Q: Design Questions:
 - storing document
 - converting document
 - character sets allowed...
+- csv., dataframe, tensor
 
 ## Steps (For Conceptual-Ideal Election)
 
