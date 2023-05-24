@@ -1249,6 +1249,11 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 - preventing disinformation
 - stopping spread of collapse including disinformation
 
+## Main Topics in Decision System Architecture:
+- first past the post
+- proportional representation
+- gerrymandering
+- observing election poling
 
 
 # Bibliography & Resources
