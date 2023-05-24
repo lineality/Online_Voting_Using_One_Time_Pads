@@ -446,7 +446,7 @@ Other methods such as chains-of-trust may be useful to harden thrifty online sys
 #### feasibility of one time pads: attack surface of initial sharing
 
 #### Notes:
-- individual permission drop-off folders (like S3)
+- individual permission drop-off folders (cloud storage like S3)
 - anonymized ballots (storing data without direct connection to user information)
 - face-picture when sending in vote
 - vote by phone system, tied to that phone...(note: if you lose the phone)
@@ -668,6 +668,9 @@ software platforms/languages:
 2nd step of recording / publishing vote:
 Uuid type random key-field
 Fuzzy time stamp (month year?) unix epoch
+decentered data storage
+decentered decision making
+decentered feedback and analytics
 
 ## holding elections in repressed areas not 'allowed' to hold their own elections
 - distributed self-organization
