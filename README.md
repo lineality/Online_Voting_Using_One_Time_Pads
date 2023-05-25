@@ -1253,7 +1253,7 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 - first past the post
 - proportional representation
 - gerrymandering
-- observing election poling
+- observing election polling
 
 
 # Bibliography & Resources
