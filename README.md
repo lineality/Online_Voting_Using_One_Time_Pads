@@ -601,7 +601,13 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 # Notes:
 #### Q: Background tests and checks during the whole process?
 
-#### (election results publishing...parts of process)
+#### (election-results publishing...parts of process)
+- for whome
+- overview
+- winners according to rules?
+- types of analysis
+- description of system
+- open source code
 
 #### Note: It is not clear that saving the QR codes serves any function, nor is there any need to carefully dispose of a QR code after it is used (if each is only used once). 
 
