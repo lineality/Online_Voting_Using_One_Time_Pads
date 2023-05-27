@@ -716,6 +716,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 9. timestamps? (timestamp plus geolocation?)
 10. finger prints
 11. wearable bio-signatures?
+12. language use metrics...(unique to person)
 
 
 
