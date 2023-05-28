@@ -671,12 +671,12 @@ software platforms/languages:
 - lack of physical voting office
 - lack of secure physical voting office
 - lack of clarity about voting area or district
-2nd step of recording / publishing vote:
-Uuid type random key-field
-Fuzzy time stamp (month year?) unix epoch
-decentered data storage
-decentered decision making
-decentered feedback and analytics
+- 2nd step of recording / publishing vote:
+- Uuid type random key-field
+- Fuzzy time stamp (month year?) unix epoch
+- decentered data storage
+- decentered decision making
+- decentered feedback and analytics
 
 ## holding elections in repressed areas not 'allowed' to hold their own elections
 - distributed self-organization
