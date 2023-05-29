@@ -1340,7 +1340,6 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 (maybe book on data intensive systems)
 
 ## Books on Project Management
-( )
 
 ## Web Resources:
 
