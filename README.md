@@ -561,8 +561,10 @@ Q: If an anonymized blockchain system is used, is there a need to encrypt the su
 
 #### Step 9: (Voter Submit encrypted-ballot over network) 
 Q: recommended methods?
-some kind of MFA or blockchain ledger system?
-
+Some kind of MFA? 
+immutable ledger system?
+	- frozen ledger (duplicated with hash checks)
+	- dynamic ledger 
 Online: The voter sends (by whatever agreed upon method (website, email, text, snapchat, S3, api-endpoint, etc.)) the new QR code (containing their encrypted filled-in-and-checked ballot) to the local election office.
 
 
@@ -1340,6 +1342,7 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 (maybe book on data intensive systems)
 
 ## Books on Project Management
+( )
 
 ## Web Resources:
 
