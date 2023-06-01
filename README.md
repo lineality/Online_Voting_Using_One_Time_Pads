@@ -939,8 +939,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## voting and principles of security (ease of use vs. security etc)
 - 
 
-note: RC4 used correctly (discarding early output)
-https://en.wikipedia.org/wiki/RC4 
+#### note: RC4 used correctly (discarding early output)
+- https://en.wikipedia.org/wiki/RC4 
 
 
 Improvised Network in case of public internet disruptions:
