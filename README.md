@@ -584,8 +584,9 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 
 #### Step 12: (Publish Election Vote-Results-Data)
 - automated?
+- what to anonymize?
 
-#### Step 13: (Publish Election Report)
+#### Step 13: (Publish Full Election Report)
 - documentation on system architecture
 - policies
 - rules
