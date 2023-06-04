@@ -1037,8 +1037,10 @@ judges, judge_1, MY_CHOICE\n
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
 
 ## Resource Use
-  - Scaling and computational efficiency (big o)
-  - 
+ 	- Scaling and computational efficiency (big o)
+- energy cost
+	- human time
+	- financial cost in areas
 
 ## Managing decentralized (or centralized) projects
 
