@@ -550,7 +550,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 - adversarial inputs
 - impossible options (more than one option selected where only one can be)
 - no-vote blanks 
-- too few for multiple selections, possible make vote choices clear so that one selection is required for each question. )
+- too few for multiple selections, possiby make vote choices clear so that one selection is required for each question.
 - test-process errors (something breaks processing)
 
 
