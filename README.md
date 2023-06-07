@@ -1018,7 +1018,12 @@ judges, judge_1, MY_CHOICE\n
 
 # forms of encryption and trade-offs 
 
-# memory management: security
+# memory management: 
+- security
+	- privacy
+	(lower level: programming language used)
+	
+# character sets, flexibility and security, ascii, fonts
 
 # login management
 
