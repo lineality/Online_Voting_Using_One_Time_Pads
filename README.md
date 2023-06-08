@@ -1053,6 +1053,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 	- a Matrix With Feedback
 	- 
 
+## Formal and informal 'parties'
 
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history from 'the decline and rise of democracy' book
