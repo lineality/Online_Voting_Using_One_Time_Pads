@@ -814,7 +814,6 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 
 
 
-
 # Best Practice Examples
 - never record any private information in an internet or public exposed system, e.g. use a random id.
 
@@ -835,6 +834,8 @@ e.g. maybe including item number, vote choice, and first letter/number of vote c
 Q: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
+
+
 
 ## Practical Model 2:
 Similar to baseline secure model with these changes:
@@ -875,7 +876,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 - statistical methods 
 - disclosure of methods
 
-# Advantages of an anonymized public ledgers of votes:
+# Advantages of an anonymized public ledgers of votes
 -
 
 ....
