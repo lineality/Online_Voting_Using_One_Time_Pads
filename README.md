@@ -632,21 +632,21 @@ Is there a formal way to map the attack-surface areas of, and to compare, differ
 # A Practical Election Management Package
 
 #### Features of a practical voting software package:
-1. secure messages between office and voter? (one time pad?)
-2. secure voting platform (receive ballot)
+1.  secure messages between office and voter? (one time pad?)
+2.  secure voting platform (receive ballot)
 2.1 voter registration
 2.2 send or assign ballots
 2.3 fill out ballot
 2.4 submit ballot
-3. Processing votes
+3.  Processing votes
 3.1 receive votes
 3.2 validate votes
 3.3 decrypt votes
-5. process votes
-6. produce results report
-7. schedule election
-8. publish results report
-9. automation of parts and all parts of elections
+5.  process votes
+6.  produce results report
+7.  schedule election
+8.  publish results report
+9.  automation of parts and all parts of elections
 10. elections including/between non-human project elements (AI)
 
 
@@ -744,7 +744,7 @@ https://github.com/lineality/Auditable_Elections_Projects
 (related issue: geopolitical violence & cybercrime?)
 (types of sources, books, articles, news...)
 - Estonia?
-- 
+(books, we are all targets, sandworm)
 
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
