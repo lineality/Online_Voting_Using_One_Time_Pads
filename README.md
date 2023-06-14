@@ -10,6 +10,8 @@
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
 ## Part 4: Generalized Decision Coordination Functionality
+- https://github.com/lineality/object_relationship_spaces_ai_ml 
+- https://github.com/lineality/definition_behavior_studies 
 
 # Clarifying Goals and Questions:  
 - Main Goal: Systematize secure online voting.
