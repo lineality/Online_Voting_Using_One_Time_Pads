@@ -948,8 +948,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 - https://en.wikipedia.org/wiki/RC4 
 
 
-Improvised Network in case of public internet disruptions:
-- 
+## Improvised or ad-hoc Network in case of public internet disruptions:
+- mesh?
 
 # DNS policy:
 - direct DNS with no lookup
@@ -967,6 +967,12 @@ Improvised Network in case of public internet disruptions:
 
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
+
+## various kinds of disinformation relating to coordinated decisions:
+- inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
+- adversarial attacks on AI
+
+# Data Hygiene and Voting
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
