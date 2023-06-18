@@ -826,7 +826,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 ### Issue/Task: user interface for setting up an election
 
 
-Q: a standardized .csv ballot format
+Q: Standardized .csv ballot format (for decision coordination): ideal?
 including information about the ballot
 signing key information
 possible vote customization information
