@@ -89,6 +89,7 @@ Q: Design Questions:
 - character sets allowed...
 - csv., dataframe, tensor
 
+
 ## Steps (For Conceptual-Ideal Election)
 
 #### Step 1: (During in-person Voter Registration: start registration [not-over-a-network/not-online]:) 
@@ -707,7 +708,6 @@ software platforms/languages:
 3. Using smart-contracts to manage processes through elections
 
 
-
 #### Possible Multi-factor Authentication Tools:
 1. voice print
 2. picture of hand (for fingerprints)
@@ -742,6 +742,9 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
 
+
+
+## Case Studies:
 
 #### Case Studies in Election Resilience to Disruption:
 (related issue: geopolitical violence & cybercrime?)
@@ -1391,3 +1394,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
