@@ -176,7 +176,7 @@ Q: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to O
 - open source
 - safety, reliability issues
 
-Reference: 
+#### Reference: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
 DOI:10.1111/j.1747-1346.2003.tb00163.x
@@ -215,6 +215,8 @@ The voter's completed ballot is stored along with any completed paper ballot (e.
 
 Q: How much data can a QR code contain? 
 Q: How redundant can a QR be for error-correction?
+
+Q: Other pros and cons of qr codes?
 
 Note: If the ballot is processed on an not-over-a-network/not-online not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
