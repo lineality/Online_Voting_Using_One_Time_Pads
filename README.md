@@ -1338,10 +1338,10 @@ by Matt Potter, Matthew Waterson, et al.
 https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
 
 #### 
-( Cult of the dead cow )
+( Cult of the dead cow ) book 
 
 #### 
-( A people's history of Computing )
+( A people's history of Computing ) book 
 
 ####
 ( Enigma, while ostensibly this is a biography of Alan Turing, it is one of the best books on applied history of signal security and computers)
