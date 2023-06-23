@@ -674,7 +674,7 @@ software platforms/languages:
 - boundaries of population and geography of vote
 - (make) rules for voter participation/qualification in an automated voter system
 
-? known formatting issues that make voting more difficult for the voter?
+### Q: Known formatting issues that make voting more difficult for the voter?
 
 ### (mitigation of insecure local voting headquarters)
 - lack of physical voting office
