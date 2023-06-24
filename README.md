@@ -698,7 +698,7 @@ software platforms/languages:
 
 ## Managing Elections vs. managing Open-Source Projects
 - git
-- book ref...
+- book: "Working in Public" by Nadia Eghbal, Stripe Press
 
 # ?
 2. Using a distributed ledgers (blockchains or modified blockchains) to store results:
