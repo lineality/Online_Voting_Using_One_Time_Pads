@@ -946,10 +946,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 - ease of vote vs. super-secure-vote
 - direct participation by voters vs. time consuming processes
 
-## voting and principles of security (ease of use vs. security etc)
-- 
+# Security & Data / Information Hygiene
+Voting and principles of security (ease of use vs. security etc)
 
-#### note: RC4 used correctly (discarding early output)
+
+#### Note: RC4 used correctly (discarding early output)
 - https://en.wikipedia.org/wiki/RC4 
 
 
