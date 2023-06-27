@@ -819,7 +819,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures on interactions between separate or connected groups holding elections.
 - rules, policies, and procedures for post-election analysis, challenges, and moving on. 
 - rules, policies, and procedures for initiating an election
-
+- rules, policies, and procedures for scheduling
 
 
 # Best Practice Examples
