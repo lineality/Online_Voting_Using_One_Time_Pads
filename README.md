@@ -386,6 +386,8 @@ One-time-pads are not as efficient and user-friendly as shorter and or 're-use-a
 #### Low-Tech Security & Limited-Resources
 Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
+Often fewer features and narrower footprint and attack-surface increase security, but in a system starting entirely with paper and pencil, in this case the meaning of 'less' may require more explanation. 
+
 Details: The first part of this report is a more abstract proof-of-concept about whether one-time-pad voting over a network is any less secure than one-time-pad secured voting over-a-network. However, in reality actual voters and voting-offices may refuse to use an ideal secure voting system (for reasons legitimate or illegitimate). It is entirely within keeping with computer science that there are multiple possible solutions to a problem, and while one solution may be perfectly fine in theory it is simply not practical or feasible to implement (often: requiring too many resources (including time as a resources), either relatively too many (resources-required) compared to another solution or too many as in that requirement simply cannot be met with known technology (e.g. taking a length of time longer than the age of the universe to solve the problem: in principle: problem solved! in practical reality: problem not solved.)). There should be a discussion of what a good-enough solution is, and how a good-enough solution may meet the practical demands of users. 
 
 - focusing on accessible technology
