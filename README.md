@@ -341,9 +341,8 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 - Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
 
-
+# Security Section
 ### Additional steps can be taken to increase security. 
-Security section
 #### For example: 
 1. To reduce the possibility that local staff will accidentally connect to the internet or run the software on insecure or already compromised hardware, it should be possible to create a cost effective system where staff will run a custom made operating system (custom BSD or Linux or FreeDOS, etc.) that lacks the ability to use the internet. It may also be possible to use cost effective hardware such as a raspberry pi or microcontrollers. There may be safety advantages to using micro-controllers that lack overall computer abilities and thereby lack security risks associated with those.
 
@@ -392,6 +391,9 @@ Details: The first part of this report is a more abstract proof-of-concept about
 
 - focusing on accessible technology
 
+## Entropy randomness and pseudorandomness
+- for security
+- for parts of system
 
 # Part 2: Practical Secure Online Voting
 ### Goal: Practical version of 'online voting' for realistic implementation
