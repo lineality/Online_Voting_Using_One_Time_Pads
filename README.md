@@ -733,6 +733,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 
 
 ### Specific Deep-fake and NN-generated-photo detection
+- deep-fakes / cheap-fakes
 - fake account setup
 - malicious files (fake or altered pictures for deception)
 - user login protocols
