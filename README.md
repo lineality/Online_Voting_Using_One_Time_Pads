@@ -849,12 +849,12 @@ Q: possible requiring of ballot being completely filled out
 - checksum etc.
 
 
-
 ## Practical Model 2:
-Similar to baseline secure model with these changes:
-- allows registered phone number use:
-	- ballots can be exchanged by ~sms or 
-	- possible voice print ID: e.g. similar to online-voter registration credentials
+Similar to baseline secure model with these changes.
+1. allows registered phone number use:
+- ballots can be exchanged by ~sms or 
+- possible voice print ID: e.g. similar to online-voter 
+- registration credentials
 
 ### Practical Model 3:
 Use of block chain ledger
