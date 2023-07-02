@@ -1345,8 +1345,7 @@ How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos
 by Matt Potter, Matthew Waterson, et al.
 https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
 
-#### 
-( Cult of the dead cow ) book 
+#### ( Cult of the dead cow ) book 
 
 #### 
 ( A people's history of Computing ) book 
