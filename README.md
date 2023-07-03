@@ -1117,7 +1117,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## On-Edge vs. large tool
 
-
+## Shannan/Turing information/communication theory and decision coordination problem spaces
+## information collapse vs. signal collapse
 
 ## Systematizing, Ethics and Projects in Elections
 
@@ -1345,7 +1346,8 @@ How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos
 by Matt Potter, Matthew Waterson, et al.
 https://www.amazon.com/We-Are-All-Targets-Unleashed/dp/0306925737 
 
-#### ( Cult of the dead cow ) book 
+#### 
+( Cult of the dead cow ) book 
 
 #### 
 ( A people's history of Computing ) book 
