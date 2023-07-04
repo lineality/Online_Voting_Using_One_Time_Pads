@@ -697,7 +697,7 @@ software platforms/languages:
 - auditable publication with private information not exposed
 - it should be possible for an area to willingly hold an election and publish the results for them to be scrutinized as a fair and due process election without exposing security concerns or identities of any specific people involved
 - diasporic communities
-- philes? (term Neal Stephenson term? distributed communities based on projects/interests/views?)
+-"philes"?(sp?) (term Neal Stephenson term? distributed communities based on projects/interests/views?)
 - 
 
 ## Managing Elections vs. managing Open-Source Projects
@@ -731,7 +731,6 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 12. language use metrics...(unique to person)
 
 
-
 ### Specific Deep-fake and NN-generated-photo detection
 - deep-fakes / cheap-fakes
 - fake account setup
@@ -758,6 +757,9 @@ https://github.com/lineality/Auditable_Elections_Projects
 (types of sources, books, articles, news...)
 - Estonia?
 (books, we are all targets, sandworm)
+
+
+
 
 #### Case Studies in Disrupted and Problematic Elections:
 (international?)
@@ -951,6 +953,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 - ease of vote vs. super-secure-vote
 - direct participation by voters vs. time consuming processes
 
+# History of Voting and Coordinated Decision Making
+-
 
 
 # Security & Data / Information Hygiene
