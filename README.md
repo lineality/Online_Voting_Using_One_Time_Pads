@@ -1119,7 +1119,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Automated Decision Making & Hybrid-Participant (h.sapiens & machine)
 
-## On-Edge vs. large tool
+## On-Edge vs. large tool / general & development vs. production-version
 
 ## Shannan/Turing information/communication theory and decision coordination problem spaces
 ## information collapse vs. signal collapse
