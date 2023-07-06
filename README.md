@@ -397,7 +397,7 @@ Details: The first part of this report is a more abstract proof-of-concept about
 
 # Part 2: Practical Secure Online Voting
 ### Goal: Practical version of 'online voting' for realistic implementation
-('online voting' is likely an easy to understand common term for a more general and abstract process of automated networked project decision coordination with broad applications)
+('online voting' is likely an easy to understand common term for a more general and abstract process of automated networked project decision coordination with broad applications.)
 
 There is a difference between only the step of casting a vote being done online-over-a-network (to get the advantages of votes being cast from anywhere during a longer time-frame), and the entire election being held online, over-a-network. There are advantages and disadvantages to an online, de-centered, open-source, election-system. Advantages:
 - open source
