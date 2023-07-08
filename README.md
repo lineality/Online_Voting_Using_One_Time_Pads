@@ -1259,7 +1259,7 @@ Verification, stem-information, and disinformation
 - history
 -
 
-### election space analysis
+### election-space analysis / coordinated-decision space
 - NLP
 - matrix formats of election data
 
