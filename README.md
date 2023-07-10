@@ -615,7 +615,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 #### Q: Background tests and checks during the whole process?
 
 #### (election-results publishing...parts of process)
-- for whome
+- for whom
 - overview
 - winners according to rules?
 - types of analysis
