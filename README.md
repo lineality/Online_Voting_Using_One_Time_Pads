@@ -894,6 +894,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 # Advantages of an anonymized public ledgers of votes
 -
 
+## Different strategies for immutable data structures
+
 ....
 
 # Auditing Election Processes (vs. specific elections):
@@ -922,7 +924,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 #### Post-Election Audit
 
-#### Specific Vote Plan
+#### Specific Election Plan
 - scope of included voters
 - scale of data/geography
 - hardware needs
