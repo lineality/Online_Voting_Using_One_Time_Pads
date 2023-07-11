@@ -703,8 +703,9 @@ software platforms/languages:
 ## Managing Elections vs. managing Open-Source Projects
 - git
 - book: "Working in Public" by Nadia Eghbal, Stripe Press
+- studies of 'tragedy of commons'
 
-# ?
+## ...
 2. Using a distributed ledgers (blockchains or modified blockchains) to store results:
 - e.g. university trusted node anchors
 - maybe full-chain so no retroactive?
