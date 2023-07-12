@@ -833,6 +833,8 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 # Best Practice Examples
 - never record any private information in an internet or public exposed system, e.g. use a random id.
 
+- open source development best practice?
+
 #### Question: A. What is the relationship between secure end-to-end messaging and voting systems? B. Provenance: What is the relationship between origin-verification of files (including media files) and voting systems?
 
 
