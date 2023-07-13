@@ -749,7 +749,11 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 1. What additional vote process transparency information should be included with vote results publishing? 
 https://github.com/lineality/Auditable_Elections_Projects
 
+### scale and decision making
 
+## process indeterminacy and iteration in decision making
+
+## Japanese vs. American decision making
 
 ## Case Studies:
 
