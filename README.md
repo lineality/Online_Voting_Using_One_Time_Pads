@@ -761,7 +761,8 @@ https://github.com/lineality/Auditable_Elections_Projects
 (related issue: geopolitical violence & cybercrime?)
 (types of sources, books, articles, news...)
 - Estonia?
-(books, we are all targets, sandworm)
+(books: 
+we are all targets, sandworm)
 
 
 
