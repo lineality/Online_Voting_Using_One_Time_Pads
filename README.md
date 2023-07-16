@@ -1173,6 +1173,9 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 #  languages, character-types(language character sets, UTF8 etc), and voting systems
 
+### Protocols, resources, and tradeoffs:
+- advantages and disadvantages of different frameworks
+
 ## Opinion Polls Vs. Elections: What is a vote?
 - a history of incorrect pre-election polling
 - factors in polling accuracy
