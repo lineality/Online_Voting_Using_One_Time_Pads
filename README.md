@@ -1197,7 +1197,14 @@ Where optical character recognition is used, what standards can be optional and 
 - https://www.youtube.com/greymatter/search?query=elections 
 
 #### Election Data Study Link
-- https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
+- 
+note: page seems to no longer exist or merged into larger course...one fewer resouce on a needed topic...)
+https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
+vs.
+https://www.datacamp.com/courses/data-manipulation-with-dplyr 
+
+https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-data-in-r/
+
 
 
 ## Data Visualization & Elections
