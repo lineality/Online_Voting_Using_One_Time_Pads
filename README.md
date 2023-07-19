@@ -81,7 +81,7 @@ This section is primarily a proof of concept, though it should be possible to im
 
 - Rule/Assumption 5: If the context is critiquing the mechanics of casting/submitting ballots and votes, then a failure to agree on design and rules for an election (e.g. doing a run-off or not doing a run-off, how proportional representation is, etc.) should not be considered relevant to the context of submitting a ballot. (E.g. complaints about how votes are counted (or ignored) should not be used as an argument against secure methods to (the context of the mechanics of) casting/submitting ballots and votes.)
 
-Q: Design Questions: 
+Question: Design Questions: 
 - printable-document format vs. .csv format?
 - reading document
 - storing document
@@ -171,7 +171,7 @@ The voter confirms that the information in their (the voter's)  electronic scann
 
 ~ Step: An optional but recommended intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
-Q: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
+Question: Is there a way to optimize OCR? e.g. letter per box format? Alternatives to OCR?
 - various ocr applications that can be used
 - open source
 - safety, reliability issues
@@ -187,7 +187,7 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 Another ~'multifactor' check may be to both mark a vote-choice on the ballot also and give some information about that choice, e.g. mark candidate 2 and in a second field enter the first letter of that candidate's last name. If these do not match, the voter should be alerted to check their ballot selections.
 The voter, not-over-a-network/not-online(enforced by software), scans (e.g. by taking a picture) the filled-out paper ballot.  
-(Q: ...print formats...)
+(Question: ...print formats...)
 
 
 #### Step 12: (Encrypt the Ballot [not-over-a-network/not-online]) 
@@ -213,10 +213,10 @@ not-over-a-network/not-online, using a separate piece of software, the local ele
 The voter's completed ballot is stored along with any completed paper ballot (e.g. mail-in ballots, or paper ballots delivered in person or filled out in person).
 (Note: Depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
-Q: How much data can a QR code contain? 
-Q: How redundant can a QR be for error-correction?
+Question: How much data can a QR code contain? 
+Question: How redundant can a QR be for error-correction?
 
-Q: Other pros and cons of qr codes?
+Question: Other pros and cons of qr codes?
 
 Note: If the ballot is processed on an not-over-a-network/not-online not-connected to a network computer then the chances of 'hacking' the vote are reduced (the 'attack surface' is reduced). 
 
@@ -383,7 +383,7 @@ One-time-pads are not as efficient and user-friendly as shorter and or 're-use-a
 
 
 #### Low-Tech Security & Limited-Resources
-Q: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
+Question: Is there a lower-tech version with reasonable security for geographic locations with limited resources?
 
 Often fewer features and narrower footprint and attack-surface increase security, but in a system starting entirely with paper and pencil, in this case the meaning of 'less' may require more explanation. 
 
@@ -497,7 +497,7 @@ note: using signing-signatures
 While the thrifty/pragmatic-protocol is designed to avoid extra printer hardware, the option still exists to hand-write one-time pads, which for an election with fewer than five or 10 choices on the ballot would be practical to write down on wallet sized note (and check electronically (OCR) to make sure it is correct). 
 A short-form ballot one-time-pad good for several ballots may be hand written and OCR-checked on a wallet-card sized card or paper.
 
-(Q: How reliable is OCR? Is OCR reliability an issue? Is this a strong argument for all-digital and no-conversion process? (can still be printed or saved records etc.)
+(Question: How reliable is OCR? Is OCR reliability an issue? Is this a strong argument for all-digital and no-conversion process? (can still be printed or saved records etc.)
 
 A short-form or truncated ballot may contain:
 e.g.
@@ -513,7 +513,7 @@ voter...re-register...multiple registrations?
 
 note: https://sqrl.grc.com/pages/getting_started_with_sqrl/ 
 
-Q: one time pads vs. signing keys for transmitting ballots
+Question: one time pads vs. signing keys for transmitting ballots
 Also: multiple party signing keys?
 
 
@@ -542,7 +542,7 @@ The voter on-line inspects and validates the ballot. Most likely by checking and
 
 #### Step 6: (Voter Completes the Ballot, Marks Votes) 
 e.g. csv format of data (vs. pdf type doc)
-Q: id such as biometric data?
+Question: id such as biometric data?
 
 ~ step: an optional intermediate step here is to have a 3rd set of not-over-a-network/not-online-only software that will check the ballot before and or after it is filled out by the voter, such that this additional set of software can check for the "overvoting" (voting for both candidates) and "undervoting" (voting for neither candidate) issues as a safeguard (against accidentally-incorrectly filled-out-and-submitted ballots) and that perhaps Nevada has used successfully. 
 
@@ -566,11 +566,11 @@ https://www.researchgate.net/publication/227617394_Roll_Off_at_the_Top_of_the_Ba
 
 #### Step 8: (Encrypt the Completed-Ballot [done by voter]) 
 Details depend on the file system being used.
-Q: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have an anonymized id?
+Question: If an anonymized blockchain system is used, is there a need to encrypt the submitted ballot? e.g. could the ballot have an anonymized id?
 
 
 #### Step 9: (Voter Submit encrypted-ballot over network) 
-Q: recommended methods?
+Question: recommended methods?
 Some kind of MFA? 
 immutable ledger system?
 	- frozen ledger (duplicated with hash checks)
@@ -612,7 +612,7 @@ Arguably this is a key area if one-time-pads are not being used, or not in the s
 
 
 # Notes:
-#### Q: Background tests and checks during the whole process?
+#### Question: Background tests and checks during the whole process?
 
 #### (election-results publishing...parts of process)
 - for whom
@@ -678,7 +678,7 @@ software platforms/languages:
 - boundaries of population and geography of vote
 - (make) rules for voter participation/qualification in an automated voter system
 
-### Q: Known formatting issues that make voting more difficult for the voter?
+### Question: Known formatting issues that make voting more difficult for the voter?
 
 ### (mitigation of insecure local voting headquarters)
 - lack of physical voting office
@@ -847,15 +847,15 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 ### Issue/Task: user interface for setting up an election
 
 
-Q: Standardized .csv ballot format (for decision coordination): ideal?
+Question: Standardized .csv ballot format (for decision coordination): ideal?
 including information about the ballot
 signing key information
 possible vote customization information
 vote choices
 etc.
-Q: ways to make sure the .csv ballot is not mis-read or garbled
+Question: ways to make sure the .csv ballot is not mis-read or garbled
 e.g. maybe including item number, vote choice, and first letter/number of vote choice name in the vote, may prevent arbitrary misinterpretation of votes
-Q: possible requiring of ballot being completely filled out
+Question: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
 
@@ -1243,7 +1243,7 @@ Include pre-election polling?
 
 # Enrollment, Qualification, Inclusion, Selection
 ## Variations on Enrollment and Voter-Tests
-Q: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification? 
+Question: Are there, in principle, systems that select qualified voters yet which have no 'test' for voter qualification? 
 - age test
 - local test
 - stake-holder test
@@ -1306,7 +1306,7 @@ scale factors and elections:
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
-Q: What do international election inspectors look for?
+Question: What do international election inspectors look for?
 
 ### Mandate-Based Representation
 Perhaps as a form of least-trust architecture, which brings with it perhaps the same 'slow procedural processes' of enhanced verification checking, representation that is limited to specific approved mandates is a historical mode (and one which nearly became part of the US model). 
