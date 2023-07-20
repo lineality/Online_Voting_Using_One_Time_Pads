@@ -1339,7 +1339,7 @@ by Kim Wehle (Author)
 
 ## Books on Analysis & Statistics
 #### 
-(Maybe Nate silver book signal noise)
+Nate silver book signal noise
 https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but-ebook/dp/B007V65R54
  
 #### Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
