@@ -1136,11 +1136,17 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## On-Edge vs. large tool / general & development vs. production-version
 
-## Shannan/Turing information/communication theory and decision coordination problem spaces
+
+
+## Shannan/Turing information theory/communication theory and decision coordination problem spaces
+- have we learned anything else about signals and information since Shannan?
+- information in coordinated decision making?
+
 ## information collapse vs. signal collapse
 
 ## Systematizing, Ethics and Projects in Elections
 
+## 
 ...
 
 ## topics in voter enrollment
