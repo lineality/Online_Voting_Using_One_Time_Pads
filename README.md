@@ -761,9 +761,13 @@ https://github.com/lineality/Auditable_Elections_Projects
 (related issue: geopolitical violence & cybercrime?)
 (types of sources, books, articles, news...)
 - Estonia?
-#### books: 
+#### Books: 
 "we are all targets",
 "sandworm"
+"Fancy Bear Goes Phishing"
+"people's history of computing"
+"cult of the dead cow"
+
 
 
 
