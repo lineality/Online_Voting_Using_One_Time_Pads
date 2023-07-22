@@ -1146,7 +1146,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Systematizing, Ethics and Projects in Elections
 
-## 
+## Contracts and Coordination
+
 ...
 
 ## topics in voter enrollment
