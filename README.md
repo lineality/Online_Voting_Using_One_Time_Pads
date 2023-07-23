@@ -908,6 +908,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 -
 
 ## Different strategies for immutable data structures
+- race conditions (term?)
+-
+
 
 ....
 
