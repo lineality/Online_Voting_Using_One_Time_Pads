@@ -937,6 +937,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 #### Election Results Analysis
 
 #### Election Inspection
+- tools
+- measures
+- tests
+- automation
 
 #### Post-Election Audit
 
