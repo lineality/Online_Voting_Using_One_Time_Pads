@@ -1062,6 +1062,12 @@ judges, judge_1, MY_CHOICE\n
 - choice of OS
 - 
 
+# Ballot item interpretability:
+- deterministic (given time as input)
+- discrete responses
+- issues with open ended 'write-in'
+
+
 # passwords, devices, "fido," etc.
 - 
 
