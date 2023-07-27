@@ -992,6 +992,7 @@ Voting and principles of security (ease of use vs. security etc)
 
 # DNS policy:
 - direct DNS with no lookup
+- dns over https...
 
 # Modes for server posted material that cannot be altered by any command on that server
 
