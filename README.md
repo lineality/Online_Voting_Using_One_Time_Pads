@@ -394,6 +394,7 @@ Details: The first part of this report is a more abstract proof-of-concept about
 ## Entropy randomness and pseudorandomness
 - for security
 - for parts of system
+- security and Turing-entropy units
 
 # Part 2: Practical Secure Online Voting
 ### Goal: Practical version of 'online voting' for realistic implementation
