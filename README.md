@@ -952,6 +952,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - software needs
 - level of security
 
+- FOSS
+- MIT or other licensing for parts of system
+
 #### Pre-Election Setup
 
 #### Election
