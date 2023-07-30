@@ -994,6 +994,9 @@ Voting and principles of security (ease of use vs. security etc)
 ## Improvised or ad-hoc Network in case of public internet disruptions:
 - mesh?
 
+# Fancy Bear goes Phishing, Broadband, People's Computing (sp?): Some kind of study of social-ecology and technology, or culture and technology, or 'upcode' or...how low level and high level have to merge in projects -> as relates to coordinated decision making and voting
+
+
 # DNS policy:
 - direct DNS with no lookup
 - dns over https...
