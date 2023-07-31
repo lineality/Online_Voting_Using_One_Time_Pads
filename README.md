@@ -1112,6 +1112,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Managing decentralized (or centralized) projects
 
+## ad-hoc systems
+
 ## Laws Policies, and Voting-Elections about each-other: 
 	- a Matrix With Feedback
 	- 
