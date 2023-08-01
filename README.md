@@ -1119,6 +1119,15 @@ The odd paradox of people in the west believing that voting is inherently good, 
 	- 
 
 ## Formal and informal 'parties'
+	- 
+
+## data handling policy:
+	- function-equation data 
+vs.
+	- values
+	vs.
+	- instructions? (separate from functions?)
+	Types of 'state'? (as in values being odd in lambda-calc?)
 
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history from 'the decline and rise of democracy' book
