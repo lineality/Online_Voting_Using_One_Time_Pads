@@ -1050,6 +1050,11 @@ judges, judge_1, MY_CHOICE\n
 
 ## Automation and Voting Systems
 
+## automated testing to checking functioning of system
+- 
+- accurate processing tests
+- security tests
+
 # Voting Statistic Package
 - frequentist
 - Baysian
