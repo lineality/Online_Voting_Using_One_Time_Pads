@@ -827,7 +827,7 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 - rules, policies, and procedures for vote calculation method (e.g. how different numbers of candidates are handled, e.g. 2 vs. not-2)
 - rules, policies, and procedures for specific-used vote calculation method
 - rules, policies, and procedures for the storage of records from past elections
-- rules, policies, and procedures for "stateless" voting machines
+- rules, policies, and procedures for "stateless" voting machines (as in computer-state, memory-state, configuration-state (not political))
 - rules, policies, and procedures for election observers
 - rules, policies, and procedures for canvassing
 - rules, policies, and procedures for advertising
