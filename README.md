@@ -952,8 +952,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 - software needs
 - level of security
 
+## Open Systems
 - FOSS
 - MIT or other licensing for parts of system
+- the topic of 'security by obscurity'
+- organizing testing of system
 
 #### Pre-Election Setup
 
