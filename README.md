@@ -1103,6 +1103,8 @@ judges, judge_1, MY_CHOICE\n
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
+## adversarial and stochastic
+- adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
 
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
