@@ -1144,6 +1144,8 @@ vs.
 
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
 
+book: Working in PUblic by Nadia Eghbal, making and maintaining open source software
+
 ## Quantifying elections, votes, decisions, agreement, choices
 
 ## Visualization of Election Data
