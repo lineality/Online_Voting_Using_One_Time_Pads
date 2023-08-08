@@ -738,7 +738,7 @@ or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 - fake account setup
 - malicious files (fake or altered pictures for deception)
 - user login protocols
-- adversarial input to automated systems(in sense just like SQL injection attacks)
+- adversarial input to automated systems(in sense just like SQL injection attacks...but SQL never being used in particular)
 - GPT LLM concerns (be specific)
 - authentication topics:
 
@@ -1179,6 +1179,9 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## Automated Decision Making & Hybrid-Participant (h.sapiens & machine)
 
 ## On-Edge vs. large tool / general & development vs. production-version
+
+# Database security standards
+(no standard "sql" versions)
 
 
 
