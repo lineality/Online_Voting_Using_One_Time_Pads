@@ -778,7 +778,10 @@ https://github.com/lineality/Auditable_Elections_Projects
 - 
 
 #### Case Studies in Failing to agree locally on election rules:
--
+-(Q: how far back in time?)
+
+book: the fall and rise of democracy
+- interesting group-organization models study
 
 #### Case Studies in Long Term Technical Design Issues:
 - SN https://www.grc.com/sn/sn-914-notes.pdf 
