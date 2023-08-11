@@ -1061,6 +1061,14 @@ judges, judge_1, MY_CHOICE\n
 - accurate processing tests
 - security tests
 
+
+### What is a balanced architecture between various factors?
+- centered decentered
+- private vs. accessible
+- public vs. ownership
+- communication vs. encryption
+- 
+
 # Voting Statistic Package
 - frequentist
 - Baysian
