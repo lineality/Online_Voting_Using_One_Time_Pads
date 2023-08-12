@@ -1082,6 +1082,10 @@ judges, judge_1, MY_CHOICE\n
 
 # System Health, System Coordination, System Voting
 
+# functional categories of signals for decisions:
+	- (see hofstedter-gap)
+
+
 #  Records, versioning, documentations, testing standards
 
 # platform and OS safety policies
