@@ -1061,6 +1061,11 @@ judges, judge_1, MY_CHOICE\n
 - accurate processing tests
 - security tests
 
+## architectural problem spaces 
+- different types of problem-spaces with decentered coordinated decisions vs. centrally handled
+- how many parties are coordinating
+- synchonous, asynchonous
+- state or stateless (as in memomory, not gov) 
 
 ### What is a balanced architecture between various factors?
 - centered decentered
