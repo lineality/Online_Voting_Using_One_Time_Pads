@@ -320,7 +320,8 @@ Variants:
 21. A bad-agent will use disinformation.
 
 22. A bad-agent will attempt to disrupt infrastructure that the election relies upon (electricity, post office, transportation, new-media, schools, etc.).
-
+(note: There are bad agents but there are also other cases and factors which at times should not be confused with bad agents. For example a tester/developer whose goal is to find and fix issues working with other developers is not a bad agent. There are various appropriate and inappropriate factors in different contexts, not everyone can be divided into bad agents and innocent users. And the details and edge cases can become tricky to manage clearly and optimally. )
+see book references
 
 
 ## Description & Overview of Process-in-Principle
