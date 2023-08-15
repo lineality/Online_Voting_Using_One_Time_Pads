@@ -340,7 +340,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 - institutions large or small such as retirement homes or other such community organizations are well placed to be involved where voters are not physically able to travel to poles. 
 
-- Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
+- military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
 
 # Security Section
 ### Additional steps can be taken to increase security. 
@@ -396,6 +396,14 @@ Details: The first part of this report is a more abstract proof-of-concept about
 - for security
 - for parts of system
 - security and Turing-entropy units
+- standards for pseudo random numbers...given different mobile computer hardware. collecting entropy?
+- version checks: a way for users to see what version of software is being used...
+- decentralization and security: does distribution lack a middle for man-in-the-middle attacks?
+
+### Fingerprinting
+- how to give voters anonymity while also allowing them to connect
+
+
 
 # Part 2: Practical Secure Online Voting
 ### Goal: Practical version of 'online voting' for realistic implementation
@@ -701,6 +709,11 @@ software platforms/languages:
 - diasporic communities
 -"philes"?(sp?) (term Neal Stephenson term? distributed communities based on projects/interests/views?)
 - 
+
+## pros and cons of methods of vote tallying:
+- decentralized vote handling...
+- 
+
 
 ## Managing Elections vs. managing Open-Source Projects
 - git
@@ -1207,6 +1220,20 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 # Database security standards
 (no standard "sql" versions)
 
+...
+
+# Decentralized Traffic and Cost Flow
+- delayed start
+- work for credit
+- slim form: ascii
+- not requiring a separate server system...
+browser based...
+app based...
+	- Jefferson-Radio type
+- 
+
+
+...
 
 
 ## Shannan/Turing information theory/communication theory and decision coordination problem spaces
