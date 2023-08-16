@@ -989,6 +989,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ### What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 
+## Demand Distortion and General Coordinated-Decision (voting) Spaces
+	- learning
+	- collapse
+	- compassion
+
 - In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
 
