@@ -1109,6 +1109,11 @@ judges, judge_1, MY_CHOICE\n
 # functional categories of signals for decisions:
 	- (see hofstedter-gap)
 
+## signal-game spaces
+	- where speed is needed
+	- where speed is not needed
+	- where retries are needed
+	- inverse of need: prohibited
 
 #  Records, versioning, documentations, testing standards
 
