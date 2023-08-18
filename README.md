@@ -1232,6 +1232,11 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ...
 
+## Categories of Decisions
+and specific task processes
+
+...
+
 # Decentralized Traffic and Cost Flow
 - delayed start
 - work for credit
