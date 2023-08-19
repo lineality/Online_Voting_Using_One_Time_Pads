@@ -1033,6 +1033,14 @@ Voting and principles of security (ease of use vs. security etc)
 
 # On the operational definition of voting issue and voting choices:
 
+
+# Applied-Algorithms: Efficient computation of ballot processing
+- error checking
+- parallel and concurrent processes
+- security of process
+- auditability of process
+
+
 # Preempting issues with NLP (Natural Language Processing) and voting software
 - interpretation and ambiguity
 - spelling correction
