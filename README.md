@@ -1112,6 +1112,8 @@ judges, judge_1, MY_CHOICE\n
 - targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
 
 
+# Defining "Technology" for coordinated decision making including elections
+
 # System Health, System Coordination, System Voting
 
 # functional categories of signals for decisions:
