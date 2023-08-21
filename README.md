@@ -1185,6 +1185,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Formal and informal 'parties'
 	- 
 
+## trade offs and contexts for optimization
+
 ## data handling policy:
 	- function-equation data 
 vs.
