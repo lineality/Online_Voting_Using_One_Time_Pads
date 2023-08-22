@@ -882,6 +882,10 @@ Question: possible requiring of ballot being completely filled out
 - checksum etc.
 
 
+## types of bytes in coordination data
+- pre-empting type conversion issues
+
+
 ## Practical Model 2:
 Similar to baseline secure model with these changes.
 1. allows registered phone number use:
