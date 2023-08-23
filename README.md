@@ -1142,6 +1142,13 @@ judges, judge_1, MY_CHOICE\n
 - issues with open ended 'write-in'
 
 
+# Distributed Servers and modularization of process
+- time modules
+- data size modules
+- 
+
+
+
 # passwords, devices, "fido," etc.
 - 
 
