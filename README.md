@@ -1123,6 +1123,9 @@ judges, judge_1, MY_CHOICE\n
 # functional categories of signals for decisions:
 	- (see hofstedter-gap)
 
+
+## Decisions elections and types of questions
+
 ## signal-game spaces
 	- where speed is needed
 	- where speed is not needed
