@@ -1296,6 +1296,10 @@ app based...
 
 ...
 
+### Poverty Disinformation Non-Automatic Learning and Coordinated Decision Making
+
+## Low-Bar-Enlightenment-Compassion Project Lifecycles and Coordinated Decision Making (2023.08.25)
+
 ## proportional vs. first past the post
 
 ## runoff elections and contracts
