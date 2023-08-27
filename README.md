@@ -1225,7 +1225,11 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - results
 - reporting
 
-## Rule for how elections get called, initiated
+## Rules for how elections get:
+- called, 
+- initiated,
+- audited,
+- closed
 
 ## System Explainability & System Reliability Standardization
 
