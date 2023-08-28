@@ -1225,6 +1225,9 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - results
 - reporting
 
+
+## Definition Behaviors, Questions, and Signal Coordination
+
 ## Rules for how elections get:
 - called, 
 - initiated,
