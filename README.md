@@ -1240,6 +1240,11 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 
 ## scalability in the problem space of coordinated decision making
 
+## political parties and institutionalization
+- history
+- case studies in handling run-offs and proportional representation
+- uses and issues with parties
+
 
 ## The need for a resource-thin framework
 
