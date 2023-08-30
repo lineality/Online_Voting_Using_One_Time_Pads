@@ -1288,6 +1288,12 @@ app based...
 
 ...
 
+project coordination standards
+- for developers working on project
+
+
+...
+
 
 ## Shannan/Turing information theory/communication theory and decision coordination problem spaces
 - have we learned anything else about signals and information since Shannan?
