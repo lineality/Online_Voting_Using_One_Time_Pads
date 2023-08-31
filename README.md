@@ -1164,6 +1164,8 @@ judges, judge_1, MY_CHOICE\n
 	
 # character sets, flexibility and security, ascii, fonts
 
+# is there a way to standardize and automate statistical reporting on data throughout an 'election'?
+
 # login management
 
 # Security: Type of attacks that cannot be entirely prevented:
