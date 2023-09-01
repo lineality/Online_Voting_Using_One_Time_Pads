@@ -1228,6 +1228,10 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - reporting
 
 
+## defining participants and participation for coordinated decision making
+
+## defining qualification for coordinated decision making
+
 ## Definition Behaviors, Questions, and Signal Coordination
 
 ## Rules for how elections get:
