@@ -882,6 +882,9 @@ Question: possible requiring of ballot being completely filled out
 - checksum etc.
 
 
+## automating speaking time at debates?
+- 
+
 ## types of bytes in coordination data
 - pre-empting type conversion issues
 
