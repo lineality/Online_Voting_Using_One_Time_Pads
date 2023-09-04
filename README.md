@@ -1038,6 +1038,13 @@ Voting and principles of security (ease of use vs. security etc)
 # Backup signal transmission for areas with disturbances to telecommunications:
 - the need for emergency ad hoc EM spectrum signal protocols
 
+
+# How much does a decision/Election Cost? 
+Process Duration / Resource-Cost
+How long can and should it take for an election to be organized carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
+
+
+
 # On the operational definition of voting issue and voting choices:
 
 
