@@ -1105,8 +1105,8 @@ judges, judge_1, MY_CHOICE\n
 ## architectural problem spaces 
 - different types of problem-spaces with decentered coordinated decisions vs. centrally handled
 - how many parties are coordinating
-- synchonous, asynchonous
-- state or stateless (as in memomory, not gov) 
+- synchronous, asynchronous
+- state or stateless (as in memory, not gov) 
 
 ### What is a balanced architecture between various factors?
 - centered decentered
@@ -1124,7 +1124,6 @@ judges, judge_1, MY_CHOICE\n
 - decision trees and statistics
 - continuous functions vs. classification
 - targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
-
 
 # Defining "Technology" for coordinated decision making including elections
 
