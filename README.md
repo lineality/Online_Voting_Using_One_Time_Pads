@@ -1127,6 +1127,13 @@ judges, judge_1, MY_CHOICE\n
 
 # Defining "Technology" for coordinated decision making including elections
 
+# The importance of setting properties of default empty states
+- empty functions
+- empty lists
+- empty values
+- empty signals
+
+
 # System Health, System Coordination, System Voting
 
 # functional categories of signals for decisions:
