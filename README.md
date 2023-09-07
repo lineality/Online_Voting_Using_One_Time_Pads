@@ -1090,6 +1090,14 @@ judges, judge_1, MY_CHOICE\n
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
 
+## universal requirements?
+1. Externalize, Show work: show all your steps.
+2. Be clear about your project-context.
+3. check your work / peer checking
+4. revise your work
+5. match results to project-target (must fit)
+
+
 # on productures, "trust", measures, standards, and ethics
 
 
