@@ -1261,9 +1261,9 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 ## Definition Behaviors, Questions, and Signal Coordination
 
 ## Rules for how elections get:
-- called, 
-- initiated,
-- audited,
+- called
+- initiated
+- audited
 - closed
 
 ## System Explainability & System Reliability Standardization
