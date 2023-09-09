@@ -1218,6 +1218,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## ad-hoc systems
 
+## measuring the equivalence of processes
+
 ## Laws Policies, and Voting-Elections about each-other: 
 	- a Matrix With Feedback
 	- 
