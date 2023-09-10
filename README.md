@@ -1258,6 +1258,14 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 
 ## defining participants and participation for coordinated decision making
 
+
+## Rules for auditing instruction sets
+- feedback loops
+- project elements
+- data hygiene
+- 
+
+
 ## defining qualification for coordinated decision making
 
 ## Definition Behaviors, Questions, and Signal Coordination
