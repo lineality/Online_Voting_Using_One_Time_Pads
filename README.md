@@ -1123,6 +1123,14 @@ judges, judge_1, MY_CHOICE\n
 - communication vs. encryption
 - 
 
+
+## Decision process task size:
+- for breaking down and building up larger election processes
+
+
+## Ascii vs. Diversity: balancing universal tools with universal users
+- 
+
 # Voting Statistic Package
 - frequentist
 - Baysian
