@@ -1317,7 +1317,12 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 # Database security standards
 (no standard "sql" versions)
+...
 
+# Elusive Project/Election Goals: meritocracy vs. kleptocracy
+- Demand-distortion and the difference in practice between a meritocracy and a ~ Kakistocracy
+https://en.wikipedia.org/wiki/Kakistocracy
+- What are the details of process, decision, and outcome.
 ...
 
 ## Categories of Decisions
