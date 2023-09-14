@@ -1274,6 +1274,10 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - 
 
 
+## Pattern, Protocol, and Process
+- skill, ability, learning
+
+
 ## defining qualification for coordinated decision making
 
 ## Definition Behaviors, Questions, and Signal Coordination
