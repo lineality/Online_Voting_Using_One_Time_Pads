@@ -1183,7 +1183,6 @@ judges, judge_1, MY_CHOICE\n
 - 
 
 
-
 # passwords, devices, "fido," etc.
 - 
 
@@ -1196,7 +1195,9 @@ judges, judge_1, MY_CHOICE\n
 	
 # character sets, flexibility and security, ascii, fonts
 
-# is there a way to standardize and automate statistical reporting on data throughout an 'election'?
+# Automation and coordination
+
+# Is there a way to standardize and automate statistical reporting on data throughout an 'election'?
 
 # login management
 
@@ -1205,13 +1206,14 @@ judges, judge_1, MY_CHOICE\n
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
+
+
 ## adversarial and stochastic
 - adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
 
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
 - navigation-blind OS
-
 
 ### Voting Logistics and Ethics: Western Chasm
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
@@ -1234,6 +1236,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Formal and informal 'parties'
 	- 
+
 
 ## trade offs and contexts for optimization
 
@@ -1265,6 +1268,7 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - 
 
 ## defining participants and participation for coordinated decision making
+
 
 
 ## Rules for auditing instruction sets
