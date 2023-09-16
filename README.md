@@ -1087,6 +1087,8 @@ judges, judge_1, MY_CHOICE\n
 # Reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
 
+# input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
+
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
 
