@@ -1257,6 +1257,18 @@ vs.
 
 book: Working in PUblic by Nadia Eghbal, making and maintaining open source software
 
+
+
+## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
+- how does this relate to the question of the 'intelligence' of a system?
+- 
+
+
+## priorities and the psychology of system visibility: when noise overwhelmes perception: Q: in reality, how often does noise overwhelm perception?
+- types of noise and types of perception-distortion?
+- is kahneman tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
+
+
 ## Quantifying elections, votes, decisions, agreement, choices
 
 ## Visualization of Election Data
