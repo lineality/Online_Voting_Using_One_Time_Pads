@@ -1185,6 +1185,14 @@ judges, judge_1, MY_CHOICE\n
 - 
 
 
+# direct programming: coordinated decisions and moving parts
+- Time and Programming
+- asynchronous systems
+- parallel systems
+- concurrent systems
+
+
+
 # passwords, devices, "fido," etc.
 - 
 
