@@ -1039,6 +1039,18 @@ Voting and principles of security (ease of use vs. security etc)
 - the need for emergency ad hoc EM spectrum signal protocols
 
 
+# Micro Signal Coordination
+Cellular vs. Macro level for:
+Conditional Expression and Signal Gaps: General Signal Processing And General Instruction Management
+1. 'Artificial' Neural Networks and Neurons vs. Biological Signal Systems
+1.1  History
+1.2  Future
+2. Chimeric Conditional Expression of Genetic Stored Instruction
+2.1  Optional Genome Pathways
+2.2  Optional Information-Signal Pathways
+
+
+
 # How much does a decision/Election Cost? 
 Process Duration / Resource-Cost
 How long can and should it take for an election to be organized carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
