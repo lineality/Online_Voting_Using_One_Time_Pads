@@ -1262,7 +1262,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## trade offs and contexts for optimization
 
-## data handling policy:
+## data ~handling policy:
 	- function-equation data 
 vs.
 	- values
@@ -1271,7 +1271,8 @@ vs.
 	Types of 'state'? (as in values being odd in lambda-calc?)
 
 ## Forms of democracy and types and structures of elections:
-- forms of decision making in history from 'the decline and rise of democracy' book
+- forms of decision making in history:
+-- from 'the decline and rise of democracy' book
 
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
 
