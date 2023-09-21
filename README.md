@@ -731,6 +731,8 @@ software platforms/languages:
 
 
 #### Possible Multi-factor Authentication Tools:
+(how much the system is data-slim... e.g. ascii cli vs. 
+multi-media gui bloated)
 1. voice print
 2. picture of hand (for fingerprints)
 3. one time pad
