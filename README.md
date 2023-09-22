@@ -741,7 +741,7 @@ multi-media gui bloated)
 7. ip / mac address details (vpn issues?)
 6. separate confirmation login (to confirm vote record (device, voice, etc.) after it has been processed and recorded)
 7. face-selfie (time GIS stamped picture of person casting vote)
-8. video of person voting (more secure than static selfie?)
+8. video of a participant(person) voting (more secure than static selfie?)
 or smaller-file 'encoding' (e.g. auto-encoder) of video of person voting?
 9. timestamps? (timestamp plus geolocation?)
 10. finger prints
@@ -1391,6 +1391,12 @@ app based...
 project coordination standards
 - for developers working on project
 
+...
+
+roles votes and definitions:
+One person physically able to vote gets one vote is a very blunt way of deciding who should be voting on a topic, with assumptions that make (made) more sense in low-tech local elections where only local people within an age-range could physically vote. But with various technologies from transportation and translation to networks, that rough match becomes less clear.
+There are a lot of factors and edge cases, with a possibly related topic of district-creation and gerrymandering which run up against challenges where the main problem may be people's refusal to confront the issues. 
+'Make the design-choice go away." is not a good plan.
 
 ...
 
