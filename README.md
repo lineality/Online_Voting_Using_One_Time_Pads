@@ -1230,6 +1230,10 @@ judges, judge_1, MY_CHOICE\n
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
+## auditing and automated auditing, process and step problems in coordinated decision making:
+- map of process-step-analysis applications
+- 
+- 
 
 
 ## adversarial and stochastic
