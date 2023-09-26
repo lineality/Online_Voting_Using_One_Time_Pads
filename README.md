@@ -1064,8 +1064,7 @@ for system of coordinated decisions on processes?
 
 # How much does a decision/Election Cost? 
 Process Duration / Resource-Cost
-How long can and should it take for an election to be organized carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
-
+How long can and should it take for an election to be organized, carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
 
 
 # On the operational definition of voting issue and voting choices:
@@ -1111,6 +1110,12 @@ judges, judge_1, MY_CHOICE\n
 - can a standard ballot sized csv file fit into a .csv file?
 
 # input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
+
+
+## Empirical Process and Coordinated Decisions: 20203.09.25
+1. applications of quantizing vs. infinite
+derivation and integration of process modules
+2. von Neumann's bifurcation of roles in self-replicating processes
 
 
 
