@@ -1066,6 +1066,16 @@ for system of coordinated decisions on processes?
 Process Duration / Resource-Cost
 How long can and should it take for an election to be organized, carried out and reported on, now including any arbitrary window allowed for extra voting (e.g. you could hold a vote open for 5 years, but that doesn't mean it takes 5 years to count the votes and publish).
 
+How minimal and efficient can an election be?
+How should this be measured?
+Time window for setup
+Time window for election
+Time window for analysis and reporting
+person-hours to set up
+electricity cost
+...computer cycles to computer per scale?
+
+
 
 # On the operational definition of voting issue and voting choices:
 
