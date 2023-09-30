@@ -1122,6 +1122,20 @@ judges, judge_1, MY_CHOICE\n
 # input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
 
 
+# Privacy and anonymity: "When Hashes Collide"
+uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people. 
+ Episode #940 | 19 Sep 2023 | 104 min.
+https://www.grc.com/sn/sn-940.txt
+https://www.grc.com/sn
+Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
+
+
+
+
+
+
+
+
 ## Empirical Process and Coordinated Decisions: 20203.09.25
 1. applications of quantizing vs. infinite
 derivation and integration of process modules
