@@ -1383,6 +1383,11 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - closed
 
 ## System Explainability & System Reliability Standardization
+...
+
+## What needs to be in a decision-coordination database?
+(2023.09.30)
+
 
 ...
 
