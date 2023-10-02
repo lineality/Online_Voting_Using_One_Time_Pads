@@ -1371,6 +1371,10 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 ## Pattern, Protocol, and Process
 - skill, ability, learning
 
+## Is decision-coordination a special case of information-exchange, where fix-format, protocols, etc., modify a more general-communication theory?
+
+## Self-Referential Cases:
+- What issues are there when automating decisions about decisions, in perhaps a classic case where data and instructions are intermingled, but where which is which is prone to ambiguity?
 
 ## defining qualification for coordinated decision making
 
