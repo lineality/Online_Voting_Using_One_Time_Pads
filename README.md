@@ -1211,6 +1211,9 @@ derivation and integration of process modules
 # functional categories of signals for decisions:
 	- (see hofstedter-gap)
 
+## Standardization:
+- re-use of functions and modules
+- read-ability, serialization, encryption,and anonymization of data
 
 ## Decisions elections and types of questions
 
