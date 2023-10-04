@@ -1228,7 +1228,7 @@ derivation and integration of process modules
 # platform and OS safety policies
 - OS update policies
 - choice of OS
-- 
+
 
 # Ballot item interpretability:
 - deterministic (given time as input)
