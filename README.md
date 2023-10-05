@@ -440,6 +440,14 @@ A separate air-gapped mobile device would be feasible, or perhaps a more decentr
 (section under construction)
 
 ## Practical Voting
+
+Q: double signed interaction, with public and private key from both parties...
+from the 'election' to show you were allowed to vote (unless open to anyone)
+and verified by voter...
+...maybe during remote registration...
+a swap of confirmed signatures..
+Q: who is who over network...
+
 The goal here (for this practical-tool section, vs. the above secure voting in principle) is more a practical-project and less abstract (proof of concept or standard-setting): How can a local community organize and carry out a best-practice auditible vote and publish the results using (widely available and) accessible technology (such as mobile phones)?
 
 What are some of the factors that characterize a realistically resource-limited situation? Are there some general groups of common sets of constraints? E.g. Some groups may have a safe place for a voting office but no funds for extra equipment. Other groups may not have a safe place for any voting office or official positions (needing the management of the election to be virtual and decentralized). 
