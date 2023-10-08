@@ -1353,10 +1353,11 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 
 
 ## Election design and goals: disinformation and distortion
+- can feedback or other mechanisms steer the design and use of coodinated-decision-events (selections) to constructive tasks
 
-## priorities and the psychology of system visibility: when noise overwhelmes perception: Q: in reality, how often does noise overwhelm perception?
+## priorities and the psychology of system visibility: when noise overwhelms perception: Q: in reality, how often does noise overwhelm perception?
 - types of noise and types of perception-distortion?
-- is kahneman tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
+- is Khaneman Tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
 
 
 ## Quantifying elections, votes, decisions, agreement, choices
