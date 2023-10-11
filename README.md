@@ -1390,7 +1390,11 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## defining participants and participation for coordinated decision making
 
+## Portability
 
+## setup-time
+
+## cross platform
 
 ## Rules for auditing instruction sets
 - feedback loops
