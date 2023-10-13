@@ -1191,6 +1191,9 @@ derivation and integration of process modules
 - communication vs. encryption
 - 
 
+## Taboos and Prohibitions that may interfere with voting
+- 
+
 
 ## Decision process task size:
 - for breaking down and building up larger election processes
