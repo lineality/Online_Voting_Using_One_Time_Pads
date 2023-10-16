@@ -1405,6 +1405,10 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## Portability
 
+
+## Data and Categories of Types of Systems in coordinated decision making architectures
+
+
 ## setup-time
 
 ## cross platform
