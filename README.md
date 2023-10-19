@@ -1414,6 +1414,11 @@ Role and Sources of Stochasticity in decision coordination:
 ## Portability
 
 
+## coordinated decision making and architecture tasks: distributed overlapping logic
+- counting tasks
+- overlapping effect tasks
+- a model of overlapping counting counting tasks
+
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
 
