@@ -1330,6 +1330,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Managing decentralized (or centralized) projects
 
+## efficiency, modularity, svg, and line/curve plots (vs. 'media file' bloat), TUI vs. GUI
+
 ## ad-hoc systems
 
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
