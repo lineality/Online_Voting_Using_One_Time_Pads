@@ -1184,6 +1184,11 @@ derivation and integration of process modules
 - synchronous, asynchronous
 - state or stateless (as in memory, not gov) 
 
+
+## standards for describing feasibility and clarity?
+
+
+
 ### What is a balanced architecture between various factors?
 - centered decentered
 - private vs. accessible
