@@ -1296,6 +1296,11 @@ derivation and integration of process modules
 
 # Is there a way to standardize and automate statistical reporting on data throughout an 'election'?
 
+### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
+- optimization
+- do one thing well
+- standardization
+
 # login management
 
 # Security: Type of attacks that cannot be entirely prevented:
