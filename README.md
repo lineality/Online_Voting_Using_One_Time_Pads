@@ -1226,6 +1226,7 @@ derivation and integration of process modules
 - empty values
 - empty signals
 
+# technical debt and choice that increase difficulty
 
 # System Health, System Coordination, System Voting
 
