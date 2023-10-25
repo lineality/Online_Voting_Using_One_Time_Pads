@@ -1187,7 +1187,7 @@ derivation and integration of process modules
 
 ## standards for describing feasibility and clarity?
 
-
+## how are specific coordinated decision tasks and sub-tasks defined, so as to automatically evaluate if that task has been done correctly?
 
 ### What is a balanced architecture between various factors?
 - centered decentered
