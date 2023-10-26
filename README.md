@@ -1252,6 +1252,15 @@ derivation and integration of process modules
 - choice of OS
 
 
+## interconnected decision events
+- interaction and feedback
+
+
+## decisions, logic, and quantization(numbers)
+- defining current-time outcomes
+- defining future targets
+- defining 'past' known data (states of being unknown etc)
+
 # Ballot item interpretability:
 - deterministic (given time as input)
 - discrete responses
