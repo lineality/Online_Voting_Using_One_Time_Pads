@@ -1424,6 +1424,9 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## Quantifying elections, votes, decisions, agreement, choices
 
+## Flow Chart Compiler
+Flow chart to functions to compiled code
+
 ## Visualization of Election Data
 - principles
 - planning
@@ -1438,6 +1441,10 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## Portability
 
+## Adams Franklin Jefferson, enlightenment common law constitutions:
+- STEM, law, voting
+- trial, juries, courts
+- 
 
 ## coordinated decision making and architecture tasks: distributed overlapping logic
 - counting tasks
