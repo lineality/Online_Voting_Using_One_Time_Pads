@@ -1407,7 +1407,7 @@ Role and Sources of Stochasticity in decision coordination:
 - cryptography
 - stats in analysis after events
 
-
+## Mythology and Coordinated Decsisions
 
 ## Election design and goals: disinformation and distortion
 - can feedback or other mechanisms steer the design and use of coodinated-decision-events (selections) to constructive tasks
