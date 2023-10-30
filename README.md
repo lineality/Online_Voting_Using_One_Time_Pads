@@ -1067,6 +1067,8 @@ Conditional Expression and Signal Gaps: General Signal Processing And General In
 2.2  Optional Information-Signal Pathways
 
 
+
+
 # is there a general space of process errors
 for system of coordinated decisions on processes?
 ## discipline specific project-task contexts:
@@ -1143,8 +1145,6 @@ uses of hashes for statistical usefulness for behavior patterns for statisticall
 https://www.grc.com/sn/sn-940.txt
 https://www.grc.com/sn
 Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
-
-
 
 
 
