@@ -1053,6 +1053,9 @@ Voting and principles of security (ease of use vs. security etc)
 - the need for emergency ad hoc EM spectrum signal protocols
 
 
+# measurements for disruption distortion and collapse
+
+
 # Micro Signal Coordination
 Cellular vs. Macro level for:
 Conditional Expression and Signal Gaps: General Signal Processing And General Instruction Management
