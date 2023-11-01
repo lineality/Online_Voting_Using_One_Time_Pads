@@ -1018,6 +1018,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
 
+## change state coordination signal STEM
+- novelty in formal systems
+- how new ideas enter into systems
+- how disinformation destroys everything
+
+
 ## Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
