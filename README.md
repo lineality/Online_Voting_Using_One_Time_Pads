@@ -1456,7 +1456,9 @@ Flow chart to functions to compiled code
 ## Adams Franklin Jefferson, enlightenment common law constitutions:
 - STEM, law, voting
 - trial, juries, courts
-- 
+
+## networked voting and network access
+institutions such as libraries for areas with internet
 
 ## coordinated decision making and architecture tasks: distributed overlapping logic
 - counting tasks
