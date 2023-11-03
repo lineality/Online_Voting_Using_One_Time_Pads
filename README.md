@@ -1349,6 +1349,16 @@ derivation and integration of process modules
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
 
 
+## Problem Identification & Classification
+- e.g. AI problem vs. general problems & psychology of perception
+- not ignoring, misdirecting, covering up, problems in ~voting system
+- no 'blame down hill'
+2023.11.02
+
+## psychological distortions in perceptions of causality in building using and maintaining an architecture for coordinated decision making.
+2023.11.02
+
+
 ## Related areas for coordinated decision making:
 - math
 - biology
