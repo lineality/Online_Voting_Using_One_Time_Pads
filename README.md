@@ -1250,6 +1250,10 @@ derivation and integration of process modules
 
 ## Decisions elections and types of questions
 
+## confronting antisocial behaviors, disinformation, and collapse 
+- e.g. when it masquerades as 'culture' 'tradition' etc.
+
+
 ## signal-game spaces
 	- where speed is needed
 	- where speed is not needed
