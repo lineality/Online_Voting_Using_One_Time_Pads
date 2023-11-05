@@ -1195,8 +1195,7 @@ derivation and integration of process modules
 - synchronous, asynchronous
 - state or stateless (as in memory, not gov) 
 
-
-## standards for describing feasibility and clarity?
+## standards for describing feasibility and clarity
 
 ## how are specific coordinated decision tasks and sub-tasks defined, so as to automatically evaluate if that task has been done correctly?
 
