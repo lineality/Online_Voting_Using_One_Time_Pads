@@ -1340,6 +1340,7 @@ derivation and integration of process modules
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
+## Managing different specific large and small unknown values, variables, and geometries
 
 ## adversarial and stochastic
 - adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
