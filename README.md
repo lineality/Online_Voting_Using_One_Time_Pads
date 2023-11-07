@@ -1390,6 +1390,11 @@ The odd paradox of people in the west believing that voting is inherently good, 
 #### rehabilitation and healing, learning
 
 
+## objective criteria for voting system feedback and suggestion acceptance:
+- bug reports
+- feature requests
+(lessons learned from past software systems)
+
 ## measuring the equivalence of processes
 
 ## Laws Policies, and Voting-Elections about each-other: 
