@@ -1430,6 +1430,8 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
+## standard task and behavior benchmarks
+
 
 Role and Sources of Stochasticity in decision coordination:
 - pseudo random numbers
@@ -1438,7 +1440,7 @@ Role and Sources of Stochasticity in decision coordination:
 - cryptography
 - stats in analysis after events
 
-## Mythology and Coordinated Decsisions
+## Mythology and Coordinated Decisions
 
 ## Election design and goals: disinformation and distortion
 - can feedback or other mechanisms steer the design and use of coodinated-decision-events (selections) to constructive tasks
