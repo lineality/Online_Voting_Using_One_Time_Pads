@@ -1431,7 +1431,10 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 - 
 
 ## standard task and behavior benchmarks
-
+- coordination
+- signals
+- actions
+- outcomes
 
 Role and Sources of Stochasticity in decision coordination:
 - pseudo random numbers
