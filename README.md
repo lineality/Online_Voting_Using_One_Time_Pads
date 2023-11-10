@@ -1303,6 +1303,10 @@ derivation and integration of process modules
 - concurrent systems
 
 
+# Aspects of system diversity or lack of diversity
+- security
+- redundancy
+
 
 # passwords, devices, "fido," etc.
 - 
