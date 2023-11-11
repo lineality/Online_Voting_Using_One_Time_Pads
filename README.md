@@ -1430,6 +1430,12 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 ## better defining roles in projects
 - what do different kinds of participants 'look' like?
 
+
+## Cyclic Condition Regimes
+- seasons
+- tides
+
+
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
 - how does this relate to the question of the 'intelligence' of a system?
 - 
