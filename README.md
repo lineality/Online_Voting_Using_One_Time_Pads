@@ -1487,6 +1487,8 @@ Flow chart to functions to compiled code
 ## MCU Multipoint Conferencing Units, Modularized Signal-Response Protocols, Moderation virtual Decision-conference Mediation
 - 
 
+## Junkfood health shorterm longterm in coordinated decisions
+
 ## defining participants and participation for coordinated decision making
 
 ## Portability
