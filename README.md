@@ -1289,6 +1289,8 @@ derivation and integration of process modules
 - error correction
 - 
 
+## tests and diagnostics for functions and sets of functions and tasks
+
 
 # Distributed Servers and modularization of process
 - time modules
