@@ -1174,7 +1174,7 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 # process and step definition across integrated sub-steps with break-down into smaller steps
 
 
-
+# definitions of criteria in tests
 
 
 ## Empirical Process and Coordinated Decisions: 20203.09.25
