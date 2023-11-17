@@ -1538,6 +1538,7 @@ institutions such as libraries for areas with internet
 - data hygiene
 - 
 
+## countability, metrics, and definitions
 
 ## Pattern, Protocol, and Process
 - skill, ability, learning
