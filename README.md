@@ -1428,6 +1428,10 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Formal and informal 'parties'
 	- 
 
+## Potemkin Villages
+- cases
+- identification
+- avoiding disasters
 
 ## trade offs and contexts for optimization
 
