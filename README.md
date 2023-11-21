@@ -1,4 +1,3 @@
-
 ##### Online_Voting_Using_One_Time_Pads
 
 # Decision Coordination: General and Specific
@@ -10,7 +9,7 @@
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
-## Part 4: Generalized Decision Coordination Functionality
+## Part 4: Generalized Decision Coordination
 - https://github.com/lineality/object_relationship_spaces_ai_ml 
 - https://github.com/lineality/definition_behavior_studies 
 
@@ -1285,10 +1284,16 @@ derivation and integration of process modules
 # platform and OS safety policies
 - OS update policies
 - choice of OS
-
+- factors
+- specific cases
+- minimal
+- secure
+- specific standards and tests
 
 ## interconnected decision events
 - interaction and feedback
+
+## 
 
 
 ## decisions, logic, and quantization(numbers)
