@@ -1,4 +1,4 @@
-##### Online_Voting_Using_One_Time_Pads
+#### Online_Voting_Using_One_Time_Pads
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
