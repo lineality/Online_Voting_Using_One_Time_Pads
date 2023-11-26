@@ -1,4 +1,4 @@
-#### Online_Voting_Using_One_Time_Pads
+##### Online_Voting_Using_One_Time_Pads
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
@@ -28,7 +28,7 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 
 ### Questions to answer and focus on include the following: 
 1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper-ballot-voting-system.') 
-2. Is it possible for a voter to securely receive a ballot from a Voting-Office over-a-network(online)? 
+2. Is it possible for a voter to securely receive a ballot from a Vote-Office over-a-network(online)? 
 3. Is it possible for a voter to submit a ballot securely over-a-network(online)?
 4. Is it possible for a voting-office to securely receive a completed ballot from the voter over-a-network(online)? [Including: verifying what ballot was used, verifying who submitted the ballot, checking for over errors in filling out the ballot]
 5. Is there an effective equivalent of 'encryption' to allow non-tampering over-a-network?
@@ -1234,7 +1234,6 @@ derivation and integration of process modules
 ## Decision process task size:
 - for breaking down and building up larger election processes
 
-dataframes vs active data
 
 ## Ascii vs. Diversity: balancing universal tools with universal users
 - 
@@ -1372,6 +1371,11 @@ dataframes vs active data
 
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
+
+
+## dataframes and databases
+- encrypted contents
+- statistically anonymized content (e.g. Security now when hashes collide)
 
 ## Managing different specific large and small unknown values, variables, and geometries
 
@@ -1960,6 +1964,3 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-
-
-
