@@ -1528,6 +1528,9 @@ Flow chart to functions to compiled code
 
 ## defining participants and participation for coordinated decision making
 
+
+## contagion, spreading, disinformation and disturbances
+
 ## Portability
 
 ## Adams Franklin Jefferson, enlightenment common law constitutions:
@@ -1964,3 +1967,5 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
