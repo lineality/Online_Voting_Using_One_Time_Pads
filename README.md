@@ -1530,6 +1530,8 @@ Flow chart to functions to compiled code
 
 
 ## contagion, spreading, disinformation and disturbances
+- epidemiology
+- ecology
 
 ## Portability
 
