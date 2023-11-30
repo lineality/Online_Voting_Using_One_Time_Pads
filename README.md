@@ -1529,6 +1529,8 @@ Flow chart to functions to compiled code
 ## defining participants and participation for coordinated decision making
 
 
+## voting, probability, statistics, modeling, census:
+
 ## contagion, spreading, disinformation and disturbances
 - epidemiology
 - ecology
