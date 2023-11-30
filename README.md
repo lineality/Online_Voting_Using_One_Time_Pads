@@ -1932,8 +1932,7 @@ https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/161729686
 ## Books on Product Development
 The History of the Future 
 by Blake J. Harris, Stephen Graybill, et al.
-https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
-
+https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - open source study book...title? (no starch?)
 
 ## Other Books
@@ -1942,6 +1941,14 @@ https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455974/
 
 ## Books on Project Management
 ( )
+
+
+## Lectures and Papers on Political Philosophy and Political Traditions
+- The Modern Political Tradition: Hobbes to Habermas
+Lawrence Cahoone, Ph.D. Professor, College of the Holy Cross
+https://www.thegreatcourses.com/courses/the-modern-political-tradition-hobbes-to-habermas 
+https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
+
 
 ## Web Resources:
 
