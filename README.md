@@ -1293,7 +1293,11 @@ derivation and integration of process modules
 ## interconnected decision events
 - interaction and feedback
 
-## 
+## contraction of systems
+- cases
+- measures
+- models
+- spread, contagion
 
 
 ## decisions, logic, and quantization(numbers)
@@ -1965,6 +1969,9 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
 
 
+### Counter-Example Books
+- Optimal Illusions
+
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
 - alternate source episode 906: https://www.grc.com/securitynow.htm 
@@ -1978,5 +1985,6 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
 
 
