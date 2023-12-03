@@ -1330,6 +1330,8 @@ derivation and integration of process modules
 - 
 
 
+## Case studies in ideas and literature
+
 # direct programming: coordinated decisions and moving parts
 - Time and Programming
 - asynchronous systems
@@ -1872,6 +1874,9 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 - observing election polling
 
 
+## History and comparative history
+- looking at how various times and places viewed and used representation and participation, especially qualification for participation (families, age, geography, tests, inherited status, etc.)
+
 # Bibliography & Resources
 
 ## Books on Elections
@@ -1987,6 +1992,5 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-
 
 
