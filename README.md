@@ -1381,6 +1381,13 @@ derivation and integration of process modules
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
 
+## training and effective education
+teaching how to participate in coordinated decision making
+- agile
+- elections
+
+
+
 ## dataframes and databases
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
