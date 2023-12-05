@@ -1377,6 +1377,13 @@ derivation and integration of process modules
 - 
 - 
 
+## Khanaman Tversky, effects on systems of decisions
+- behavior economics
+- decision theory
+- prospect theory
+- how options are phrased
+
+
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
@@ -1588,6 +1595,13 @@ institutions such as libraries for areas with internet
 - What issues are there when automating decisions about decisions, in perhaps a classic case where data and instructions are intermingled, but where which is which is prone to ambiguity?
 
 ## defining qualification for coordinated decision making
+
+## the importance of an awareness of history for participating in coordinated decisions:
+- what is important to know?
+- is anything required-knowledge, or just helpful?
+- how can this be framed as a curriculum?
+- how can this be taught?
+- how can this be required or facilitated?
 
 ## Definition Behaviors, Questions, and Signal Coordination
 
