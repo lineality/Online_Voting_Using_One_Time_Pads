@@ -1489,6 +1489,8 @@ book: Working in PUblic by Nadia Eghbal, making and maintaining open source soft
 ## better defining roles in projects
 - what do different kinds of participants 'look' like?
 
+## Public Times, Public Places
+when and where to coordinate on decisions
 
 ## Cyclic Condition Regimes
 - seasons
