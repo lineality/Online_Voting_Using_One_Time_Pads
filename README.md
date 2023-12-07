@@ -1360,6 +1360,11 @@ derivation and integration of process modules
 
 # Is there a way to standardize and automate statistical reporting on data throughout an 'election'?
 
+## software, operating system, language, network resources for open, public, charity use:
+- minimal
+- secure
+
+
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
 - do one thing well
