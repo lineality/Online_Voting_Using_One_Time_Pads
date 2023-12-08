@@ -1382,7 +1382,8 @@ derivation and integration of process modules
 - 
 - 
 
-## Khanaman Tversky, effects on systems of decisions
+## Khanaman & Tversky, et al: effects on systems of decisions
+- decision spaces
 - behavior economics
 - decision theory
 - prospect theory
