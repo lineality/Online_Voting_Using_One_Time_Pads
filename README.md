@@ -1323,6 +1323,19 @@ derivation and integration of process modules
 
 ## tests and diagnostics for functions and sets of functions and tasks
 
+## meaning and multilingual elections
+- automated translation
+- merging on slightly differently translated voting options
+- translation of instructions and procedures (automated options
+
+## dimensionality and statistical representations
+- in various cases what we want from decision data are 
+lower dimensional representations of higher dimensional structures
+represented by low-dimensional language data from the participants
+this also may trace a distinction between vote/decisions that can 
+be clearly defined as simple choices, that can elusively be defined,
+or decisions that cannot be reduced to binary or classification
+choices
 
 # Distributed Servers and modularization of process
 - time modules
