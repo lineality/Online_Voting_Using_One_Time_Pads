@@ -1378,6 +1378,8 @@ choices
 - minimal
 - secure
 
+## Decision-Net, Word-Net, Image-Net: 
+= training sets and testing benchmarks for decisions and coordinated decisions
 
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
