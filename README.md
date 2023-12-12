@@ -1344,6 +1344,9 @@ choices
 - 
 
 
+## Signal Coordination Ecology
+
+
 ## Case studies in ideas and literature
 
 # direct programming: coordinated decisions and moving parts
