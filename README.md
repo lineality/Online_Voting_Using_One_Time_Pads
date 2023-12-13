@@ -1503,6 +1503,8 @@ vs.
 	- instructions? (separate from functions?)
 	Types of 'state'? (as in values being odd in lambda-calc?)
 
+## Votes from past generations who are no longer alive vs. sun-set clauses
+
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history:
 -- from 'the decline and rise of democracy' book
