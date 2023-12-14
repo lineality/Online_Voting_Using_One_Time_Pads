@@ -955,7 +955,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 -
 
 
-## Data Structures et al in Coordinated Systems
+## Coordinating Data and Data Structures in Systems for Decision Coordination:
+- compatibility across:
+-- storage formats
+-- data types
+
 - size-management 
 - parallelism
 - concurrency
@@ -966,6 +970,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - externalization
 - graphs (the data structure)
 - 
+
+Networks vs. Databases:
+- Why is data-coordination solved for networks but seen as unsolvable in single databases?
+
+...
+
 
 
 
