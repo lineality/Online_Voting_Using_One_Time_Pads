@@ -1615,6 +1615,10 @@ institutions such as libraries for areas with internet
 
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
+## write-in options
+- multiple choice vs. free response systems
+- equivalence and deterministic handling of options
+
 
 ## setup-time
 
