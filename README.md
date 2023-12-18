@@ -1221,6 +1221,19 @@ derivation and integration of process modules
 - 
 - accurate processing tests
 - security tests
+- parts of system for testing:
+- types of tests
+- role of quality random and pseudo random numbers
+- clock problems and clock accuracy in voting network
+
+## priorities in coordinated decision networks and databases:
+- atomicity
+- 'linearity'
+- serializability
+- fault tolerance or fault reaction
+- redundancy
+- scale 
+- speed
 
 ## architectural problem spaces 
 - different types of problem-spaces with decentered coordinated decisions vs. centrally handled
@@ -2018,7 +2031,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 ## Other Books
 (Virtual Society)
 (maybe book on data intensive systems)
-
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/   
 
 ## Books on Data & Databases:
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
