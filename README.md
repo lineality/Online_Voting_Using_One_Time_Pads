@@ -1436,6 +1436,25 @@ choices
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
 
+## ways of handling categories and topics, 
+e.g. more and less quantifiable and defined topics.
+- discipline-specific (medicine, physics) decisions
+
+
+# measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
+
+
+# sources of data: 
+- questionaires
+- metadata
+- votes
+- skin in the game
+- optional and mandatory participation
+- abstraction and perception (secret, anonymous ballots)
+
+# anonymity and toxic behavior online
+
+
 ## training and effective education
 teaching how to participate in coordinated decision making
 - agile
