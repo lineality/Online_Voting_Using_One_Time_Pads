@@ -1695,6 +1695,22 @@ institutions such as libraries for areas with internet
 ## What needs to be in a decision-coordination database?
 (2023.09.30)
 
+...
+
+# Data & Decisions
+- trade offs
+- data permanence
+- ad hoc systems
+- scale
+- byzantine fault problems
+- fuzzy data
+- flexibility
+- quantum databases
+- time and data
+
+see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
+
+## relativity, time, decisions, and distance: scale and community
 
 ...
 
@@ -2081,7 +2097,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 
 ### Counter-Example Books
-- Optimal Illusions
+- Optical Illusions
 
 #### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
