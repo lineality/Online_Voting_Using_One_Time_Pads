@@ -1325,6 +1325,15 @@ derivation and integration of process modules
 - models
 - spread, contagion
 
+## STEM and Coordinated Decision Making
+- decisions and coordinations in:
+-- networks
+-- databases
+-- instruction/data interactions and conflicts
+-- cryptography
+-- communication theory ('information theory')
+
+
 
 ## decisions, logic, and quantization(numbers)
 - defining current-time outcomes
