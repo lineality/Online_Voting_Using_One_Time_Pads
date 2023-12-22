@@ -1413,6 +1413,15 @@ choices
 - minimal
 - secure
 
+...
+
+## Automated testing of question ambiguity
+- see automated benchmarks
+- decision coordination and STEM (see Online Voting Using One Time Pads github v76)
+
+
+...
+
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
