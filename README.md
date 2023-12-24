@@ -973,7 +973,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 Networks vs. Databases:
 - Why is data-coordination solved for networks but seen as unsolvable in single databases?
-
+- 
+- GC garbage collection, database 
 ...
 
 
@@ -1062,7 +1063,7 @@ Networks vs. Databases:
 - direct participation by voters vs. time consuming processes
 
 # History of Voting and Coordinated Decision Making
--
+- (book, fall a and rise of democracy)
 
 
 # Security & Data / Information Hygiene
@@ -1723,6 +1724,11 @@ institutions such as libraries for areas with internet
 (2023.09.30)
 
 ...
+
+## 
+
+...
+
 
 # Data & Decisions
 - trade offs
