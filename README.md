@@ -1256,6 +1256,11 @@ derivation and integration of process modules
 ## Taboos and Prohibitions that may interfere with voting
 - 
 
+
+## Locus of Control
+- psychology of external locus of control
+
+
 ## Learning from history: How mistakes can be learned from to improve voting
 
 ## Decision process task size:
