@@ -1602,6 +1602,18 @@ when and where to coordinate on decisions
 - tides
 
 
+## Time, Data & Choices
+- 
+- memory safety and garbage collection
+- parallelism and concurrency
+- production vs. development
+- solo vs. group and open-group projects
+- "trust"
+- 'secure by design'
+- defaults
+- types of type
+
+
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
 - how does this relate to the question of the 'intelligence' of a system?
 - 
