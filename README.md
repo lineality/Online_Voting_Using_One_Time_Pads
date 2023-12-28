@@ -1460,6 +1460,10 @@ choices
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
 
+
+## data logic time and coordination
+
+
 ## ways of handling categories and topics, 
 e.g. more and less quantifiable and defined topics.
 - discipline-specific (medicine, physics) decisions
