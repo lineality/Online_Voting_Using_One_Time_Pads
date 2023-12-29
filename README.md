@@ -1383,7 +1383,10 @@ choices
 
 
 ## Signal Coordination Ecology
-
+https://www.amazon.com/Ecology-Collective-Behavior-Deborah-Gordon/dp/0691232156/ 
+The Ecology of Collective Behavior Paperback – October 24, 2023
+by Deborah M. Gordon 
+- alternatives to whole-part contexts
 
 ## Case studies in ideas and literature
 
