@@ -1352,6 +1352,11 @@ derivation and integration of process modules
 - issues with open ended 'write-in'
 
 
+# Alternate Solutions
+
+Equivalence and Non-Equivilance in representation of situations and choices.
+
+
 # Factors in multipoint coordination problems, from signal mcu to project content
 - distributed mcu
 - network design
