@@ -1483,7 +1483,7 @@ e.g. more and less quantifiable and defined topics.
 
 
 # sources of data: 
-- questionaires
+- questionnaires
 - metadata
 - votes
 - skin in the game
