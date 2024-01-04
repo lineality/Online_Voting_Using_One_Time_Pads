@@ -1654,6 +1654,9 @@ Role and Sources of Stochasticity in decision coordination:
 - types of noise and types of perception-distortion?
 - is Khaneman Tversky perception analysis mostly time-invariant in terms of when people can or cannot see through various ebbing and flowing disturbance regimes of noise in a temporally and spatially heterogeneous landscape?
 
+
+## Questions of defining techology
+
 ## diverse participant voting coordination
 
 ## consequences on elections on culture see political theory
