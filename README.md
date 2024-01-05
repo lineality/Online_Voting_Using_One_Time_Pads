@@ -1689,6 +1689,15 @@ Flow chart to functions to compiled code
 
 ## voting, probability, statistics, modeling, census:
 
+
+## distortion, disruption, disinformation
+- non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt 
+(book)
+How to Lose the Information War: Russia, Fake News, and the Future of Conflict Hardcover – July 9, 2020
+by Nina Jankowicz 
+https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684 
+
+
 ## contagion, spreading, disinformation and disturbances
 - epidemiology
 - ecology
