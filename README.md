@@ -977,7 +977,15 @@ Networks vs. Databases:
 - GC garbage collection, database 
 ...
 
+Design Factors and Compromises
 
+...
+
+General Participation & The Health of Systems
+2024.01.06
+The shift from a simple set of goals into a set of goals much more affirmatively focused on protecting participation, communication, and coordination among diverse participants in a society. 
+
+This set goal could be stated as: Use STEM based methods and policies to help defend against disruption and collapse of communication and coordinated decisions in and across diverse groups and perspectives in project-complating societies with general participation of members. 
 
 
 ....
