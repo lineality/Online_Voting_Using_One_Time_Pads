@@ -1517,6 +1517,11 @@ teaching how to participate in coordinated decision making
 ## adversarial and stochastic
 - adversarial and stochastic inputs to automated coordinated decision making (indeterminate incompetence and malice
 
+## operationally defining cases for indeterminate-incompetence-and-malice as part of system collapse 
+- reporting (sometimes reified) items that do not exist, and 
+- denying reports of items that do exist)
+
+
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
 - navigation-blind OS
@@ -1691,7 +1696,7 @@ Flow chart to functions to compiled code
 ## MCU Multipoint Conferencing Units, Modularized Signal-Response Protocols, Moderation virtual Decision-conference Mediation
 - 
 
-## Junkfood health shorterm longterm in coordinated decisions
+## Junkfood health short-term long-term in coordinated decisions
 
 ## defining participants and participation for coordinated decision making
 
@@ -1731,6 +1736,7 @@ institutions such as libraries for areas with internet
 - multiple choice vs. free response systems
 - equivalence and deterministic handling of options
 
+## Coordination and Leviathan Questions
 
 ## setup-time
 
