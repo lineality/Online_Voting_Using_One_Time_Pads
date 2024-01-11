@@ -1411,6 +1411,10 @@ by Deborah M. Gordon
 - parallel systems
 - concurrent systems
 
+# Clearweb infrastructure vs. Deepweb infrastructure
+- 5% of tools and uses
+- 95% tools and uses
+(see https://medium.com/@GeoffreyGordonAshbrook/forecasting-ces-2024-clear-web-mega-ai-vs-local-ai-gpu-device-specs-may-keep-shaping-ai-software-3abaaa51931c )
 
 # Aspects of system diversity or lack of diversity
 - security
