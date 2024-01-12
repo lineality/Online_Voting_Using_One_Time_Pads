@@ -1150,6 +1150,12 @@ electricity cost
 - auditability of process
 
 
+## Detection of short term and long term problems
+- short cycle bubbles (fewer than 5 years)
+- indefinite embedded long term problems 
+
+
+
 # Preempting issues with NLP (Natural Language Processing) and voting software
 - interpretation and ambiguity
 - spelling correction
