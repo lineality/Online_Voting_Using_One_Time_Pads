@@ -1591,8 +1591,19 @@ The odd paradox of people in the west believing that voting is inherently good, 
 	- a Matrix With Feedback
 	- 
 
-## Formal and informal 'parties'
-	- 
+## Formal and informal political 'parties':
+	- do there need to be parties
+	- how should party systems be defined?
+	- parties in coalition vs. winner-takes-all systems
+	- proportional representation
+
+## Parties vs. Mandates
+- 
+
+
+## Applications of Mandate-Based Systems
+- 
+
 
 ## Potemkin Villages
 - cases
