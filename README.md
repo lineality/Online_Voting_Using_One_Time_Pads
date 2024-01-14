@@ -1177,6 +1177,8 @@ first column: category
 second column: vote item
 third column: vote choice
 
+## different uses of high and low resolution data and metrics, test, etc.
+
 ## decisions and disturbance regime management
 
 voter id as first row
