@@ -1,9 +1,9 @@
 ##### Online_Voting_Using_One_Time_Pads
 
+
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
-
 
 # Contents: 
 ## Part 1: Secure Online-Voting in-Principle
@@ -1532,6 +1532,10 @@ teaching how to participate in coordinated decision making
 ## operationally defining cases for indeterminate-incompetence-and-malice as part of system collapse 
 - reporting (sometimes reified) items that do not exist, and 
 - denying reports of items that do exist)
+
+
+## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
+
 
 
 # Security: Types of 'encryption' that cannot be broken:
