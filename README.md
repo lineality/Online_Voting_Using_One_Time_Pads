@@ -1537,6 +1537,23 @@ teaching how to participate in coordinated decision making
 ## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
 
 
+## Election Data & RAG:
+- from 1900's statistical analysis to 2000's Data Science
+connecting Jan with open frameworks for
+1. deep weight train & make new models
+2. fine tune & transfer-learning with existing models
+3. DPO type training
+4. RAG and databases
+	- specific epub, pdf, .odf, and .doc(x), sheets, .csv, etc., 
+	databases?
+	- the relational-S.Q.L. stored-data world
+	- election data formats
+5. project state
+6. externalization
+7. AI-open-office
+8. coordinated decision making
+
+
 
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
