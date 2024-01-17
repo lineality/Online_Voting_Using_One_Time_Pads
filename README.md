@@ -1510,7 +1510,9 @@ e.g. more and less quantifiable and defined topics.
 - optional and mandatory participation
 - abstraction and perception (secret, anonymous ballots)
 
+
 # anonymity and toxic behavior online
+- incentives and feedback in behavior
 
 
 ## training and effective education
@@ -1535,6 +1537,8 @@ teaching how to participate in coordinated decision making
 
 
 ## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
+
+## could some form of white-listing alleviate ddos attack surface?
 
 
 ## Election Data & RAG:
