@@ -1111,6 +1111,8 @@ Conditional Expression and Signal Gaps: General Signal Processing And General In
 2.1  Optional Genome Pathways
 2.2  Optional Information-Signal Pathways
 
+## Mandate Mixtures
+How about a system where a candidate who get's less (or perhaps more too) than a given percentage is required to operate on a mandate system with mandates coming through a proportional consensus system kind of like a parliamentary coalition. 
 
 # Whistleblowing
 
@@ -1535,6 +1537,13 @@ teaching how to participate in coordinated decision making
 - reporting (sometimes reified) items that do not exist, and 
 - denying reports of items that do exist)
 
+
+## Types of Feedback (2024.01.17)
+- decision systems
+- coordination systems
+- coordination and decisions
+- code compilation type feedback
+- agile project participant communication type feedback
 
 ## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
 
