@@ -1757,6 +1757,7 @@ Flow chart to functions to compiled code
 
 ## defining participants and participation for coordinated decision making
 
+## Potential disputes over 'ownership' of election parts or results
 
 ## voting, probability, statistics, modeling, census:
 
