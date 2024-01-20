@@ -88,6 +88,9 @@ Question: Design Questions:
 - converting document
 - character sets allowed...
 - csv., dataframe, tensor
+- rsv format? (rows of string values)
+- file and directory delimited values
+- 
 
 
 ## Steps (For Conceptual-Ideal Election)
@@ -987,6 +990,12 @@ The shift from a simple set of goals into a set of goals much more affirmatively
 
 This set goal could be stated as: Use STEM based methods and policies to help defend against disruption and collapse of communication and coordinated decisions in and across diverse groups and perspectives in project-complating societies with general participation of members. 
 
+...
+
+## Participation Rules
+- 36 years as required age of person to be able to be elected
+(issues around this)
+- alternatives to age for fitness measures
 
 ....
 
