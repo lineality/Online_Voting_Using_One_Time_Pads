@@ -1011,6 +1011,11 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 ...
 
+## incentives and long term incentives
+- 
+
+...
+
 
 # Whole Voting System
 - cross-platform
@@ -1215,6 +1220,18 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 
 
 # process and step definition across integrated sub-steps with break-down into smaller steps
+
+
+## cost factors & sustainability
+- low level costs
+- database related costs
+- server related costs
+- managed-services related costs
+- dev-time related costs
+- future-replacement related costs
+- time-planning costs
+- high level costs
+- incentives for participants: do any participants have an incentive to dismantle the entire system and or the providing of user-needed services? (e.g. upgrading the system to better meet the needs is not bad, but dismantling and upgrading can become ambiguous, as with the 1990's bank-mergers the closed down banks of the closing of local newspapers, was that optimal to meet user needs? (on the other hand, keeping an ineffective operation going for the sake of it (stalin's regime?) is also not a good option)
 
 
 # definitions of criteria in tests
