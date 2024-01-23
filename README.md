@@ -1621,6 +1621,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - psychology
 - linguistics
 
+## timelines and schedules
+- how quickly can an election system be built and used?
 
 ## Resource Use
  	- Scaling and computational efficiency (big o)
