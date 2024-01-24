@@ -1183,6 +1183,17 @@ electricity cost
 - inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
 - adversarial attacks on AI
 
+
+## long term data storage
+
+
+## realistic efficiency:
+- web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
+- election system should be robust with no added features that are not absolutely needed: few dependencies, secure, 
+
+## location: on edge, on premise, distributed, server, and cloud
+- 
+
 # Data Hygiene and Voting
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
