@@ -1654,6 +1654,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - balancing group responsibility vs. individual responsibility
 #### rehabilitation and healing, learning
 
+## long term data storage problems: paper computers
+
 
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
@@ -1665,6 +1667,10 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Laws Policies, and Voting-Elections about each-other: 
 	- a Matrix With Feedback
 	- 
+
+## design guidelines and standards
+
+## old code can work, new is not always better
 
 ## Formal and informal political 'parties':
 	- do there need to be parties
