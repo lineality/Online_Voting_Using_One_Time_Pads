@@ -1361,6 +1361,11 @@ derivation and integration of process modules
 ## confronting antisocial behaviors, disinformation, and collapse 
 - e.g. when it masquerades as 'culture' 'tradition' etc.
 
+## forms and formats of data
+- size
+- redundancy
+- anonymized
+- statistically identifiable (when hashes collide) 
 
 ## signal-game spaces
 	- where speed is needed
