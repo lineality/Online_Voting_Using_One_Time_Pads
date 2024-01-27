@@ -1752,6 +1752,12 @@ when and where to coordinate on decisions
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
+
+## Communication, Instruction, Stories and Concepts
+- procedures
+- values
+
+
 ## standard task and behavior benchmarks
 - coordination
 - signals
