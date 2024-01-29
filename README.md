@@ -1176,12 +1176,17 @@ electricity cost
 - interpretation and ambiguity
 - spelling correction
 
+
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
+
 
 ## various kinds of disinformation relating to coordinated decisions:
 - inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
 - adversarial attacks on AI
+
+
+## clear-enough definitions and feedback: ways to find out if a plan is practical or if it is overly chaotic and burdened by communication-failures.
 
 
 ## long term data storage
@@ -1191,10 +1196,12 @@ electricity cost
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
 - election system should be robust with no added features that are not absolutely needed: few dependencies, secure, 
 
+
 ## location: on edge, on premise, distributed, server, and cloud
 - 
 
 # Data Hygiene and Voting
+
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
