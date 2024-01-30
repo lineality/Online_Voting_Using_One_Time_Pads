@@ -1789,9 +1789,9 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## evaluating agendas in a project-space of coordinated decisions
 
-## Questions of defining techology
+## Questions of defining technology
 
-## diverse participant voting coordination
+## diverse-participant voting-coordination
 
 ## consequences on elections on culture see political theory
 
