@@ -1615,6 +1615,19 @@ connecting Jan with open frameworks for
 7. AI-open-office
 8. coordinated decision making
 
+## voting on disputed issues
+- real and theoretical: 'not in my backyard' vs. 'boil 49% in oil'
+- mediation
+- 3rd party arbitration
+- no-trust contracts
+
+
+## means of objectively determining in a ballot measure is logically sound, e.g. declaring that all triangles have four sides, or some other tautologically false statement.
+
+
+## strategies for managing sunset clauses
+
+## precedent in modes of ruling vs. sunset limits on specific laws
 
 
 # Security: Types of 'encryption' that cannot be broken:
