@@ -1766,6 +1766,7 @@ when and where to coordinate on decisions
 - 'secure by design'
 - defaults
 - types of type
+- time scales and processes from sunsets-clauses to campaign durations to security-attack surface, computation time, etc.
 
 
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
