@@ -1695,6 +1695,14 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## design guidelines and standards
 
+## communication and translation between X and Y
+- input output measures
+- participants
+- setting location areas
+- animals
+- participants
+- pre-participants, post-participants
+
 ## old code can work, new is not always better
 
 ## Formal and informal political 'parties':
