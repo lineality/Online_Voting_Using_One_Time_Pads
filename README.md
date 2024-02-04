@@ -1715,6 +1715,9 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - 
 
 
+## Individuals and institutions in voting and infrastructure
+from decentered /decentralized elections and networks to centralized political parties, servers, and cloud resources, proportional representation, etc.
+
 ## Applications of Mandate-Based Systems
 - 
 
@@ -1955,6 +1958,12 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - case studies in handling run-offs and proportional representation
 - uses and issues with parties
 
+## voting system logs and transparency
+- network monitor logs
+- 
+
+## do one things well, limited functionality
+- 'living off the land' attacks
 
 ## The need for a resource-thin framework
 
