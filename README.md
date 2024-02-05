@@ -1190,6 +1190,12 @@ electricity cost
 
 
 ## long term data storage
+- sustainability and succession: long term data management
+	- chain of future control
+	- future cost structure
+	- plan for updating an information going stale (e.g. Malissa co.)
+	- managing archived historical data vs. current
+
 
 
 ## realistic efficiency:
