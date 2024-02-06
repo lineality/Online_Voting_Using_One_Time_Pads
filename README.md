@@ -1024,6 +1024,9 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - scale-able
 - open and audit-able
 
+# Tool areas: whole voting system tools
+
+
 #### Election Results Analysis
 
 #### Election Inspection
