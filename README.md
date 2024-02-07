@@ -12,6 +12,7 @@
 ## Part 4: Generalized Decision Coordination
 - https://github.com/lineality/object_relationship_spaces_ai_ml 
 - https://github.com/lineality/definition_behavior_studies 
+### Bibliography & Resources
 
 # Clarifying Goals and Questions:  
 - Main Goal: Systematize secure online voting.
@@ -1985,6 +1986,8 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Succession
 
+## Conflict, Mediation, Negotiation, and Coordinated Decisions
+
 ## Methods for Consensus
 
 ## Automation, Explanation, Testing
@@ -2242,7 +2245,14 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 
 ## History and comparative history
-- looking at how various times and places viewed and used representation and participation, especially qualification for participation (families, age, geography, tests, inherited status, etc.)
+- looking at how various times and places viewed and used representation and participation, especially qualifications for participation (families, age, geography, tests, inherited status, etc.)
+
+## Coordination as Formal Systems
+- ~'game theory' and decisions
+- 
+
+
+
 
 # Bibliography & Resources
 
