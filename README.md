@@ -1192,6 +1192,11 @@ electricity cost
 
 ## clear-enough definitions and feedback: ways to find out if a plan is practical or if it is overly chaotic and burdened by communication-failures.
 
+## System failure and system collapse
+- non-erronious-external-locus-of-control perspectives
+- failures that obstruct or impede coordinated decisions
+- learning and failure repair
+
 
 ## long term data storage
 - sustainability and succession: long term data management
