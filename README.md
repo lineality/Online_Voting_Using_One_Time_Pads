@@ -1304,6 +1304,12 @@ derivation and integration of process modules
 - role of quality random and pseudo random numbers
 - clock problems and clock accuracy in voting network
 
+## Time Databases and Coordinated Decisions
+- race conditions
+- syn
+- decentralized systems and time
+- large scale systems
+
 ## priorities in coordinated decision networks and databases:
 - atomicity
 - 'linearity'
