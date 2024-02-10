@@ -1969,6 +1969,10 @@ institutions such as libraries for areas with internet
 see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
 
 ## relativity, time, decisions, and distance: scale and community
+...
+
+# Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
+- 
 
 ...
 
