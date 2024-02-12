@@ -1987,6 +1987,15 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - case studies in handling run-offs and proportional representation
 - uses and issues with parties
 
+
+## Document Formats, Formatting, Processing:
+- automated document processing
+- handling formats
+- uses of documents
+- explanations of documents
+- 'search' and 'retrieval' of documents (Search Augmented Tasks vs. RAG)
+- 
+
 ## voting system logs and transparency
 - network monitor logs
 - 
