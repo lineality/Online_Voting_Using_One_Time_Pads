@@ -1169,8 +1169,8 @@ electricity cost
 - security of process
 - auditability of process
 
-
-## Detection of short term and long term problems
+## short term and long term
+### Detection of short term and long term problems
 - short cycle bubbles (fewer than 5 years)
 - indefinite embedded long term problems 
 
@@ -1874,6 +1874,11 @@ Flow chart to functions to compiled code
 
 ## voting, probability, statistics, modeling, census:
 
+## logical consistency and coherence of a particular voting system and measures on the voting system
+
+## The self-referential coordination-system test:
+- can a coordination(voting) system be set up using its own structure?
+(the idea being that if the system is dysfunctional you will find out before applying it to an election) 2024.02.12
 
 ## distortion, disruption, disinformation
 - non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt 
