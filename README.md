@@ -1706,6 +1706,10 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## long term data storage problems: paper computers
 
+## Historians and Archives
+- records
+- accounts
+- 
 
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
