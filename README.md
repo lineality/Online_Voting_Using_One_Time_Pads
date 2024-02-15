@@ -1751,6 +1751,11 @@ from decentered /decentralized elections and networks to centralized political p
 - 
 
 
+## System design
+- secure by design
+- trust vs. trust-less
+- permissions vs. no-permissions
+
 ## Potemkin Villages
 - cases
 - identification
