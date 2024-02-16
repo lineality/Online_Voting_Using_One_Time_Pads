@@ -1345,6 +1345,12 @@ derivation and integration of process modules
 ## Taboos and Prohibitions that may interfere with voting
 - 
 
+# Analysis Section
+- reification and randomness in patterns, from 'elimination' contest artificiality to Kahneman business and market randomness illusions. 
+- applications to fitness of persons
+- applications to clear language used
+- applications to issues and options
+- applications to best practice operations (for voting and for what is voted on)
 
 ## Locus of Control
 - psychology of external locus of control
