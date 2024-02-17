@@ -1514,6 +1514,9 @@ by Deborah M. Gordon
 # passwords, devices, "fido," etc.
 - 
 
+# The Stakeholder Perspective:
+- Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
+
 # forms of encryption and trade-offs 
 
 # memory management: 
