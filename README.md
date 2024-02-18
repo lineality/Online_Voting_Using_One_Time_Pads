@@ -1963,6 +1963,11 @@ institutions such as libraries for areas with internet
 
 ## Definition Behaviors, Questions, and Signal Coordination
 
+## Historical cases of breakdown
+
+## Non-Homogenous Environments:
+- "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
+
 ## Rules for how elections get:
 - called
 - initiated
