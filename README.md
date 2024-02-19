@@ -1526,6 +1526,8 @@ by Deborah M. Gordon
 	
 # character sets, flexibility and security, ascii, fonts
 
+# conflict
+
 # Automation and coordination
 
 # Is there a way to standardize and automate statistical reporting on data throughout an 'election'?
