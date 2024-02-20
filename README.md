@@ -1622,6 +1622,15 @@ teaching how to participate in coordinated decision making
 - reporting (sometimes reified) items that do not exist, and 
 - denying reports of items that do exist)
 
+## Analogies of Modularity
+- types of modularity
+- brittleness
+- fix-ability
+- move-ability
+
+## Mirages and Siren Songs in System Design & Project-Space
+- Social cohesion and inclusion
+- 
 
 ## Types of Feedback (2024.01.17)
 - decision systems
