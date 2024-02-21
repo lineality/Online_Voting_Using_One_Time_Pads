@@ -1892,6 +1892,13 @@ Flow chart to functions to compiled code
 - results
 - reporting
 
+## Data Visualization and communication:
+- of issues
+- of processes
+- of results
+- for transparency
+- for feedback (the case of the norwegian electric meters)
+
 ## MCU Multipoint Conferencing Units, Modularized Signal-Response Protocols, Moderation virtual Decision-conference Mediation
 - 
 
