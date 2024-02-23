@@ -2000,7 +2000,7 @@ institutions such as libraries for areas with internet
 
 ...
 
-## 
+## Thresholds of adoption for system to be practical
 
 ...
 
