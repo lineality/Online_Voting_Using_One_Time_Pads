@@ -1413,6 +1413,14 @@ derivation and integration of process modules
 
 #  Records, versioning, documentations, testing standards
 
+## operationally defining freedom for free elections: see
+From Sin-obsessed-authoritarianism to Naive-rebellion-revolution to 1970's denial-ism, to 2020-Information-War from/in
+The Spirit of The Code
+From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund Burke: Edmund Burke, Jeffrey Hinton, and the Evolution of STEM in Culture and AI-Computer-Science in Practice
+2024.02.20-22
+
+
+
 # platform and OS safety policies
 - OS update policies
 - choice of OS
