@@ -1752,6 +1752,9 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## design guidelines and standards
 
+## Participation and Motivation
+- use-ability of system
+
 ## communication and translation between X and Y
 - input output measures
 - participants
