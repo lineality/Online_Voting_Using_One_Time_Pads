@@ -1,4 +1,3 @@
-
 ##### Online_Voting_Using_One_Time_Pads
 
 
@@ -1662,7 +1661,8 @@ teaching how to participate in coordinated decision making
 
 ## issues of copyright and fair-use on various levels of project, coordinated-decision-making, and the use of STEM processes therein.
 
-## could some form of white-listing alleviate ddos attack surface?
+## Access: Whitelisting and Blacklisting (e.g. network access) 
+- Could some form of white-listing alleviate ddos attack surface?
 
 
 ## Election Data & RAG:
