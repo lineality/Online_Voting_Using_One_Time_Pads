@@ -1558,8 +1558,15 @@ by Deborah M. Gordon
 
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
-- do one thing well
+- "do one thing well"
 - standardization
+
+## Perception 
+(2024.02.27)
+- The danger of people worshiping something that they don't understand, for example in an incomprehensibly broken system that makes no sense, because of an internal need to reify something worshipful, be it (the seeking or attempted creation of) an external locus of control or otherwise.
+
+## Design and deployment factors
+- "do one thing well"
 
 # login management
 
