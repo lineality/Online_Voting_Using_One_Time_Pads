@@ -1447,6 +1447,10 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 -- cryptography
 -- communication theory ('information theory')
 
+## 
+quantized or fractional(fractal) dimensional representation
+of groups of participants in proportional representation
+or in category or finite choice selection
 
 
 ## decisions, logic, and quantization(numbers)
