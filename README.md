@@ -1,6 +1,5 @@
 ##### Online_Voting_Using_One_Time_Pads
 
-
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
@@ -1342,6 +1341,8 @@ derivation and integration of process modules
 - communication vs. encryption
 - 
 
+## clarity on divergent project agendas
+
 ## Taboos and Prohibitions that may interfere with voting
 - 
 
@@ -2483,5 +2484,6 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
 
 
