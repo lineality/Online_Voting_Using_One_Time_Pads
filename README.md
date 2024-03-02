@@ -1611,6 +1611,13 @@ by Deborah M. Gordon
 
 
 ## data logic time and coordination
+- time in databases
+
+
+## timescales and coordinated decisions
+
+## over-communication as a goal
+- American vs. Japanese norms on re-covering discussed topics for agreement.
 
 
 ## ways of handling categories and topics, 
@@ -2484,6 +2491,5 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-
 
 
