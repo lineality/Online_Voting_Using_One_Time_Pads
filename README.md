@@ -1987,6 +1987,10 @@ institutions such as libraries for areas with internet
 
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
+## character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
+- 
+- 
+
 ## write-in options
 - multiple choice vs. free response systems
 - equivalence and deterministic handling of options
