@@ -1715,6 +1715,14 @@ connecting Jan with open frameworks for
 ## precedent in modes of ruling vs. sunset limits on specific laws
 
 
+## Topics in Election and Decision Coordination Data Management
+- transparency
+- non-potemkin-village
+- externalization (as in Object Relationship Spaces & Projects)
+- 
+
+## Avoiding the echo-chamber of infotainment and distracted-shallowness
+
 # Security: Types of 'encryption' that cannot be broken:
 - one time pads
 - navigation-blind OS
