@@ -1378,6 +1378,14 @@ derivation and integration of process modules
 
 # Defining "Technology" for coordinated decision making including elections
 
+
+## Measurement and Modeling in Coordinated Decisions
+- thinking fast and slow
+- game theory
+- NLP
+- blockchain contracts
+
+
 # The importance of setting properties of default empty states
 - empty functions
 - empty lists
