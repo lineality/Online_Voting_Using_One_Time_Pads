@@ -2089,6 +2089,13 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 
 ...
 
+## levels of architectural mechanics
+- ranked choice, noise handling, and Shannon-Turing Unit-Communication
+- ranked choice in accurate option selection as a form of signal error checking
+- 
+
+...
+
 ## scalability in the problem space of coordinated decision making
 
 ## political parties and institutionalization
