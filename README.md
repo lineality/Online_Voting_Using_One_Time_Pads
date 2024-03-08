@@ -1929,6 +1929,11 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## Questions of defining technology
 
+
+## STEM, fantasy, coordinated decisions, and system architecture:
+- tethering to data, feedback, and reality
+- 
+
 ## diverse-participant voting-coordination
 
 ## consequences on elections on culture see political theory
