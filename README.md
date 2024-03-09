@@ -1420,14 +1420,15 @@ derivation and integration of process modules
 	- where retries are needed
 	- inverse of need: prohibited
 
+
 #  Records, versioning, documentations, testing standards
+
 
 ## operationally defining freedom for free elections: see
 From Sin-obsessed-authoritarianism to Naive-rebellion-revolution to 1970's denial-ism, to 2020-Information-War from/in
 The Spirit of The Code
 From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund Burke: Edmund Burke, Jeffrey Hinton, and the Evolution of STEM in Culture and AI-Computer-Science in Practice
 2024.02.20-22
-
 
 
 # platform and OS safety policies
@@ -1439,14 +1440,25 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - secure
 - specific standards and tests
 
+
+## Time, stages, directions, models, perception:
+- Where do problems occur?
+- WHere do miscommunications occur?
+- Where do some models or linear math have no time aspect?
+- Is there schedule-indeterminacy?
+- 
+
+
 ## interconnected decision events
 - interaction and feedback
+
 
 ## contraction of systems
 - cases
 - measures
 - models
 - spread, contagion
+
 
 ## STEM and Coordinated Decision Making
 - decisions and coordinations in:
