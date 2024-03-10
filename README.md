@@ -1131,6 +1131,10 @@ Conditional Expression and Signal Gaps: General Signal Processing And General In
 ## Mandate Mixtures
 How about a system where a candidate who get's less (or perhaps more too) than a given percentage is required to operate on a mandate system with mandates coming through a proportional consensus system kind of like a parliamentary coalition. 
 
+
+## Layers of language and collective symbolism
+
+
 # Whistleblowing
 
 
