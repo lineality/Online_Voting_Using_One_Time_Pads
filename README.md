@@ -1587,6 +1587,18 @@ by Deborah M. Gordon
 
 ...
 
+## meta-data layers: handling and interfacing multiple and changing data storage format: 2024.03.12
+- when different sets of fields are used
+- when different names are used for those fields
+- the eternal length of array, length of string, length of number issue:
+- e.g.
+- election:
+- candidates:
+- choice:
+- voted_for_choice_or_choices:
+- write-in:
+this overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
+
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
