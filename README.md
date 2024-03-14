@@ -1844,6 +1844,12 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - participants
 - pre-participants, post-participants
 
+## DOTW, D.O.T.W., design tradeoffs and optimization, 
+- Do One Thing Well
+vs.
+- general flexibility, etc.
+
+
 ## old code can work, new is not always better
 
 ## Formal and informal political 'parties':
