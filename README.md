@@ -1762,6 +1762,19 @@ connecting Jan with open frameworks for
 - externalization (as in Object Relationship Spaces & Projects)
 - 
 
+
+## Identifying goals that are hybrid-fragment-illusions and not related to:
+- the project
+- data
+- evidence
+- group agreed upon goals means methods
+- best practice
+- 
+
+
+## Data flow in systems: externalization and formats
+- 
+
 ## Avoiding the echo-chamber of infotainment and distracted-shallowness
 
 # Security: Types of 'encryption' that cannot be broken:
