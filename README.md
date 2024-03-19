@@ -2164,6 +2164,12 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - uses and issues with parties
 
 
+## R&D, Smithian Greed Self Interest, Infrastructure, Commons, and Short Term Profit Growth: Factors and outcomes in investing in coordination decision tools vs. not investing
+- tragedy of the commons
+- transparency vs. secret squirrel
+- 
+
+
 ## Document Formats, Formatting, Processing:
 - automated document processing
 - handling formats
