@@ -1681,6 +1681,8 @@ e.g. more and less quantifiable and defined topics.
 - abstraction and perception (secret, anonymous ballots)
 
 
+# participation, populations, distillation
+
 # anonymity and toxic behavior online
 - incentives and feedback in behavior
 
