@@ -1510,7 +1510,13 @@ Equivalence and Non-Equivilance in representation of situations and choices.
 - error correction
 - 
 
-## tests and diagnostics for functions and sets of functions and tasks
+## tests, data, and diagnostics for functions and sets of functions and tasks
+- testing coordination systems
+- eligibility tests for human participation
+- security tests for hardware and software
+- performance tests and diagnostics
+- design and process tests
+- 'test' vs. feedback and use-able data
 
 ## meaning and multilingual elections
 - automated translation
