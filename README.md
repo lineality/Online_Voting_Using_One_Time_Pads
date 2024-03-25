@@ -1783,6 +1783,9 @@ connecting Jan with open frameworks for
 - 
 
 
+## No One Size Fits all system
+- like databases
+
 ## Data flow in systems: externalization and formats
 - 
 
