@@ -1279,6 +1279,7 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 
 # definitions of criteria in tests
 
+## Empirical Tests for Voting Systems
 
 ## Empirical Process and Coordinated Decisions: 20203.09.25
 1. applications of quantizing vs. infinite
