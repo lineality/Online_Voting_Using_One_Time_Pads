@@ -1341,7 +1341,7 @@ derivation and integration of process modules
 - synchronous, asynchronous
 - state or stateless (as in memory, not gov) 
 
-# risk and worst case scenareos
+# risk and worst case scenarios
 
 ## standards for describing feasibility and clarity
 
@@ -1443,6 +1443,7 @@ The Spirit of The Code
 From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund Burke: Edmund Burke, Jeffrey Hinton, and the Evolution of STEM in Culture and AI-Computer-Science in Practice
 2024.02.20-22
 
+## long term infrastructure costs
 
 # platform and OS safety policies
 - OS update policies
