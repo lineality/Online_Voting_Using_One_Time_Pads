@@ -1,5 +1,9 @@
 ##### Online_Voting_Using_One_Time_Pads
 
+
+
+
+
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
@@ -1512,6 +1516,9 @@ Equivalence and Non-Equivilance in representation of situations and choices.
 - error correction
 - 
 
+
+
+
 ## tests, data, and diagnostics for functions and sets of functions and tasks
 - testing coordination systems
 - eligibility tests for human participation
@@ -2078,6 +2085,11 @@ institutions such as libraries for areas with internet
 
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
+
+## summarization
+## reporting
+### data visualization
+
 ## character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
 - 
 - 
@@ -2160,7 +2172,7 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 ...
 
 # Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
-- 
+- note: common areas of real or imagined dispute
 
 ...
 
