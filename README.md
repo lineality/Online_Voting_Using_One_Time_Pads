@@ -1,9 +1,5 @@
 ##### Online_Voting_Using_One_Time_Pads
 
-
-
-
-
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
@@ -1516,7 +1512,9 @@ Equivalence and Non-Equivilance in representation of situations and choices.
 - error correction
 - 
 
-
+## Data and Illusions:
+coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
+Literally or provebially software since 1970 has been a self-conspiracy among compacent developers who prioritize their won recreation and enterinament experience over reality and the effects of the software they create to result in a space-trash 'poluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beuatifying their beackgorund and beuatifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people'schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria. 
 
 
 ## tests, data, and diagnostics for functions and sets of functions and tasks
