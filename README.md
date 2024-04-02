@@ -1388,6 +1388,7 @@ derivation and integration of process modules
 - decision trees and statistics
 - continuous functions vs. classification
 - targets of analysis: participation, time-space, security, results, process efficiency, QC/QA reporting, 
+(see Daniel Kahnemann's book on 'Noise')
 
 # Defining "Technology" for coordinated decision making including elections
 
