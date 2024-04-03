@@ -1277,6 +1277,32 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 - incentives for participants: do any participants have an incentive to dismantle the entire system and or the providing of user-needed services? (e.g. upgrading the system to better meet the needs is not bad, but dismantling and upgrading can become ambiguous, as with the 1990's bank-mergers the closed down banks of the closing of local newspapers, was that optimal to meet user needs? (on the other hand, keeping an ineffective operation going for the sake of it (stalin's regime?) is also not a good option)
 
 
+## details of confirming voter choice datatypes:
+string check
+float check
+int check
+boolean check 
+none check
+
+list check
+	string check
+	float check
+	int check
+	boolean check 
+	none check
+
+
+dict check
+	string check
+	float check
+	int check
+	boolean check 
+	none check
+
+set check?
+tuple check?
+
+
 # definitions of criteria in tests
 
 ## Empirical Tests for Voting Systems
