@@ -1347,6 +1347,11 @@ derivation and integration of process modules
 - syn
 - decentralized systems and time
 - large scale systems
+- affordable time sources
+- type types: monotonic
+- delayed source UTC
+- Astronomical and off-planet time
+- 
 
 
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
@@ -1378,7 +1383,7 @@ derivation and integration of process modules
 - private vs. accessible
 - public vs. ownership
 - communication vs. encryption
-- 
+
 
 ## clarity on divergent project agendas
 
