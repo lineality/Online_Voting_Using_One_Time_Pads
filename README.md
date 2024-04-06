@@ -1969,7 +1969,8 @@ vs.
 - ways of asking question to test which are obscure of mistunderstood
 - the classic 'identification' step, where if what the question is asking can not be identified with a high percentage of the time, then the phrasing of the question is liability, effectively asking the wrong question, communicating the wrong thing, and causing confusion and miscommunication
 
- 
+
+## speed of voting, protest votes, and reactions to violent takeovers
 
 
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
