@@ -1989,10 +1989,9 @@ when and where to coordinate on decisions
 
 
 ## Time, Data & Choices
-- 
 - memory safety and garbage collection
 - parallelism and concurrency
-- production vs. development
+- production vs. development (production-deployment vs. R&D)
 - solo vs. group and open-group projects
 - "trust"
 - 'secure by design'
@@ -2005,6 +2004,9 @@ when and where to coordinate on decisions
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
+## production vs. development (production-deployment vs. R&D)
+- resource efficiency
+- 
 
 ## Communication, Instruction, Stories and Concepts
 - procedures
