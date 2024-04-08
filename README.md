@@ -1860,6 +1860,11 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## timelines and schedules
 - how quickly can an election system be built and used?
 
+
+## social context in categories of configuration data for datastructures and databases (2024.04.07)
+- 
+
+
 ## Resource Use
  	- Scaling and computational efficiency (big o)
 - energy cost
