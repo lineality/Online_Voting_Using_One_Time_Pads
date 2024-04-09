@@ -1223,7 +1223,7 @@ electricity cost
 
 
 ## location: on edge, on premise, distributed, server, and cloud
-- 
+- case studies for distributed systems?
 
 # Data Hygiene and Voting
 
