@@ -1708,6 +1708,7 @@ this overall same information can be expressed and in various specific situation
 ## over-communication as a goal
 - American vs. Japanese norms on re-covering discussed topics for agreement.
 
+## Arts culture, communication and decisions
 
 ## ways of handling categories and topics, 
 e.g. more and less quantifiable and defined topics.
