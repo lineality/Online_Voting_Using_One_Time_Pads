@@ -1737,7 +1737,8 @@ e.g. more and less quantifiable and defined topics.
 teaching how to participate in coordinated decision making
 - agile
 - elections
-
+- direct and indirect education
+- education learning perception
 
 
 ## dataframes and databases
