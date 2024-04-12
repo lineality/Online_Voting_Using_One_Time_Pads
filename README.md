@@ -1214,6 +1214,12 @@ electricity cost
 	- future cost structure
 	- plan for updating an information going stale (e.g. Malissa co.)
 	- managing archived historical data vs. current
+	- historical data
+- reasons for keeping historical data
+- data about process
+
+## Evaluation Types:
+- Daniel Khanemann: Evaluate the process not the outcome.
 
 
 
