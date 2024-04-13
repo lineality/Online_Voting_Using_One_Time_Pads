@@ -1436,6 +1436,9 @@ derivation and integration of process modules
 - NLP
 - blockchain contracts
 
+## Disagreement
+- game theory
+- Von Neumann vs. Nash
 
 # The importance of setting properties of default empty states
 - empty functions
