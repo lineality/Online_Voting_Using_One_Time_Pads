@@ -955,6 +955,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 - statistical methods 
 - disclosure of methods
 
+## Data types, datatypes
+- defining datatypes
+- where data must be type specific
+- where data must NOT be type specific
+- the adjective-pejorative of 'objects' as "custom data-types"
 
 # Advantages of an anonymized public ledgers of votes
 -
