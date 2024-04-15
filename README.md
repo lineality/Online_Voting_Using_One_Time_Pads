@@ -2177,11 +2177,19 @@ institutions such as libraries for areas with internet
 ## defining qualification for coordinated decision making
 
 ## the importance of an awareness of history for participating in coordinated decisions:
-- what is important to know?
-- is anything required-knowledge, or just helpful?
-- how can this be framed as a curriculum?
-- how can this be taught?
-- how can this be required or facilitated?
+- What is important to know?
+- Is anything required-knowledge, or just helpful?
+- How can this be framed as a curriculum?
+- How can this be taught?
+- How can this be required or facilitated?
+
+
+## Describing the difficulty of a project
+- likelihood of mistakes
+- costs of operations
+- schedules, sequence-orders of operations, 
+- modular-depth and scales of numbers of modular processes
+
 
 ## Definition Behaviors, Questions, and Signal Coordination
 
