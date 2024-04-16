@@ -1506,7 +1506,6 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - WHere do miscommunications occur?
 - Where do some models or linear math have no time aspect?
 - Is there schedule-indeterminacy?
-- 
 
 
 ## interconnected decision events
@@ -1528,6 +1527,7 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 -- cryptography
 -- communication theory ('information theory')
 
+
 ## 
 quantized or fractional(fractal) dimensional representation
 of groups of participants in proportional representation
@@ -1539,7 +1539,8 @@ or in category or finite choice selection
 - defining future targets
 - defining 'past' known data (states of being unknown etc)
 
-# Ballot item interpretability:
+
+## Ballot item interpretability:
 - deterministic (given time as input)
 - discrete responses
 - issues with open ended 'write-in'
