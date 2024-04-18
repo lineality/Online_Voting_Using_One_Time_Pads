@@ -1775,6 +1775,8 @@ teaching how to participate in coordinated decision making
 - fix-ability
 - move-ability
 
+## Setting location items and ancestors in local coordinated decisions (2024.04.17)
+
 ## Mirages and Siren Songs in System Design & Project-Space
 - Social cohesion and inclusion
 - 
