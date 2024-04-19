@@ -1990,7 +1990,7 @@ vs.
 ## Static questions vs. diversified questions with a data-root
 - e.g. language translation versions
 - simplification level versions
-- ways of asking question to test which are obscure of mistunderstood
+- ways of asking question to test which are obscure of misunderstood
 - the classic 'identification' step, where if what the question is asking can not be identified with a high percentage of the time, then the phrasing of the question is liability, effectively asking the wrong question, communicating the wrong thing, and causing confusion and miscommunication
 
 
