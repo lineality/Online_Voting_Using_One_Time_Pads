@@ -2219,6 +2219,12 @@ institutions such as libraries for areas with internet
 
 ## Thresholds of adoption for system to be practical
 
+### Differences that come with scale of a system
+- geographic scale
+- people scale
+- language diversity scale
+- platform diversity scale
+
 ...
 
 
