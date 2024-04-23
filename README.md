@@ -1943,6 +1943,11 @@ The odd paradox of people in the west believing that voting is inherently good, 
 vs.
 - general flexibility, etc.
 
+## overall system and metrics around coordinated decisions
+- population descriptions
+- mind-stability
+- economic-stability
+- ecosystem-stability
 
 ## old code can work, new is not always better
 
