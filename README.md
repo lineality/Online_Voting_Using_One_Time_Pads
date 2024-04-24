@@ -1212,6 +1212,7 @@ electricity cost
 - failures that obstruct or impede coordinated decisions
 - learning and failure repair
 
+## Modular vs. non-modular 'objects' and processing
 
 ## long term data storage
 - sustainability and succession: long term data management
