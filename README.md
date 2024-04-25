@@ -2150,6 +2150,8 @@ institutions such as libraries for areas with internet
 
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
+## Modeling and track record
+- How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
 
 ## summarization
 ## reporting
@@ -2158,6 +2160,7 @@ institutions such as libraries for areas with internet
 ## character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
 - 
 - 
+
 
 ## write-in options
 - multiple choice vs. free response systems
