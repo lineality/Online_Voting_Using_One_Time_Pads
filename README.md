@@ -2036,6 +2036,11 @@ when and where to coordinate on decisions
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
+
+
+## anticipating User Interface, printing and display issues
+- minimizing harmful effects
+
 ## production vs. development (production-deployment vs. R&D)
 - resource efficiency
 - 
