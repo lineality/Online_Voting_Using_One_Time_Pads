@@ -1442,6 +1442,7 @@ derivation and integration of process modules
 - NLP
 - blockchain contracts
 
+
 ## Disagreement
 - game theory
 - Von Neumann vs. Nash
@@ -2117,6 +2118,12 @@ Flow chart to functions to compiled code
 - 
 
 ## Junkfood health short-term long-term in coordinated decisions
+
+## measuring collapse 
+(2024.04.27)
+- measuring alignment of goal, means, methods, with non-collapse
+- measuring trajectory of collapse
+
 
 ## defining participants and participation for coordinated decision making
 
