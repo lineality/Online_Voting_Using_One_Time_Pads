@@ -1700,6 +1700,11 @@ this overall same information can be expressed and in various specific situation
 (2024.02.27)
 - The danger of people worshiping something that they don't understand, for example in an incomprehensibly broken system that makes no sense, because of an internal need to reify something worshipful, be it (the seeking or attempted creation of) an external locus of control or otherwise.
 
+## - current and improved research still for people preparing for or carrying out a coordinated decision
+- how to find out what skill deficits people have
+- how to teach people to have better research skills
+
+
 ## Design and deployment factors
 - "do one thing well"
 
@@ -2730,5 +2735,3 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
-
-
