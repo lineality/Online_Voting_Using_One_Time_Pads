@@ -1749,6 +1749,8 @@ this overall same information can be expressed and in various specific situation
 - time in databases
 
 
+## Skill abilities fitness health and coordinated decision projects
+
 ## timescales and coordinated decisions
 
 ## over-communication as a goal
@@ -1805,6 +1807,8 @@ teaching how to participate in coordinated decision making
 - brittleness
 - fix-ability
 - move-ability
+
+
 
 ## modeling and tracking 'system state' over a coordinated system process
 
@@ -2735,3 +2739,5 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+
