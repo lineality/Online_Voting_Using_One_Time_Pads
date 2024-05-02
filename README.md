@@ -2071,7 +2071,11 @@ when and where to coordinate on decisions
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
-
+## Learning, Habit, and Contagion
+- how patterns in process move across systems
+- learned behaviors
+- habitual behaviors
+- spread or contagion of behaviors
 
 ## anticipating User Interface, printing and display issues
 - minimizing harmful effects
