@@ -2172,6 +2172,15 @@ Flow chart to functions to compiled code
 - can a coordination(voting) system be set up using its own structure?
 (the idea being that if the system is dysfunctional you will find out before applying it to an election) 2024.02.12
 
+
+## Representation, Automation, and Intermediaries
+2024.05.01
+- mandate intermediaries
+- blank check representative intermediaries
+- direct coordination (no intermediaries)
+
+
+
 ## distortion, disruption, disinformation
 - non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt 
 (book)
