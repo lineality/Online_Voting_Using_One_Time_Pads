@@ -2249,6 +2249,13 @@ institutions such as libraries for areas with internet
 
 ## defining qualification for coordinated decision making
 
+
+## curricula, fitness, and decision-coordination in projects
+(2024.05.03)
+- non-automatically learned skills
+- not automatically visible fitness and collapse indicators
+- curricula, learning, and fitness
+
 ## the importance of an awareness of history for participating in coordinated decisions:
 - What is important to know?
 - Is anything required-knowledge, or just helpful?
