@@ -1551,6 +1551,11 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 -- cryptography
 -- communication theory ('information theory')
 
+## constructive or collapse-inducing sport and gamification of process
+in all parts and discussions of coordinated decisions
+- 
+- 
+
 
 ## 
 quantized or fractional(fractal) dimensional representation
