@@ -2257,12 +2257,12 @@ institutions such as libraries for areas with internet
 ## defining qualification for coordinated decision making
 
 
-## curricula, fitness, and decision-coordination in projects
+## Curricula, Fitness, and decision-coordination in Projects
 (2024.05.03)
 - non-automatically learned skills
 - not automatically visible fitness and collapse indicators
 - curricula, learning, and fitness
-
+- "humanism" "humanities" "liberal arts" and STEM: integration and cross-reinforcement 
 ## the importance of an awareness of history for participating in coordinated decisions:
 - What is important to know?
 - Is anything required-knowledge, or just helpful?
@@ -2766,5 +2766,11 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+## papers:
+- arXiv:2405.01546 [pdf, ps, other] It Will Never Work in Theory Greg Wilson, Jorge Aranda, Michael Hoye, Brittany Johnson Subjects: Software Engineering (cs.SE)
+"Acknowledgments
+We would like to thank the universities, companies, and granting agencies that
+supported this work, but unfortunately none did."
 
 
