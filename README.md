@@ -1622,6 +1622,16 @@ choices
 - data size modules
 - 
 
+# STEM psychology and culture:
+- scrutiny is good
+- best practice is good
+- asking questions is good
+- responsible data collection is good
+
+
+# poverty and disinformation
+(2024.05.07)
+- disinformation in supposedly educational institutions
 
 ## Signal Coordination Ecology
 https://www.amazon.com/Ecology-Collective-Behavior-Deborah-Gordon/dp/0691232156/ 
