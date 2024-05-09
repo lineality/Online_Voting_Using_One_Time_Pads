@@ -2362,6 +2362,11 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - 
 
 
+## errors and parameters in coordinated decisions as formal project schedule systems
+-
+-
+
+
 ## Document Formats, Formatting, Processing:
 - automated document processing
 - handling formats
