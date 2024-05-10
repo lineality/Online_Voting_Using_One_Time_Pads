@@ -1885,6 +1885,11 @@ connecting Jan with open frameworks for
 - 
 
 
+### a survey of measurement:
+- what can be measured
+- what measures can be used for what
+- what claims of measurement or use are dubious
+
 ## Identifying goals that are hybrid-fragment-illusions and not related to:
 - the project
 - data
