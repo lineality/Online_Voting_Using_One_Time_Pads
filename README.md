@@ -2272,6 +2272,10 @@ institutions such as libraries for areas with internet
 ## defining qualification for coordinated decision making
 
 
+## Narratives, Roles, Perception, Learning, Outcomes
+2025.05.10d
+- stories
+
 ## Curricula, Fitness, and decision-coordination in Projects
 (2024.05.03)
 - non-automatically learned skills
