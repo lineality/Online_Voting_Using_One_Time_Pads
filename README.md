@@ -2271,6 +2271,11 @@ institutions such as libraries for areas with internet
 
 ## defining qualification for coordinated decision making
 
+## Managing state and scope in a timeline of decision coordination operations:
+(2025.05.11)
+- turn-based operations
+- quasi-asynchronous operations
+- asynchronous operations
 
 ## Narratives, Roles, Perception, Learning, Outcomes
 2025.05.10d
