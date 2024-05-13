@@ -1804,6 +1804,14 @@ teaching how to participate in coordinated decision making
 - education learning perception
 
 
+Choice-spaces and problem spaces:
+- tautological spaces
+- procedure vs. outcome
+- system1, system2
+- gamification
+- collapse metrics
+
+
 ## dataframes and databases
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
