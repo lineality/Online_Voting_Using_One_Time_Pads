@@ -2246,8 +2246,11 @@ institutions such as libraries for areas with internet
 ## reporting
 ### data visualization
 
-## character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
-- 
+## useful, practical, finite character sets for standard use:
+- ascii is a bit too small
+- unicode utf8 is too large
+- instruction characters are still needed
+- character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
 - 
 
 
