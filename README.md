@@ -2391,6 +2391,12 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 -
 -
 
+# Bootstrapping: conditions, issues, challenges, obstacles, requirements, to start processes the first time.
+- hardware bootstrapping
+- pipeline bootstrapping
+- event (election) bootstrapping
+- connection bootstrapping
+- 
 
 ## Document Formats, Formatting, Processing:
 - automated document processing
