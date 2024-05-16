@@ -2316,6 +2316,8 @@ institutions such as libraries for areas with internet
 ## Definition Behaviors, Questions, and Signal Coordination
 
 ## Historical cases of breakdown
+- Rome
+- 
 
 ## Non-Homogenous Environments:
 - "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
@@ -2425,6 +2427,7 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 ## Succession
 
 ## Conflict, Mediation, Negotiation, and Coordinated Decisions
+- conflict resolution
 
 ## Methods for Consensus
 
