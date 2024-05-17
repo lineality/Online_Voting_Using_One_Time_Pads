@@ -1536,6 +1536,18 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - interaction and feedback
 
 
+### abstractness or concreteness of designs and interfaces
+- clarity of definition
+
+
+## clear communication
+2024.05.16
+- having clear communication be a priority
+- having clear communication be valued
+- having clear communication be seen as not-automatic
+- having clear communication be invested in
+- having problems and a lack of clear communication be tested and measured
+
 ## contraction of systems
 - cases
 - measures
