@@ -2203,12 +2203,16 @@ Flow chart to functions to compiled code
 
 
 ## defining participants and participation for coordinated decision making
+- 
 
 ## Potential disputes over 'ownership' of election parts or results
+-
 
 ## voting, probability, statistics, modeling, census:
+-
 
 ## logical consistency and coherence of a particular voting system and measures on the voting system
+-
 
 ## The self-referential coordination-system test:
 - can a coordination(voting) system be set up using its own structure?
@@ -2236,6 +2240,7 @@ https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 - ecology
 
 ## Portability
+-
 
 ## Adams Franklin Jefferson, enlightenment common law constitutions:
 - STEM, law, voting
@@ -2347,6 +2352,12 @@ institutions such as libraries for areas with internet
 (2023.09.30)
 
 ...
+
+## Chess, projects, real-time-retroactive-revision, and monologues of baseless fabrication: Confidence without Causality
+- tethering and anchoring perception to reality
+- the psychology and sociality of extremely wrong perception
+- super-signals and consistent fantasy-spaces and consistently disagree with STEM realities.
+
 
 ## Thresholds of adoption for system to be practical
 
