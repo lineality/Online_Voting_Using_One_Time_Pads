@@ -1565,8 +1565,8 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 
 ## constructive or collapse-inducing sport and gamification of process
 in all parts and discussions of coordinated decisions
-- 
-- 
+- simplification, gamification, definition, perception,and coordination
+- function and fiction in gamification-simplification of vague processes.
 
 
 ## 
