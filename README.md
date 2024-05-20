@@ -2166,7 +2166,7 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## consequences on elections on culture see political theory
 
-## bio coordination
+## biological coordination
 - cell signaling
 - inside-population-signaling
 - signaling across species, across populations
