@@ -2039,6 +2039,9 @@ vs.
 - 
 
 
+## Representation and Mandates
+- 
+
 ## Individuals and institutions in voting and infrastructure
 from decentered /decentralized elections and networks to centralized political parties, servers, and cloud resources, proportional representation, etc.
 
