@@ -1969,6 +1969,10 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - energy cost
 	- human time
 	- financial cost in areas
+	- computational time resources
+	- build-time, setup time
+	- repair time,
+	- security and time-use
 
 ## Managing decentralized (or centralized) projects
 
