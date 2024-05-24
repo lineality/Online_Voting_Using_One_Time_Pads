@@ -2103,6 +2103,8 @@ when and where to coordinate on decisions
 - seasons
 - tides
 
+## Data Representation and Reality
+Understanding and being able to examine with falsifiable tests whole past and present (and preparing for foreseeable future) projects where situations are represented by data and data structures and where those data structures can misrepresent world events and where individual and social perception and psychology can entrench potemkin-village projects to perpetuate illusions and threaten violence against exposure of realities. What is STEM?
 
 ## Time, Data & Choices
 - memory safety and garbage collection
