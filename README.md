@@ -1478,6 +1478,8 @@ derivation and integration of process modules
 # technical debt and choice that increase difficulty
 
 # System Health, System Coordination, System Voting
+- measurement and system health measurement
+- system health and system collapse measurement
 
 # functional categories of signals for decisions:
 	- (see hofstedter-gap)
