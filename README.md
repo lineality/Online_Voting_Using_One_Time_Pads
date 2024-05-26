@@ -1720,6 +1720,11 @@ this overall same information can be expressed and in various specific situation
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
+## Training Skill Abilities Learning Measurement
+- competence levels
+- pre-requisite / requisite skills
+- 
+
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
 - "do one thing well"
