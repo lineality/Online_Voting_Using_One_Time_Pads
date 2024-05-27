@@ -1911,6 +1911,8 @@ connecting Jan with open frameworks for
 - externalization (as in Object Relationship Spaces & Projects)
 - 
 
+## A STEM approach to defining and defending against nihilism
+
 
 ### a survey of measurement:
 - what can be measured
@@ -1984,6 +1986,13 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Managing decentralized (or centralized) projects
 
 ## efficiency, modularity, svg, and line/curve plots (vs. 'media file' bloat), TUI vs. GUI
+
+## Perception Choice and Coordination
+Causes of Success Among Broken Clocks
+2024.05.26 sun gga
+In any given human endeavor where there appears to be some relative success and competition at a given time, it can be non-trivial to identify what the future trajectory is for those who appear 'correct' at one given time, and to ascribe 'success' to what may be either a random outcome or an incomplete act of self-destruction.
+
+
 
 ## ad-hoc systems
 
