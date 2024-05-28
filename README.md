@@ -2274,6 +2274,12 @@ https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 ## networked voting and network access
 institutions such as libraries for areas with internet
 
+## Memory Management
+- data structure size
+- file size
+- variable size
+- 
+
 ## coordinated decision making and architecture tasks: distributed overlapping logic
 - counting tasks
 - overlapping effect tasks
