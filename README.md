@@ -1914,6 +1914,12 @@ connecting Jan with open frameworks for
 ## A STEM approach to defining and defending against nihilism
 
 
+##  STEM, Context, and Measurement vs. Nihilism, Disinformation & Collapse
+
+## Process & the Hypothetico-Deductive Method
+2025.05.28
+There is perhaps a strange parallel in negative-definition where future-state in short-term vs. long term is only negatively defined. Dealing with continued-failure-to-disprove quantitatively with the tools of STEM may be similar to modeling non-collapse. 'Process vs. Outcome' seem superficially to differ, as we think of outcomes being measured. But the negatively defined state of a time-series of measurements not-heading in a bad direction is perhaps compatible with a STEM approach to process.
+
 ### a survey of measurement:
 - what can be measured
 - what measures can be used for what
