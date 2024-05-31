@@ -1361,6 +1361,8 @@ derivation and integration of process modules
 - types of tests
 - role of quality random and pseudo random numbers
 - clock problems and clock accuracy in voting network
+- importance of culture and cultural concepts for testing
+- importance of aspects of testing not being see as culturally 'rude' such as asking questions, double checking, redundant communication, etc. 
 
 ## Time Databases and Coordinated Decisions
 - race conditions
