@@ -2026,6 +2026,22 @@ In any given human endeavor where there appears to be some relative success and 
 - accounts
 - 
 
+
+## process-participation-psychology 
+2024.05.31
+e.g. if not a great model, the "psychological" and social obstacles that arise in a context of the mechanical logistics of planning and running a chess event or series of chess events (such as Norway Chess).
+- time series psychology
+- discontinuity psychology
+- novelty and habit psychology
+- why people do or don't participate
+- stress and strain at points in time
+- journalism commentary issues, cliches, predictions
+- conflicts of interest
+- cheating
+- how articulation-communication is part of perception-thought-processing
+- 
+
+
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
 - feature requests
