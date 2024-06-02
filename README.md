@@ -2026,6 +2026,17 @@ In any given human endeavor where there appears to be some relative success and 
 - accounts
 - 
 
+## example from history and educational stories:
+- The Heike Monogatari
+- 
+
+
+# measuring disconnection from reality
+- measuring institutional disconnection from reality
+- tests and measures
+- lexicons
+- teaching and cultures of awareness
+
 
 ## process-participation-psychology 
 2024.05.31
