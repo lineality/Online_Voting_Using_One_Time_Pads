@@ -807,7 +807,8 @@ https://github.com/lineality/Auditable_Elections_Projects
 "cult of the dead cow"
 
 
-
+## An annotated history of how election design effects election process:
+- 
 
 
 #### Case Studies in Disrupted and Problematic Elections:
