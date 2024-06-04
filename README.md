@@ -1221,6 +1221,13 @@ electricity cost
 
 ## Modular vs. non-modular 'objects' and processing
 
+## Production and Productivity: 
+- process-productivity vs. incidental-productivity
+- long-term productivity vs. incidental-productivity
+- 
+
+
+
 ## long term data storage
 - sustainability and succession: long term data management
 	- chain of future control
