@@ -1428,7 +1428,11 @@ derivation and integration of process modules
 
 ## standards for describing feasibility and clarity
 
-## how are specific coordinated decision tasks and sub-tasks defined, so as to automatically evaluate if that task has been done correctly?
+## How are specific coordinated decision tasks and sub-tasks defined, so as to automatically evaluate if that task has been done correctly?
+- process definitions (2024.06.05
+- schedule definitions
+- outcome definitions
+- mixed?
 
 ### What is a balanced architecture between various factors?
 - centered decentered
