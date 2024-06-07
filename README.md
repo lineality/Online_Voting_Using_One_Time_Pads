@@ -1896,6 +1896,12 @@ Choice-spaces and problem spaces:
 - Could some form of white-listing alleviate ddos attack surface?
 
 
+## documentation and process standards for decision making
+- using data
+- a record of how the decision was made
+- 
+
+
 ## Election Data & RAG:
 - from 1900's statistical analysis to 2000's Data Science
 connecting Jan with open frameworks for
