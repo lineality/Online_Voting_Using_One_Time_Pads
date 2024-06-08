@@ -1628,8 +1628,10 @@ Equivalence and Non-Equivilance in representation of situations and choices.
 coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
 Literally or proverbially software since 1970 has been a self-conspiracy among complacent developers who prioritize their won recreation and entertainment experience over reality and the effects of the software they create to result in a space-trash 'polluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beautifying their background and beautifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people's schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria. 
 
+
 ## Eliza Effect & Coordinated Decisions
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
+
 
 ## tests, data, and diagnostics for functions and sets of functions and tasks
 - testing coordination systems
@@ -1638,6 +1640,11 @@ Literally or proverbially software since 1970 has been a self-conspiracy among c
 - performance tests and diagnostics
 - design and process tests
 - 'test' vs. feedback and use-able data
+
+
+## Non-Arbitrary operations
+Perhaps as in the more or less deterministic actions of a compiler, what parts of a higher level coordination process such as an election should be done according to protocol (which could involve testing/checking if not pre-set algorithms) and not in arbitrary 'flower arranged' ways subject to constant arbitrary human alteration on whim? (2024.06.07)
+
 
 ## meaning and multilingual elections
 - automated translation
@@ -2162,6 +2169,13 @@ vs.
 - ways of asking question to test which are obscure of misunderstood
 - the classic 'identification' step, where if what the question is asking can not be identified with a high percentage of the time, then the phrasing of the question is liability, effectively asking the wrong question, communicating the wrong thing, and causing confusion and miscommunication
 
+
+## John Adams, Democracy and Checks & Balances
+- the epidemiology of bad idea
+- the madness of crowds
+- STEM vs. 'votes'
+- debate vs. 'votes'
+- mediation vs. 'judgements'
 
 ## speed of voting, protest votes, and reactions to violent takeovers
 
