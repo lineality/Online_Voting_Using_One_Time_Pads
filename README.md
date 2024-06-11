@@ -2393,6 +2393,13 @@ institutions such as libraries for areas with internet
 - data hygiene
 - 
 
+
+## measuring outcomes, measuring process, and measuring ~noise
+
+- 
+- 
+
+
 ## countability, metrics, and definitions
 
 ## Metrics:
