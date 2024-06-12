@@ -1219,6 +1219,12 @@ electricity cost
 - failures that obstruct or impede coordinated decisions
 - learning and failure repair
 
+
+## measuring areas of fitness
+- collapse resistance
+- discipline
+- 'physically etc, metally etc., morally etc' as from boyscouts
+
 ## Modular vs. non-modular 'objects' and processing
 
 ## Production and Productivity: 
