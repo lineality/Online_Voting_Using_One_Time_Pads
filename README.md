@@ -2186,6 +2186,13 @@ vs.
 ## speed of voting, protest votes, and reactions to violent takeovers
 
 
+## specific factors in goals and values-
+- The Eliza Effect vs. The Kramnik Effec https://docs.google.com/document/d/1gwlIfaH0xWn1hbz0E0pkrGcgAadRjD0foQM51lerjcw/edit 
+
+## specific factors for specific tools:
+- Non-generative-AI
+https://docs.google.com/document/d/1zbkam_pPbwsCSVgoTB084ymZuMT66wiM7hspZfB8B7M/edit 
+
 ## Computer Science issues relating directly to practical election system development and deployment into production at scale. 
 
 book: Working in PUblic by Nadia Eghbal, making and maintaining open source software
