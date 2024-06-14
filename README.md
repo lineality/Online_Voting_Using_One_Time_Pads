@@ -2041,6 +2041,12 @@ In any given human endeavor where there appears to be some relative success and 
 
 
 
+
+
+# Edge Case or non-edge case definitions
+- definine where database/datastructure time and clock sync issues are edge cases or not edge cases
+
+
 ## ad-hoc systems
 
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
