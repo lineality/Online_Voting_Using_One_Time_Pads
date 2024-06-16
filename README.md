@@ -1619,8 +1619,11 @@ or in category or finite choice selection
 
 # Alternate Solutions
 
-Equivalence and Non-Equivilance in representation of situations and choices.
+Equivalence and Non-equivalence in representation of situations and choices.
 
+## project definition frameworks
+- metadata
+- standard formats
 
 # Factors in multipoint coordination problems, from signal mcu to project content
 - distributed mcu
