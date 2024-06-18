@@ -2195,6 +2195,30 @@ vs.
 ## speed of voting, protest votes, and reactions to violent takeovers
 
 
+## mediation education and long term issues
+2024.06.17
+- 'peace' historically being a 'useful idiot' disinformation campaign
+- 'safety' in shakespeare
+- post-war reconstructions:
+-- Heike
+-- US civil war and "reconstruction" (how not to do things)
+-- Lockwood & Co., Brexit Mess & Educational Dilemmas
+
+## Dysfunctional Areas
+2024.06.17
+
+## How to deal with simplistic ethno-purity-nationalist ideas from the 1800's
+2024.06.17
+
+## Adam's Monsters, Hobbes & Survival 
+2024.06.17
+-- Extremist Ideology
+-- The Tyranny of the Many
+
+## Decision and Representation on small and large scales, public private sector, open source projects, etc. 
+2024.06.17
+- John Von Neuman on Technology
+
 ## specific factors in goals and values-
 - The Eliza Effect vs. The Kramnik Effec https://docs.google.com/document/d/1gwlIfaH0xWn1hbz0E0pkrGcgAadRjD0foQM51lerjcw/edit 
 
