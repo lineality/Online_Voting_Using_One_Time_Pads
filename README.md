@@ -1679,7 +1679,9 @@ choices
 - best practice is good
 - asking questions is good
 - responsible data collection is good
-
+- error and mistake psychology
+- process, taboo, and fad psychology
+- Agile and psychology
 
 # poverty and disinformation
 (2024.05.07)
@@ -1891,6 +1893,9 @@ Choice-spaces and problem spaces:
 
 
 ## modeling and tracking 'system state' over a coordinated system process
+
+
+## psychology and coordinated decisions
 
 
 ## Setting location items and ancestors in local coordinated decisions (2024.04.17)
