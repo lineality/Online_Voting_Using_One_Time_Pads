@@ -2098,6 +2098,10 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 - 
 
 
+## edge cases around prohibitions and taboos
+
+
+
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
 - feature requests
