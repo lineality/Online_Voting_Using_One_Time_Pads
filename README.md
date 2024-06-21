@@ -2367,7 +2367,11 @@ Flow chart to functions to compiled code
 -
 
 ## voting, probability, statistics, modeling, census:
--
+- representation
+- vector representation
+- raw analogue form
+- mandate representation
+-  
 
 ## logical consistency and coherence of a particular voting system and measures on the voting system
 -
