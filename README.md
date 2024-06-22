@@ -2160,6 +2160,9 @@ from decentered /decentralized elections and networks to centralized political p
 ## Applications of Mandate-Based Systems
 - 
 
+2024.06.21
+temporal measures of legibility
+- measuring how long it takes to read information from a device diagram or language, with lack of clarity requiring more time to 'read'
 
 ## System design
 - secure by design
