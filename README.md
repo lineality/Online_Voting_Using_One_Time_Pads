@@ -1837,6 +1837,15 @@ e.g. more and less quantifiable and defined topics.
 - discipline-specific (medicine, physics) decisions
 
 
+
+# definitions, metrics, and quantifiability
+- how definition 'types' are handled
+- how data structures such as meaning-vectors are used
+- issues with decisions around measurable and non-measurable factors: how does that change the problem space of decisions and projects?
+2024.06.23
+
+
+
 # measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
 
 
