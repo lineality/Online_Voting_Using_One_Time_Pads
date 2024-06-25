@@ -1849,6 +1849,16 @@ e.g. more and less quantifiable and defined topics.
 # measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
 
 
+# Where are cut-up vs. context and state vs stateless involved in coordinated decisions? 
+e.g.
+2024.06.24
+context vs. cutup:
+- where one prompt cannot contain all roles
+- it is easier to say 'agent' than it is to either create an illusion of state or create state.
+- scope creep and bloat issue if too many resources are used for micro-operations
+2024.06.24
+
+
 # sources of data: 
 - questionnaires
 - metadata
