@@ -1203,6 +1203,11 @@ electricity cost
 - spelling correction
 
 
+# Metrics and Policies for operational and project ambiguity
+- problema detection
+- problem resolution/solving 
+
+
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
 
