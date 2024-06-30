@@ -1941,6 +1941,7 @@ Choice-spaces and problem spaces:
 ## Access: Whitelisting and Blacklisting (e.g. network access) 
 - Could some form of white-listing alleviate ddos attack surface?
 
+## Art, Sport, Commons, Private, Municipal: The geography of modes of coordination (2024.06.29)
 
 ## documentation and process standards for decision making
 - using data
