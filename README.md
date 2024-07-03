@@ -1567,6 +1567,14 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - Is there schedule-indeterminacy?
 
 
+## Perception of Causality
+- common distortions in causality perception
+- short term long term
+- alien-paranoia and external locus of control
+- 'magical thinking'
+- learned helplessness
+- 
+
 ## interconnected decision events
 - interaction and feedback
 
