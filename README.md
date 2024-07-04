@@ -1829,6 +1829,19 @@ this overall same information can be expressed and in various specific situation
 - while true: processes stuck in loops
 
 
+## Specialization, Representation, and contextual hirarchies of participants (2024.07.03)
+
+
+
+## General Participation and fitness (2024.07.03)
+
+- 
+
+## Partial participation (2024.07.03)
+- 
+
+## Predictable Temporal Heterogeneity in Perception (2024.07.03)
+
 ## schedule problems.
 
 
