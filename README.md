@@ -2125,6 +2125,11 @@ In any given human endeavor where there appears to be some relative success and 
 - 
 
 
+## Principle and Implementation: frequent problems with databases and administration of projects
+2024.07.04
+- 
+
+
 # measuring disconnection from reality
 - measuring institutional disconnection from reality
 - tests and measures
