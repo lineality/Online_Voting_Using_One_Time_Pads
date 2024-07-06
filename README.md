@@ -1445,6 +1445,8 @@ derivation and integration of process modules
 - outcome definitions
 - mixed?
 
+## algorithms, computation complexity, and sort-search in particular in coordinated decision tool software
+
 ### What is a balanced architecture between various factors?
 - centered decentered
 - private vs. accessible
