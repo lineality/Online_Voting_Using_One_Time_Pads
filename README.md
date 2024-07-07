@@ -1903,6 +1903,13 @@ context vs. cutup:
 - incentives and feedback in behavior
 
 
+## Statistics & Analysis Standards for Coordinated Decisions
+The buck stops here; what exactly do we mean by 'statistics'?
+- catagories and edges of statistics
+- statistics math, STEM, computer science
+- datastructures and statistics
+
+
 ## training and effective education
 teaching how to participate in coordinated decision making
 - agile
