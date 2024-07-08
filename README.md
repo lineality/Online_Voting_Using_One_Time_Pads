@@ -2708,7 +2708,9 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Different forms of consensus, representation, and contracts
 
-## Succession
+## Succession:
+- types and levels of succession
+- 
 
 ## Conflict, Mediation, Negotiation, and Coordinated Decisions
 - conflict resolution
