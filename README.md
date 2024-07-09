@@ -2249,6 +2249,10 @@ vs.
 
 ## Votes from past generations who are no longer alive vs. sun-set clauses
 
+
+## From Debate Moderation to Dispute Mediation (2024.07.08)
+
+
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history:
 -- from 'the decline and rise of democracy' book
