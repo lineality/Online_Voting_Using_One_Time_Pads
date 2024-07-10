@@ -2063,7 +2063,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Problem Identification & Classification
 - e.g. AI problem vs. general problems & psychology of perception
 - not ignoring, misdirecting, covering up, problems in ~voting system
-- no 'blame down hill'
+- no 'blame down hill' (or no "Blame goes down hill.")
 2023.11.02
 
 ## psychological distortions in perceptions of causality in building using and maintaining an architecture for coordinated decision making.
