@@ -2204,6 +2204,9 @@ vs.
 
 ## old code can work, new is not always better
 
+## databases broadly:
+- positive user experience with databases (2024.07.10)
+
 ## Formal and informal political 'parties':
 	- do there need to be parties
 	- how should party systems be defined?
