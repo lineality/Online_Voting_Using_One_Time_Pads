@@ -1899,9 +1899,10 @@ context vs. cutup:
 
 # participation, populations, distillation
 
+
 # anonymity and toxic behavior online
 - incentives and feedback in behavior
-
+- possible ongoing denial about the existence of toxic behavior
 
 ## Statistics & Analysis Standards for Coordinated Decisions
 The buck stops here; what exactly do we mean by 'statistics'?
