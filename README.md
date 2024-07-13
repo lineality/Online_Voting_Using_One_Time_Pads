@@ -2398,6 +2398,14 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## consequences on elections on culture see political theory
 
+## Fitness Tests: (2024.07.12)
+- voter qualification tests
+- candidate qualification tests
+- checks and balances as a test
+- T. Woodrow Wilson fitness calamity and the 25th amendment
+- a completely undermined and hollowed out mind/psychology testing profession (institutional and STEM inability to deal with late term Trump or late term Biden questions of mental fitness) 
+- Kahneman Tsversky based fitness tests
+
 ## biological coordination
 - cell signaling
 - inside-population-signaling
