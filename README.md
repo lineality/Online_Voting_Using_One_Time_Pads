@@ -2396,6 +2396,15 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## diverse-participant voting-coordination
 
+## Proxy Drift
+- Drift to 'telepathy question' arbitrary answers
+- Drift to arbitrary puzzles
+- Drift to arbitrary games
+- Drift to sport (uncivilized, as in Lear "I have seen drunkards do worse in sport.")
+
+## Demand-Distortion
+- John Adams "It was all madness."
+
 ## consequences on elections on culture see political theory
 
 ## Fitness Tests: (2024.07.12)
