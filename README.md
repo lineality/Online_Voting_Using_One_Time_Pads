@@ -1927,6 +1927,15 @@ Choice-spaces and problem spaces:
 - collapse metrics
 
 
+## 80-20 Rule in Representation: How modeling society as being entirely of working voters is a rapid way to cover 20% of the work to be done. How 'one person one vote' is a dangerous oversimplification of many issues including montesquieu' checks and balances and Hobbes et al's tradeoff balance agreements. (2024.07.14)
+- meritocratic hierarchies
+- biological families
+- institutions
+- pre participants
+- post-participants
+- checks and balances vs. literal popular vote 'democracy'
+
+
 ## dataframes and databases
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
@@ -2812,7 +2821,12 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 
 ## Low-Bar-Enlightenment-Compassion Project Lifecycles and Coordinated Decision Making (2023.08.25)
 
-## proportional vs. first past the post
+
+## alternatives to first past the post
+- proportional voting
+- 
+
+
 
 ## runoff elections and contracts
 
