@@ -1927,6 +1927,20 @@ Choice-spaces and problem spaces:
 - collapse metrics
 
 
+## bio-neuro tendencies towards radicalization and extremism with lessons learned from 'the drug war' of the post wwii USA.
+- addictive behavior
+- lessons from religious extremism
+- 'the madness of crowds'
+- John Adams: "The Tyranny of 'The Many'" (vs. the tyranny of the few)
+
+
+Revisiting Thomas Hobbes:
+- 
+
+Revisiting Edmond Burke:
+- 
+
+
 ## 80-20 Rule in Representation: How modeling society as being entirely of working voters is a rapid way to cover 20% of the work to be done. How 'one person one vote' is a dangerous oversimplification of many issues including montesquieu' checks and balances and Hobbes et al's tradeoff balance agreements. (2024.07.14)
 - meritocratic hierarchies
 - biological families
@@ -2533,7 +2547,9 @@ institutions such as libraries for areas with internet
 - variable size
 - 
 
-## coordinated decision making and architecture tasks: distributed overlapping logic
+
+
+## Coordinated decision making and architecture tasks: distributed overlapping logic
 - counting tasks
 - overlapping effect tasks
 - a model of overlapping counting counting tasks
