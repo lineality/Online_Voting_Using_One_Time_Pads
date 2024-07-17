@@ -2545,7 +2545,11 @@ institutions such as libraries for areas with internet
 - data structure size
 - file size
 - variable size
-- 
+
+
+## The problems of perfunctory-obligatory derision as a liability of political party opposition: (2024.07.16)
+- When whoever the other 'gang' appoints is the worst, when 'your person' is always the best.
+- excessive asymmetry: flipside: we are always right because we must always win, you are always wrong because you must always lose; winning myopic pedantic battles in the short term is everything/is the only thing.
 
 
 
@@ -3156,6 +3160,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+- PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
 
 ## papers:
 - arXiv:2405.01546 [pdf, ps, other] It Will Never Work in Theory Greg Wilson, Jorge Aranda, Michael Hoye, Brittany Johnson Subjects: Software Engineering (cs.SE)
