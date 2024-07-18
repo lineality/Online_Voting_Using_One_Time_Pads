@@ -2490,11 +2490,22 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - measuring trajectory of collapse
 
 
+## Comparability of Data, Structured and Unstructured
+- the process of structuring
+- structured comparability
+- unstructured comparability
+- hybrid
+- hierarchies and sets in comparability
+
 ## defining participants and participation for coordinated decision making
 - 
 
 ## Potential disputes over 'ownership' of election parts or results
 -
+
+
+## stale data
+
 
 ## voting, probability, statistics, modeling, census:
 - representation
