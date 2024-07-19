@@ -2043,6 +2043,9 @@ connecting Jan with open frameworks for
 ## A STEM approach to defining and defending against nihilism
 
 
+## Mappability and dynamics of signals perception and learning with presentation and definition of mandates and choices
+
+
 ##  STEM, Context, and Measurement vs. Nihilism, Disinformation & Collapse
 
 ## Process & the Hypothetico-Deductive Method
