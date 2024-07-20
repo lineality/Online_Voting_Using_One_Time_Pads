@@ -2665,7 +2665,7 @@ institutions such as libraries for areas with internet
 - Rome
 - 
 
-## Non-Homogenous Environments:
+## Non-Homogenous Environments / Heterogeneous Environments:
 - "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
 
 ## Rules for how elections get:
@@ -2698,7 +2698,6 @@ institutions such as libraries for areas with internet
 
 ...
 
-
 # Data & Decisions
 - trade offs
 - data permanence
@@ -2723,7 +2722,6 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 ## levels of architectural mechanics
 - ranked choice, noise handling, and Shannon-Turing Unit-Communication
 - ranked choice in accurate option selection as a form of signal error checking
-- 
 
 ...
 
