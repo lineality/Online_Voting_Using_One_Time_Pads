@@ -1719,6 +1719,18 @@ by Deborah M. Gordon
 - parallel systems
 - concurrent systems
 
+## asynchronous systems:
+- databases
+- concurrency
+- parallelism
+- decisions
+- functions
+- process derivation
+- process integration
+- (data) types (being moved and exchanged)
+- data structures (being moved and exchanged)
+
+
 # Clearweb infrastructure vs. Deepweb infrastructure
 - 5% of tools and uses
 - 95% tools and uses
