@@ -1772,8 +1772,7 @@ by Deborah M. Gordon
 
 ## Automated testing of question ambiguity
 - see automated benchmarks
-- decision coordination and STEM (see Online Voting Using One Time Pads github v76)
-
+- decision coordination and STEM (see Online Voting Using One Time Pads github >= v76)
 
 ...
 
