@@ -1372,6 +1372,10 @@ derivation and integration of process modules
 
 ## Automation and Voting Systems
 
+## Checks & Balances & Adam's Creed:
+- 'one MAN one vote' vs. democratic checks and balances
+- see Adams Jefferson letters: Nov 13th 1815
+
 ## automated testing to checking functioning of system
 - the ease or difficulty in making tests
 - the ease or difficulty in sharing tests
