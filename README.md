@@ -2153,7 +2153,10 @@ Causes of Success Among Broken Clocks
 In any given human endeavor where there appears to be some relative success and competition at a given time, it can be non-trivial to identify what the future trajectory is for those who appear 'correct' at one given time, and to ascribe 'success' to what may be either a random outcome or an incomplete act of self-destruction.
 
 
-
+## Historical Terms and Timeless Patterns
+- populism
+- ideology (e.g. from French revolution)
+- optimism (From Candid)
 
 
 # Edge Case or non-edge case definitions
