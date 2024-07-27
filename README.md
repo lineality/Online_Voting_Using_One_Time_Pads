@@ -2133,6 +2133,9 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - 
 
 
+## standardized or agreed-upon ways of modeling future outcomes in a context of coordinated decisions making
+
+
 ## Resource Use
  	- Scaling and computational efficiency (big o)
 - energy cost
