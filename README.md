@@ -1837,6 +1837,8 @@ this overall same information can be expressed and in various specific situation
 - how options are phrased
 
 
+## principles of coordination in a context of non-automatic perception and learning
+
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
