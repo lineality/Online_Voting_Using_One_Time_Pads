@@ -2018,6 +2018,7 @@ Revisiting Edmond Burke:
 - Could some form of white-listing alleviate ddos attack surface?
 
 ## Art, Sport, Commons, Private, Municipal: The geography of modes of coordination (2024.06.29)
+- navigating and shaping 'sport' (the arena-dilemmas)
 
 ## documentation and process standards for decision making
 - using data
