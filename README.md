@@ -2329,6 +2329,7 @@ vs.
 - STEM vs. 'votes'
 - debate vs. 'votes'
 - mediation vs. 'judgements'
+- https://en.wikipedia.org/wiki/Edmund_Burke 
 
 ## speed of voting, protest votes, and reactions to violent takeovers
 
