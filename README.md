@@ -2269,7 +2269,11 @@ vs.
 	- parties in coalition vs. winner-takes-all systems
 	- proportional representation
 
-## Parties vs. Mandates
+## Parties, history of representation
+- 
+
+
+## Mandates, history of representation
 - 
 
 
