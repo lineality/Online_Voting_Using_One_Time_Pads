@@ -2061,7 +2061,7 @@ connecting Jan with open frameworks for
 - transparency
 - non-potemkin-village
 - externalization (as in Object Relationship Spaces & Projects)
-- 
+
 
 ## A STEM approach to defining and defending against nihilism
 
@@ -2088,7 +2088,7 @@ There is perhaps a strange parallel in negative-definition where future-state in
 - evidence
 - group agreed upon goals means methods
 - best practice
-- 
+
 
 
 ## No One Size Fits all system
@@ -2103,8 +2103,13 @@ There is perhaps a strange parallel in negative-definition where future-state in
 - one time pads
 - navigation-blind OS
 
-## Automated testing of coordinated decision systems
 
+## Automated testing of coordinated decision systems
+- deciding on metrics
+- non-private information fields
+- testing
+- resporting
+- peer review and audits
 
 ### Voting Logistics and Ethics: Western Chasm
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
