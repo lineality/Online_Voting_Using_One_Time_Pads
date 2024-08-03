@@ -1202,8 +1202,12 @@ electricity cost
 - interpretation and ambiguity
 - spelling correction
 
+## Metrics 
+- definitions
+- falsifiability
 
-# Metrics and Policies for operational and project ambiguity
+
+## Metrics and Policies for operational and project ambiguity
 - problema detection
 - problem resolution/solving 
 
@@ -3211,6 +3215,9 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+- domain and tacit knowledge: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge 
+
 - PR vs FPTP in the UK: https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029 
 
 ## papers:
