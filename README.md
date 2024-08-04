@@ -2335,6 +2335,9 @@ vs.
 - ways of asking question to test which are obscure of misunderstood
 - the classic 'identification' step, where if what the question is asking can not be identified with a high percentage of the time, then the phrasing of the question is liability, effectively asking the wrong question, communicating the wrong thing, and causing confusion and miscommunication
 
+## metrics roles organizations wholes and parts
+- 
+- 
 
 ## John Adams, Democracy and Checks & Balances
 - the epidemiology of bad idea
