@@ -2434,6 +2434,12 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - procedures
 - values
 
+## Institutions:
+- What is the difference between an oppressive institution that stifles society, and a productive institution in a check-and-balance ecosystem? 
+When productive diverse-institution countries look at desert-theocracies:
+-- Alfred W. Crosby quote on middle east view of europe pre-renaissance,
+
+
 
 ## standard task and behavior benchmarks
 - coordination
