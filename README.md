@@ -2322,6 +2322,11 @@ vs.
 ## Votes from past generations who are no longer alive vs. sun-set clauses
 
 
+## Security Needs vs. Command-line Aversion and super-signal attraction
+- 
+- 
+
+
 ## From Debate Moderation to Dispute Mediation (2024.07.08)
 
 
