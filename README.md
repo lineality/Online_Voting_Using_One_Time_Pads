@@ -1404,6 +1404,10 @@ derivation and integration of process modules
 - Astronomical and off-planet time
 - 
 
+## Franklin's Commonwealth 
+2024.08.06
+-  
+
 
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
 
@@ -3229,6 +3233,8 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ## Articles:
 - https://www.wired.com/story/ranked-choice-voting-reveals-the-weird-math-of-elections/ 
+
+- the research questionnaire: https://en.wikipedia.org/wiki/Jeremiah_Milles 
 
 - domain and tacit knowledge: https://www.economist.com/business/2024/03/07/how-can-firms-pass-on-tacit-knowledge 
 
