@@ -2303,6 +2303,11 @@ from decentered /decentralized elections and networks to centralized political p
 temporal measures of legibility
 - measuring how long it takes to read information from a device diagram or language, with lack of clarity requiring more time to 'read'
 
+## psychology of data:
+2024.08.07
+- sports psychology and coordinated decisions
+- psychology of testing-metrics and data procedures
+
 ## System design
 - secure by design
 - trust vs. trust-less
