@@ -2558,6 +2558,9 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - measuring alignment of goal, means, methods, with non-collapse
 - measuring trajectory of collapse
 
+## Enthusiasm and Indifference to Fraud, Conspiracy, and Disinformation
+(2024.08.08)
+- Values in STEM
 
 ## Comparability of Data, Structured and Unstructured
 - the process of structuring
