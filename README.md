@@ -1895,6 +1895,22 @@ this overall same information can be expressed and in various specific situation
 e.g. more and less quantifiable and defined topics.
 - discipline-specific (medicine, physics) decisions
 
+# Projects 
+(2024.08.09)
+- project psychology
+- projects and STEM
+- projects and state
+- project failure
+- projects and Agile-management
+- projects and system-collapse
+- projects and definitions
+- projects and coordinated decisions
+- projects and scale
+- projects and long-term
+- projects and sustainability
+- projects and diversity
+- projects and Montesque-Adams: institutional diversity
+- projects and the tragedy of the commons
 
 
 # definitions, metrics, and quantifiability
