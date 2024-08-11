@@ -1821,6 +1821,28 @@ this overall same information can be expressed and in various specific situation
 - how to find out what skill deficits people have
 - how to teach people to have better research skills
 
+### Looking at 'one MAN ONE vote' and 'loyalism':
+- The English Civil War
+- The American Revolution
+- The French Revolution
+- The American Civil War
+What is law? Is democracy one man one torch, 
+where the most incendiary mob enforces their will on everyone else by violence?
+"What is a Loyalist?" & Echos of Classical Dilemmas
+Geoffrey Gordon Ashbrook 2024.08.10 Sat EDT
+'rule of law' vs. ad-hoc fiat authoritarianism
+- STEM vs. cultural diversity in governance:
+2024.08.09
+https://www.economist.com/the-world-in-brief
+from Japan’s influence in Central Asia
+Kishida Fumio, Japan’s prime minister, was supposed to travel from Kazakhstan to Uzbekistan for a four-day summit this weekend. The trip was cancelled at the last minute because of warnings of a giant earthquake striking Japan’s Pacific coast. But Mr Kishida is eager to attend virtually.
+
+Central Asia—home to vast amounts of untapped natural gas and oil, and copper and uranium—has long fallen under the sway of Russia and China. But Japan, a staunch ally of America, wants to strengthen its influence there. Ahead of the summit Japanese officials agreed to put out a statement with five Central Asian countries about the importance of “rule of law”—an indirect criticism of how the region’s two big autocracies are challenging order and stability.
+
+Loosening Russia and China’s grip on the region in any meaningful way would be difficult. But the prospective summit has already upset Russia’s officials. They accused Japan of attempting to “penetrate” the region with “Western ideology”.
+
+
+ 
 
 ## Design and deployment factors
 - "do one thing well"
