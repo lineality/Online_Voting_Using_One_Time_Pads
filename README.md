@@ -1964,6 +1964,8 @@ context vs. cutup:
 - optional and mandatory participation
 - abstraction and perception (secret, anonymous ballots)
 
+## Testability of Claims
+- 
 
 # participation, populations, distillation
 
