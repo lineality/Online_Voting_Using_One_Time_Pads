@@ -1885,7 +1885,10 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 
 ## Specialization, Representation, and contextual hirarchies of participants (2024.07.03)
 
-
+## Rules of Evidence in reporting, claims, and advocacy
+2024.08.14
+- 
+- 
 
 ## General Participation and fitness (2024.07.03)
 
