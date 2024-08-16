@@ -2023,6 +2023,8 @@ Revisiting Edmond Burke:
 - checks and balances vs. literal popular vote 'democracy'
 
 
+## story-relatability and human-understandability of systems and procedures
+
 ## dataframes and databases
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
