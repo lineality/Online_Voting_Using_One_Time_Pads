@@ -1761,7 +1761,9 @@ by Deborah M. Gordon
 # The Stakeholder Perspective:
 - Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
 
-# forms of encryption and trade-offs 
+# forms of encryption and trade-offs
+- character sets
+- data structure types
 
 # memory management: 
 - security
