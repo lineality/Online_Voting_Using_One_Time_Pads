@@ -2704,6 +2704,9 @@ institutions such as libraries for areas with internet
 - character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
 - 
 
+## How to measure lack of understanding, lack of communication:
+- perhaps as when social change has not become habituated and perception is distorted.
+
 
 ## write-in options
 - multiple choice vs. free response systems
