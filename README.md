@@ -1698,6 +1698,15 @@ be clearly defined as simple choices, that can elusively be defined,
 or decisions that cannot be reduced to binary or classification
 choices
 
+
+# successional sustainability & 'the achilles heel of succession'
+- generational succession
+- team to team succession
+- "0-60" learning curves for onboarding
+- the default 'anti-teaching' fake-exclusive-expert / caste-system haze-torture-bully-tease pathology of many animal species.
+- potemkin villages
+
+
 # Distributed Servers and modularization of process
 - time modules
 - data size modules
