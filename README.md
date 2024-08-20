@@ -2686,6 +2686,10 @@ institutions such as libraries for areas with internet
 - variable size
 
 
+## sustainably funding academia to support decision infrastructure
+- 
+
+
 ## The problems of perfunctory-obligatory derision as a liability of political party opposition: (2024.07.16)
 - When whoever the other 'gang' appoints is the worst, when 'your person' is always the best.
 - excessive asymmetry: flipside: we are always right because we must always win, you are always wrong because you must always lose; winning myopic pedantic battles in the short term is everything/is the only thing.
