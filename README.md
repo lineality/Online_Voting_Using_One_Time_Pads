@@ -2207,6 +2207,14 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## standardized or agreed-upon ways of modeling future outcomes in a context of coordinated decisions making
 
+## Hamlet's Mill: stories, mythology, and coordinated decisions
+2024.08.20
+- succession
+- learning procedures
+- habituation
+- learned pattern recognition
+- fitness metrics
+- valuation 
 
 ## Resource Use
  	- Scaling and computational efficiency (big o)
@@ -3317,4 +3325,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 We would like to thank the universities, companies, and granting agencies that
 supported this work, but unfortunately none did."
 
+## consequences on no-runoff single-vote multi-party elections:
+https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 
+- https://en.wikipedia.org/wiki/VUCA 
