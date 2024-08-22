@@ -2115,6 +2115,9 @@ connecting Jan with open frameworks for
 
 ## means of objectively determining in a ballot measure is logically sound, e.g. declaring that all triangles have four sides, or some other tautologically false statement.
 
+## Project State, System State, and Data State in Coordinated Decisions
+-
+
 
 ## strategies for managing sunset clauses
 
