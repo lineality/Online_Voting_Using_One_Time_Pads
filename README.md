@@ -1154,7 +1154,12 @@ How about a system where a candidate who get's less (or perhaps more too) than a
 ## Layers of language and collective symbolism
 
 
-# Whistleblowing
+## Whistleblowing
+- golden circle asymmetry
+- potemkin villages
+- shoot the messenger
+- blame goes down hill
+- psychology of data
 
 
 # is there a general space of process errors
