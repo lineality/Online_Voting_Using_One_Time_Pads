@@ -1924,6 +1924,9 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 ## schedule problems.
 
 
+## Institutional Diversity, Values, Productivity, Sustainability, STEM, Project Scales, Models and Proxies for "Culture"
+
+
 ## data logic time and coordination
 - time in databases
 
