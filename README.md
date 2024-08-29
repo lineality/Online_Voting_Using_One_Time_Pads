@@ -2285,6 +2285,13 @@ In any given human endeavor where there appears to be some relative success and 
 - 
 
 
+## Distributed, Bulk and Batch operations:
+- managing 'voter' databases: 
+-- outreach
+-- updates
+-- 
+
+
 ## Principle and Implementation: frequent problems with databases and administration of projects
 2024.07.04
 - 
