@@ -2127,6 +2127,9 @@ connecting Jan with open frameworks for
 - no-trust contracts
 
 
+## more data types
+- IoT Translation and multi-modal data (2024.08.29), from ecological translation to institutional production
+
 ## means of objectively determining in a ballot measure is logically sound, e.g. declaring that all triangles have four sides, or some other tautologically false statement.
 
 ## Project State, System State, and Data State in Coordinated Decisions
