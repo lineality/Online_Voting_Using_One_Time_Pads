@@ -2382,6 +2382,18 @@ vs.
 - 
 
 
+# Modeling the space of definitions for coordinated decision projects
+(2024.08.30)
+- time series
+- succession
+- categories of types of definitions
+- collapse
+- project-role participant definition-set comparison
+
+
+
+
+
 ## Representation and Mandates
 - 
 
