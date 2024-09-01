@@ -2344,6 +2344,13 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Participation and Motivation
 - use-ability of system
 
+
+## project-state areas for coordinated decisions
+2024.08.31
+- context and project state
+- general or non-general/non-unified project-state
+
+
 ## communication and translation between X and Y
 - input output measures
 - participants
