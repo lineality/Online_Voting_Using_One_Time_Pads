@@ -4,7 +4,7 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
-# Contents: 
+# Contents: ``
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
@@ -2764,6 +2764,15 @@ institutions such as libraries for areas with internet
 
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
+
+
+- Distributed Multipoint Conferencing Units (MCU) 
+-- distributed data structures
+-- distributed sync protocols
+-- distributed ad-hoc-networks
+-- distributed whitelisted networks
+-- distributed aggregating data structure contribution
+
 
 ## summarization
 ## reporting
