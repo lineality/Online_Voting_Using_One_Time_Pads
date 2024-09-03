@@ -2958,6 +2958,14 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - 'search' and 'retrieval' of documents (Search Augmented Tasks vs. RAG)
 - 
 
+## Document Processing
+data engineering:
+- data formatting
+- data for search
+- data for tabular data
+- data for graphs?
+- data for vectorization
+
 ## voting system logs and transparency
 - network monitor logs
 - 
