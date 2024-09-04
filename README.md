@@ -1820,20 +1820,23 @@ by Deborah M. Gordon
 - choice:
 - voted_for_choice_or_choices:
 - write-in:
-this overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
+This overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
+
 
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
+
 ## Training Skill Abilities Learning Measurement
 - competence levels
 - pre-requisite / requisite skills
-- 
+
 
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
 - "do one thing well"
 - standardization
+
 
 ## Perception 
 (2024.02.27)
@@ -1857,7 +1860,7 @@ Geoffrey Gordon Ashbrook 2024.08.10 Sat EDT
 2024.08.09
 https://www.economist.com/the-world-in-brief
 from Japan’s influence in Central Asia
-Kishida Fumio, Japan’s prime minister, was supposed to travel from Kazakhstan to Uzbekistan for a four-day summit this weekend. The trip was cancelled at the last minute because of warnings of a giant earthquake striking Japan’s Pacific coast. But Mr Kishida is eager to attend virtually.
+Kishida Fumio, Japan’s prime minister, was supposed to travel from Kazakhstan to Uzbekistan for a four-day summit this weekend. The trip was canceled at the last minute because of warnings of a giant earthquake striking Japan’s Pacific coast. But Mr Kishida is eager to attend virtually.
 
 Central Asia—home to vast amounts of untapped natural gas and oil, and copper and uranium—has long fallen under the sway of Russia and China. But Japan, a staunch ally of America, wants to strengthen its influence there. Ahead of the summit Japanese officials agreed to put out a statement with five Central Asian countries about the importance of “rule of law”—an indirect criticism of how the region’s two big autocracies are challenging order and stability.
 
@@ -1865,7 +1868,6 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 
 
  
-
 ## Design and deployment factors
 - "do one thing well"
 
@@ -1876,10 +1878,10 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
+
 ## auditing and automated auditing, process and step problems in coordinated decision making:
 - map of process-step-analysis applications
-- 
-- 
+
 
 ## Khanaman & Tversky, et al: effects on systems of decisions
 - decision spaces
@@ -2948,7 +2950,11 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - pipeline bootstrapping
 - event (election) bootstrapping
 - connection bootstrapping
-- 
+
+
+## Populism, Extremism, Perception, Learning, STEM-Measurement, Agile-Communication, Project-State:
+- What can we know about what is happening and about what is going wrong?
+
 
 ## Document Formats, Formatting, Processing:
 - automated document processing
