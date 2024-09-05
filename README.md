@@ -2548,6 +2548,8 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - how does this relate to the question of the 'intelligence' of a system?
 - 
 
+## Definitions of Symbols in Coordinated Projects
+
 ## Learning, Habit, and Contagion
 - how patterns in process move across systems
 - learned behaviors
