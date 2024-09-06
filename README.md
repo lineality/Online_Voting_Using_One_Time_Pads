@@ -2129,6 +2129,15 @@ connecting Jan with open frameworks for
 - no-trust contracts
 
 
+## General Tradeoff between exploring and trimming paths
+(2024.09.05)
+- coordinated decisions
+- coordinated projects
+- coordinating planning
+- coordinated navigation
+- cut-up projects
+
+
 ## more data types
 - IoT Translation and multi-modal data (2024.08.29), from ecological translation to institutional production
 
