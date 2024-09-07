@@ -1915,8 +1915,11 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - 
 
 ## General Participation and fitness (2024.07.03)
-
-- 
+- perception fittness
+- articulation fittness
+- modeling fittness
+- learning fittness
+(input output measures?)
 
 ## Partial participation (2024.07.03)
 - 
