@@ -1912,7 +1912,6 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 ## Rules of Evidence in reporting, claims, and advocacy
 2024.08.14
 - 
-- 
 
 ## General Participation and fitness (2024.07.03)
 - perception fittness
@@ -1928,9 +1927,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 
 ## schedule problems.
 
-
 ## Institutional Diversity, Values, Productivity, Sustainability, STEM, Project Scales, Models and Proxies for "Culture"
-
 
 ## data logic time and coordination
 - time in databases
@@ -1974,10 +1971,7 @@ e.g. more and less quantifiable and defined topics.
 - issues with decisions around measurable and non-measurable factors: how does that change the problem space of decisions and projects?
 2024.06.23
 
-
-
 # measuring feedback: can failures of feedback (a lack of feedback channels) in organizations and institutions be detected
-
 
 # Where are cut-up vs. context and state vs stateless involved in coordinated decisions? 
 e.g.
@@ -1987,7 +1981,6 @@ context vs. cutup:
 - it is easier to say 'agent' than it is to either create an illusion of state or create state.
 - scope creep and bloat issue if too many resources are used for micro-operations
 2024.06.24
-
 
 # sources of data: 
 - questionnaires
@@ -2002,7 +1995,6 @@ context vs. cutup:
 
 # participation, populations, distillation
 
-
 # anonymity and toxic behavior online
 - incentives and feedback in behavior
 - possible ongoing denial about the existence of toxic behavior
@@ -2012,7 +2004,6 @@ The buck stops here; what exactly do we mean by 'statistics'?
 - catagories and edges of statistics
 - statistics math, STEM, computer science
 - datastructures and statistics
-
 
 ## training and effective education
 teaching how to participate in coordinated decision making
@@ -2029,20 +2020,17 @@ Choice-spaces and problem spaces:
 - gamification
 - collapse metrics
 
-
 ## bio-neuro tendencies towards radicalization and extremism with lessons learned from 'the drug war' of the post wwii USA.
 - addictive behavior
 - lessons from religious extremism
 - 'the madness of crowds'
 - John Adams: "The Tyranny of 'The Many'" (vs. the tyranny of the few)
 
-
 Revisiting Thomas Hobbes:
 - 
 
 Revisiting Edmond Burke:
 - 
-
 
 ## 80-20 Rule in Representation: How modeling society as being entirely of working voters is a rapid way to cover 20% of the work to be done. How 'one person one vote' is a dangerous oversimplification of many issues including montesquieu' checks and balances and Hobbes et al's tradeoff balance agreements. (2024.07.14)
 - meritocratic hierarchies
@@ -2051,7 +2039,6 @@ Revisiting Edmond Burke:
 - pre participants
 - post-participants
 - checks and balances vs. literal popular vote 'democracy'
-
 
 ## story-relatability and human-understandability of systems and procedures
 
@@ -2074,13 +2061,9 @@ Revisiting Edmond Burke:
 - fix-ability
 - move-ability
 
-
-
 ## modeling and tracking 'system state' over a coordinated system process
 
-
 ## psychology and coordinated decisions
-
 
 ## Setting location items and ancestors in local coordinated decisions (2024.04.17)
 
