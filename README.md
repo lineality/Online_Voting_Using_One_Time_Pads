@@ -1284,31 +1284,29 @@ electricity cost
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
-# Standardized .csv ballot formats
-flat files with no header needed
-first column: category
-second column: vote item
-third column: vote choice
 
 ## different uses of high and low resolution data and metrics, test, etc.
 
 ## decisions and disturbance regime management
 
+## Standardized .csv ballot formats
+flat files with no header needed
+first column: category
+second column: vote item
+third column: vote choice
 voter id as first row
-
 voter_id_number, voters_number, MY_NUMBER\n
 voter_id_name, voters_id, MY_NAME\n
 judges, judge_1, MY_CHOICE\n
-
 (standards on documentation)
 
-# Reducing a .csv file to a QR code...
+## Reducing a .csv file to a QR code...
 - can a standard ballot sized csv file fit into a .csv file?
 
-# input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
+## input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
 
 
-# Privacy and anonymity: "When Hashes Collide"
+## Privacy and anonymity: "When Hashes Collide"
 uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people. 
  Episode #940 | 19 Sep 2023 | 104 min.
 https://www.grc.com/sn/sn-940.txt
@@ -1316,7 +1314,7 @@ https://www.grc.com/sn
 Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 
 
-# process and step definition across integrated sub-steps with break-down into smaller steps
+## process and step definition across integrated sub-steps with break-down into smaller steps
 
 
 ## cost factors & sustainability
@@ -1353,6 +1351,7 @@ dict check
 	boolean check 
 	none check
 
+
 set check?
 tuple check?
 
@@ -1367,7 +1366,6 @@ derivation and integration of process modules
 2. von Neumann's bifurcation of roles in self-replicating processes
 
 
-
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
 
@@ -1380,7 +1378,6 @@ derivation and integration of process modules
 
 
 # on productures, "trust", measures, standards, and ethics
-
 
 
 ## the importance of open-source for software testing
