@@ -2582,7 +2582,7 @@ Role and Sources of Stochasticity in decision coordination:
 ## Mythology and Coordinated Decisions
 
 ## Election design and goals: disinformation and distortion
-- can feedback or other mechanisms steer the design and use of coodinated-decision-events (selections) to constructive tasks
+- can feedback or other mechanisms steer the design and use of coordinated-decision-events (selections) to constructive tasks
 
 ## priorities and the psychology of system visibility: when noise overwhelms perception: Q: in reality, how often does noise overwhelm perception?
 - types of noise and types of perception-distortion?
@@ -2592,6 +2592,12 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## Questions of defining technology
 
+## History:
+- STEM history
+- Legacies of the French Revolution
+- 1519 Munster
+- 1800's wordsalad-hype-revolution-ism
+- 1800's (anti)modernism
 
 ## STEM, fantasy, coordinated decisions, and system architecture:
 - tethering to data, feedback, and reality
