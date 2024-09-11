@@ -1095,6 +1095,7 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 	- learning
 	- collapse
 	- compassion
+	- product development valley of death, demand distortion, want vs. 'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
 
 - In the timeline of technologies, which technologies are appropriate and inappropriate and why?
 - (e.g. complete census vs. statistical sampling)
