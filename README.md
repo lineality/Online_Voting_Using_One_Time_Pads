@@ -2136,6 +2136,8 @@ connecting Jan with open frameworks for
 
 ## precedent in modes of ruling vs. sunset limits on specific laws
 
+## scalable modular infrastructure
+- 
 
 ## Topics in Election and Decision Coordination Data Management
 - transparency
