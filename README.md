@@ -2147,6 +2147,16 @@ connecting Jan with open frameworks for
 
 ## A STEM approach to defining and defending against nihilism
 
+## Projects, Puzzles, Games, Tests
+(2024.09.12)
+- fittness
+- feedback
+- learning
+- skill/ability
+- process
+- story
+- definition
+- social
 
 ## Mappability and dynamics of signals perception and learning with presentation and definition of mandates and choices
 
