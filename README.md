@@ -955,6 +955,10 @@ What OS, what network architecture, and what cyber security strategies should/co
 - topic: memory throttling 
 
 
+## Collaboration Tools
+2024.09.14
+- 
+
 # feasibility and infeasibility of plans and proposals
 - vapor ware
 - low hanging fruit
