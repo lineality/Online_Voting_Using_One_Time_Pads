@@ -956,8 +956,28 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 
 ## Collaboration Tools
-2024.09.14
+2024.09.14,15
+- productivity tools
+- colaboration tools
+- use of git
+### projects stats:
+- scope, goals alignment stats
+- scope, goals, values, consistency stat
+- goal-setting stat
+- goal-meeting stat
+- schedule-setting stat
+- schedule-following stat
+- deadline-setting stat
+- deadline-met stat
+- fitness, disinformation, toxicity stat
+- life-long-learning stats
+### tool sets
+- voting, forms, questionnaire, survey, tool
+- ticket tool
+- instant messenger tool
+- project-task-management tool
 - 
+
 
 # feasibility and infeasibility of plans and proposals
 - vapor ware
