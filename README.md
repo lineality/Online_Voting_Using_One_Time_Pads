@@ -956,9 +956,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 
 ## Collaboration Tools
-2024.09.14,15
+2024.09.14,15,16
 - productivity tools
-- colaboration tools
+- collaboration tools
 - use of git
 ### projects stats:
 - scope, goals alignment stats
@@ -977,6 +977,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - instant messenger tool
 - project-task-management tool
 - 
+### Status Tracking & Reporting (Progress & Productivity Monitoring)
+(not group-monologue support)
+(handshakes and confirmations)
+- Signal Confirmation
+- Scope Confirmation
+- Completion-Confirmation?
 
 
 # feasibility and infeasibility of plans and proposals
