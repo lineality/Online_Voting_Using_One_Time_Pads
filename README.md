@@ -956,7 +956,13 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 
 ## Collaboration Tools
-2024.09.14,15,16
+2024.09.14,15,16, 17
+####
+- instant message browser
+- task (kanban) browser
+- vote-feedback survey browser
+- team-role-project-alignement-sync tool 
+### ?
 - productivity tools
 - collaboration tools
 - use of git
