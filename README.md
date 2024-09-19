@@ -956,7 +956,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 
 ## Collaboration Tools
-2024.09.14,15,16, 17
+2024.09.14,15,16,17,18
 ####
 - instant message browser
 - task (kanban) browser
@@ -989,6 +989,12 @@ What OS, what network architecture, and what cyber security strategies should/co
 - Signal Confirmation
 - Scope Confirmation
 - Completion-Confirmation?
+### health, problem identification, epidemiology, diagnostics
+problem_diangostics
+- Munich & Project Management: 1930's vs. Agile
+~ collapse diganostics
+~ fittness dignognistics
+~ information epidemilogy
 
 
 # feasibility and infeasibility of plans and proposals
