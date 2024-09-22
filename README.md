@@ -956,7 +956,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 
 ## Collaboration Tools
-2024.09.14,15,16,17,18,19
+2024.09.14,15,16,17,18,19,21
 Administration and productivity tools
 ####
 - instant message browser
@@ -996,7 +996,8 @@ problem_diangostics
 ~ collapse diganostics
 ~ fittness dignognistics
 ~ information epidemilogy
-
+### psychology, anthropology, of STEM and project managment
+- 
 
 # feasibility and infeasibility of plans and proposals
 - vapor ware
