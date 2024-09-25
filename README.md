@@ -2798,6 +2798,19 @@ https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 ## networked voting and network access
 institutions such as libraries for areas with internet
 
+## Distributed Networks
+(2024.09.24)
+- raw signals vs. in-protocol(?) signals
+- buckets of signals: 
+[
+ipv4,
+ipv6,
+"optical"(em),
+audio(vibration),
+"radio"(em),
+subsonic(vibration),
+]
+
 ## Memory Management
 - data structure size
 - file size
