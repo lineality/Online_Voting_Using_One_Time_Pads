@@ -2105,6 +2105,9 @@ Revisiting Edmond Burke:
 
 ## modeling and tracking 'system state' over a coordinated system process
 
+## Historical and future role of Universities
+(2024.09.25)
+
 ## psychology and coordinated decisions
 
 ## Setting location items and ancestors in local coordinated decisions (2024.04.17)
