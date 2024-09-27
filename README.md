@@ -4,7 +4,7 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
-# Contents: ``
+# Contents: 
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
@@ -954,6 +954,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - topic: not-networked Operating Systems
 - topic: memory throttling 
 
+
+## Education
+- skills and fitness for projects and collaboration
 
 ## Collaboration Tools
 2024.09.14,15,16,17,18,19,21
