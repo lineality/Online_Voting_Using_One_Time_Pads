@@ -2759,6 +2759,9 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 ## stale data
 
 
+## Bad Actors
+
+
 ## voting, probability, statistics, modeling, census:
 - representation
 - vector representation
