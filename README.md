@@ -2324,6 +2324,35 @@ In any given human endeavor where there appears to be some relative success and 
 - definine where database/datastructure time and clock sync issues are edge cases or not edge cases
 
 
+## Proxies and Measures of Fitness in a context of Roles in a context of specific projects including administration:
+types/categories:
+- characteristic of participant: age, birthplace, stakeholder (arguably a form of 'test')
+- qualification-test: (such as a written exam)
+- procedural: e.g. checks and balances, [Can connect to STEM]
+- heuristic: repeat the last pattern (follow precedent/tradition) ['tradition' is interesting flexible and can fit/use any or none of the other categories; can be entirely arbitrary and ineffective or a nuanced recipe of proxies that are effective]
+- super-signal-test: feed a compulsion, addition, entertainment (e.g. represent a meaningless subjective reification 'has passion' fervor, 'religious' fervor, 'patriotic' fervor, etc., madness of crowd fervor. Super-signal cargo cult. [Not STEM]
+- nihilistic: deny and attack everything, construct potemkin villages [Anti-STEM]
+
+
+- old people
+- institutions
+- first past the post simple plebiscite (51% of people vote to boil 49% of people in oil and take their stuff)
+
+- gerontocracy
+- aristocracy
+- kakistocracy
+- kleptocracy
+- meritocracy
+- deliberate-fanticism-ocracy
+- anti-modern-romanticism-ocracy
+- nihilism-ocracy
+- thug-ocracy
+- disinformation-ocracy
+- cargo-cult-ocracy
+- populism-fad-ocracy
+- revolution-ocracy
+
+
 ## ad-hoc systems
 
 ## Participation, representation, and ways to avoid some groups as being defined outside of the ability to participate:
@@ -3485,3 +3514,4 @@ supported this work, but unfortunately none did."
 https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 
 - https://en.wikipedia.org/wiki/VUCA 
+s
