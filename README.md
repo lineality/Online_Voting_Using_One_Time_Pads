@@ -2352,6 +2352,11 @@ types/categories:
 - populism-fad-ocracy
 - revolution-ocracy
 
+note:
+- ~participants
+- pre-participants
+- post-participants
+- partial/contextual-participants
 
 ## ad-hoc systems
 
@@ -3514,4 +3519,3 @@ supported this work, but unfortunately none did."
 https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 
 - https://en.wikipedia.org/wiki/VUCA 
-s
