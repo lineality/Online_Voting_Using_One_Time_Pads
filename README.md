@@ -1153,6 +1153,10 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 - how disinformation destroys everything
 
 
+## equilibria & bad-equilibria
+- overall landscape of options in outcomes
+
+
 ## Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
