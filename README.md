@@ -2283,7 +2283,7 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - how quickly can an election system be built and used?
 
 
-## social context in categories of configuration data for datastructures and databases (2024.04.07)
+## social context in categories of configuration data for data structures and databases (2024.04.07)
 - 
 
 
@@ -2491,9 +2491,6 @@ vs.
 - categories of types of definitions
 - collapse
 - project-role participant definition-set comparison
-
-
-
 
 
 ## Representation and Mandates
