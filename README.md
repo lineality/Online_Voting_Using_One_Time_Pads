@@ -3520,3 +3520,8 @@ supported this work, but unfortunately none did."
 https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 
 - https://en.wikipedia.org/wiki/VUCA 
+
+
+
+# Link to History Book Recommendations Repo:
+history_book_repository_on_political_philosophy
