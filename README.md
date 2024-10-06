@@ -1655,6 +1655,10 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - interaction and feedback
 
 
+## Responsibility, STEM & Values 
+(2024.10.05)
+- Is responsibility being fraudulently obfuscated?
+
 ### abstractness or concreteness of designs and interfaces
 - clarity of definition
 
@@ -2521,6 +2525,11 @@ temporal measures of legibility
 - identification
 - avoiding disasters
 
+
+## Protocol, Process, Signal, Information: Health and Toxicity:
+- Toxic Information Environments
+
+
 ## trade offs and contexts for optimization
 
 ## data ~handling policy:
@@ -2689,6 +2698,11 @@ Role and Sources of Stochasticity in decision coordination:
 ## evaluating agendas in a project-space of coordinated decisions
 
 ## Questions of defining technology
+
+## Mapping out STEM and communication protocols
+- medicine in STEM
+- network 'layers'
+- Hobbes, Montesquieu, Franklin Challenges
 
 ## History:
 - STEM history
