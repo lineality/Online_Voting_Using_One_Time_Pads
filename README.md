@@ -2985,7 +2985,6 @@ subsonic(vibration),
 - How can this be taught?
 - How can this be required or facilitated?
 
-
 ## Describing the difficulty of a project
 - likelihood of mistakes
 - costs of operations
