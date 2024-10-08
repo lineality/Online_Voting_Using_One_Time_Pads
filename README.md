@@ -1827,6 +1827,7 @@ by Deborah M. Gordon
 - security
 - redundancy
 
+## Leadership Roles and Capacities
 
 # passwords, devices, "fido," etc.
 - 
