@@ -959,8 +959,13 @@ What OS, what network architecture, and what cyber security strategies should/co
 - skills and fitness for projects and collaboration
 
 ## Collaboration Tools
+Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
 Administration and productivity tools
+- alignment
+- project management
+- collaboration
+- productivity
 ####
 - instant message browser
 - task (kanban) browser
