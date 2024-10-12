@@ -2593,7 +2593,10 @@ vs.
 - post-war reconstructions:
 -- Heike
 -- US civil war and "reconstruction" (how not to do things)
--- Lockwood & Co., Brexit Mess & Educational Dilemmas
+-- 'There is nothing for you here' and time period fiction
+
+
+
 
 ## Dysfunctional Areas
 2024.06.17
