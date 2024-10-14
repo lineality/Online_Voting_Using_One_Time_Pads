@@ -2543,6 +2543,14 @@ temporal measures of legibility
 - identification
 - avoiding disasters
 
+## STEM-Natural-Law
+(2024.10.13)
+- STEM-structure-hygiene systems 
+- no-membrane systems (rapidly weathering)
+- coercive-declarative systems (violence, fraud)
+- non-systems (delusion)
+- collapse-as-system (unclear)
+- too vague to proceed with
 
 ## Protocol, Process, Signal, Information: Health and Toxicity:
 - Toxic Information Environments
