@@ -1631,6 +1631,17 @@ derivation and integration of process modules
 	- where retries are needed
 	- inverse of need: prohibited
 
+## Process Illusions
+- solution-reifiction
+- functional process vs. declarative-process
+- functional-law-rules vs. declarative-law-rules
+- model time-leakage and process time-travel errors: you cannot get a result from a future step, only a past step
+
+## Process Fraud
+- coverup
+- vaporware
+- 
+
 
 #  Records, versioning, documentations, testing standards
 
