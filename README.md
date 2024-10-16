@@ -1691,6 +1691,8 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - clarity of definition
 
 
+
+
 ## clear communication
 2024.05.16
 - having clear communication be a priority
@@ -2452,7 +2454,10 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 
 ## edge cases around prohibitions and taboos
 
-
+## Definitions: Derived-Functional Definitions vs. Declarative-Arbitrary Definitions
+- Examples from coordination tool:
+-- collaborator-list definition
+-- collaboration-team definition 
 
 ## objective criteria for voting system feedback and suggestion acceptance:
 - bug reports
