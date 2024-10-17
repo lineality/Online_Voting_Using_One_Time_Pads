@@ -4,6 +4,7 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
+
 # Contents: 
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
@@ -2295,6 +2296,9 @@ There is perhaps a strange parallel in negative-definition where future-state in
 ### Voting Logistics and Ethics: Western Chasm
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
 
+
+## Standardized error handling and audits
+(2024.10.16)
 
 ## Problem Identification & Classification
 - e.g. AI problem vs. general problems & psychology of perception
