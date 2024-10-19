@@ -1,5 +1,5 @@
 ##### Online_Voting_Using_One_Time_Pads
-2024.10.18
+
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
@@ -2588,6 +2588,8 @@ vs.
 
 ## Votes from past generations who are no longer alive vs. sun-set clauses
 
+# communication infrastructure costs
+- institutional roles
 
 ## Security Needs vs. Command-line Aversion and super-signal attraction
 - 
