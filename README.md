@@ -2429,6 +2429,10 @@ note:
 -- 
 
 
+## Efficiency and the stories of Modernism
+- 
+
+
 ## Principle and Implementation: frequent problems with databases and administration of projects
 2024.07.04
 - 
