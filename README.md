@@ -967,6 +967,13 @@ Administration and productivity tools
 - project management
 - collaboration
 - productivity
+### tool sets
+- tasks, kanban, task-lists, misc task datastructures, project-task-management tool
+- voting, forms, questionnaire, survey, tool
+- ticket tool
+- messages, instant messenger tool
+- analysis, review, audit
+- reporting?
 ####
 - instant message browser
 - task (kanban) browser
@@ -987,11 +994,6 @@ Administration and productivity tools
 - deadline-met stat
 - fitness, disinformation, toxicity stat
 - life-long-learning stats
-### tool sets
-- voting, forms, questionnaire, survey, tool
-- ticket tool
-- instant messenger tool
-- project-task-management tool
 - 
 ### Status Tracking & Reporting (Progress & Productivity Monitoring)
 (not group-monologue support)
