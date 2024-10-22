@@ -2601,6 +2601,14 @@ vs.
 - 
 - 
 
+# Best Practice
+## Definition Behavior & System Collapse
+## Tools for Project Management (non-collapsing projects)
+- Alignments
+- Scope
+- Tasks
+- Needs & Goals Definitions (not process reification illusion or goal reification illusion)
+- 
 
 ## From Debate Moderation to Dispute Mediation (2024.07.08)
 
