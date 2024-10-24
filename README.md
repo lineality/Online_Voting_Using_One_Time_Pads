@@ -1888,6 +1888,9 @@ by Deborah M. Gordon
 ## software, operating system, language, network resources for open, public, charity use:
 - minimal
 - secure
+...
+
+## coordinated decisions in open, closed, and semi-closed data-ecosystems
 
 ...
 
