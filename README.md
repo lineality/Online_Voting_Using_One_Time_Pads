@@ -344,7 +344,7 @@ This is a proposed process for reasonably secure 'online (over a network) voting
 The primary focus of this report is the question of whether casting a ballot/vote over-a-network(online) can in principle be done with sufficient security and soundness. Secondarily, this report explores 'practical and thrifty' variations which add in factors of feasibility, cost, equipment availability, and other real-world factors that communities around the world may face in actually holding an election (i.e. not everyone has ideal funding and resources with which to carry out the perfect election). Another way to look at this distinction is that we first look at an ideal voting system to aim for, and then look at realistic voting systems. 
 
 
-## Implementation
+## Implementation & Secure Voting
 (see practical implementation as separate after proof of concept implementation)
 These are recommendations for a reasonably secure online voting system that should not be significantly more cumbersome than a physical paper voting system. 
 
@@ -2427,6 +2427,8 @@ note:
 - 
 
 
+
+
 ## Distributed, Bulk and Batch operations:
 - managing 'voter' databases: 
 -- outreach
@@ -2435,8 +2437,10 @@ note:
 
 
 ## Efficiency and the stories of Modernism
-- 
+- (note: 'measure for measure' previewing later themes)
 
+## Implementation & Formalities of Manifestation
+- "Easy things are hard." ~ (maybe John McCarthy on AI)
 
 ## Principle and Implementation: frequent problems with databases and administration of projects
 2024.07.04
