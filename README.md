@@ -967,6 +967,13 @@ Administration and productivity tools
 - project management
 - collaboration
 - productivity
+- externalization
+- cutups
+- distributed scope setting
+- distributed goals setting
+- distributed task setting
+- distributed task cutups
+### System Empathy, Project-State Empathy
 ### tool sets
 - tasks, kanban, task-lists, misc task datastructures, project-task-management tool
 - voting, forms, questionnaire, survey, tool
