@@ -1197,6 +1197,8 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 # Security & Data / Information Hygiene
 Voting and principles of security (ease of use vs. security etc)
+- hygiene concerns vs. security concerns
+- analogies
 
 ## General vs. Deployment
 
