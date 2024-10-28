@@ -1760,18 +1760,19 @@ Equivalence and Non-equivalence in representation of situations and choices.
 - metadata
 - standard formats
 
-# Factors in multipoint coordination problems, from signal mcu to project content
+## Factors in multipoint coordination problems, from signal mcu to project content
 - distributed mcu
 - network design
 - resiliency
 - security
 - error correction
-- 
+
 
 ## Data and Illusions:
 coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
 Literally or proverbially software since 1970 has been a self-conspiracy among complacent developers who prioritize their won recreation and entertainment experience over reality and the effects of the software they create to result in a space-trash 'polluted' environment of hidden problems where the priority is lipstick-on-a-pig fads and pedantic distractions. Developers spend huge amounts of time entertaining themselves with the 'self-care' of beautifying their keyboard and beautifying their desk and beautifying their background and beautifying editor/IDE and beautifying their 'self commenting' code, and creating the fun-illusion of their own personal entertainment pleasure seeking experience, complete with the fun of being a bullying manager, the fun of randomizing other people's schedules, blaming interns for the problems of senior staff etc, enjoyably, defiantly defying basic Agile project management areas and being a coder cowboy bro rockstar. The result is very predictably ruin and toxification, which is predictably (potemkin village) hidden away and covered up with more lipstick and distraction beautification, blaming down hill, wasting more time on entertainment junkfood and 'self-care.' By analogy, coordinated decisions and elections may be able to work well or fail to work well around similar criteria. 
-
+- Khaneman & Tversky
+- Weisenbaum & Eliza
 
 ## Eliza Effect & Coordinated Decisions
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
@@ -1794,6 +1795,7 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 - automated translation
 - merging on slightly differently translated voting options
 - translation of instructions and procedures (automated options
+- character-set issues
 
 ## dimensionality and statistical representations
 - in various cases what we want from decision data are 
