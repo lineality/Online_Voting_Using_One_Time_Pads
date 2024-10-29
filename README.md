@@ -975,6 +975,11 @@ Administration and productivity tools
 - distributed task cutups
 ### System Empathy, Project-State Empathy
 ### tool sets
+- message tool
+- task planner tool
+- vote tool
+(where are alignment procedures?)
+...
 - tasks, kanban, task-lists, misc task datastructures, project-task-management tool
 - voting, forms, questionnaire, survey, tool
 - "ticket" tool
