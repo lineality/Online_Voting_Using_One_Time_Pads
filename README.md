@@ -1021,6 +1021,19 @@ problem_diangostics
 ~ information epidemilogy
 ### psychology, anthropology, of STEM and project managment
 - 
+### needs, goals, and products
+- topic: contracts and coordinated decisions
+- contingency-logic-agreements: if else while break (cross-team?)
+
+
+
+# Decisions, Coordinated Decisions, Tasks and Project State:
+- 1. case study: "ticket" ownership vs. 'assignment'
+- 2. Daily Project State Alignment: "Standup"
+- 3. Structured-Standup:
+	- option of owned tasks/task-data-structures
+	- 
+
 
 # feasibility and infeasibility of plans and proposals
 - vapor ware
