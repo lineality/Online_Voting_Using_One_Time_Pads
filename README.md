@@ -1752,8 +1752,7 @@ in all parts and discussions of coordinated decisions
 - function and fiction in gamification-simplification of vague processes.
 
 
-## 
-quantized or fractional(fractal) dimensional representation
+## quantized or fractional(fractal) dimensional representation
 of groups of participants in proportional representation
 or in category or finite choice selection
 
