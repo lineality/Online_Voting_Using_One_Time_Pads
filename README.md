@@ -2088,6 +2088,8 @@ e.g. more and less quantifiable and defined topics.
 - projects and Montesque-Adams: institutional diversity
 - projects and the tragedy of the commons
 
+# Lexical Timeline:
+- modeling currently used operational definitions over time
 
 # definitions, metrics, and quantifiability
 - how definition 'types' are handled
