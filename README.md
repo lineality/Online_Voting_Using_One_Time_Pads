@@ -2628,6 +2628,8 @@ temporal measures of legibility
 
 ## Protocol, Process, Signal, Information: Health and Toxicity:
 - Toxic Information Environments
+- Health, long-term and sustainability
+- information-resources and data-ecology
 
 
 ## trade offs and contexts for optimization
@@ -2657,6 +2659,11 @@ vs.
 - Tasks
 - Needs & Goals Definitions (not process reification illusion or goal reification illusion)
 - 
+
+
+## empty placeholders in process reification illusions and goal reification illusions
+- empty placeholder abstractions are not project goals or project processes for achieving goals
+- adding more empty placeholder abstractions does not fill existing empty placeholder abstractions
 
 ## From Debate Moderation to Dispute Mediation (2024.07.08)
 
