@@ -987,6 +987,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 ...
 - tasks, kanban, task-lists, misc task datastructures, project-task-management tool
 - voting, forms, questionnaire, survey, tool
+- features: sub-story(implicit), normal-story, macro-story
 - "ticket" tool
 - messages, instant messenger tool
 - analysis, review, audit
