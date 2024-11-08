@@ -2224,8 +2224,6 @@ Revisiting Edmond Burke:
 ## documentation and process standards for decision making
 - using data
 - a record of how the decision was made
-- 
-
 
 ## Election Data & RAG:
 - from 1900's statistical analysis to 2000's Data Science
