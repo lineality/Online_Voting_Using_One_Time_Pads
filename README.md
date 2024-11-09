@@ -2204,7 +2204,10 @@ Revisiting Edmond Burke:
 
 ## Mirages and Siren Songs in System Design & Project-Space
 - Social cohesion and inclusion
+
+## Standards and best practice around agenda presentation:
 - 
+
 
 ## Types of Feedback (2024.01.17)
 - decision systems
