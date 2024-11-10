@@ -1661,6 +1661,9 @@ derivation and integration of process modules
 - anonymized
 - statistically identifiable (when hashes collide) 
 
+## checks and balances, institutions, wisdom of crowds, and ~prospect-theory
+- What does it mean to 'vote' input into a decision process?
+
 ## signal-game spaces
 	- where speed is needed
 	- where speed is not needed
