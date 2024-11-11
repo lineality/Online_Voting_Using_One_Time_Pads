@@ -1,4 +1,5 @@
 ##### Online_Voting_Using_One_Time_Pads
+- https://github.com/lineality/Online_Voting_Using_One_Time_Pads
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
@@ -967,6 +968,8 @@ Aligned Collaborative Productive Projects
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
 3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
+4. 2024 tool availability
+5. 'technology' role as in 1936 computable numbers paper: 'manual human' vs. 'automated'
 
 - alignment
 - project management
