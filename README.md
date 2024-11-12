@@ -987,6 +987,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - task planner tool
 - vote tool
 (where are alignment procedures?)
+- schedule and scope? 
 ...
 - tasks, kanban, task-lists, misc task datastructures, project-task-management tool
 - voting, forms, questionnaire, survey, tool
