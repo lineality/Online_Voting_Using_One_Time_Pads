@@ -2789,7 +2789,7 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 
 ## production vs. development (production-deployment vs. R&D)
 - resource efficiency
-- 
+
 
 ## Communication, Instruction, Stories and Concepts
 - procedures
