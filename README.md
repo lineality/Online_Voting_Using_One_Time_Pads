@@ -1026,21 +1026,22 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 ### health, problem identification, epidemiology, diagnostics
 problem_diangostics
 - Munich & Project Management: 1930's vs. Agile
-~ collapse diganostics
-~ fittness dignognistics
-~ information epidemilogy
-### psychology, anthropology, of STEM and project managment
+~ collapse diagnostics
+~ fitness diagnostics
+~ information epidemiology
+### psychology, anthropology, of STEM and project management
 - 
 ### needs, goals, and products
 - topic: contracts and coordinated decisions
 - contingency-logic-agreements: if else while break (cross-team?)
 
-
+# workflow studies
+- 
 
 # Decisions, Coordinated Decisions, Tasks and Project State:
 - 1. case study: "ticket" ownership vs. 'assignment'
 - 2. Daily Project State Alignment: "Standup"
-- 3. Structured-Standup:
+- 3. Structured-Standup(agile):
 	- option of owned tasks/task-data-structures
 	- 
 
@@ -1211,6 +1212,10 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 ## equilibria & bad-equilibria
 - overall landscape of options in outcomes
 
+
+## Perception and Illusion: ("Monday Morning Quarterbacks")
+- measuring the resistance of causality reification in random events such as Noisy-Games
+- rating fittness in system perception
 
 ## Tradeoffs in Voting:
 - accessibility vs. security
