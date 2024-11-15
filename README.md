@@ -2067,6 +2067,8 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 
 ## Predictable Temporal Heterogeneity in Perception (2024.07.03)
 
+## Schedules, Time, Projects, and Decisions
+
 ## schedule problems.
 
 ## Institutional Diversity, Values, Productivity, Sustainability, STEM, Project Scales, Models and Proxies for "Culture"
