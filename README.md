@@ -2523,7 +2523,6 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 - conflicts of interest
 - cheating
 - how articulation-communication is part of perception-thought-processing
-- 
 
 
 ## edge cases around prohibitions and taboos
