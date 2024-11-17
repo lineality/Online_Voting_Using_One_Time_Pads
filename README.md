@@ -970,6 +970,7 @@ Aligned Collaborative Productive Projects
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
 4. 2024 tool availability
 5. 'technology' role as in 1936 computable numbers paper: 'manual human' vs. 'automated'
+6. STEM, Collaboration, Productivity, Participation, Externalization, Definitions, and Projects
 
 - alignment
 - project management
