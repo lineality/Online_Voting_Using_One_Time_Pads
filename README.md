@@ -1593,8 +1593,11 @@ derivation and integration of process modules
 
 ## clarity on divergent project agendas
 
-## Taboos and Prohibitions that may interfere with voting
-- 
+## Taboos and Prohibitions that may interfere with coordinated decisions
+- anti-STEM
+- anti-data
+- there seems to be an extreme
+- trolling-disinformation nonsense objections 
 
 # Analysis Section
 - reification and randomness in patterns, from 'elimination' contest artificiality to Kahneman business and market randomness illusions. 
@@ -2069,6 +2072,10 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 ## Predictable Temporal Heterogeneity in Perception (2024.07.03)
 
 ## Schedules, Time, Projects, and Decisions
+(2024.11.17)
+- time window for procedure of making decision:
+-- e.g. timescale of 'election' in the USA of often 1,2,4 years compared with 1,2,4, weeks in the OECD; 'weeks' is likely closer to optimal.
+-- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop. 
 
 ## schedule problems.
 
