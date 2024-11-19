@@ -2285,6 +2285,14 @@ connecting Jan with open frameworks for
 ## more data types
 - IoT Translation and multi-modal data (2024.08.29), from ecological translation to institutional production
 
+## The Language of Bytes u8
+2024.11.18
+- data storage readability
+- permanence
+- character sets
+- computational and storage efficiency and sustainability
+- physical records
+
 ## means of objectively determining in a ballot measure is logically sound, e.g. declaring that all triangles have four sides, or some other tautologically false statement.
 
 ## Project State, System State, and Data State in Coordinated Decisions
