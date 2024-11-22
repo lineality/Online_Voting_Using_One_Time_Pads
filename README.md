@@ -2067,7 +2067,9 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 (input output measures?)
 
 ## Partial participation (2024.07.03)
-- 
+- contextual
+- possible definitions for 'full' participation
+- institutions and participation (2024.11)
 
 ## Predictable Temporal Heterogeneity in Perception (2024.07.03)
 
