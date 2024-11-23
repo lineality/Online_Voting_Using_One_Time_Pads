@@ -1966,17 +1966,14 @@ This overall same information can be expressed and in various specific situation
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
-
 ## Training Skill Abilities Learning Measurement
 - competence levels
 - pre-requisite / requisite skills
-
 
 ### general software sets vs. research and development sets vs. use-production sets, vs. specific use-case sets
 - optimization
 - "do one thing well"
 - standardization
-
 
 ## Perception 
 (2024.02.27)
@@ -2007,7 +2004,6 @@ Central Asia—home to vast amounts of untapped natural gas and oil, and copper 
 Loosening Russia and China’s grip on the region in any meaningful way would be difficult. But the prospective summit has already upset Russia’s officials. They accused Japan of attempting to “penetrate” the region with “Western ideology”.
 
 
- 
 ## Design and deployment factors
 - "do one thing well"
 
@@ -2018,16 +2014,13 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 - physical site destruction
 - distributed systems vs. centralized systems: e.g. social engineering attacks and the byzantine generals problem, smart contracts, etc.
 
-
 ## auditing and automated auditing, process and step problems in coordinated decision making:
 - map of process-step-analysis applications
-
 
 ## Short term project state, long term project state and object permanence
 - while some hominids have some object-permanence perception for some overt physical objects, when it comes to long term project state and causality the games of adults are frighteningly similar to games of children. institutional decisions are made based on crude peek-a-boo brain stimulation either with no evidence of awareness of repeating long term patterns, or with evidence of a deliberate potemkin village to hide the permanent reality in order to cultivate a self-stimulation addiction. Every short term excuse becomes a grotesque generalization of a uniform past-present-future that endlessly changes state (in an amnesiac way where participants apparently have no memory or awareness of this constant change). 
 A 'sport' example of this may be in international high level chess where the match commentary declares that whatever ephemeral prediction is make now is universally true for all past and future time, changing constantly in a disturbingly amnesiac way. (This may also be a kind of disease of hyperbolic-dialectical-journalism.)
 An institutional example of this borrowed from Daniel Khaneman may be where any short term of no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
-
 
 ## Khanaman & Tversky, et al: effects on systems of decisions
 - decision spaces
@@ -2042,7 +2035,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
 
-
 ## Red Herrings
 - Parasitic and Reified goals:
 	- discriminatory goals
@@ -2051,7 +2043,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - scope creep
 - scope drift
 - while true: processes stuck in loops
-
 
 ## Specialization, Representation, and contextual hirarchies of participants (2024.07.03)
 
