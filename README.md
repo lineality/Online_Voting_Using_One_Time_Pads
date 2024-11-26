@@ -960,9 +960,17 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Education
 - skills and fitness for projects and collaboration
 
+
+
+## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
+(2024.11.25)
+1. STEM has 'values' for project being productive or not in a context of long term sustainability, non-fraud, and non-system-collapse
+2. STEM-Productive-Projects include/require values/functionality including: Agile, Khaneman-Tversky, Externalization, Non-System-Collapse in terms of System & Definition Studies
+
 ## Collaboration Tools
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
+Agile-Khaneman-Tversky-STEM-Productivity
 ### Three Questions on Collaboration Tools.
 1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
