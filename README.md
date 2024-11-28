@@ -2367,7 +2367,6 @@ There is perhaps a strange parallel in negative-definition where future-state in
 - one time pads
 - navigation-blind OS
 
-
 ## Automated testing of coordinated decision systems
 - deciding on metrics
 - non-private information fields
@@ -2377,7 +2376,6 @@ There is perhaps a strange parallel in negative-definition where future-state in
 
 ### Voting Logistics and Ethics: Western Chasm
 The odd paradox of people in the west believing that voting is inherently good, yet still with the old dark-age-curse never recovered from that views anything 'worldly' as being an evil monster to be destroyed, with the absurd compromise of being willing to live: "in the world but not of it" or some rubbish. Pay attention to what you are doing and do things properly so no one gets hurt, for heaven's sake that is not an evil plot for destruction; it is a definition of responsibility and at least attempting to do what one ought to do.
-
 
 ## Standardized error handling and audits
 (2024.10.16)
@@ -2393,7 +2391,6 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Naive 'more connection = better' vs. ecology and system and definition studies
 
-
 ## Related areas for coordinated decision making:
 - math
 - biology
@@ -2402,7 +2399,6 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## timelines and schedules
 - how quickly can an election system be built and used?
-
 
 ## social context in categories of configuration data for data structures and databases (2024.04.07)
 - 
