@@ -3211,6 +3211,49 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - ranked choice, noise handling, and Shannon-Turing Unit-Communication
 - ranked choice in accurate option selection as a form of signal error checking
 
+
+...
+
+(2024 11 29)
+# On Document Processing: Hybrid Data Density in Document Processing:
+- note: [issues with 'chunking' vs. 'window' paradigms]
+## Fields and Levels
+### Level 1. Extraction Layer: Row Fields [plural in lists]
+- raw data
+- text (e.g. unicode)
+- ascii text
+- [metrics]
+- [structured data and metadata (e.g. contextual metadata) profile field columns]
+- [subsymbolic matrix vectors ('embedding vectors'), ideally multiple types]
+- [graph data [nodes],[edges]]
+- 
+### Level 2: Derived Layers: modeling the rows and collumns
+A. GOFAI: ELIZA, SHRDLU, etc. (1950-2000)
+B. statistical learning, reinforcement, GA, etc. (1990-2010) (or 1750-2010)
+C. narrow deep learning (~2010-2020) (or 1940-2020)
+D. foundation models (2015/2020-?????)
+E. ? (?-?)
+etc.
+
+
+...
+(2024 11 29)
+## Standards for production data handling
+- modular
+- incrimental processing
+- incrimental search/query
+- EDA accessibility (exploratory data analysis)
+- non-hidden
+- 'vanilla' is better than 3rd party
+
+...
+
+## The Functionality of Base-256 Data Level
+- 'Counting'
+- Normalization
+- The Non-Computer-Science-Design of Scientific-Notation and The Historical Problem of Float-Math
+- 
+
 ...
 
 ## scalability in the problem space of coordinated decision making
