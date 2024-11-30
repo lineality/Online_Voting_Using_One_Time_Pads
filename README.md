@@ -1706,6 +1706,11 @@ derivation and integration of process modules
 - reification, perception illusions
 
 
+### distortions and illusions
+- causal mirage illusions
+- placeholder reification 
+- cargo cults
+
 #  Records, versioning, documentations, testing standards
 
 
