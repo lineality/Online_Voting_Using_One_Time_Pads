@@ -2571,6 +2571,8 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Participation and Motivation
 - use-ability of system
 
+## Queues and Byte Arrays
+(2024.11.30)
 
 ## project-state areas for coordinated decisions
 2024.08.31
