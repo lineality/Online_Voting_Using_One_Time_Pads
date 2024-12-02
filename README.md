@@ -1978,6 +1978,83 @@ by Deborah M. Gordon
 - write-in:
 This overall same information can be expressed and in various specific situations will need to be expressed and externalized in significantly different ways, such that handling and comparing such structure is not automatically simple. 
 
+## Open, Closed, and SOS, Coordination:
+(From Project Uma)
+# Open Node, S.O.S. Team-Channel
+One of the founding inspirations in the history of the developing of UMA, where many different situations from Prof. Skip Ellis' Project Neem to project management, to education, to secure voting protocols, was that I was living in Japan during the 3.11 Daishinsai Tsunami, Quake, Nuclear-Meltdown, electrical grid failure, cell/mobile phone system failure, etc. Though I was not in a hard hit area at the time, when I traveled to volunteer and work in the North Coastal region I saw and spoke with ordinary people about the tangible need to have some kind of robust signal sending system, some kind of distributed ad-hoc network for large or small emergency situations.
+
+There are a few main things that UMA needs to be or have for an SOS team-channel to work in a way that could have helped in the Daishinsai or in other or lesser situations.
+
+1. finely constrained and load-managed signals:
+For better or worse, the history of signal sending from (if proverbial) Byzantine General problems, to early Gutenberg incunabula, to the management of codes and signals during WWI that came from and fed back into computer science: computer science is not based on and does not confirm the naive ideology that 'computer everything in every way and print everything in every way forever' is a feasible way get anything done; disregard for details is completely contrary to computer science. There are a large but manageable number of feasibility constraints that a solution must satisfy in order to be a practical project and product plan: using more resources than exist won't work. 
+
+Security and data hygiene are also important factors on many levels: Sending data types or quantities of data that break the system won't work. 
+
+Deliberate abuse is (again, look at history) a prominent consideration that cannot be claimed to be a surprise. 
+
+The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in anyway or every way to anyone or everyone anywhere or everywhere at any time or at all times. 
+
+The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed. For example:
+
+reserved specified listening port: 44444
+enum: u8 byte array for latitude 
+enum: u8 byte array for longitude
+enum: u16 int pre-specified situation code, borrowed from first responders
+
+At a super-minimal SOS signal system, these three size and type constrained byte and int fields may be all that is needed to send and receive a help-signal in a robust way across platforms that minimizes the risk of 'sending a malicious signal'
+
+Another part of this is making sure that the receiving side, however imperfectly, has a minimal scope as well, e.g.
+- listen at 44444
+- if you get flooded with signals, e.g. if more than 8 signals in 10 sec, pause listening for 10-min (or some number). 
+- store only a reasonably small number of signals (which depends on how small the signals are), perhaps in the range of 8-512 signals (with 8 being a lite default)
+- be able to externalize these signals to pass them on to an emergency service.
+
+Even though at some times and places deranged people will spam fake emergency signals just to be destructive (with no benefit to anyone), the overall system can likely be designed so that this is an acceptable amount of noise just in case the system really is needed. e.g. 8 small spam signals every 10 minutes that you can just ignore is not going to over-tax your system.
+
+This is not without risk but likely has minimal risk. You cannot use this to send an open-ended message, e.g. something a young student should not see. The worst may be if someone is lured to a bandit trap location from a fake signal. This may or may not be a significant risk depending on the details. There is no requirement to have such an S.O.S. channel if it is a liability. 
+
+A more useful but also more risky option is to allow a person to share connection information as fields in the signal. There are emergency situations where this would be an asset, but general default-malicious behavior demonstrates that most of the time this would be used by predators to attempt attacks on people who were lured into creating a connection with the attacker. There may be reasonable balances where for example completely vulnerable young children would not be able to set up and configure this feature on their own (or build their own software and hardware from scratch to do the same thing), but emergency-tech-teams would have the option to send and receive connection information as an option. 
+
+See the next section for another significant part of the puzzle.
+
+
+2. Multi-Band Signal Use: 
+Uma is designed deliberately to only have connection, configuration information exchanged and set up out-of-band manually by the user: connections cannot be added or removed maliciously or deliberately by a remote-collaborator. Only a local user can, out of band (not as part of an online connection) add or remove team-channel and address-book configuration files; these files are not in the shared synced project-graph-nodes data.
+
+Also, in version 1 Uma only uses internet IP signals and addresses: if you do not know someone's IP (and all the other team-channel configuration information) you cannot send them any information. 
+
+In this context, where SOS is a (theoretical) 'minimal-open-channel' you would still need to know someone's IP address to send them an S.O.S. signal: this alone likely make the whole idea of an open-channel entirely useless and bazaar: you can listen for S.O.S. signals, but no one can send them to you (unless they are already a team-collaborator and so don't need to). 
+
+This is where signal-band comes in:
+If Uma is able to use a standard, local, CB-radio band spectrum to send and receive signals, then Uma can listen on, e.g. channel 4, sub-channel 4, for anyone near you broadcasting an emergency signal. 
+
+
+White-Knite signal-Relay:
+(pending, maybe out of scope)
+
+
+
+3. Portable, solar powered devices
+
+
+Could mobile-devices/smart-phones be equipped to do something like this but even better? I do not see why not in principle, and will look into exploring this as phone software, but for whatever reasons using phones for distributed signal networks is not what phone hardware OS and software makers are doing or intend to do. People love the single point of failure of centralized signal towers, and people have tunnel vision for what they love. 
+
+
+Notes:
+The question of whether UMA needs either an ad-hoc connection system, and s.o.s. system, a signal-relay system, etc., is debatable. If you assume that everyone doing a project everywhere in the universe has an reliable ipv6 address, then no UMA does not need anything else, and in 2024 most users of UMA will likely be normal ipv4-ipv6 internet users. But it is not entirely unlikely that researchers in locations without internet (or without reliable internet) or people/towns in locations with reliable internet, or deep-web groups not operating on the clear web internet (which is ~96% of the internet itself) may want to or need to use some local-intranet which does not use ipv4-ipv6 but uses some other signal 'band.'
+
+There is also the past and future question:
+1. Could Uma have been made and used in the 1960's (or even the 1940's perhaps, or if a stretch the 1840's)? Yes, in some form. Was there ipv4-ipv6 back then? No, so Uma would have used (like the Telegraph and AM-Radio) something else.
+
+2. Will people in the future, for example teams on Mars, be using 2024-style ipv4-ipv6 to communicate? While an earth-internet will eventually be set up on mars, it is either unlikely that all networks and signals on mars will use the earth-internet IP system or that they will use only the earth-ip system.
+
+A related question is: when satellites and cube-sats around mars communicate: do they use ipv6? It is possible that something technically does, but in general, no satellites do not use the internet to communicate with each-other. 
+
+Uma can and should be a portable, minimal, platform-agnostic, protocol and system for managing project and collaboration. 
+
+Are there use-cases for a robust distributed graph-database that is not reliant on ip-connections: absolutely. 
+
+
 
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
@@ -3744,3 +3821,5 @@ https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-o
 
 # Link to History Book Recommendations Repo:
 history_book_repository_on_political_philosophy
+
+
