@@ -1376,8 +1376,6 @@ electricity cost
 ## Production and Productivity: 
 - process-productivity vs. incidental-productivity
 - long-term productivity vs. incidental-productivity
-- 
-
 
 
 ## long term data storage
@@ -1392,7 +1390,6 @@ electricity cost
 
 ## Evaluation Types:
 - Daniel Khanemann: Evaluate the process not the outcome.
-
 
 
 ## realistic efficiency:
@@ -1455,7 +1452,7 @@ Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 - incentives for participants: do any participants have an incentive to dismantle the entire system and or the providing of user-needed services? (e.g. upgrading the system to better meet the needs is not bad, but dismantling and upgrading can become ambiguous, as with the 1990's bank-mergers the closed down banks of the closing of local newspapers, was that optimal to meet user needs? (on the other hand, keeping an ineffective operation going for the sake of it (stalin's regime?) is also not a good option)
 
 
-## details of confirming voter choice datatypes:
+## details of confirming voter choice data-types:
 string check
 float check
 int check
