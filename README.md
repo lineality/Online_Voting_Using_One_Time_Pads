@@ -2418,6 +2418,15 @@ connecting Jan with open frameworks for
 2025.05.28
 There is perhaps a strange parallel in negative-definition where future-state in short-term vs. long term is only negatively defined. Dealing with continued-failure-to-disprove quantitatively with the tools of STEM may be similar to modeling non-collapse. 'Process vs. Outcome' seem superficially to differ, as we think of outcomes being measured. But the negatively defined state of a time-series of measurements not-heading in a bad direction is perhaps compatible with a STEM approach to process.
 
+## Documents and Data:
+(2024.12.03)
+- formats of data and documents
+- tidy data and row-files
+- granular value files
+- documents and files
+- validation of data transfer
+- validation of ownership
+- validation of file-document integrity
 
 ### A Survey of Measurement:
 - What can be measured?
