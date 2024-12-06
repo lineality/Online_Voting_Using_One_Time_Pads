@@ -2356,6 +2356,13 @@ connecting Jan with open frameworks for
 - no-trust contracts
 
 
+## Data Representation: Stateful Hybrid Structured and Unstructured Document Corpus Processing:
+- slim topic id phase
+- vectorication of topics
+- topic-vector document mapping phase
+- corpus representation phase (maybe graph)
+- 
+
 ## General Tradeoff between exploring and trimming paths
 (2024.09.05)
 - coordinated decisions
