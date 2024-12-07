@@ -2140,6 +2140,8 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 2024.08.14
 - 
 
+## Defining time and resource requirements near term to long term
+
 ## General Participation and fitness (2024.07.03)
 - perception fittness
 - articulation fittness
