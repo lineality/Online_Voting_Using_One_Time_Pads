@@ -2893,6 +2893,8 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 ## State: semantics: system-state (unclear convention), administrative-state (government), and analytic-state (statistics)
 - 
 
+## Dimensions of Project-State
+
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
 - how does this relate to the question of the 'intelligence' of a system?
 - 
