@@ -1046,9 +1046,16 @@ problem_diangostics
 ### needs, goals, and products
 - topic: contracts and coordinated decisions
 - contingency-logic-agreements: if else while break (cross-team?)
+## Needs and Goals
+- standard areas
+## scope management and default bad expansion
+## alignment management and default bad drift appart
+
+
 
 # workflow studies
 - 
+
 
 # Decisions, Coordinated Decisions, Tasks and Project State:
 - 1. case study: "ticket" ownership vs. 'assignment'
