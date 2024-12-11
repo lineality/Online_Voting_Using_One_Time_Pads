@@ -2796,6 +2796,25 @@ vs.
 - Tasks
 - Needs & Goals Definitions (not process reification illusion or goal reification illusion)
 - 
+## Metrics for Definition Behaviors & Collapse
+2024.12.10th
+- undefined spaces
+- underlying process or process definition issues
+- red flag definition changes
+- case study collapse event (modeling targets)
+- looking at maybe-similar modeling cases: forest fires, epidemiology
+- possible simple or subsymbolic-rule cell-contagion maps
+
+
+
+## Converting and Interfacing Structured and Unstructured Data
+- The world is not made of structured information.
+- Interfacing in both directions from raw unstructured information
+to structured and semi-structured information,
+is a set of processes.
+- Sometimes structured information is very useful and functional (STEM).
+- Sometimes structured information abstractions are a recreational luxury for whim.
+
 
 
 ## empty placeholders in process reification illusions and goal reification illusions
