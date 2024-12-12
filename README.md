@@ -1050,7 +1050,10 @@ problem_diangostics
 - standard areas
 ## scope management and default bad expansion
 ## alignment management and default bad drift appart
-
+## Decision Task Attributes:
+- needs and goals array: past, present, expected future, goal future, ideal future
+- schedule items
+- 
 
 
 # workflow studies
@@ -1708,6 +1711,7 @@ derivation and integration of process modules
 - coverup
 - vaporware
 - reification, perception illusions
+
 
 
 ### distortions and illusions
