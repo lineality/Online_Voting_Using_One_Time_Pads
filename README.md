@@ -2076,6 +2076,13 @@ Are there use-cases for a robust distributed graph-database that is not reliant 
 - "do one thing well"
 - standardization
 
+## Production-Software (meaning use-able 'deployed' product, not 'still in production' meaning unfinished, ridiculous name)
+- Standards for production-deployment software
+- dependencies
+- files and file paths
+- readability and maintainability
+- resource efficiency
+
 ## Perception 
 (2024.02.27)
 - The danger of people worshiping something that they don't understand, for example in an incomprehensibly broken system that makes no sense, because of an internal need to reify something worshipful, be it (the seeking or attempted creation of) an external locus of control or otherwise.
