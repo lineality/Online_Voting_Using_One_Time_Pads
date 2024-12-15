@@ -2414,6 +2414,12 @@ connecting Jan with open frameworks for
 
 ## precedent in modes of ruling vs. sunset limits on specific laws
 
+## Measuring Definition Fuzzyness
+2024.12.14
+- scope
+- effects
+- terms
+
 ## scalable modular infrastructure
 - 
 
