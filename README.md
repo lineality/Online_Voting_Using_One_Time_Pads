@@ -1095,6 +1095,8 @@ problem_diangostics
 - race conditions (term?)
 -
 
+## clear definitions in coordination
+- 
 
 ## Coordinating Data and Data Structures in Systems for Decision Coordination:
 - compatibility across:
