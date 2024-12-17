@@ -3220,6 +3220,10 @@ subsonic(vibration),
 ## How to measure lack of understanding, lack of communication:
 - perhaps as when social change has not become habituated and perception is distorted.
 
+## Illusions in Concepts about Process:
+- tradeoffs and long term goals
+- misunderstood concepts: UI-abstraction, re-usable functions
+- DRY vs. dependency liabilities
 
 ## Safeguards and Hygiene in Coordination
 2024.09.13
