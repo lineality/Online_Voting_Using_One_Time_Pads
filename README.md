@@ -1054,7 +1054,7 @@ problem_diangostics
 - needs and goals array: past, present, expected future, goal future, ideal future
 - schedule items
 - 
-
+## information infrastructure, protocols, and standards
 
 # workflow studies
 - 
