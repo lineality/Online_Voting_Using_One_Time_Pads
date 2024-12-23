@@ -979,7 +979,6 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 4. 2024 tool availability
 5. 'technology' role as in 1936 computable numbers paper: 'manual human' vs. 'automated'
 6. STEM, Collaboration, Productivity, Participation, Externalization, Definitions, and Projects
-
 - alignment
 - project management
 - collaboration
@@ -1028,7 +1027,15 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 - deadline-met stat
 - fitness, disinformation, toxicity stat
 - life-long-learning stats
-- 
+### Basic Project/Task Description Fields:
+- Policy 
+- Scope (user feature, sub-features)
+- Schedule (days)
+## Bad Proxies for Agendas & Policy
+- hybrid fragments
+- abstraction reifications
+- short term artifacts (lack of policy?)
+- likely no simple 'fix' for setting long term policy?
 ### Status Tracking & Reporting (Progress & Productivity Monitoring)
 (not group-monologue support)
 (handshakes and confirmations)
