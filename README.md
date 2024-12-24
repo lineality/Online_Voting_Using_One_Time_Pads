@@ -1062,6 +1062,11 @@ problem_diangostics
 - schedule items
 - 
 ## information infrastructure, protocols, and standards
+## Weather analogy for agenda, policy, and long term vs. short term
+- clarity of data
+- perceptibility and definition of risk
+- volatile cargo-cult sport causality-hallucination and proxies
+- the problem of replacing policy and agenda with short term measurable goals
 
 # workflow studies
 - 
