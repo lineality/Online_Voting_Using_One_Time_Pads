@@ -971,7 +971,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
 Agile-Khaneman-Tversky-STEM-Productivity
-### Three Questions on Collaboration Tools.
+### Questions on Collaboration Tools.
 1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
 3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
@@ -1067,9 +1067,18 @@ problem_diangostics
 - perceptibility and definition of risk
 - volatile cargo-cult sport causality-hallucination and proxies
 - the problem of replacing policy and agenda with short term measurable goals
+## Standard Fields:
+- Agenda Process Policy (e.g. Agile-KT-DefStud[software], SixSigma[specific utility repair], Steiner-Jung[brainstorm], Crime  Fraud & Corruption, etc.)
+- User-Features & Subfeatures[treasure map]("story?")
+- Scope( Scope boundary examples or definitions?)
+- Schedule[in days]
 
 # workflow studies
 - 
+
+## externalizing Datastructures and Delineations
+- swap demarcation system
+- TOML swap, swap, 
 
 
 # Decisions, Coordinated Decisions, Tasks and Project State:
