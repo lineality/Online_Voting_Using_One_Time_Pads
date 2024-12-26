@@ -970,7 +970,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Collaboration Tools
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
-Agile-Khaneman-Tversky-STEM-Productivity
+Agile-Kahneman-Tversky-STEM-Productivity
 ### Questions on Collaboration Tools.
 1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
