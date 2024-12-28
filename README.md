@@ -5,7 +5,6 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
-
 # Contents: 
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
@@ -23,7 +22,6 @@
 #### 3. Can election-processes and election-results-publishing be feasibly, sustainably, pragmatically, realistically, implemented given real world limitations on resources? How is security measured? What specific measures are required for security to be sufficient?
 #### 4. What are differences between ideal-maximum-security-systems on the one hand and on the other hand sufficiently-secure, realistically-accessible, and realistically-feasible / practical-to-implement systems? (e.g. a perfect system vs. a good system, or "not letting the perfect be the enemy of the good")
 
-
 # Goals, Health, Fitness, Junkfood, Fads
 - Tools for prioritizing
 - Tools for evaluating quality vs. junk
@@ -32,7 +30,6 @@
 
 ## Questions For Clarification
 To clarify goals and questions, below are two lists of questions. Below is a list of questions that we ARE attempting to answer with this project, and below is another list of questions that we are NOT attempting to answer or resolve with this project. This clarification should help with focus, so that questions we are NOT asking do not become confused with questions that we ARE asking.
-
 
 ### Questions to answer and focus on include the following: 
 1. Is secure over-a-network(online) voting possible? (Here 'secure' is defined as being 'as secure as a non-networked paper-ballot-voting-system.') 
@@ -45,7 +42,6 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 8. What is the best way, or what are the best ways, of concretely defining "over-a-network(online)"?
 9. What specific instances are there of voting within systems and projects that share the same core processes of choice, voting, and decision making, coordination, etc., while covering applications beyond the single instance of, for example, US national presidential elections, and that cover more partially or entirely automated systems?
 
-
 ## Questions that we are NOT attempting to answer and that we are NOT focusing on in this project include the following: 
 1. NOT: Can online voting be an absolutely effortless and perfectly ecstatic experience?
 2. NOT: Can a person outside of the direct-voting-process be provably safe from any voter intimidation, coercion, brainwashing, threats, harassment, discouragement, etc? 
@@ -54,12 +50,10 @@ To clarify goals and questions, below are two lists of questions. Below is a lis
 5. NOT: Can hecklers and trolls be prevented from criticizing, slandering, and defaming, the election and election process even when or where there is nothing legitimate to criticize?
 6. NOT: Can all disinformation campaigns be eliminated/precluded/etc.?
 
-
 ## Peripherally Related Questions:
 1. Are there elements of the voting process that affect (encourage or discourage) participation in the voting process (from user interface to requirements for participation to schedules of voting)? An aspect or implication of this may be inadvertent or targeted discrimination against people for whom a given system of voting is more difficult or less likely to be used.
 
 2. Is there a way to define voting as a more general operationally-defined process that leads to more timely and practical deployments of voting tools and features?
-
 
 # Concept: Universality,Voting-Procedures and Voting-Processes
 The view taken here is that 'voting' is a science-like process. Voting is based on procedures, numbers, measurements, feedback, and data. Voting is neither based on nor negated by not-operationally-defined essences, reifications, fears, dramas, feelings, threats, wishes, trust, authorization, belief-ness, faith, tradition, habits, permission, labels, declarations, blustering, doubts, etc. A vote is like a physical piece of machined metal; A vote exists or does not exist with the measurable features that it has, and these measurable features are and must be measurable and confirm-able by anyone who measures it. The behavior and functionality of a vote is equivalent to that vote's repeatedly measurable features. Any group of people who carry out the STEM-math-science-data process of best-practice-voting have performed voting in a way that can be audited, measured, repeated, clearly discussed, debugged, and results published. No group of people can skip or shortcut required STEM-math-science-data processes without having skipped those required STEM-math-science-data processes. As with a surgeon washing their hands before surgery, "trust" is a term better used to mean that you trust the surgeon IS following best practice, though even then it is best to verify without trust that best practice is being followed. Under no circumstances can (so called) 'trust' replace or permit the skipping of best-practice-processes for people or groups, however much disinformation may demand and violently seek to enforce exemptions from best-practice-processes. In other words, if a person or group says "You MUST trust me, so I do NOT need to wash my hands before performing surgery on you, or processing your vote, in a best practice auditable way", you are by definition being subjected to violence, coercion, fraud, disinformation, and classically-defined tyranny.
@@ -72,10 +66,8 @@ One way of looking at the use of one-time-pads when voting (entirely setting asi
 
 Like anything else, 'social engineering' and physical disruption are not prevented by a one-time-pad or a voter id. If the earth is destroyed by an asteroid, or a person is murdered or dies, or a voting office is hit by a tornado, or a persuasive neighbor influences and convinces the voter to not participate in the upcoming election by 'choice,' these issues cannot be solved as part of solving the solve-able problems of verification and identification.
 
-
 # Proposed Steps for Secure Online Voting
 This section is primarily a proof of concept, though it should be possible to implement. The emphasis here is on best-practice process, not on maximum convenience or maximum time-resource cost efficiency. So while this model may not be ideal to use directly in all situations, it may be seen (provided tests and audits) as an ideal to not stray too far from. 
-
 
 ## Rules & Assumptions (For Conceptual-Ideal Election)
 - Rule/Assumption 1: There is a physical voting-office, just as there would be in the case of an all-paper election.
@@ -2903,10 +2895,17 @@ is a set of processes.
 -- 'There is nothing for you here' and time period fiction
 
 
-
-
 ## Dysfunctional Areas
 2024.06.17
+
+## Navigating and Failing to Navigate the space of mind
+2024.12.27
+- visibility
+- learnability
+- repeating failures
+- case studies
+- Attraction to and avoidance of cargo-cults misinterpreting 'luck' and chance events. 
+- 
 
 ## How to deal with simplistic ethno-purity-nationalist ideas from the 1800's
 2024.06.17
