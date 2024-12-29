@@ -3297,6 +3297,13 @@ subsonic(vibration),
 2025.05.10d
 - stories
 
+## Definition behaviors (collapse), default trajectories (collapse), bad equilibria (collapse),  
+(2024.12.28)
+- 
+- 
+- 
+
+
 ## Curricula, Fitness, and decision-coordination in Projects
 (2024.05.03)
 - non-automatically learned skills
