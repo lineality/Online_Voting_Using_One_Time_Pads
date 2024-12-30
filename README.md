@@ -2153,7 +2153,12 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - how options are phrased
 
 
-## principles of coordination in a context of non-automatic perception and learning
+## principles of coordination in a context of non-automatic perception and non-automatic learning
+- feedback
+- habit
+- equilibria
+- perceptions/schemas of causality
+- intertwined leaning areas: articulation, perception, modeling/planning, learning
 
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
