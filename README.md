@@ -959,6 +959,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 1. STEM has 'values' for project being productive or not in a context of long term sustainability, non-fraud, and non-system-collapse
 2. STEM-Productive-Projects include/require values/functionality including: Agile, Khaneman-Tversky, Externalization, Non-System-Collapse in terms of System & Definition Studies
 
+## State: Project State, STEM-State, Nation-States, & Statistics
+2024.12.30
+
+## Scaffolding and teaching and learning about process
+
 ## Collaboration Tools
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
