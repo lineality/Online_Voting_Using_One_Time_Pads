@@ -1441,6 +1441,10 @@ electricity cost
 ## different uses of high and low resolution data and metrics, test, etc.
 
 ## decisions and disturbance regime management
+- general disturbance regimes
+- out-of-regime disturbances
+- diversity and disturbance resilience
+- collapse vs. disturbance
 
 ## Standardized .csv ballot formats
 flat files with no header needed
