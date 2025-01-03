@@ -1231,6 +1231,12 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 	- compassion
 	- product development valley of death, demand distortion, want vs. 'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
 
+## Defaults and Equilibria
+(2025.01.02)
+- default easy popular junkfood attractive bad practice: bad equilibrium
+- health food best practice that is unfashionable unattractive unpopular not automatically learned, not automatically percieved, not a default equilibrium
+
+
 ## Demand Distortion: Factors and Areas of impact
 - definition collapse
 - perception collapse
