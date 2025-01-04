@@ -888,7 +888,13 @@ As part of an election, other publicly stated 'open' policy and procedure inform
 ### Issue/Task: user interface for setting up an election
 
 
-Question: Standardized .csv ballot format (for decision coordination): ideal?
+
+## Features Tools & Deployment
+(2025.01.03)
+- What are the minimal needed features?
+- What are the minimal tools needed for those features?
+
+## Question: Standardized .csv ballot format (for decision coordination): ideal?
 including information about the ballot
 signing key information
 possible vote customization information
