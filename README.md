@@ -1360,7 +1360,11 @@ person-hours to set up
 electricity cost
 ...computer cycles to computer per scale?
 
-
+# system health and data pathologies, data ecology and information epidemiology
+## mapping schedule perception disorders
+## solution-reification disorders
+## What problems can be modeled as equilibria?
+## 
 
 # On the operational definition of voting issue and voting choices:
 
@@ -2222,7 +2226,9 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 -- e.g. timescale of 'election' in the USA of often 1,2,4 years compared with 1,2,4, weeks in the OECD; 'weeks' is likely closer to optimal.
 -- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop. 
 
-## schedule problems.
+## schedule problems & disorders
+- automated detection of schedule problems
+- 
 
 ## Institutional Diversity, Values, Productivity, Sustainability, STEM, Project Scales, Models and Proxies for "Culture"
 
