@@ -1071,17 +1071,17 @@ problem_diangostics
 - perceptibility and definition of risk
 - volatile cargo-cult sport causality-hallucination and proxies
 - the problem of replacing policy and agenda with short term measurable goals
-## Standard Fields:
+## Standard Fields: Goal Clarification and Disambiguation and/for Alignment
 - Agenda Process Policy (e.g. Agile-KT-DefStud[software], SixSigma[specific utility repair], Steiner-Jung[brainstorm], Crime  Fraud & Corruption, etc.)
-- User-Features & Subfeatures[treasure map]("story?")
+- User-Features, Subfeatures, and Tools[treasure map]("story?")
 - Scope( Scope boundary examples or definitions?)
-- Schedule[in days]
+- Schedule[duration in days, started, target end]
 
 # workflow studies
 - 
 
 ## externalizing Datastructures and Delineations
-- swap demarcation system
+- swap 'demarcation' system (term to use... 'syntax' swap?)
 - TOML swap, swap, 
 
 
