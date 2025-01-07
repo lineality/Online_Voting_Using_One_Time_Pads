@@ -1824,7 +1824,6 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - models
 - spread, contagion
 
-
 ## STEM and Coordinated Decision Making
 - decisions and coordinations in:
 -- networks
@@ -1838,17 +1837,14 @@ in all parts and discussions of coordinated decisions
 - simplification, gamification, definition, perception,and coordination
 - function and fiction in gamification-simplification of vague processes.
 
-
 ## quantized or fractional(fractal) dimensional representation
 of groups of participants in proportional representation
 or in category or finite choice selection
-
 
 ## decisions, logic, and quantization(numbers)
 - defining current-time outcomes
 - defining future targets
 - defining 'past' known data (states of being unknown etc)
-
 
 ## Ballot item interpretability:
 - deterministic (given time as input)
