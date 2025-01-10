@@ -25,7 +25,6 @@
 # Goals, Health, Fitness, Junkfood, Fads
 - Tools for prioritizing
 - Tools for evaluating quality vs. junk
-- 
 
 
 ## Questions For Clarification
