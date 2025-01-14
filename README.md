@@ -2163,6 +2163,16 @@ Central Asia—home to vast amounts of untapped natural gas and oil, and copper 
 
 Loosening Russia and China’s grip on the region in any meaningful way would be difficult. But the prospective summit has already upset Russia’s officials. They accused Japan of attempting to “penetrate” the region with “Western ideology”.
 
+## Elusive Algorithm Problems
+2025.01.13
+### Search Sort
+- non-concurrent non-parallel
+- concurrent and parallel
+- Fuzzy and Discrete
+### Tables, Graphs-Nodes and Vectors
+- 
+### Liability and Sustainability Issues
+- 
 
 ## Design and deployment factors
 - "do one thing well"
