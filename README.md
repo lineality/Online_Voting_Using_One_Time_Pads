@@ -1088,6 +1088,11 @@ problem_diangostics
 - User-Features, Subfeatures, and Tools[treasure map]("story?")
 - Scope( Scope boundary examples or definitions?)
 - Schedule[duration in days, started, target end]
+## Best practice and bad practice
+- loudest voices are not to be automatically followed
+- simplistic proxies for decisions such as arbitrary numbers of requests
+- skipping a decision step and letting scope go directly see: https://www.youtube.com/watch?v=YQnz7L6x068
+
 
 # workflow studies
 - 
