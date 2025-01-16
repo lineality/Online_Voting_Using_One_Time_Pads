@@ -1092,6 +1092,10 @@ problem_diangostics
 - loudest voices are not to be automatically followed
 - simplistic proxies for decisions such as arbitrary numbers of requests
 - skipping a decision step and letting scope go directly see: https://www.youtube.com/watch?v=YQnz7L6x068
+## Decision and Automation
+- balancing and checking where 'automated' work is going?
+- checking for bad proxies, abdications, and reifications
+- functional-definition area?
 
 
 # workflow studies
@@ -2858,6 +2862,7 @@ temporal measures of legibility
 - Toxic Information Environments
 - Health, long-term and sustainability
 - information-resources and data-ecology
+
 
 
 ## trade offs and contexts for optimization
