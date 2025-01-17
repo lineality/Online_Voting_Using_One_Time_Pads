@@ -1097,6 +1097,14 @@ problem_diangostics
 - checking for bad proxies, abdications, and reifications
 - functional-definition area?
 
+### Two aspects of general junkfood behavior:
+(2025.01.16)
+1. choices made in strongly private situations (maybe not the same an anonymous environments)
+2. peer pressure and trolling bullying hazing disinformation torture against health food and healthy habits.
+
+Both are different, and both are often ignored/denied areas. 
+And both may involve the bazaar cargo-cult of undefined 'rational behavior' which emerged or became dominant in the postwar period.
+
 
 # workflow studies
 - 
