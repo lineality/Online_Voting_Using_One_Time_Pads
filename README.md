@@ -3170,6 +3170,8 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - 
 
 ## Junkfood health short-term long-term in coordinated decisions
+- general mind
+- general junkfood
 
 ## measuring collapse 
 (2024.04.27)
