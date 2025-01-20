@@ -984,6 +984,16 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Scaffolding and teaching and learning about process
 
 ## Collaboration Tools
+### Goals, Scope Alignment: (2025.01.19)
+- process & values
+- schedule
+- users & stakeholders
+- needs & goals
+- user-features & subfeatures (or hidden features)
+- MPVs
+- (tools & 'tool stack, tech stack')
+- feedback & iteration
+
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
 Agile-Kahneman-Tversky-STEM-Productivity
