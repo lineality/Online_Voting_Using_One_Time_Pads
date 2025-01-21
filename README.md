@@ -984,15 +984,22 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Scaffolding and teaching and learning about process
 
 ## Collaboration Tools
-### Goals, Scope Alignment: (2025.01.19)
-- process & values
-- schedule
-- users & stakeholders
-- needs & goals
-- user-features & subfeatures (or hidden features)
-- MPVs
-- (tools & 'tool stack, tech stack')
-- feedback & iteration
+### Goals, Scope Alignment: definition items (2025.01.19)
+- process & values 
+- schedule 
+- users & stakeholders 
+- needs & goals evaluation of users 
+- user-features & subfeatures (or hidden features) 
+- MVPs (Minimum Viable Products) 
+- tools & 'tool stack, tech stack' 
+- feedback & iteration (~agile) 
+### Very Routine Problems:
+- schedule-confusion: treating/describing early step as later steps (not uncommon) 
+- skipping steps: trying to jump to later steps without doing early-stage steps (not uncommon) 
+- indeterminate goals: constantly changing, appearing and disappearing, vague placeholders and proxies (not uncommon) 
+- no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon) 
+- lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
+
 
 Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
@@ -3182,6 +3189,7 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 ## Junkfood health short-term long-term in coordinated decisions
 - general mind
 - general junkfood
+- measuring a blind junkfood vortex
 
 ## measuring collapse 
 (2024.04.27)
@@ -3249,6 +3257,14 @@ https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 
 ## Portability
 -
+
+## Short-term, Long-term and accidents of ~Geology
+Schedule formalities underlie many processes.
+lifetime
+'season'/quarterly
+'annual'
+Where does it make sense (or not) for a process to be tied to an arbitrary geologic time?
+
 
 ## Adams Franklin Jefferson, enlightenment common law constitutions:
 - STEM, law, voting
