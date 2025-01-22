@@ -1169,6 +1169,11 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 ## clear definitions in coordination
 - 
 
+# "explainability" and context
+- GLM
+- trees
+- context and no-context
+
 ## Coordinating Data and Data Structures in Systems for Decision Coordination:
 - compatibility across:
 -- storage formats
