@@ -984,18 +984,21 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Scaffolding and teaching and learning about process
 
 ## Collaboration Tools
-### Goals, Scope Alignment: definition items (2025.01.19)
-- process & values 
-- schedule 
-- users & stakeholders 
-- needs & goals evaluation of users 
-- user-features & subfeatures (or hidden features) 
-- MVPs (Minimum Viable Products) 
-- tools & 'tool stack, tech stack' 
-- feedback & iteration (~agile) 
+Goals, Scope Alignment: definition items (2025.01.19)
+- extremely frequent problem areas (constant disturbance regimes)
+- extremely invisible; hard to see, hard to communicate about, hard to learn about,
+### Goals & Scope Alignment: definition items (2025.01.22)
+- Process, Values, Collapse & Ecological Productivity
+- Schedule
+- Users & Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures (or hidden features) 
+- Scope & MVPs (Minimum Viable Products)
+- Tools & 'Tool Stack / Tech Stack'
+- Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
+
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
-- skipping steps: trying to jump to later steps without doing early-stage steps (not uncommon) 
+- skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
 - indeterminate goals: constantly changing, appearing and disappearing, vague placeholders and proxies (not uncommon) 
 - no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon) 
 - lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
@@ -1113,6 +1116,18 @@ problem_diangostics
 - balancing and checking where 'automated' work is going?
 - checking for bad proxies, abdications, and reifications
 - functional-definition area?
+
+## Bad Wrong Assumptions about Mind 
+Stop these assumptions: 
+- everyone is automatically aligned (on scope, goals decisions)
+- everyone has automatic perfect time-traveling knowledge from and about everyone else
+- everyone know what is going on and what to do
+- everyone has impossible tools to solve impossible problems
+- everyone instantly learns and generalizes everything with time-travel
+- no one makes schedule mistakes
+- communication is automatic and effortless and uses timetravel
+
+
 
 ### Two aspects of general junkfood behavior:
 (2025.01.16)
