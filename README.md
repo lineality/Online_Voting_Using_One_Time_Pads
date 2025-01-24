@@ -995,7 +995,6 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - Scope & MVPs (Minimum Viable Products)
 - Tools & 'Tool Stack / Tech Stack'
 - Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
-
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
 - skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
@@ -1116,6 +1115,18 @@ problem_diangostics
 - balancing and checking where 'automated' work is going?
 - checking for bad proxies, abdications, and reifications
 - functional-definition area?
+## Negative Definitions in Systems-Management, Project-Managuage, Organization-Management Product management, etc.
+There are a lot of tradeoffs with no automatic or easily findable balance, and there are affirmative goals that are not trivial to set, but there is also the low hanging fruit of negative definitions that are easier to identify // 2025.01.23)
+###What are not goals:
+- hiding things for the sake of hiding things is not a goal
+- creating stacks of abstractions for the sake of creating stacks of abstractions is not a goal
+- disinformation is not a goal
+- short-term over long-term is not a goal
+- solution-proxies: meaningless abstraction cargo-cult delusions are not a goal
+- extreme mis-alignment is not a goal
+- not learning, not skill improving, not training is not a goal
+### oositive goals, ish:
+- data/information hygiene is a goal
 
 ## Bad Wrong Assumptions about Mind 
 Stop these assumptions: 
@@ -1125,7 +1136,7 @@ Stop these assumptions:
 - everyone has impossible tools to solve impossible problems
 - everyone instantly learns and generalizes everything with time-travel
 - no one makes schedule mistakes
-- communication is automatic and effortless and uses timetravel
+- communication is automatic and effortless and uses time travel
 
 
 
@@ -4036,3 +4047,8 @@ https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-o
 history_book_repository_on_political_philosophy
 
 
+
+# misc: 
+## incentives
+from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government 
+"The slots regime is a mid-century relic. In Britain—as around the world—rights are grandfathered: as long as an airline uses a slot 80% of the time, it can hold onto it, free, in perpetuity. That was fine in the 1960s when runway space was abundant; now that such space is heavily congested, it produces a clogged-up market. At Heathrow, 99% of slots are grandfathered: spare ones come up for sale rarely and at a stonking price. Challengers are locked out, or stay small. Inefficiency is rewarded: it is better for an airline to send up small or empty planes than forfeit a slot to a rival."
