@@ -1008,9 +1008,13 @@ v3
 - indeterminate goals: constantly changing, appearing and disappearing, vague placeholders and proxies (not uncommon) 
 - no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon) 
 - lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
-
-
-Aligned Collaborative Productive Projects
+## General Project State: (2025.01.27
+- team project state (Agile, Khanemtan Tversky, 6sigma)
+- organizational project state (companies, libraries, schools, offices, labs)
+- institutional administrative project state (municipal, regional) (crossing: public sector, private sector, academic (Hobbes, Locke)
+- STEM project state (reproducible research)
+- AI Project State (stateless or stateful architects)
+## Aligned Collaborative Productive Projects
 2024.09.14,15,16,17,18,19,21
 Agile-Kahneman-Tversky-STEM-Productivity
 ### Questions on Collaboration Tools.
