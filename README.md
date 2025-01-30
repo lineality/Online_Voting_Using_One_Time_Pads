@@ -983,6 +983,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ## Scaffolding and teaching and learning about process
 
+## Disturbance Regime Management in Data Ecosystems
+
 ## Collaboration Tools
 Goals, Scope Alignment: definition items (2025.01.19)
 - extremely frequent problem areas (constant disturbance regimes)
