@@ -2841,6 +2841,11 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 2024.08.31
 - context and project state
 - general or non-general/non-unified project-state
+### Context in measurement in Language & Linguistics (2025.01.30)
+- 
+
+## Edge Cases, Quantizing & Statistics in character Arrays
+- patterns in measurement.
 
 
 ## communication and translation between X and Y
