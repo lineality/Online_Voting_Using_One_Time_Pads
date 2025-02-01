@@ -985,6 +985,14 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ## Disturbance Regime Management in Data Ecosystems
 
+## Outlining a System Literacy Curriculum:
+### General accessible literacy areas:
+#### Project Management
+#### Decision Making
+#### Data Science & Hygiene
+#### System and Definition Studies
+#### STEM
+
 ## Collaboration Tools
 Goals, Scope Alignment: definition items (2025.01.19)
 - extremely frequent problem areas (constant disturbance regimes)
