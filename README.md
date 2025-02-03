@@ -1852,6 +1852,12 @@ derivation and integration of process modules
 - reification, perception illusions
 
 
+## skills and abilities required to support projects and coordinated decisions
+- What skills and abilities are required to support projects and coordinated decisions?
+- What known issues prevent, suppress, erode, weather, skills and abilities required to support projects and coordinated decisions?
+- What supports, enables, the learning transmission and cultivation of skills and abilities required to support projects and coordinated decisions?
+
+
 
 ### distortions and illusions
 - causal mirage illusions
