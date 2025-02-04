@@ -1186,6 +1186,9 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 	- 
 
 
+# Decision Hygiene & Mirage Goals
+- Pouring effort into an abstraction-proxy is a waste.
+
 # feasibility and infeasibility of plans and proposals
 - vapor ware
 - low hanging fruit
@@ -2494,7 +2497,6 @@ Revisiting Edmond Burke:
 ## Standards and best practice around agenda presentation:
 - 
 
-
 ## Types of Feedback (2024.01.17)
 - decision systems
 - coordination systems
@@ -2514,7 +2516,7 @@ Revisiting Edmond Burke:
 - using data
 - a record of how the decision was made
 
-## Election Data & RAG:
+## Election Data & Retrieval (databases and generation from vectors):
 - from 1900's statistical analysis to 2000's Data Science
 connecting Jan with open frameworks for
 1. deep weight train & make new models
