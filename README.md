@@ -1555,6 +1555,10 @@ electricity cost
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
+## standards for tool usability and liability transparency
+- public sector usability and liabilities
+- private sector usability and liabilities
+- 
 
 ## different uses of high and low resolution data and metrics, test, etc.
 
