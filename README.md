@@ -347,7 +347,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 - institutions large or small such as retirement homes or other such community organizations are well placed to be involved where voters are not physically able to travel to poles. 
 
-- military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
+- Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
 
 # Security Section
 ### Additional steps can be taken to increase security. 
@@ -992,7 +992,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 #### Data Science & Hygiene
 #### System and Definition Studies
 #### STEM
-
+The goal here is to define areas of common issues as clearly as possible. We should be wary of using terms that could be defined in variable or broader ways, e.g. 'scope' 'alignment' 'goals' are quasi-synonymous for the whole exercise, so probably should not be used as the name for specific sub-parts; in real life, sometimes these broader terms are used to refer to or imply specific sub-items, sometimes this may be practical, and sometimes they may be problematically vague and indeterminate.
 ## Collaboration Tools
 Goals, Scope Alignment: definition items (2025.01.19)
 - extremely frequent problem areas (constant disturbance regimes)
@@ -1005,12 +1005,20 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - Scope & MVPs (Minimum Viable Products)
 - Tools & 'Tool Stack / Tech Stack'
 - Feedback & Tests, Ecological Effects, Communication & Iteration (~agile)
-v3
+- v3- 
 - Process, Values, Agenda: [Data/System]Ecology: Collapse & Productivity
 - Schedule: (?; whole; this iteration)
 - Users: Stakeholders & Needs & Goals Evaluation (of users) 
 - Features: User-Features & Subfeatures (or hidden features) 
 - Scope: MVPs (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback: Tests, Ecological Effects, Communication & Iteration (~agile)
+- v4 -
+### Goals & Scope Alignment: definition items (2025.01.19)
+- Process: Values, Agenda, Methods, (Data/System)Ecology: Collapse & Productivity
+- Schedule: (?; whole; this iteration)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures (or hidden features) 
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication & Iteration (~agile)
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
