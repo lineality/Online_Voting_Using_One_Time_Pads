@@ -1167,7 +1167,9 @@ Stop these assumptions:
 - no one makes schedule mistakes
 - communication is automatic and effortless and uses time travel
 
-
+## Collapse & Negative Definitions
+- mirages caused by collapse: 'bad planning' and the illusion of pejorative reifications
+- 'takeover' vs. 'vacuum', 'taken over by a vacuum'?
 
 ### Two aspects of general junkfood behavior:
 (2025.01.16)
