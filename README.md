@@ -1020,6 +1020,14 @@ Goals, Scope Alignment: definition items (2025.01.19)
 - Features: User-Features & Subfeatures (or hidden features) 
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication & Iteration (~agile)
+v5
+### Goals & Scope Alignment: definition items (2025.02.08)
+- Process: Values, Agenda, Methods, (Data/System)Ecology: Collapse & Productivity
+- Schedule: (?; whole; this iteration)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures (or hidden features) 
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback: Tests, Ecological Effects, Communication, Documentation & Iteration (~agile)
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
 - skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
