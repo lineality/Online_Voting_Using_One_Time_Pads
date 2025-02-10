@@ -5,7 +5,7 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
-# Contents: 
+# Contents: +
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
@@ -3698,6 +3698,36 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 # Database security standards
 (no standard "sql" versions)
+...
+2025.03.09
+# Search, Structuring, & State: The unsolved problem of search:
+
+Clear Description Matter
+
+From 'search' to 'chat' and back again.
+
+Does "AI" = 'Better Search"?
+
+In retrospect the 2023 'ai revolution' may be seen and described as a 'search done better and possible locally' breakthrough, which largely came out of google (search giant) technology (transformers) and operates like the google search page, except the search button now says 'chat.' 
+
+Calling search 'chat' may be an example of introduction an needless and meaningless layer of abstraction that causes personal and social confusion.
+
+It is possible that is 'chatGPT' were called 'searchGPT' and called 'search' not 'AI', and 'gen-ai' being 'generative-search' not 'gen-ai' that the same technology and adoption may be processed without all of the misplaced 'super ai taking over the world'.
+
+For example retrieval-augmented-search (or retrieval augmented generative search) is not a bad description for 'retrieval augmented generation' which confusingly ignores the entire non-generative vector-search part of the workflow.  
+
+If we take a step back from the fiction that people are 'chatting' with a stateful full-intelligence, rather that doing stateless 'searches' with very wonderful search, smart search, vector search, generative search, technologies, things make much more sense, are much more clear, and avoid all the undefined nonsense around undefinable terms and the fantasies they invoke in people. 
+
+A few issues are key here in the search context:
+1. 'generalization'
+2. 'explainability'
+3. externalization
+4. state and project-state
+5. unstructured-to-structured conversions
+6. tech stack
+7. matrix-processing
+
+...
 ...
 
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
