@@ -1179,6 +1179,12 @@ Stop these assumptions:
 - mirages caused by collapse: 'bad planning' and the illusion of pejorative reifications
 - 'takeover' vs. 'vacuum', 'taken over by a vacuum'?
 
+## Mapping Bad Equilibria in Mindspace
+- KT kahneman and tversky areas
+- agile areas
+- areas known since greece
+- survival of mind issues
+
 ### Two aspects of general junkfood behavior:
 (2025.01.16)
 1. choices made in strongly private situations (maybe not the same an anonymous environments)
