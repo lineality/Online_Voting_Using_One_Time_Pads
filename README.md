@@ -1562,6 +1562,9 @@ electricity cost
 ## Evaluation Types:
 - Daniel Khanemann: Evaluate the process not the outcome.
 
+## efficiency, maintainability, sustainability,
+- scalability
+- 'technical debt'
 
 ## realistic efficiency:
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
