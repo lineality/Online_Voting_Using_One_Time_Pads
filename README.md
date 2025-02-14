@@ -1566,6 +1566,11 @@ electricity cost
 - scalability
 - 'technical debt'
 
+## Production Databases
+- security
+- scalability
+- maintainability
+
 ## realistic efficiency:
 - web applications are usually designed with very strange goals that make the overall process extremely brittle, expensive, and unsustainable, in order to chase fetich-goals with little or no real value (fancy UI, high speed)
 - election system should be robust with no added features that are not absolutely needed: few dependencies, secure, 
