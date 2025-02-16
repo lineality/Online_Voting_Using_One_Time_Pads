@@ -2034,6 +2034,11 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 
 ## Formalities of ownership and tragedy of the commons
 
+## Non-Automatic Processes & Equilibria
+- Implications of non-automatic learning 
+- system literacy for local and regional project administration
+- 
+
 ## Psychology and learning in types of signal environments
 
 ## meaning and multilingual elections
