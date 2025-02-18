@@ -2971,6 +2971,10 @@ temporal measures of legibility
 - sports psychology and coordinated decisions
 - psychology of testing-metrics and data procedures
 
+## Patterns in Misperception
+2025.02.17
+- history of bad technology use and planning
+
 ## System design
 - secure by design
 - trust vs. trust-less
