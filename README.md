@@ -2657,6 +2657,16 @@ connecting Jan with open frameworks for
 ## Mappability and dynamics of signals perception and learning with presentation and definition of mandates and choices
 
 
+## General Overreach, mis-reach, unsustainable or mirage efforts
+2025.01
+- wrong approach
+- bad goal
+- wrong scale or scope
+###
+- abstraction type
+- miscalculation type
+
+
 ##  STEM, Context, and Measurement vs. Nihilism, Disinformation & Collapse
 
 ## Process & the Hypothetico-Deductive Method
