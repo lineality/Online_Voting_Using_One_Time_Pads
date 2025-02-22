@@ -3419,6 +3419,12 @@ subsonic(vibration),
 - file size
 - variable size
 
+# sustainable infrastructure
+- cost to rebuild
+- understandability to rebuild
+- cost to maintain
+- understandability to maintain
+- cost over time
 
 ## sustainably funding academia to support decision infrastructure
 - 
