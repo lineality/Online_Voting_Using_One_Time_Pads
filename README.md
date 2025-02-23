@@ -984,6 +984,13 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ## Disturbance Regime Management in Data Ecosystems
 
+## Heterogeneous Equilibria & Distributions
+- invisible until learned 'objects'
+- illusions and mirages
+- attacks: disinformation
+- 
+
+
 ## Outlining a System Literacy Curriculum:
 ### General accessible literacy areas:
 #### Project Management
@@ -1034,6 +1041,13 @@ v5
 - Features: User-Features & Subfeatures (or hidden features) 
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Ecological Effects, Communication, Documentation & Iteration (~agile)
+#### v7
+- Process: Values, Agenda, Methods, Coordinated Decisions (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
 - skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
