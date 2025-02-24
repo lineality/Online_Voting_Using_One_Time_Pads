@@ -1048,6 +1048,14 @@ v5
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+#### v8
+- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
 - skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
@@ -1148,7 +1156,7 @@ problem_diangostics
 ## Needs and Goals
 - standard areas
 ## scope management and default bad expansion
-## alignment management and default bad drift appart
+## alignment management and default bad drift apart
 ## Decision Task Attributes:
 - needs and goals array: past, present, expected future, goal future, ideal future
 - schedule items
