@@ -1145,6 +1145,7 @@ Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best
 ### health, problem identification, epidemiology, diagnostics
 problem_diangostics
 - Munich & Project Management: 1930's vs. Agile
+-- Case Study Munich Agreement Issues
 ~ collapse diagnostics
 ~ fitness diagnostics
 ~ information epidemiology
