@@ -2366,7 +2366,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - prospect theory
 - how options are phrased
 
-
 ## principles of coordination in a context of non-automatic perception and non-automatic learning
 - feedback
 - habit
@@ -2386,7 +2385,7 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - scope drift
 - while true: processes stuck in loops
 
-## Specialization, Representation, and contextual hirarchies of participants (2024.07.03)
+## Specialization, Representation, and contextual hierarchies of participants (2024.07.03)
 
 ## Rules of Evidence in reporting, claims, and advocacy
 2024.08.14
@@ -2395,10 +2394,10 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 ## Defining time and resource requirements near term to long term
 
 ## General Participation and fitness (2024.07.03)
-- perception fittness
-- articulation fittness
-- modeling fittness
-- learning fittness
+- perception fitness
+- articulation fitness
+- modeling fitness
+- learning fitness
 (input output measures?)
 
 ## Partial participation (2024.07.03)
