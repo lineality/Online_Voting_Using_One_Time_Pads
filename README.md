@@ -988,8 +988,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 - invisible until learned 'objects'
 - illusions and mirages
 - attacks: disinformation
-- 
-
 
 ## Outlining a System Literacy Curriculum:
 ### General accessible literacy areas:
@@ -2809,7 +2807,6 @@ In any given human endeavor where there appears to be some relative success and 
 # Edge Case or non-edge case definitions
 - definine where database/datastructure time and clock sync issues are edge cases or not edge cases
 
-
 ## Proxies and Measures of Fitness in a context of Roles in a context of specific projects including administration:
 types/categories:
 - characteristic of participant: age, birthplace, stakeholder (arguably a form of 'test')
@@ -2858,14 +2855,9 @@ note:
 ## Historians and Archives
 - records
 - accounts
-- 
 
 ## example from history and educational stories:
 - The Heike Monogatari
-- 
-
-
-
 
 ## Distributed, Bulk and Batch operations:
 - managing 'voter' databases: 
