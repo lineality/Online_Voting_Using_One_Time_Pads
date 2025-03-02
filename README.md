@@ -989,6 +989,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 - illusions and mirages
 - attacks: disinformation
 
+# Population Statistics and Individual Statistics
+- Institutions and Representation
+
 ## Outlining a System Literacy Curriculum:
 ### General accessible literacy areas:
 #### Project Management
