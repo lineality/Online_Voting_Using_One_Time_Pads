@@ -2074,7 +2074,6 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 ## Non-Automatic Processes & Equilibria
 - Implications of non-automatic learning 
 - system literacy for local and regional project administration
-- 
 
 ## Psychology and learning in types of signal environments
 
@@ -2105,7 +2104,6 @@ choices
 # Distributed Servers and modularization of process
 - time modules
 - data size modules
-- 
 
 # Lagging Indicators
 - 
