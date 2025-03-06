@@ -2485,8 +2485,12 @@ context vs. cutup:
 - optional and mandatory participation
 - abstraction and perception (secret, anonymous ballots)
 
-## Testability of Claims
-- 
+## Testability
+- Assumptions
+- Statements and assertions
+- Claims
+- Code
+- fault tolerance
 
 # participation, populations, distillation
 
