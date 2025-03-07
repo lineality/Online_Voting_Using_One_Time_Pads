@@ -992,6 +992,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 # Population Statistics and Individual Statistics
 - Institutions and Representation
 
+
 ## Outlining a System Literacy Curriculum:
 ### General accessible literacy areas:
 #### Project Management
@@ -1056,10 +1057,16 @@ v5
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback: Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
-
+#### v9
+- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
-- skipping steps: trying to jump to later bsteps without doing early-stage steps (not uncommon) 
+- skipping steps: trying to jump to later steps without doing early-stage steps (not uncommon) 
 - indeterminate goals: constantly changing, appearing and disappearing, vague placeholders and proxies (not uncommon) 
 - no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon) 
 - lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
@@ -1451,23 +1458,20 @@ Voting and principles of security (ease of use vs. security etc)
 ## Improvised or ad-hoc Network in case of public internet disruptions:
 - mesh?
 
-# Fancy Bear goes Phishing, Broadband, People's Computing (sp?): Some kind of study of social-ecology and technology, or culture and technology, or 'upcode' or...how low level and high level have to merge in projects -> as relates to coordinated decision making and voting
+## Fancy Bear goes Phishing, Broadband, People's Computing (sp?): Some kind of study of social-ecology and technology, or culture and technology, or 'upcode' or...how low level and high level have to merge in projects -> as relates to coordinated decision making and voting
 
-
-# DNS policy:
+## DNS policy:
 - direct DNS with no lookup
 - dns over https...
 
-# Modes for server posted material that cannot be altered by any command on that server
+## Modes for server posted material that cannot be altered by any command on that server
 
-# Backup signal transmission for areas with disturbances to telecommunications:
+## Backup signal transmission for areas with disturbances to telecommunications:
 - the need for emergency ad hoc EM spectrum signal protocols
 
+## measurements for disruption distortion and collapse
 
-# measurements for disruption distortion and collapse
-
-
-# Micro Signal Coordination
+## Micro Signal Coordination
 Cellular vs. Macro level for:
 Conditional Expression and Signal Gaps: General Signal Processing And General Instruction Management
 1. 'Artificial' Neural Networks and Neurons vs. Biological Signal Systems
@@ -1493,13 +1497,12 @@ How about a system where a candidate who get's less (or perhaps more too) than a
 
 
 # is there a general space of process errors
-for system of coordinated decisions on processes?
+for systems of coordinated decisions on processes?
 ## discipline specific project-task contexts:
 - six sigma
 - systems engineering
 - medical
 - education
-- 
 
 
 # How much does a decision/Election Cost? 
