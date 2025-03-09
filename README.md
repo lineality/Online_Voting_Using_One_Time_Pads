@@ -1353,7 +1353,6 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 # Tool areas: whole voting system tools
 
-
 #### Election Results Analysis
 
 #### Election Inspection
