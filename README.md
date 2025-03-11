@@ -1765,26 +1765,21 @@ derivation and integration of process modules
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
 
 
-
-
-# signal interpretation:
+## signal interpretation:
 - reversal
 - mirage
 - super-signals
 - short term
-- 
-## note blindly following excitation and stimulation
-
-## not mis-interpreting signals:
-
-## impulsiveness:
+### note blindly following excitation and stimulation
+-
+### not mis-interpreting signals:
+-
+### impulsiveness:
 - naive attraction
-
-## Ulterior motives:
-
-## Proxy Management:
+### Ulterior motives:
+-
+### Proxy Management:
 - 
-
 
 
 ## priorities in coordinated decision networks and databases:
