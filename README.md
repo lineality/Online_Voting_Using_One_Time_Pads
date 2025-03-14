@@ -1234,6 +1234,10 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 # workflow studies
 - 
 
+# Bureaucracy and Code, Not a reified Antagonist
+- coding issues and best practice compared with fears of villainous administrations
+- feedback and cargo cults  
+
 ## externalizing Datastructures and Delineations
 - swap 'demarcation' system (term to use... 'syntax' swap?)
 - TOML swap, swap, 
