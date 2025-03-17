@@ -1527,8 +1527,8 @@ electricity cost
 ## What problems can be modeled as equilibria?
 ## 
 
-# On the operational definition of voting issue and voting choices:
-
+# On the operational definition of voting issues and voting choices:
+-
 
 # Applied-Algorithms: Efficient computation of ballot processing
 - error checking
