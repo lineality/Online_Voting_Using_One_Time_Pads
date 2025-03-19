@@ -2650,7 +2650,6 @@ connecting Jan with open frameworks for
 - the dimensionality of data and state, project-state
 - 
 
-
 ## strategies for managing sunset clauses
 
 ## precedent in modes of ruling vs. sunset limits on specific laws
@@ -2669,7 +2668,6 @@ connecting Jan with open frameworks for
 - non-potemkin-village
 - externalization (as in Object Relationship Spaces & Projects)
 
-
 ## A STEM approach to defining and defending against nihilism
 
 ## Projects, Puzzles, Games, Tests
@@ -2685,7 +2683,6 @@ connecting Jan with open frameworks for
 
 ## Mappability and dynamics of signals perception and learning with presentation and definition of mandates and choices
 
-
 ## General Overreach, mis-reach, unsustainable or mirage efforts
 2025.01
 - wrong approach
@@ -2694,7 +2691,6 @@ connecting Jan with open frameworks for
 ###
 - abstraction type
 - miscalculation type
-
 
 ##  STEM, Context, and Measurement vs. Nihilism, Disinformation & Collapse
 
@@ -2717,15 +2713,12 @@ There is perhaps a strange parallel in negative-definition where future-state in
 - What measures can be used for what?
 - What claims of measurement or use are dubious?
 
-
 ## Identifying goals that are hybrid-fragment-illusions and not related to:
 - the project
 - data
 - evidence
 - group agreed upon goals means methods
 - best practice
-
-
 
 ## No One Size Fits all system
 - like databases
@@ -2811,7 +2804,6 @@ In any given human endeavor where there appears to be some relative success and 
 - populism
 - ideology (e.g. from French revolution)
 - optimism (From Candid)
-
 
 # Edge Case or non-edge case definitions
 - definine where database/datastructure time and clock sync issues are edge cases or not edge cases
