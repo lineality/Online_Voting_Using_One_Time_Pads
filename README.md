@@ -904,20 +904,17 @@ Question: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
 
-
 ## Data Formats Data Structures externalization serialization and read-able serialization
 - it may be important for data structures such as dictionaries of lists (to use the python terms) to be able to be exteranlized,shared and loaded and stored in a read-able printable format.
 - non-transparent, non-inspectable, none-step-trace-able formats may be optimized for computation but not suitable for a system where communication is the highest priority
 - externalization without binary serialization
 - maybe field length and type meta-data handling
 
-
 ## automating speaking time at debates?
 - 
 
 ## types of bytes in coordination data
 - pre-empting type conversion issues
-
 
 ## Practical Model 2:
 Similar to baseline secure model with these changes.
@@ -2852,6 +2849,8 @@ note:
 #### rehabilitation and healing, learning
 
 ## long term data storage problems: paper computers
+- storage write options
+- storage read options
 
 ## Historians and Archives
 - records
