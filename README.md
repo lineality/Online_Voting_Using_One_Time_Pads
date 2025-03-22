@@ -3360,7 +3360,10 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 
 
 ## Bad Actors
+-
 
+## Historical Pitfalls & Gauntlet
+- 
 
 ## voting, probability, statistics, modeling, census:
 - representation
