@@ -2645,7 +2645,6 @@ connecting Jan with open frameworks for
 
 ## Project State, System State, and Data State in Coordinated Decisions
 - the dimensionality of data and state, project-state
-- 
 
 ## strategies for managing sunset clauses
 
@@ -3086,7 +3085,6 @@ is a set of processes.
 
 ## From Debate Moderation to Dispute Mediation (2024.07.08)
 
-
 ## Forms of democracy and types and structures of elections:
 - forms of decision making in history:
 -- from 'the decline and rise of democracy' book
@@ -3100,9 +3098,7 @@ is a set of processes.
 ## Coordinated Decisions, Externalization, Agile, and the language-psychology of reactive-generation
 (2024.08.25)
 
-
 ## metrics roles organizations wholes and parts
-- 
 - 
 
 ## John Adams, Democracy and Checks & Balances
@@ -3114,7 +3110,6 @@ is a set of processes.
 - https://en.wikipedia.org/wiki/Edmund_Burke 
 
 ## speed of voting, protest votes, and reactions to violent takeovers
-
 
 ## mediation education and long term issues
 2024.06.17
@@ -3185,7 +3180,6 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - types of type
 - time scales and processes from sunsets-clauses to campaign durations to security-attack surface, computation time, etc.
 
-
 ## State: semantics: system-state (unclear convention), administrative-state (government), and analytic-state (statistics)
 - 
 
@@ -3209,7 +3203,6 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 ## production vs. development (production-deployment vs. R&D)
 - resource efficiency
 
-
 ## Communication, Instruction, Stories and Concepts
 - procedures
 - values
@@ -3218,8 +3211,6 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - What is the difference between an oppressive institution that stifles society, and a productive institution in a check-and-balance ecosystem? 
 When productive diverse-institution countries look at desert-theocracies:
 -- Alfred W. Crosby quote on middle east view of europe pre-renaissance,
-
-
 
 ## standard task and behavior benchmarks
 - coordination
@@ -3295,7 +3286,6 @@ Role and Sources of Stochasticity in decision coordination:
 ## Flow Chart Compiler
 Flow chart to functions to compiled code
 
-
 ## Aspects of Challenges in Succession: (2024.06.30)
 - emergency succession in cases of end-of-term by death or incapacitation
 - quantifying non-death incapacitation (classic example: US President Tommy Woodrow Wilson)
@@ -3309,7 +3299,6 @@ Administrations failing to support their own successors:
 - limiting the time and scope of 'emergency powers' which historically are needed in real emergencies, and are also historically frivolously invoked by anyone who wants a power grab at any time for no reason.
 Q: In what specific ways is succession a strongly persistent point constant repeating failure, with only slow and fragile development of methods and technologies for the problem?
 Q: How have the concerns of historical thinkers from Hobbes to Montesque to John Adams (and many others) A. held up as ways of articulating the problems, and B. been addressed by later developments?
-
 
 ## Visualization of Election Data
 - principles
@@ -3355,9 +3344,7 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 ## Potential disputes over 'ownership' of election parts or results
 -
 
-
 ## stale data
-
 
 ## Bad Actors
 -
@@ -3386,15 +3373,12 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - blank check representative intermediaries
 - direct coordination (no intermediaries)
 
-
-
 ## distortion, disruption, disinformation
 - non-false disruption (where no rules are broken but nevertheless there is a campaign to disrupt 
 (book)
 How to Lose the Information War: Russia, Fake News, and the Future of Conflict Hardcover – July 9, 2020
 by Nina Jankowicz 
 https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684 
-
 
 ## contagion, spreading, disinformation and disturbances
 - epidemiology
@@ -3409,7 +3393,6 @@ lifetime
 'season'/quarterly
 'annual'
 Where does it make sense (or not) for a process to be tied to an arbitrary geologic time?
-
 
 ## Adams Franklin Jefferson, enlightenment common law constitutions:
 - STEM, law, voting
@@ -3451,12 +3434,9 @@ subsonic(vibration),
 - e.g. the summary chapter of 'Noise' seems problematically broad, though there are surely specific relevant contexts.
 - Remember Karl Popper: ~"If an account can apply to anything, and is falsifiable nowhere, it is fraudulent." (heavy paraphrase by me)
 
-
 ## The problems of perfunctory-obligatory derision as a liability of political party opposition: (2024.07.16)
 - When whoever the other 'gang' appoints is the worst, when 'your person' is always the best.
 - excessive asymmetry: flipside: we are always right because we must always win, you are always wrong because you must always lose; winning myopic pedantic battles in the short term is everything/is the only thing.
-
-
 
 ## Coordinated decision making and architecture tasks: distributed overlapping logic
 - counting tasks
@@ -3467,7 +3447,6 @@ subsonic(vibration),
 
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
-
 
 - Distributed Multipoint Conferencing Units (MCU) 
 -- distributed data structures
@@ -3517,16 +3496,13 @@ subsonic(vibration),
 
 
 ## measuring outcomes, measuring process, and measuring ~noise
-
 - 
 - 
-
 
 ## countability, metrics, and definitions
 
 ## Metrics:
 - Metrics for shorterm/longterm disjunctions
-
 
 ## Pattern, Protocol, and Process
 - skill, ability, learning
@@ -3554,7 +3530,6 @@ subsonic(vibration),
 - 
 - 
 
-
 ## Curricula, Fitness, and decision-coordination in Projects
 (2024.05.03)
 - non-automatically learned skills
@@ -3573,7 +3548,6 @@ subsonic(vibration),
 - costs of operations
 - schedules, sequence-orders of operations, 
 - modular-depth and scales of numbers of modular processes
-
 
 ## Definition Behaviors, Questions, and Signal Coordination
 
@@ -3602,7 +3576,6 @@ subsonic(vibration),
 - tethering and anchoring perception to reality
 - the psychology and sociality of extremely wrong perception
 - super-signals and consistent fantasy-spaces and consistently disagree with STEM realities.
-
 
 ## Thresholds of adoption for system to be practical
 
@@ -3639,7 +3612,6 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - ranked choice, noise handling, and Shannon-Turing Unit-Communication
 - ranked choice in accurate option selection as a form of signal error checking
 
-
 ...
 
 (2024 11 29)
@@ -3662,7 +3634,6 @@ C. narrow deep learning (~2010-2020) (or 1940-2020)
 D. foundation models (2015/2020-?????)
 E. ? (?-?)
 etc.
-
 
 ...
 (2024 11 29)
