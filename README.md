@@ -1061,6 +1061,7 @@ v5
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+##### Psychology of following through, dealing with discouragement
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
 - skipping steps: trying to jump to later steps without doing early-stage steps (not uncommon) 
@@ -2988,6 +2989,18 @@ vs.
 
 ## Individuals and institutions in voting and infrastructure
 from decentered /decentralized elections and networks to centralized political parties, servers, and cloud resources, proportional representation, etc.
+
+## Coordination and Fitness
+- meritocratic participation
+- "tradition" "religion" fitness and participation
+- is 'pagent-show' theocracy a form of populism?
+- is 'testosterone-show' a form of populism?
+- 
+
+# STEM Perception and Psychology of Metrics
+- Measures
+- Scores
+- 
 
 ## Applications of Mandate-Based Systems
 - 
