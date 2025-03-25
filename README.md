@@ -3442,6 +3442,8 @@ subsonic(vibration),
 ## sustainably funding academia to support decision infrastructure
 - 
 
+# Pedagogy & Coordinated Decisions
+- 
 
 ## problem-space categories of decisions
 - e.g. the summary chapter of 'Noise' seems problematically broad, though there are surely specific relevant contexts.
