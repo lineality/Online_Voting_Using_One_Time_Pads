@@ -3507,11 +3507,11 @@ subsonic(vibration),
 - feedback loops
 - project elements
 - data hygiene
-- 
 
+## Specific HR features/tools?
+## Specific QA/QC features/tools?
 
 ## measuring outcomes, measuring process, and measuring ~noise
-- 
 - 
 
 ## countability, metrics, and definitions
