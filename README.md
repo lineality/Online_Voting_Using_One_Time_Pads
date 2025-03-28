@@ -1986,7 +1986,8 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - clarity of definition
 
 
-
+# short term long term disjunctions / long term short term disjunctions
+- D.H.Chew Jr. 'The Making of Modern Corporate Finance' (
 
 ## clear communication
 2024.05.16
