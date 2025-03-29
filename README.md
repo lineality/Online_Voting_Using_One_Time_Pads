@@ -1061,6 +1061,13 @@ v5
 - Features: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+#### v10
+- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features_Skills: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
+- Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 ##### Psychology of following through, dealing with discouragement
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
