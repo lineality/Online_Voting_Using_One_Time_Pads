@@ -2804,6 +2804,8 @@ Causes of Success Among Broken Clocks
 2024.05.26 sun gga
 In any given human endeavor where there appears to be some relative success and competition at a given time, it can be non-trivial to identify what the future trajectory is for those who appear 'correct' at one given time, and to ascribe 'success' to what may be either a random outcome or an incomplete act of self-destruction.
 
+# Certification
+(topics)
 
 ## Historical Terms and Timeless Patterns
 - populism
