@@ -1395,17 +1395,20 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 ## Defining & Systematizing Elections as 'projects' with Agile and Six Sigma
 
-## what are various either easily or not-easily measured goals and problems or errors for coordinated decisions?
+## What are various either easily or not-easily measured goals and problems or errors for coordinated decisions?
 
 ### Why are specific technologies used for voting? 
 
 ### What is different about 'electronic,' 'network,' and data structure technologies? (making them appropriate or inappropriate for voting systems)
 
 ## Demand Distortion and General Coordinated-Decision (voting) Spaces
-	- learning
-	- collapse
-	- compassion
-	- product development valley of death, demand distortion, want vs. 'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
+- education
+- learning
+- collapse
+- compassion
+- product development valley of death, demand distortion, want 
+vs. 
+'should want', education, learning, non-automatic learning, equilibria, bad-equilibria, etc.
 
 ## Defaults and Equilibria
 (2025.01.02)
