@@ -1891,7 +1891,11 @@ derivation and integration of process modules
 - empty values
 - empty signals
 
-# technical debt and choice that increase difficulty
+# future-related choices that increase difficulty
+- "technical debt"
+- future proofing
+- scope and schedule issues
+- sustainability
 
 # System Health, System Coordination, System Voting
 - measurement and system health measurement
