@@ -1264,6 +1264,16 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 - low hanging fruit
 - shiny distractions vs. practical tools and functionality
 
+# Challenging areas and known obstacles
+- schedule challenges
+- coordination challenges
+- externalization challenges
+- perception challenges
+- learning challenges
+- coordination challanges
+- communication challenges
+- project challenges
+- sustainability and liability challenges
 
 # Standards and Measures
 - file types
