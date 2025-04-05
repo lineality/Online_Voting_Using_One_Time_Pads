@@ -2639,13 +2639,11 @@ connecting Jan with open frameworks for
 - 3rd party arbitration
 - no-trust contracts
 
-
 ## Data Representation: Stateful Hybrid Structured and Unstructured Document Corpus Processing:
 - slim topic id phase
 - vectorication of topics
 - topic-vector document mapping phase
 - corpus representation phase (maybe graph)
-- 
 
 ## General Tradeoff between exploring and trimming paths
 (2024.09.05)
@@ -2654,7 +2652,6 @@ connecting Jan with open frameworks for
 - coordinating planning
 - coordinated navigation
 - cut-up projects
-
 
 ## more data types
 - IoT Translation and multi-modal data (2024.08.29), from ecological translation to institutional production
