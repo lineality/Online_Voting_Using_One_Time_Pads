@@ -1338,6 +1338,14 @@ This set goal could be stated as: Use STEM based methods and policies to help de
 
 ...
 
+# STEM and Participation
+# Participation Areas
+- fitness
+- developmental factors
+- nonlinearity
+- equilibria in mindspace
+- Hobbes' deliberate omission
+
 ## Participation Rules
 - 36 years as required age of person to be able to be elected
 (issues around this)
