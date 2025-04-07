@@ -14,7 +14,7 @@
 - https://github.com/lineality/definition_behavior_studies 
 ### Bibliography & Resources
 
-# Clarifying Goals and Questions:  
+# Clarifying Goals and Questions:
 - Main Goal: Systematize secure online voting.
 - Main Questions: 
 #### 1. Is secure-auditable online-voting possible in principle?
@@ -3470,6 +3470,7 @@ subsonic(vibration),
 - cost to maintain
 - understandability to maintain
 - cost over time
+- simplicity, minimalism vs. fetish-art
 
 ## sustainably funding academia to support decision infrastructure
 - 
