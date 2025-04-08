@@ -91,7 +91,6 @@ Question: Design Questions:
 - file and directory delimited values
 - 
 
-
 ## Steps (For Conceptual-Ideal Election)
 
 #### Step 1: (During in-person Voter Registration: start registration [not-over-a-network/not-online]:) 
