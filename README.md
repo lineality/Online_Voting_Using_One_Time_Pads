@@ -1454,10 +1454,11 @@ vs.
 - how new ideas enter into systems
 - how disinformation destroys everything
 
-
-## equilibria & bad-equilibria
+## Equilibria
+- equilibria as analogy or as literal
+- heterogeneity of equilibria
+- bad-equilibria
 - overall landscape of options in outcomes
-
 
 ## Perception and Illusion: ("Monday Morning Quarterbacks")
 - measuring the resistance of causality reification in random events such as Noisy-Games
@@ -3027,12 +3028,10 @@ from decentered /decentralized elections and networks to centralized political p
 - "tradition" "religion" fitness and participation
 - is 'pagent-show' theocracy a form of populism?
 - is 'testosterone-show' a form of populism?
-- 
 
 # STEM Perception and Psychology of Metrics
 - Measures
 - Scores
-- 
 
 ## Applications of Mandate-Based Systems
 - 
@@ -3093,7 +3092,6 @@ vs.
 
 ## Security Needs vs. Command-line Aversion and super-signal attraction
 - 
-- 
 
 # Best Practice
 ## Definition Behavior & System Collapse
@@ -3121,8 +3119,6 @@ to structured and semi-structured information,
 is a set of processes.
 - Sometimes structured information is very useful and functional (STEM).
 - Sometimes structured information abstractions are a recreational luxury for whim.
-
-
 
 ## empty placeholders in process reification illusions and goal reification illusions
 - empty placeholder abstractions are not project goals or project processes for achieving goals
@@ -3164,7 +3160,6 @@ is a set of processes.
 -- Heike
 -- US civil war and "reconstruction" (how not to do things)
 -- 'There is nothing for you here' and time period fiction
-
 
 ## Dysfunctional Areas
 2024.06.17
