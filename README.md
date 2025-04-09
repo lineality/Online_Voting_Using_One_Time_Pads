@@ -2216,17 +2216,14 @@ by Deborah M. Gordon
 ## software, operating system, language, network resources for open, public, charity use:
 - minimal
 - secure
+
 ...
-
 ## coordinated decisions in open, closed, and semi-closed data-ecosystems
-
 ...
 
 ## Automated testing of question ambiguity
 - see automated benchmarks
 - decision coordination and STEM (see Online Voting Using One Time Pads github >= v76)
-
-...
 
 ## meta-data layers: handling and interfacing multiple and changing data storage format: 2024.03.12
 - when different sets of fields are used
