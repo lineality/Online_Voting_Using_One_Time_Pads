@@ -2088,6 +2088,8 @@ Literally or proverbially software since 1970 has been a self-conspiracy among c
 ## Eliza Effect & Coordinated Decisions
 - staying grounded when either the tools or the results or the process may or will inspire participants to diverge from reality or probability and enter into areas of unfounded belief without recourse to verification or accurate assessments of likelihood. (2024.04.20)
 
+# learned helplessness and testing implicit assumptions
+- aggressively teaching STEM values in perpetuity in a sustainable way 2025.04.09
 
 ## tests, data, and diagnostics for functions and sets of functions and tasks
 - testing coordination systems
