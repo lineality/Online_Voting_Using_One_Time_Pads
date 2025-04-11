@@ -1216,6 +1216,10 @@ Stop these assumptions:
 - no one makes schedule mistakes
 - communication is automatic and effortless and uses time travel
 
+## Modeling a persistent failure to learn
+- 
+- cases: 'reappraisals' --TJ
+
 ## Collapse & Negative Definitions
 - mirages caused by collapse: 'bad planning' and the illusion of pejorative reifications
 - 'takeover' vs. 'vacuum', 'taken over by a vacuum'?
@@ -3264,6 +3268,8 @@ Role and Sources of Stochasticity in decision coordination:
 - stats in analysis after events
 
 ## Mythology and Coordinated Decisions
+- stories as understanding
+- stories the reflect a lack of understanding (2025.04.10)
 
 ## Election design and goals: disinformation and distortion
 - can feedback or other mechanisms steer the design and use of coordinated-decision-events (selections) to constructive tasks
