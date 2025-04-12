@@ -1436,7 +1436,6 @@ vs.
 - default easy popular junkfood attractive bad practice: bad equilibrium
 - health food best practice that is unfashionable unattractive unpopular not automatically learned, not automatically percieved, not a default equilibrium
 
-
 ## Demand Distortion: Factors and Areas of impact
 - definition collapse
 - perception collapse
@@ -2538,6 +2537,7 @@ The buck stops here; what exactly do we mean by 'statistics'?
 - catagories and edges of statistics
 - statistics math, STEM, computer science
 - datastructures and statistics
+- key statistics and data science for running tools, not for predicting outcomes.
 
 ## training and effective education
 teaching how to participate in coordinated decision making
