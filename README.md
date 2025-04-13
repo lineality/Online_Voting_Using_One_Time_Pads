@@ -903,6 +903,10 @@ Question: possible requiring of ballot being completely filled out
 - digital signature etc.
 - checksum etc.
 
+# Data
+## Sustainable data operations:
+(rows and columns?/.csv-db?)
+
 ## Data Formats Data Structures externalization serialization and read-able serialization
 - it may be important for data structures such as dictionaries of lists (to use the python terms) to be able to be exteranlized,shared and loaded and stored in a read-able printable format.
 - non-transparent, non-inspectable, none-step-trace-able formats may be optimized for computation but not suitable for a system where communication is the highest priority
