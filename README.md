@@ -2132,7 +2132,6 @@ be clearly defined as simple choices, that can elusively be defined,
 or decisions that cannot be reduced to binary or classification
 choices
 
-
 # successional sustainability & 'the achilles heel of succession'
 - generational succession
 - team to team succession
@@ -2800,7 +2799,6 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## social context in categories of configuration data for data structures and databases (2024.04.07)
 - 
-
 
 ## standardized or agreed-upon ways of modeling future outcomes in a context of coordinated decisions making
 
