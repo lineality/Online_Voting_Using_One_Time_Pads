@@ -1978,6 +1978,11 @@ derivation and integration of process modules
 
 #  Records, versioning, documentations, testing standards
 
+## Learning, Need & Assistance Areas:
+- What are the learning and fittness limiting factors in coordinated decisions and projects? 
+- Project Neem
+- Project Uma
+
 
 ## operationally defining freedom for free elections: see
 From Sin-obsessed-authoritarianism to Naive-rebellion-revolution to 1970's denial-ism, to 2020-Information-War from/in
