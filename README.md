@@ -2657,6 +2657,8 @@ connecting Jan with open frameworks for
 - 3rd party arbitration
 - no-trust contracts
 
+# Interfacing Structured, Unstructured, and Semi-structured data and tasks
+
 ## Data Representation: Stateful Hybrid Structured and Unstructured Document Corpus Processing:
 - slim topic id phase
 - vectorication of topics
