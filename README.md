@@ -5,7 +5,7 @@
 ## Voting, Decision, & Consensus Systems in Networks and in General
 #### Project-Context Decision-Making Involving Participants and Components
 
-# Contents: 
+# Contents:
 ## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
@@ -2906,8 +2906,6 @@ note:
 - managing 'voter' databases: 
 -- outreach
 -- updates
--- 
-
 
 ## Efficiency and the stories of Modernism
 - (note: 'measure for measure' previewing later themes)
