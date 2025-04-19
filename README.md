@@ -957,7 +957,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## Education
 - skills and fitness for projects and collaboration
 
-
+# Perception-Abstraction and disruptive effects of some processes of observation
+- 
+- 
 
 ## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
 (2024.11.25)
