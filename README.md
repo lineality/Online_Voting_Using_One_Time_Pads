@@ -1725,7 +1725,6 @@ list check
 	boolean check 
 	none check
 
-
 dict check
 	string check
 	float check
@@ -1733,10 +1732,8 @@ dict check
 	boolean check 
 	none check
 
-
 set check?
 tuple check?
-
 
 # definitions of criteria in tests
 
