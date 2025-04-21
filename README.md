@@ -1168,7 +1168,10 @@ problem_diangostics
 ~ fitness diagnostics
 ~ information epidemiology
 ### psychology, anthropology, of STEM and project management
-- 
+- decisions
+- project planning
+- bias from illusions (not knowns to be illusions)
+- cultivation of illusions
 ### needs, goals, and products
 - topic: contracts and coordinated decisions
 - contingency-logic-agreements: if else while break (cross-team?)
