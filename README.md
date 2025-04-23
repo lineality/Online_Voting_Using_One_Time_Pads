@@ -1004,6 +1004,7 @@ What OS, what network architecture, and what cyber security strategies should/co
 #### STEM
 The goal here is to define areas of common issues as clearly as possible. We should be wary of using terms that could be defined in variable or broader ways, e.g. 'scope' 'alignment' 'goals' are quasi-synonymous for the whole exercise, so probably should not be used as the name for specific sub-parts; in real life, sometimes these broader terms are used to refer to or imply specific sub-items, sometimes this may be practical, and sometimes they may be problematically vague and indeterminate.
 ## Collaboration Tools
+### Project Areas
 Goals, Scope Alignment: definition items (2025.01.19)
 - extremely frequent problem areas (constant disturbance regimes)
 - extremely invisible; hard to see, hard to communicate about, hard to learn about,
@@ -1964,6 +1965,10 @@ derivation and integration of process modules
 - coverup
 - vaporware
 - reification, perception illusions
+
+## process: 'process' as a STEM innovation contrary to default perception and assumption
+(2025.04.22)
+- making 'next-iteration' decisions based on data-observation
 
 
 ## skills and abilities required to support projects and coordinated decisions
