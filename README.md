@@ -1793,7 +1793,6 @@ derivation and integration of process modules
 - type types: monotonic
 - delayed source UTC
 - Astronomical and off-planet time
-- 
 
 ## Franklin's Commonwealth 
 2024.08.06
@@ -1803,7 +1802,6 @@ derivation and integration of process modules
 - 
 
 ## Using Technology (including NLP-AI) to search and explain about voting topics, ballot initiatives, and issues connected. etc. e.g. All the issues related to a water-regulation change and what might be affected in the short and long term.
-
 
 ## signal interpretation:
 - reversal
@@ -1820,7 +1818,6 @@ derivation and integration of process modules
 -
 ### Proxy Management:
 - 
-
 
 ## priorities in coordinated decision networks and databases:
 - atomicity
@@ -1859,7 +1856,6 @@ derivation and integration of process modules
 - public vs. ownership
 - communication vs. encryption
 
-
 ## clarity on divergent project agendas
 
 ## Taboos and Prohibitions that may interfere with coordinated decisions
@@ -1882,7 +1878,6 @@ derivation and integration of process modules
 
 ## Decision process task size:
 - for breaking down and building up larger election processes
-
 
 ## Ascii vs. Diversity: balancing universal tools with universal users
 - 
