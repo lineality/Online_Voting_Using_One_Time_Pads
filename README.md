@@ -3,7 +3,7 @@
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
-#### Project-Context Decision-Making Involving Participants and Components
+#### Project-Context Decision-Making Involving Participants and Components:
 
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle
@@ -177,6 +177,9 @@ Question: Is there a way to optimize OCR? e.g. letter per box format? Alternativ
 - open source
 - safety, reliability issues
 
+
+
+
 #### Reference: 
 "Roll Off at the Top of the Ballot: Intentional Undervoting in American Presidential Elections"
 December 2003 Politics & Policy 31(4):575 - 594
@@ -239,7 +242,8 @@ The neglected topic of entropy often comes back to byte us. If:
 If someone wishes to save old one-time-pads(e.g. QR-codes). Or: If someone does not dispose of old one-time-pads(e.g. QR-codes). And: If one-time-pads(e.g. QR-codes) were not generated in a sufficiently random way, then by studying a collection of old one-time-pads(e.g. QR-codes) that were generated using a not-sufficiently-random process it could be possible (or even trivial) to 'hack' the one-time-pad(e.g. QR-code) generation process and thereby be able to disrupt many parts of the voting system.
 
 
-
+Note: 2025.04.24
+Sharing whitelist-ip information while sharing One Time Pad information may be useful. 
 
 # Risks, Attacks & Security
 
