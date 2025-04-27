@@ -4183,6 +4183,10 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - https://www.youtube.com/@CGPGrey/search?query=voting 
 
 
+### Case Study in 2025 Diaspora Elections
+- Ukraine in 2025 is facing pressure to hold election while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
+- What would the requirements be for a sufficiently robust diapora-flexible election to be held? 
+
 #### Case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
