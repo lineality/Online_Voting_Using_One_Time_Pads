@@ -1078,6 +1078,13 @@ v5
 - Features_Skills: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
+#### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
+- handling the predictable 'culture vs. data' conflicts:
+-- rejecting [data, feedback, results, process, policy,] as being [disloyal, disrespectful, contrary to hierarchy-status, conspiracy, disobedience, etc.]
+- Handing perception issues in goals choices
+-- attractive reifications and abstractions (especially when undefinable)
+- Definability of targets, goals, tasks, and solutions.
+
 ##### Psychology of following through, dealing with discouragement
 ### Very Routine Problems:
 - schedule-confusion: treating/describing early step as later steps (not uncommon) 
@@ -3423,7 +3430,6 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 ## The self-referential coordination-system test:
 - can a coordination(voting) system be set up using its own structure?
 (the idea being that if the system is dysfunctional you will find out before applying it to an election) 2024.02.12
-
 
 ## Representation, Automation, and Intermediaries
 2024.05.01
