@@ -1078,12 +1078,15 @@ v5
 - Features_Skills: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
+
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
 - handling the predictable 'culture vs. data' conflicts:
 -- rejecting [data, feedback, results, process, policy,] as being [disloyal, disrespectful, contrary to hierarchy-status, conspiracy, disobedience, etc.]
 - Handing perception issues in goals choices
 -- attractive reifications and abstractions (especially when undefinable)
 - Definability of targets, goals, tasks, and solutions.
+- An awareness of frequent but by default invisible areas of project mis-definition and mis-alignment and breakdown (project areas above)
+#### moving from aspirational brainstorm definitions to implementable and maintainable definitions
 
 ##### Psychology of following through, dealing with discouragement
 ### Very Routine Problems:
@@ -1996,7 +1999,6 @@ derivation and integration of process modules
 - Project Neem
 - Project Uma
 
-
 ## operationally defining freedom for free elections: see
 From Sin-obsessed-authoritarianism to Naive-rebellion-revolution to 1970's denial-ism, to 2020-Information-War from/in
 The Spirit of The Code
@@ -2014,7 +2016,6 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - secure
 - specific standards and tests
 
-
 ## Time, stages, directions, models, perception:
 - Where do problems occur?
 - WHere do miscommunications occur?
@@ -2028,11 +2029,9 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - alien-paranoia and external locus of control
 - 'magical thinking'
 - learned helplessness
-- 
 
 ## interconnected decision events
 - interaction and feedback
-
 
 ## Responsibility, STEM & Values 
 (2024.10.05)
@@ -2040,7 +2039,6 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 
 ### abstractness or concreteness of designs and interfaces
 - clarity of definition
-
 
 # short term long term disjunctions / long term short term disjunctions
 - D.H.Chew Jr. 'The Making of Modern Corporate Finance' (
@@ -2086,7 +2084,6 @@ or in category or finite choice selection
 - discrete responses
 - issues with open ended 'write-in'
 
-
 # Alternate Solutions
 
 Equivalence and Non-equivalence in representation of situations and choices.
@@ -2101,7 +2098,6 @@ Equivalence and Non-equivalence in representation of situations and choices.
 - resiliency
 - security
 - error correction
-
 
 ## Data and Illusions:
 coordination decision systems need to set up in such a way that data and a tether to reality are able to keep in check and prevail over the tendency towards illusions and coverups and in potemkin villages.
