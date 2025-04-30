@@ -1909,7 +1909,6 @@ derivation and integration of process modules
 
 # Defining "Technology" for coordinated decision making including elections
 
-
 ## Measurement and Modeling in Coordinated Decisions
 - thinking fast and slow
 - game theory
