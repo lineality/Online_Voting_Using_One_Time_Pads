@@ -1079,6 +1079,8 @@ v5
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 
+## Advocacy and support tools for 'process' 
+
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
 - handling the predictable 'culture vs. data' conflicts:
 -- rejecting [data, feedback, results, process, policy,] as being [disloyal, disrespectful, contrary to hierarchy-status, conspiracy, disobedience, etc.]
