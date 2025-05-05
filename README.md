@@ -2200,7 +2200,6 @@ by Deborah M. Gordon
 - (data) types (being moved and exchanged)
 - data structures (being moved and exchanged)
 
-
 # Clearweb infrastructure vs. Deepweb infrastructure
 - 5% of tools and uses
 - 95% tools and uses
@@ -2318,7 +2317,6 @@ White-Knite signal-Relay:
 
 
 3. Portable, solar powered devices
-
 
 Could mobile-devices/smart-phones be equipped to do something like this but even better? I do not see why not in principle, and will look into exploring this as phone software, but for whatever reasons using phones for distributed signal networks is not what phone hardware OS and software makers are doing or intend to do. People love the single point of failure of centralized signal towers, and people have tunnel vision for what they love. 
 
