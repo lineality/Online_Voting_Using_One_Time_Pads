@@ -960,6 +960,9 @@ What OS, what network architecture, and what cyber security strategies should/co
 
 ## Education
 - skills and fitness for projects and collaboration
+- ~civics
+- STEM literacy
+- general non-automatic-learning areas
 
 # Perception-Abstraction and disruptive effects of some processes of observation
 - 
