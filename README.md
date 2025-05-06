@@ -3195,7 +3195,6 @@ is a set of processes.
 - repeating failures
 - case studies
 - Attraction to and avoidance of cargo-cults misinterpreting 'luck' and chance events. 
-- 
 
 ## How to deal with simplistic ethno-purity-nationalist ideas from the 1800's
 2024.06.17
