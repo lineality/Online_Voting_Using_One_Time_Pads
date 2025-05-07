@@ -2875,6 +2875,7 @@ types/categories:
 - institutions
 - first past the post simple plebiscite (51% of people vote to boil 49% of people in oil and take their stuff)
 
+
 - gerontocracy
 - aristocracy
 - kakistocracy
@@ -2929,7 +2930,6 @@ note:
 ## Principle and Implementation: frequent problems with databases and administration of projects
 2024.07.04
 - 
-
 
 # measuring disconnection from reality
 - measuring institutional disconnection from reality
