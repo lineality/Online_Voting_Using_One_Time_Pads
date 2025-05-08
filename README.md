@@ -1081,6 +1081,13 @@ v5
 - Features_Skills: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
+#### v11
+- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date; Iteration Interval)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features_Goals: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
+- Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 
 ## Advocacy and support tools for 'process' 
 
@@ -1259,7 +1266,7 @@ Stop these assumptions:
 - areas known since greece
 - survival of mind issues
 
-### Two aspects of general junkfood behavior:
+### Aspects of general junkfood behavior:
 (2025.01.16)
 1. choices made in strongly private situations (maybe not the same an anonymous environments)
 2. peer pressure and trolling bullying hazing disinformation torture against health food and healthy habits.
