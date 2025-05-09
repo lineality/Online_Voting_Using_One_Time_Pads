@@ -917,8 +917,8 @@ Question: possible requiring of ballot being completely filled out
 - externalization without binary serialization
 - maybe field length and type meta-data handling
 
-## automating speaking time at debates?
-- 
+## automating speaking-time at event such as debates
+- defining and classifying bad actors
 
 ## types of bytes in coordination data
 - pre-empting type conversion issues
