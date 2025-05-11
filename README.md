@@ -2478,6 +2478,9 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 -- e.g. States such as Oregon and Colorado have an entirely paper drop-off voting system in a timescale of weeks which works much more smoothly than, e.g. Pennsylvania's horrendous mix of in-person, and early-voting, and incomprehensible nested-envelope 'in-person-absentee' mail/drop. 
 
 ## schedule problems & disorders
+- tautologically impossible timelines
+- sequence direction problems
+- indeterminate and inconsistent goals
 - automated detection of schedule problems
 - 
 
