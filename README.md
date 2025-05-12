@@ -2459,10 +2459,10 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 
 ## General Participation and fitness (2024.07.03)
 - perception fitness
-- articulation fitness
+- articulation fitness (input output measures)
 - modeling fitness
 - learning fitness
-(input output measures?)
+
 
 ## Partial participation (2024.07.03)
 - contextual
