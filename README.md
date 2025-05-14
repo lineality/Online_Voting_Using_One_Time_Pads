@@ -3327,7 +3327,6 @@ Role and Sources of Stochasticity in decision coordination:
 
 ## STEM, fantasy, coordinated decisions, and system architecture:
 - tethering to data, feedback, and reality
-- 
 
 ## diverse-participant voting-coordination
 
@@ -3338,7 +3337,7 @@ Role and Sources of Stochasticity in decision coordination:
 - Drift to sport (uncivilized, as in Lear "I have seen drunkards do worse in sport.")
 
 ## Demand-Distortion
-- John Adams "It was all madness."
+- John Adams "It was all madness."　
 
 ## consequences on elections on culture see political theory
 
@@ -3432,7 +3431,6 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - vector representation
 - raw analogue form
 - mandate representation
--  
 
 ## logical consistency and coherence of a particular voting system and measures on the voting system
 -
