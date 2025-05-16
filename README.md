@@ -3034,10 +3034,8 @@ vs.
 ## Parties, history of representation
 - 
 
-
 ## Mandates, history of representation
 - 
-
 
 # Modeling the space of definitions for coordinated decision projects
 (2024.08.30)
