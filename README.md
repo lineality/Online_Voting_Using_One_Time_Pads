@@ -2634,6 +2634,9 @@ Revisiting Edmond Burke:
 
 ## psychology and coordinated decisions
 
+## psychology of repeating the same mistakes indefinately
+- What is going on? We have to figure this out.
+
 ## Setting location items and ancestors in local coordinated decisions (2024.04.17)
 
 ## Mirages and Siren Songs in System Design & Project-Space
