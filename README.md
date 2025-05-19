@@ -2886,11 +2886,9 @@ types/categories:
 - super-signal-test: feed a compulsion, addition, entertainment (e.g. represent a meaningless subjective reification 'has passion' fervor, 'religious' fervor, 'patriotic' fervor, etc., madness of crowd fervor. Super-signal cargo cult. [Not STEM]
 - nihilistic: deny and attack everything, construct potemkin villages [Anti-STEM]
 
-
 - old people
 - institutions
 - first past the post simple plebiscite (51% of people vote to boil 49% of people in oil and take their stuff)
-
 
 - gerontocracy
 - aristocracy
@@ -2953,7 +2951,6 @@ note:
 - lexicons
 - teaching and cultures of awareness
 
-
 ## process-participation-psychology 
 2024.05.31
 e.g. if not a great model, the "psychological" and social obstacles that arise in a context of the mechanical logistics of planning and running a chess event or series of chess events (such as Norway Chess).
@@ -2966,7 +2963,6 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 - conflicts of interest
 - cheating
 - how articulation-communication is part of perception-thought-processing
-
 
 ## edge cases around prohibitions and taboos
 
