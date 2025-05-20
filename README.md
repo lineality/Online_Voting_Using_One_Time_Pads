@@ -351,6 +351,12 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 - Military overseas are another important group of voters who are both not physically able to travel overseas yet often close to bodies of administration and organization who can facilitate voting.  
 
+- Coordinated Decisions for Field-Research
+-- data-informed decision making
+-- testing decision proposals
+-- modeling decision outcomes
+-- 
+
 # Security Section
 ### Additional steps can be taken to increase security. 
 #### For example: 
