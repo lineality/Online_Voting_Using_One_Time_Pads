@@ -3526,6 +3526,11 @@ subsonic(vibration),
 
 ## Data and Categories of Types of Systems in coordinated decision making architectures
 
+## Psychology of Data
+- psychology of randomness (K & T)
+- psychology of nonlinearity (BMandelbrot?)
+(links to...gambling sport psychology? addiction?)
+
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
 
@@ -3842,7 +3847,11 @@ A few issues are key here in the search context:
 5. unstructured-to-structured conversions
 6. tech stack
 7. matrix-processing
+...
+Infrastructure Cost & Institutions:
+- 
 
+...
 ...
 ...
 
