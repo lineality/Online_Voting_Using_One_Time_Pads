@@ -2472,7 +2472,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - modeling fitness
 - learning fitness
 
-
 ## Partial participation (2024.07.03)
 - contextual
 - possible definitions for 'full' participation
