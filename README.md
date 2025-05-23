@@ -1953,6 +1953,9 @@ derivation and integration of process modules
 - scope and schedule issues
 - sustainability
 
+## case studies and pattern identifying most-common issues with project areas such as schedule issues
+-
+
 # System Health, System Coordination, System Voting
 - measurement and system health measurement
 - system health and system collapse measurement
