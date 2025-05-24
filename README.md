@@ -2493,7 +2493,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - sequence direction problems
 - indeterminate and inconsistent goals
 - automated detection of schedule problems
-- 
 
 ## Institutional Diversity, Values, Productivity, Sustainability, STEM, Project Scales, Models and Proxies for "Culture"
 
