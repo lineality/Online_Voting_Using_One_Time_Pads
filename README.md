@@ -3322,6 +3322,11 @@ Role and Sources of Stochasticity in decision coordination:
 - network 'layers'
 - Hobbes, Montesquieu, Franklin Challenges
 
+
+# Hobbes and Fukuyama
+- describing apparent equilibria
+
+
 ## History:
 - STEM history
 - Legacies of the French Revolution
@@ -3637,7 +3642,6 @@ subsonic(vibration),
 
 ## Historical cases of breakdown
 - Rome
-- 
 
 ## Non-Homogenous Environments / Heterogeneous Environments:
 - "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
@@ -4265,4 +4269,3 @@ history_book_repository_on_political_philosophy
 ## incentives
 from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government 
 "The slots regime is a mid-century relic. In Britain—as around the world—rights are grandfathered: as long as an airline uses a slot 80% of the time, it can hold onto it, free, in perpetuity. That was fine in the 1960s when runway space was abundant; now that such space is heavily congested, it produces a clogged-up market. At Heathrow, 99% of slots are grandfathered: spare ones come up for sale rarely and at a stonking price. Challengers are locked out, or stay small. Inefficiency is rewarded: it is better for an airline to send up small or empty planes than forfeit a slot to a rival."
-
