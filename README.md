@@ -3544,7 +3544,6 @@ subsonic(vibration),
 -- distributed whitelisted networks
 -- distributed aggregating data structure contribution
 
-
 ## summarization
 ## reporting
 ### data visualization
