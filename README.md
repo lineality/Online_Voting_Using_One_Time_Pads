@@ -2881,6 +2881,13 @@ In any given human endeavor where there appears to be some relative success and 
 - ideology (e.g. from French revolution)
 - optimism (From Candid)
 
+### What does it mean to discuss a topic?
+- Listening
+- Questions
+- empirical/STEM grounding
+- fact-checking
+- statistical legitimacy
+
 # Edge Case or non-edge case definitions
 - definine where database/datastructure time and clock sync issues are edge cases or not edge cases
 
