@@ -1601,6 +1601,12 @@ electricity cost
 ## What problems can be modeled as equilibria?
 ## 
 
+
+# psychology of schedules (schedule psychology)
+- Can the answer to this question-set about the past "Is there anything you want me to improve on, or start doing, or stop doing?" depend upon the future in such a way that the answer can be punted as depending on future events?
+(2025-05-28)
+
+
 # On the operational definition of voting issues and voting choices:
 -
 
