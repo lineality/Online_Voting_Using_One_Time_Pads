@@ -1094,7 +1094,13 @@ v5
 - Features_Goals: User-Features & Subfeatures/Under-The-Hood Features
 - MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
-
+#### v12
+- 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- 2. Schedule: (Duration; Start date; Iteration Interval)
+- 3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.
+- 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
+- 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 ## Advocacy and support tools for 'process' 
 
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
@@ -4281,3 +4287,6 @@ history_book_repository_on_political_philosophy
 ## incentives
 from https://www.economist.com/britain/2025/01/22/what-an-arcane-piece-of-aviation-law-says-about-britains-government 
 "The slots regime is a mid-century relic. In Britain—as around the world—rights are grandfathered: as long as an airline uses a slot 80% of the time, it can hold onto it, free, in perpetuity. That was fine in the 1960s when runway space was abundant; now that such space is heavily congested, it produces a clogged-up market. At Heathrow, 99% of slots are grandfathered: spare ones come up for sale rarely and at a stonking price. Challengers are locked out, or stay small. Inefficiency is rewarded: it is better for an airline to send up small or empty planes than forfeit a slot to a rival."
+
+IT Agile
+https://www.economist.com/podcasts/2025/05/15/why-it-projects-so-often-go-wrong 
