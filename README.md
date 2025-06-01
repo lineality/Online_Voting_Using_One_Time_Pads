@@ -1875,6 +1875,9 @@ derivation and integration of process modules
 - scale 
 - speed
 
+## Municipal and Academic
+- software requirements and skill-ability goals
+
 ## architectural problem spaces 
 - different types of problem-spaces with decentered coordinated decisions vs. centrally handled
 - how many parties are coordinating
@@ -2344,8 +2347,7 @@ In this context, where SOS is a (theoretical) 'minimal-open-channel' you would s
 This is where signal-band comes in:
 If Uma is able to use a standard, local, CB-radio band spectrum to send and receive signals, then Uma can listen on, e.g. channel 4, sub-channel 4, for anyone near you broadcasting an emergency signal. 
 
-
-White-Knite signal-Relay:
+## White-Knite signal-Relay:
 (pending, maybe out of scope)
 
 
