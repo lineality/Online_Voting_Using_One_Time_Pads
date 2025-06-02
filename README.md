@@ -3343,10 +3343,8 @@ Role and Sources of Stochasticity in decision coordination:
 - network 'layers'
 - Hobbes, Montesquieu, Franklin Challenges
 
-
 # Hobbes and Fukuyama
 - describing apparent equilibria
-
 
 ## History:
 - STEM history
