@@ -2277,9 +2277,7 @@ by Deborah M. Gordon
 
 ### social problems with best practice not being observed
 
-...
 ## coordinated decisions in open, closed, and semi-closed data-ecosystems
-...
 
 ## Automated testing of question ambiguity
 - see automated benchmarks
