@@ -2309,7 +2309,7 @@ Security and data hygiene are also important factors on many levels: Sending dat
 
 Deliberate abuse is (again, look at history) a prominent consideration that cannot be claimed to be a surprise. 
 
-The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in anyway or every way to anyone or everyone anywhere or everywhere at any time or at all times. 
+The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in any way or every way to anyone or everyone anywhere or everywhere at any time or at all times. 
 
 The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed. For example:
 
@@ -2347,7 +2347,6 @@ If Uma is able to use a standard, local, CB-radio band spectrum to send and rece
 
 ## White-Knite signal-Relay:
 (pending, maybe out of scope)
-
 
 
 3. Portable, solar powered devices
