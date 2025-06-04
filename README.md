@@ -3527,6 +3527,10 @@ subsonic(vibration),
 ## sustainably funding academia to support decision infrastructure
 - 
 
+## software academia and municipalities
+- overhead costs and infrastructure
+- minimal requirements
+
 # Pedagogy & Coordinated Decisions
 - 
 
