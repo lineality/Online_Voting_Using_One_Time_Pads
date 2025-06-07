@@ -1671,7 +1671,6 @@ electricity cost
 - process-productivity vs. incidental-productivity
 - long-term productivity vs. incidental-productivity
 
-
 ## long term data storage
 - sustainability and succession: long term data management
 	- chain of future control
