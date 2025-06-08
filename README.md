@@ -3165,7 +3165,6 @@ vs.
 ## standard definition problems
 - pseudo-dialectical definitions (The Stalin Method)
 -- say multiple self contradictory things, then case by case claim you are always right and to be rewarded and everyone else is to be punished (sometimes with maximum cruelty for recreation).
-- 
 
 ## Converting and Interfacing Structured and Unstructured Data
 - The world is not made of structured information.
@@ -3281,7 +3280,6 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 
 ## tasks, processes, and system-abilities: five problem-space trees and system-state options; what does a decision coordination system need to be able to do, in terms of precise definitions of specific granular operations in a ~5x-tree+state context?
 - how does this relate to the question of the 'intelligence' of a system?
-- 
 
 ## airgaps
 
