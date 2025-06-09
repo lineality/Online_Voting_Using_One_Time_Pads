@@ -2841,6 +2841,9 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 ## Naive 'more connection = better' vs. ecology and system and definition studies
 
+## Shakespeare on volatility of mind vs. 1970s rational-calculator-mind
+- 
+
 ## Related areas for coordinated decision making:
 - math
 - biology
