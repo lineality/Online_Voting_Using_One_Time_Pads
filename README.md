@@ -2844,6 +2844,13 @@ The odd paradox of people in the west believing that voting is inherently good, 
 ## Shakespeare on volatility of mind vs. 1970s rational-calculator-mind
 - 
 
+# Math Anziety-Phobia, AI Anziety-Phobia, and ELIZA human-halucinations
+- sport-psychology as a disease
+- mental health epidemiology
+
+# Alignment (with reality) vs. Misalignment (with reality) or disconnection
+- default drift
+
 ## Related areas for coordinated decision making:
 - math
 - biology
