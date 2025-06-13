@@ -2524,6 +2524,10 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 e.g. more and less quantifiable and defined topics.
 - discipline-specific (medicine, physics) decisions
 
+# disambiguating the main problem-spaces of 'voting' coordinated decisions statistical sampling and surveying
+[2025.06.12]
+- Uma-Data/Rows_and_Columns <software> and processing of vote/choice data
+
 # Projects 
 (2024.08.09)
 - project psychology
