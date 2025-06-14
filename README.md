@@ -1665,6 +1665,16 @@ electricity cost
 - discipline
 - 'physically etc, metally etc., morally etc' as from boyscouts
 
+## Modular Decision / Choice / Vote, etc. Areas:
+- 
+- 'multiple choice' systems
+- writein systems
+- questionaires
+- poles
+- elections
+- juries
+- quarums
+
 ## Modular vs. non-modular 'objects' and processing
 
 ## Production and Productivity: 
@@ -3771,6 +3781,11 @@ etc.
 - 'Counting'
 - Normalization
 - The Non-Computer-Science-Design of Scientific-Notation and The Historical Problem of Float-Math
+- 
+
+...
+
+# strict efficiency and emergency standards and limits
 - 
 
 ...
