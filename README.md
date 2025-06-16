@@ -1674,6 +1674,9 @@ electricity cost
 - elections
 - juries
 - quarums
+- "ticket"-requests
+
+## Formalities of Biology and STEM and Choices in Epiphenomena
 
 ## Modular vs. non-modular 'objects' and processing
 
@@ -2165,7 +2168,6 @@ Literally or proverbially software since 1970 has been a self-conspiracy among c
 - performance tests and diagnostics
 - design and process tests
 - 'test' vs. feedback and use-able data
-
 
 ## Non-Arbitrary operations
 Perhaps as in the more or less deterministic actions of a compiler, what parts of a higher level coordination process such as an election should be done according to protocol (which could involve testing/checking if not pre-set algorithms) and not in arbitrary 'flower arranged' ways subject to constant arbitrary human alteration on whim? (2024.06.07)
