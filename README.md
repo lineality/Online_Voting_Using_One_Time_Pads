@@ -3188,6 +3188,10 @@ vs.
 - looking at maybe-similar modeling cases: forest fires, epidemiology
 - possible simple or subsymbolic-rule cell-contagion maps
 
+## Behavior Language Signals & Psychology around Project Alignment Decisions and Planning
+- 
+- 
+
 ## standard definition problems
 - pseudo-dialectical definitions (The Stalin Method)
 -- say multiple self contradictory things, then case by case claim you are always right and to be rewarded and everyone else is to be punished (sometimes with maximum cruelty for recreation).
