@@ -2866,6 +2866,8 @@ The odd paradox of people in the west believing that voting is inherently good, 
 
 # Alignment (with reality) vs. Misalignment (with reality) or disconnection
 - default drift
+- panic and mid-sprint-panic
+
 
 ## Related areas for coordinated decision making:
 - math
