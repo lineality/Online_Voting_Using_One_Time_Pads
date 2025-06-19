@@ -2014,6 +2014,9 @@ derivation and integration of process modules
 	- where retries are needed
 	- inverse of need: prohibited
 
+## Process STEM and Boy Scout Values
+- values and process have always been core to STEM
+
 ## Process Illusions
 - solution-reifiction
 - functional process vs. declarative-process
