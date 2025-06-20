@@ -1281,6 +1281,10 @@ Stop these assumptions:
 - areas known since greece
 - survival of mind issues
 
+# Survival of Mind
+- 'panic mode' mid-sprint in agile
+- overly blocking any management of a basic project area
+
 ### Aspects of general junkfood behavior:
 (2025.01.16)
 1. choices made in strongly private situations (maybe not the same an anonymous environments)
