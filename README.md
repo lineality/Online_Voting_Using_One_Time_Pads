@@ -1362,6 +1362,12 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 - trees
 - context and no-context
 
+## Analogy: the 'team meeting for dinner' analogy for a project:
+- 1. project planning
+- 2. recreation vs. work
+- 3. impatience and skipping process: the thrill of starting something new
+- 4. 'mid process panic' and confusing process
+
 ## Coordinating Data and Data Structures in Systems for Decision Coordination:
 - compatibility across:
 -- storage formats
@@ -2022,7 +2028,7 @@ derivation and integration of process modules
 - values and process have always been core to STEM
 
 ## Process Illusions
-- solution-reifiction
+- solution-reification
 - functional process vs. declarative-process
 - functional-law-rules vs. declarative-law-rules
 - model time-leakage and process time-travel errors: you cannot get a result from a future step, only a past step
