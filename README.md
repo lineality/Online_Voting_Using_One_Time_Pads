@@ -2658,6 +2658,10 @@ Revisiting Edmond Burke:
 - encrypted contents
 - statistically anonymized content (e.g. Security now when hashes collide)
 
+## Process, Best-Practice, Communication & 'Future-You'
+1. alignment with others and alignment with self over time
+2. 
+
 ## Managing different specific large and small unknown values, variables, and geometries
 
 ## adversarial and stochastic
