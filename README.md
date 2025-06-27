@@ -1244,7 +1244,7 @@ The idea that you should not use process because you lack perfect eternal knowle
 - balancing and checking where 'automated' work is going?
 - checking for bad proxies, abdications, and reifications
 - functional-definition area?
-## Negative Definitions in Systems-Management, Project-Managuage, Organization-Management Product management, etc.
+## Negative Definitions in Systems-Management, Project-Management, Organization-Management Product management, etc.
 There are a lot of tradeoffs with no automatic or easily findable balance, and there are affirmative goals that are not trivial to set, but there is also the low hanging fruit of negative definitions that are easier to identify // 2025.01.23)
 ###What are not goals:
 - hiding things for the sake of hiding things is not a goal
@@ -1284,6 +1284,8 @@ Stop these assumptions:
 # Survival of Mind
 - 'panic mode' mid-sprint in agile
 - overly blocking any management of a basic project area
+
+# Panic as a definable project space disfunction
 
 ### Aspects of general junkfood behavior:
 (2025.01.16)
