@@ -2337,8 +2337,8 @@ Deliberate abuse is (again, look at history) a prominent consideration that cann
 
 The Open-SOS team-channel/mode is not designed to be a vaguely open network where anyone or everyone can send anything or everything in any way or every way to anyone or everyone anywhere or everywhere at any time or at all times. 
 
-The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed. For example:
-
+The Open-SOS team-channel/mode will be as narrowly an strictly and minimally defined so as to be robust and practical within the scope of what is needed. 
+For example:
 reserved specified listening port: 44444
 enum: u8 byte array for latitude 
 enum: u8 byte array for longitude
