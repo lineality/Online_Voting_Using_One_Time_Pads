@@ -1542,11 +1542,19 @@ vs.
 # History of Voting and Coordinated Decision Making
 - (book, fall a and rise of democracy)
 
+# General Administration General Collapse General STEM
+- learning-ology
 
 # Security & Data / Information Hygiene
 Voting and principles of security (ease of use vs. security etc)
 - hygiene concerns vs. security concerns
 - analogies
+
+###
+- locus of control
+- treatment of inferiors
+- seek to turn inferiors into superiors
+- seek to surround with superiors
 
 ## General vs. Deployment
 
