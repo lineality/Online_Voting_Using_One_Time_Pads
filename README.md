@@ -2944,6 +2944,9 @@ In any given human endeavor where there appears to be some relative success and 
 # Certification
 (topics)
 
+## negative definitions and right of refusal
+- "I must, of force."[henry IV,1]
+
 ## Historical Terms and Timeless Patterns
 - populism
 - ideology (e.g. from French revolution)
