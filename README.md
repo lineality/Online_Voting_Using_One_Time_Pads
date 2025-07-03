@@ -1557,6 +1557,8 @@ Voting and principles of security (ease of use vs. security etc)
 - seek to surround with superiors
 
 ## General vs. Deployment
+- the term 'production'
+- 
 
 #### Note: RC4 used correctly (discarding early output)
 - https://en.wikipedia.org/wiki/RC4 
