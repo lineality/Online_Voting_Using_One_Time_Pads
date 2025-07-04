@@ -2900,7 +2900,6 @@ The odd paradox of people in the west believing that voting is inherently good, 
 - default drift
 - panic and mid-sprint-panic
 
-
 ## Related areas for coordinated decision making:
 - math
 - biology
@@ -3226,7 +3225,6 @@ vs.
 - possible simple or subsymbolic-rule cell-contagion maps
 
 ## Behavior Language Signals & Psychology around Project Alignment Decisions and Planning
-- 
 - 
 
 ## standard definition problems
