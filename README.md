@@ -1298,7 +1298,6 @@ Stop these assumptions:
 Both are different, and both are often ignored/denied areas. 
 And both may involve the bazaar cargo-cult of undefined 'rational behavior' which emerged or became dominant in the postwar period.
 
-
 # workflow studies
 - 
 
@@ -1309,7 +1308,6 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 ## externalizing Datastructures and Delineations
 - swap 'demarcation' system (term to use... 'syntax' swap?)
 - TOML swap, swap, 
-
 
 # Decisions, Coordinated Decisions, Tasks and Project State:
 - 1. case study: "ticket" ownership vs. 'assignment'
