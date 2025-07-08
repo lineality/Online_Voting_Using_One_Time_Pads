@@ -3754,7 +3754,6 @@ subsonic(vibration),
 - language diversity scale
 - platform diversity scale
 
-...
 
 # Data & Decisions
 - trade offs
@@ -3770,18 +3769,14 @@ subsonic(vibration),
 see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
 
 ## relativity, time, decisions, and distance: scale and community
-...
+
 
 # Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
 - note: common areas of real or imagined dispute
 
-...
-
 ## levels of architectural mechanics
 - ranked choice, noise handling, and Shannon-Turing Unit-Communication
 - ranked choice in accurate option selection as a form of signal error checking
-
-...
 
 (2024 11 29)
 # On Document Processing: Hybrid Data Density in Document Processing:
