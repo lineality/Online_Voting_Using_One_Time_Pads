@@ -3064,7 +3064,6 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 
 ## Laws Policies, and Voting-Elections about each-other: 
 	- a Matrix With Feedback
-	- 
 
 ## design guidelines and standards
 
