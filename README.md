@@ -1101,6 +1101,7 @@ v5
 - 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.
 - 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
+## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 ## Advocacy and support tools for 'process' 
 
 #### Policy on Feedback, Errors, Mistakes, & Transparency: a process for reporting feedback (there needs to be a process and team-cultural permission to handle feedback and data): [2025.04.27]
@@ -4354,6 +4355,9 @@ The History of the Future
 by Blake J. Harris, Stephen Graybill, et al.
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - open source study book...title? (no starch?)
+
+## Books on Privacy and Public Policy
+"Strangers and Intimates" Tiffany Jenkins ~2025
 
 ## Other Books
 (Virtual Society)
