@@ -2099,7 +2099,6 @@ From Science to STEM: The State of Nature, Natural Law, Montesquieu, and Edmund 
 - Where do some models or linear math have no time aspect?
 - Is there schedule-indeterminacy?
 
-
 ## Perception of Causality
 - common distortions in causality perception
 - short term long term
@@ -2228,7 +2227,6 @@ choices
 - "0-60" learning curves for onboarding
 - the default 'anti-teaching' fake-exclusive-expert / caste-system haze-torture-bully-tease pathology of many animal species.
 - potemkin villages
-
 
 # Distributed Servers and modularization of process
 - time modules
@@ -4458,3 +4456,13 @@ These principles constantly stand the test of time, if only in retrospect, when 
 J.M. Innes
 Adelaide, Australia
 """
+
+# Articles
+Zero Sum Games and the 'Zero Sum Mindset'
+https://www.economist.com/by-invitation/2025/07/07/to-understand-america-today-study-the-zero-sum-mindset-writes-stefanie-stantcheva 
+
+# D. Chew: The Making of Modern Corporate Finance
+
+Demand Distortion: Short-Term/Long-Term
+https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health-drugs-too  
+
