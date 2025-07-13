@@ -1661,20 +1661,16 @@ electricity cost
 - definitions
 - falsifiability
 
-
 ## Metrics and Policies for operational and project ambiguity
 - problema detection
 - problem resolution/solving 
 
-
 # Ballot Fraud Detection
 - Machine Learning and Fraud Detection 
-
 
 ## various kinds of disinformation relating to coordinated decisions:
 - inability to tell what is computer generated vs. real (may not be a deliberate attack, e.g. misunderstanding of ~art found online)
 - adversarial attacks on AI
-
 
 ## clear-enough definitions and feedback: ways to find out if a plan is practical or if it is overly chaotic and burdened by communication-failures.
 
@@ -1682,7 +1678,6 @@ electricity cost
 - non-erronious-external-locus-of-control perspectives
 - failures that obstruct or impede coordinated decisions
 - learning and failure repair
-
 
 ## measuring areas of fitness
 - collapse resistance
