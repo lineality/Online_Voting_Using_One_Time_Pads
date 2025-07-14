@@ -14,6 +14,7 @@
 - https://github.com/lineality/definition_behavior_studies 
 ### Bibliography & Resources
 
+
 # Clarifying Goals and Questions:
 - Main Goal: Systematize secure online voting.
 - Main Questions: 
