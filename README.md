@@ -1396,6 +1396,12 @@ Networks vs. Databases:
 
 Design Factors and Compromises
 
+
+...
+
+
+Equilibria and Tautology: Repeating Invisible Liabilities
+
 ...
 
 General Participation & The Health of Systems
@@ -2382,8 +2388,7 @@ If Uma is able to use a standard, local, CB-radio band spectrum to send and rece
 
 3. Portable, solar powered devices
 
-Could mobile-devices/smart-phones be equipped to do something like this but even better? I do not see why not in principle, and will look into exploring this as phone software, but for whatever reasons using phones for distributed signal networks is not what phone hardware OS and software makers are doing or intend to do. People love the single point of failure of centralized signal towers, and people have tunnel vision for what they love. 
-
+Could mobile-devices/smart-phones be equipped to do something like this but even better? I do not see why not in principle, and will look into exploring this as phone software, but for whatever reasons using phones for distributed signal networks is not what phone hardware OS and software makers are doing or intend to do. People love the single point of failure of centralized signal towers, and people have tunnel vision for what they love.
 
 Notes:
 The question of whether UMA needs either an ad-hoc connection system, and s.o.s. system, a signal-relay system, etc., is debatable. If you assume that everyone doing a project everywhere in the universe has an reliable ipv6 address, then no UMA does not need anything else, and in 2024 most users of UMA will likely be normal ipv4-ipv6 internet users. But it is not entirely unlikely that researchers in locations without internet (or without reliable internet) or people/towns in locations with reliable internet, or deep-web groups not operating on the clear web internet (which is ~96% of the internet itself) may want to or need to use some local-intranet which does not use ipv4-ipv6 but uses some other signal 'band.'
