@@ -2618,6 +2618,8 @@ context vs. cutup:
 - Code
 - fault tolerance
 
+## Testable Process vs. untestable disinformation attacks
+
 # participation, populations, distillation
 
 # anonymity and toxic behavior online
