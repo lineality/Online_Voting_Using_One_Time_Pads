@@ -2284,6 +2284,12 @@ by Deborah M. Gordon
 - security
 - redundancy
 
+# Leadership
+- Project Area Ambivalence
+- Project Area Panic
+- Project Area Churn
+- Project Area Seagull-Management
+
 ## Leadership Roles and Capacities
 
 # passwords, devices, "fido," etc.
