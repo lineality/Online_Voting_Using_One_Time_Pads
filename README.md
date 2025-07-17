@@ -1658,7 +1658,8 @@ electricity cost
 - short cycle bubbles (fewer than 5 years)
 - indefinite embedded long term problems 
 
-
+## Value Function and Meaning
+- detecting disingenuous short term thrill seeking
 
 # Preempting issues with NLP (Natural Language Processing) and voting software
 - interpretation and ambiguity
