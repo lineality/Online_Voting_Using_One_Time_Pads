@@ -1660,6 +1660,7 @@ electricity cost
 
 ## Value Function and Meaning
 - detecting disingenuous short term thrill seeking
+- understanding sport-entertainment-fantasy and anti-reality modes/equilibria
 
 # Preempting issues with NLP (Natural Language Processing) and voting software
 - interpretation and ambiguity
