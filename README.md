@@ -1617,7 +1617,6 @@ How about a system where a candidate who get's less (or perhaps more too) than a
 - blame goes down hill
 - psychology of data
 
-
 # is there a general space of process errors
 for systems of coordinated decisions on processes?
 ## discipline specific project-task contexts:
@@ -1625,7 +1624,6 @@ for systems of coordinated decisions on processes?
 - systems engineering
 - medical
 - education
-
 
 # How much does a decision/Election Cost? 
 Process Duration / Resource-Cost
