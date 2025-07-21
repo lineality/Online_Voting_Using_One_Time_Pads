@@ -2654,6 +2654,9 @@ teaching how to participate in coordinated decision making
 - direct and indirect education
 - education learning perception
 
+## Nonlinearity in Data Analysis
+- 
+
 ### Choice-spaces and problem spaces:
 - tautological spaces
 - procedure vs. outcome
