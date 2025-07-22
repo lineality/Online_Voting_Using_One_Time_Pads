@@ -2420,7 +2420,6 @@ Uma can and should be a portable, minimal, platform-agnostic, protocol and syste
 Are there use-cases for a robust distributed graph-database that is not reliant on ip-connections: absolutely. 
 
 
-
 ## Decision-Net, Word-Net, Image-Net: 
 = training sets and testing benchmarks for decisions and coordinated decisions
 
