@@ -1663,6 +1663,7 @@ electricity cost
 ### Detection of short term and long term problems
 - short cycle bubbles (fewer than 5 years)
 - indefinite embedded long term problems 
+- Thomas Hobbs and long-term survival via learning, allegories of knowledge based ignorance-based-collapse avoidance. 
 
 ## Value Function and Meaning
 - detecting disingenuous short term thrill seeking
@@ -2508,7 +2509,7 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 - habit
 - equilibria
 - perceptions/schemas of causality
-- intertwined leaning areas: articulation, perception, modeling/planning, learning
+- intertwined learning areas: articulation, perception, modeling/planning, learning
 
 ## categories of CS operations involved in coordinated decision making
 - are there any undefined-behavior or non-analytic components that are unavoidable?
