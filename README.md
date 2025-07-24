@@ -3653,7 +3653,6 @@ subsonic(vibration),
 - unicode utf8 is too large
 - instruction characters are still needed
 - character-sets, language archeology, and the katakana (or romaji-katakana) approach for language approximation
-- 
 
 ## How to measure lack of understanding, lack of communication:
 - perhaps as when social change has not become habituated and perception is distorted.
@@ -3714,7 +3713,6 @@ subsonic(vibration),
 
 ## Definition behaviors (collapse), default trajectories (collapse), bad equilibria (collapse),  
 (2024.12.28)
-- 
 - 
 - 
 
