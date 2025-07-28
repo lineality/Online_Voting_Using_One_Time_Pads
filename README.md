@@ -2047,7 +2047,6 @@ derivation and integration of process modules
 - sustainability
 
 ## case studies and pattern identifying most-common issues with project areas such as schedule issues
--
 
 # System Health, System Coordination, System Voting
 - measurement and system health measurement
