@@ -1814,7 +1814,6 @@ judges, judge_1, MY_CHOICE\n
 
 ## input and clarity standard: a very long and vague story that needs to be very brief and clear: what are symbols and what gets printed?
 
-
 ## Privacy and anonymity: "When Hashes Collide"
 uses of hashes for statistical usefulness for behavior patterns for statistically anonymous for identifying specific people. 
  Episode #940 | 19 Sep 2023 | 104 min.
@@ -1822,9 +1821,7 @@ https://www.grc.com/sn/sn-940.txt
 https://www.grc.com/sn
 Episode #940 | 19 Sep 2023 | 104 min.When Hashes Collide
 
-
 ## process and step definition across integrated sub-steps with break-down into smaller steps
-
 
 ## cost factors & sustainability
 - low level costs
