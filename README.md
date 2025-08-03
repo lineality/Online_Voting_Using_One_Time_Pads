@@ -2325,6 +2325,11 @@ by Deborah M. Gordon
 
 ## Leadership Roles and Capacities
 
+## Leadership, Decisions, Coordinated-Decisions
+- initiative taking skills
+- collapse awareness
+- navigation skills
+
 # passwords, devices, "fido," etc.
 - salt
 
