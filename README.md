@@ -919,6 +919,21 @@ Question: possible requiring of ballot being completely filled out
 (rows and columns?/.csv-db?)
 - minimal, modular, maintainable functionalities, features, and tools
 
+# training for managing maintainable project spaces
+- simulations
+- testing and evaluation
+- breaking down skill areas such as foundational 'identification'
+## project settings and configurations:
+- should have theory-of-mind/sally-anne skills (true/false)
+- alignment on projects scope is default/automatic (true/false)
+- churn is neutral/good (true/false)
+- communication about project scope is neurtral/bad (true/false)
+### issue simulation
+- churn
+- panic
+- abstraction fantasism
+- 
+
 ## Data Formats Data Structures externalization serialization and read-able serialization
 - it may be important for data structures such as dictionaries of lists (to use the python terms) to be able to be exteranlized,shared and loaded and stored in a read-able printable format.
 - non-transparent, non-inspectable, none-step-trace-able formats may be optimized for computation but not suitable for a system where communication is the highest priority
