@@ -2573,7 +2573,6 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 
 ## Rules of Evidence in reporting, claims, and advocacy
 2024.08.14
-- 
 
 ## Defining time and resource requirements near term to long term
 
@@ -2701,7 +2700,6 @@ teaching how to participate in coordinated decision making
 - education learning perception
 
 ## Nonlinearity in Data Analysis
-- 
 
 ### Choice-spaces and problem spaces:
 - tautological spaces
