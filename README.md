@@ -4513,7 +4513,7 @@ They listed five principles (which some have expanded to seven): expect failure;
 
 These principles constantly stand the test of time, if only in retrospect, when failing organisations discover them afresh.
 
-J.M. Innes
+J.M. Innes 
 Adelaide, Australia
 """
 
