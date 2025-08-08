@@ -3605,7 +3605,6 @@ https://www.amazon.com/How-Lose-Information-War-Conflict/dp/1838607684
 - ecology
 
 ## Portability
--
 
 ## Short-term, Long-term and accidents of ~Geology
 Schedule formalities underlie many processes.
