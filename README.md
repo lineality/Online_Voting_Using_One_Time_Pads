@@ -2815,7 +2815,7 @@ connecting Jan with open frameworks for
 
 ## Data Representation: Stateful Hybrid Structured and Unstructured Document Corpus Processing:
 - slim topic id phase
-- vectorication of topics
+- vectorization of topics
 - topic-vector document mapping phase
 - corpus representation phase (maybe graph)
 
@@ -4513,7 +4513,7 @@ They listed five principles (which some have expanded to seven): expect failure;
 
 These principles constantly stand the test of time, if only in retrospect, when failing organisations discover them afresh.
 
-J.M. Innes 
+J.M. Innes
 Adelaide, Australia
 """
 
