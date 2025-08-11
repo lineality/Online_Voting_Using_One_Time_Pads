@@ -918,6 +918,7 @@ Question: possible requiring of ballot being completely filled out
 ## Sustainable data operations:
 (rows and columns?/.csv-db?)
 - minimal, modular, maintainable functionalities, features, and tools
+- modular database units
 
 # training for managing maintainable project spaces
 - simulations
