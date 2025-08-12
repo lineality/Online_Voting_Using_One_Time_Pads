@@ -2625,6 +2625,10 @@ e.g. more and less quantifiable and defined topics.
 [2025.06.12]
 - Uma-Data/Rows_and_Columns <software> and processing of vote/choice data
 
+# Assets and Liabilities
+- process Assets and liabilities
+- context specific assets and liabilities
+
 # Projects 
 (2024.08.09)
 - project psychology
