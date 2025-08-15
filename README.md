@@ -2083,6 +2083,8 @@ derivation and integration of process modules
 - anonymized
 - statistically identifiable (when hashes collide) 
 
+# checks and balances vs. mob violence
+
 ## checks and balances, institutions, wisdom of crowds, and ~prospect-theory
 - What does it mean to 'vote' input into a decision process?
 
@@ -3651,6 +3653,19 @@ subsonic(vibration),
 - understandability to maintain
 - cost over time
 - simplicity, minimalism vs. fetish-art
+
+
+
+## Healthfood & Junkfood
+- equilibria
+- process
+- long term vs. short term
+- not-automatically-learned skills/abilities
+- propensity towards sport-halucination
+- supersignals
+- the conspiracy-horror fetish about STEM being value-neutral and anti-health
+
+
 
 ## sustainably funding academia to support decision infrastructure
 - 
