@@ -3217,7 +3217,6 @@ from decentered /decentralized elections and networks to centralized political p
 - Scores
 
 ## Applications of Mandate-Based Systems
-- 
 
 2024.06.21
 temporal measures of legibility
@@ -3272,7 +3271,6 @@ vs.
 - institutional roles
 
 ## Security Needs vs. Command-line Aversion and super-signal attraction
-- 
 
 # Best Practice
 ## Definition Behavior & System Collapse
