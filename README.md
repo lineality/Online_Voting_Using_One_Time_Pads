@@ -1597,6 +1597,10 @@ vs.
 - measuring the resistance of causality reification in random events such as Noisy-Games
 - rating fittness in system perception
 
+
+# An empirical framework for interactive project elements
+
+
 ## Tradeoffs in Voting:
 - accessibility vs. security
 - smaller attack space vs. fancy interface
@@ -4545,3 +4549,9 @@ https://www.economist.com/by-invitation/2025/07/07/to-understand-america-today-s
 Demand Distortion: Short-Term/Long-Term
 https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health-drugs-too  
 
+# Lexicon and Glossery
+### institution
+### STEM
+
+
+# Missing Words & Concepts
