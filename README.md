@@ -6,7 +6,7 @@
 #### Project-Context Decision-Making Involving Participants and Components:
 
 # Contents:
-## Part 1: Secure Online-Voting in-Principle
+## Part 1: Secure Online-Voting in-Principle`
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
 ## Part 4: Generalized Decision Coordination
@@ -1806,6 +1806,17 @@ electricity cost
 
 # Fittness, Behaviors, and Metrics
 (2024.07.22)
+
+# Basic Utilities
+- languages
+- compilers
+- hardware
+- storage
+- operating systems
+- bare metal
+- networks
+- files and directories
+- slim systems
 
 # Minimal Context Specific Design for production deployment, not a general broad scope solution. Reduced attack surface.
 
