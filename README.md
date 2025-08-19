@@ -3170,7 +3170,6 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Edge Cases, Quantizing & Statistics in character Arrays
 - patterns in measurement.
 
-
 ## communication and translation between X and Y
 - input output measures
 - participants
