@@ -2371,6 +2371,9 @@ by Deborah M. Gordon
 # The Stakeholder Perspective:
 - Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
 
+## Problems of linguistics and psychology
+- narrowing manageable scope for project decisions and project state
+
 # forms of encryption and trade-offs
 - character sets
 - data structure types
