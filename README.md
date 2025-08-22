@@ -1962,16 +1962,19 @@ derivation and integration of process modules
 - mirage
 - super-signals
 - short term
+
 ### note blindly following excitation and stimulation
 -
+
 ### not mis-interpreting signals:
 -
+
 ### impulsiveness:
 - naive attraction
 ### Ulterior motives:
--
+
 ### Proxy Management:
-- 
+
 
 ## priorities in coordinated decision networks and databases:
 - atomicity
