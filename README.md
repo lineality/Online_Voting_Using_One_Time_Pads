@@ -1876,19 +1876,19 @@ int check
 boolean check 
 none check
 
-list check
-	string check
-	float check
-	int check
-	boolean check 
-	none check
+### list check
+--string check
+--float check
+--int check
+--boolean check 
+--none check
 
-dict check
-	string check
-	float check
-	int check
-	boolean check 
-	none check
+### dict check
+--string check
+--float check
+--int check
+--boolean check 
+--none check
 
 set check?
 tuple check?
