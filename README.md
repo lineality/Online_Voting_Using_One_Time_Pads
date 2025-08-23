@@ -983,7 +983,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 - topic: not-networked Operating Systems
 - topic: memory throttling 
 
-
 ## Education
 - skills and fitness for projects and collaboration
 - ~civics
@@ -991,7 +990,6 @@ What OS, what network architecture, and what cyber security strategies should/co
 - general non-automatic-learning areas
 
 # Perception-Abstraction and disruptive effects of some processes of observation
-- 
 - 
 
 ## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
