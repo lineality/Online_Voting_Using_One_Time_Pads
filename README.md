@@ -1900,7 +1900,6 @@ tuple check?
 derivation and integration of process modules
 2. von Neumann's bifurcation of roles in self-replicating processes
 
-
 # Participant and Rules based process for maintaining and publishing about voting system and election
 -  
 
@@ -1911,9 +1910,7 @@ derivation and integration of process modules
 4. revise your work
 5. match results to project-target (must fit)
 
-
 # on productures, "trust", measures, standards, and ethics
-
 
 ## the importance of open-source for software testing
 
@@ -4030,6 +4027,18 @@ Infrastructure Cost & Institutions:
 - 
 
 ...
+
+STEM Health-check analysis:
+
+### Quote
+"At home he began to read the Social Democratic press, examine the speeches of its leaders, study its organization, reflect on its psychology and political techniques and ponder the results. He came to three conclusions which explained to him the success of the Social Democrats: They knew how to create a mass movement, without which any political party was useless; they had learned the art of propaganda among the masses; and, finally, they knew the value of using what he calls “spiritual and physical terror.” This third lesson, though it was surely based on faulty observation and compounded of his own immense prejudices, intrigued the young Hitler. Within ten years he would put it to good use for his own ends. I understood the infamous spiritual terror which this movement exerts, particularly on the bourgeoisie, which is neither morally nor mentally equal to such attacks; at a given sign it unleashes a veritable barrage of lies and slanders against whatever adversary seems most dangerous, until the nerves of the attacked persons break down… This is a tactic based on precise calculation of all human weaknesses, and its result will lead to success with almost mathematical certainty… I achieved an equal understanding of the importance of physical terror toward the individual and the masses… For while in the ranks of their supporters the victory achieved seems a triumph of the justice of their own cause, the defeated adversary in most cases despairs of the success of any further resistance.49 No more precise analysis of Nazi tactics, as Hitler was eventually to develop them, was ever written."
+from Page 45 - "The Rise and Fall of the Third Reich" by William L. Shirer.
+Start reading it for free: https://a.co/geuRhCb
+
+To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer? 
+Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?  
+
+
 ...
 ...
 
@@ -4569,3 +4578,7 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 
 
 # Missing Words & Concepts
+
+...
+
+
