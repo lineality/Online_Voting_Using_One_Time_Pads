@@ -2580,9 +2580,9 @@ An institutional example of this borrowed from Daniel Khaneman may be where any 
 
 ## Red Herrings
 - Parasitic and Reified goals:
-	- discriminatory goals
-	- arbitrary fetish goals
-	- goals no one can justify or explain at all 
+-- discriminatory goals
+-- arbitrary fetish goals
+-- goals no one can justify or explain at all 
 - scope creep
 - scope drift
 - while true: processes stuck in loops
