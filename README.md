@@ -1149,15 +1149,16 @@ v5
 -- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs)
 -- if you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
-5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'; skills(learning)
+5. MVP: 'MVP's (Minimum Viable Products); Tools, 'Tool Stack / Tech Stack', lexicon: jargon vs. description; skills(learning)
 -- an MVP must not be an invocation of a reification-hallucination 
 -- iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
 -- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably. 
 -- articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself
 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 -- whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
+-- Failing to clearly map and communicate the differences between jargon terms and goal descriptions will result in mis-alignment between people and nonsense in planning.
 -- long term maintainability involves communication (including 'future you')
--- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable. 
+-- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 ..
 ## Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
@@ -1273,6 +1274,7 @@ problem_diangostics
 - sport addiction
 - panic
 - agile-churn
+- fear of data and love of reifications
 '''
 The idea that you should not use process because you lack perfect eternal knowledge about a situation is strongly invalid. An analogy may be like saying "I won't ask the waiter for their recommendation if I don't know what's on the menu, because I don't know what's on the menu' is strategically incoherent: asking, communicating, and iterating is time tested "process" for both mostly known situations and especially for volatile and unknown situations. Another analogy might be saying, "We can't use a random-walk heuristic navigation process because we don't know where things are located, and/or locations might change beyond our control." This is strategically inverted and backwards: process is especially important when static knowledge about static conditions is absent, not the other way around. (2025/05)
 '''
@@ -3708,6 +3710,9 @@ subsonic(vibration),
 - psychology of randomness (K & T)
 - psychology of nonlinearity (BMandelbrot?)
 (links to...gambling sport psychology? addiction?)
+
+in 'breakneck' by Dan Wang 2025, though he once (perhaps a typo) described procedure-scope-creep as 'process', 
+https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, gives a portrayal/portrait of pure-fantasy-logic obessed dysfunctional birdnest labyrinths of (post 1970) law that very strongly parallel the (post 1970) computer science and code ridiculousness. 
 
 ## Modeling and track record
 - How can sets of bad decisions and processes be clearly compared with working processes to show unambiguously or less ambiguously that decisions leading to failure are decisions that lead to failure.
