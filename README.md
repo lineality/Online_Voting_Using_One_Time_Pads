@@ -4501,6 +4501,13 @@ https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainab
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ 
 
+## Books on Productivity-Psychology
+https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/B0FDH3Z3K6/
+Note: This book unfortunately sometimes uses the term 'process' interchangeably for compulsive-reification-distraction and imaginary rule-procedures about rule-procedures that are not anchored in reality: the is unfortunate and might be confusing to or misleading for people who are not familiar with the Agile or Kahneman-Tversky (or ecology) use of the term 'process' for navigating pragmatically and productively using feedback through distractions and unknowns to focus on measurable outcomes and system productivity. "Process" and "best practice" are important tools in the toolbox for productivity avoiding psychological/perceptual traps. 
+Lexicon issues aside... so far(still reading) this book is fabulous for cutting through and pointing out the de jure pathological 'anti-productivity' 'anti-maker' 'anti-engineering' 'anti-STEM' 'anti-data' wave of destructive extremist ideology that has been suffocating the USA. It is refreshing to hear a clear voice describing the disfunctional, culturally and psychological toxic, illiterate world I have been unendingly attacked by and have unsuccessfully tried to defend productivity against my entire life, briefly finding glimpses of sanity living abroad in Japan.
+All ~countries/nations/republics including the USA can and should achieve sanity and the ability to navigate: can and should. Just as families, communities, schools and institutions can and do teach and require hand-washing and biological epidemiology safeguards, so we can and should do the same for psychological/perceptual/linguistic hygiene. History is full of the 'disturbance regimes' of popular extremism that destroys geographies just like fires or diseases, yet this seems to be persistently invisible. We need to learn to be aware of this persistent problem.
+
+
 ## Books on Project Management
 ( )
 
