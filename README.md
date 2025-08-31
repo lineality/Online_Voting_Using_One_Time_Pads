@@ -3162,6 +3162,9 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 
 ## edge cases around prohibitions and taboos
 
+### Definition blindspots
+- How does the social contract of defense not apply to women and children?
+
 ## Definitions: Derived-Functional Definitions vs. Declarative-Arbitrary Definitions
 - Examples from coordination tool:
 -- collaborator-list definition
