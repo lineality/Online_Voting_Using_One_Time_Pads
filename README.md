@@ -1986,7 +1986,6 @@ derivation and integration of process modules
 - short term
 
 ### note blindly following excitation and stimulation
--
 
 ### not mis-interpreting signals:
 -
