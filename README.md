@@ -1652,7 +1652,6 @@ Voting and principles of security (ease of use vs. security etc)
 
 ## General vs. Deployment
 - the term 'production'
-- 
 
 #### Note: RC4 used correctly (discarding early output)
 - https://en.wikipedia.org/wiki/RC4 
@@ -1689,7 +1688,6 @@ How about a system where a candidate who get's less (or perhaps more too) than a
 
 ## Layers of language and collective symbolism
 
-
 ## Whistleblowing
 - golden circle asymmetry
 - potemkin villages
@@ -1725,7 +1723,7 @@ electricity cost
 ## 
 
 # psychology of schedules (schedule psychology)
-- Can the answer to this question-set about the past "Is there anything you want me to improve on, or start doing, or stop doing?" depend upon the future in such a way that the answer can be punted as depending on future events?
+- Can the answer to this question-set about the past "Is there anything you want me to improve on, do more of, do less of, start doing, or stop doing?" depend upon the future in such a way that the answer can be punted as depending on future events?
 (2025-05-28)
 
 # On the operational definition of voting issues and voting choices:
