@@ -3,7 +3,7 @@
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
-#### Project-Context Decision-Making Involving Participants and Components:
+#### Project-Context Decision-Making Involving Participants fand Components:
 
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle`
@@ -1304,9 +1304,11 @@ The idea that you should not use process because you lack perfect eternal knowle
 '''
 
 ## common perception problems and pitfalls
-### the 'sweet tooth' or 'channel surfing' problem, or 'eternal quest' problems
-- people ignore details and endless search for a 'feels perfect' solution on entirely enterainment-stimulation criteria. 
-
+-  the 'sweet tooth' or 'channel surfing' problem, or 'eternal quest' problems
+- people ignore details and endlessly search for a 'feels perfect' solution on entirely entertainment-stimulation criteria. 
+- rebellion
+- KT areas
+- 
 
 ### needs, goals, and products
 - topic: contracts and coordinated decisions
