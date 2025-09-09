@@ -3,7 +3,7 @@
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
-#### Project-Context Decision-Making Involving Participants fand Components:
+#### Project-Context Decision-Making Involving Participants and Components:
 
 # Contents:
 ## Part 1: Secure Online-Voting in-Principle`
@@ -3620,14 +3620,12 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - 
 
 ## Potential disputes over 'ownership' of election parts or results
--
 
-## stale data
+## Stale Data
 
 ## Bad Actors
--
 
-## Historical Pitfalls & Gauntlet
+## Historical Pitfalls & Gauntlets
 - 
 
 ## voting, probability, statistics, modeling, census:
