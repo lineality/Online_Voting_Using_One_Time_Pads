@@ -1204,7 +1204,7 @@ v5
 - no-plan: project description areas were, are, and likely will be empty; they need to be filled in. (not uncommon) 
 - lack of alignment around a Discovery & Identification Phase (not uncommon) ‘Where are you? -> Where are you going? -> How do you get there?’ You cannot skip the first part. 
 ## General Project State: (2025.01.27
-- team project state (Agile, Khanemtan Tversky, 6sigma)
+- team project state (Agile, Kahneman Tversky, 6sigma)
 - organizational project state (companies, libraries, schools, offices, labs)
 - institutional administrative project state (municipal, regional) (crossing: public sector, private sector, academic (Hobbes, Locke)
 - STEM project state (reproducible research)
@@ -2595,7 +2595,7 @@ Loosening Russia and China’s grip on the region in any meaningful way would be
 A 'sport' example of this may be in international high level chess where the match commentary declares that whatever ephemeral prediction is made now is universally true for all past and future time, changing constantly in a disturbingly amnesiac way. (This may also be a kind of disease of hyperbolic-dialectical-journalism.)
 An institutional example of this borrowed from Daniel Khaneman may be where any short term of no-term abstract success indicator is used to declare an administrator 'always strong and victorious' or 'forever a weak loser' based on completely random noise that changes minute to minute.
 
-## Khanaman & Tversky, et al: effects on systems of decisions
+## Kahneman & Tversky, et al: effects on systems of decisions
 - decision spaces
 - behavior economics
 - decision theory
