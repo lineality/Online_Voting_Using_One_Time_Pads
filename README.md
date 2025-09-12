@@ -2911,7 +2911,6 @@ connecting Jan with open frameworks for
 - terms
 
 ## scalable modular infrastructure
-- 
 
 ## Topics in Election and Decision Coordination Data Management
 - transparency
