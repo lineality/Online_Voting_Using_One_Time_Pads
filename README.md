@@ -4627,4 +4627,9 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 
 ...
 
+Comparison Book Set:
+- "Breakneck"
+- "The Two Cultures" (And Ashby's Technology and the Academics)
+- "Possible Minds"
+
 
