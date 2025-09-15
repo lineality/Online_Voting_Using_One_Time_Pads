@@ -1305,6 +1305,8 @@ problem_diangostics
 The idea that you should not use process because you lack perfect eternal knowledge about a situation is strongly invalid. An analogy may be like saying "I won't ask the waiter for their recommendation if I don't know what's on the menu, because I don't know what's on the menu' is strategically incoherent: asking, communicating, and iterating is time tested "process" for both mostly known situations and especially for volatile and unknown situations. Another analogy might be saying, "We can't use a random-walk heuristic navigation process because we don't know where things are located, and/or locations might change beyond our control." This is strategically inverted and backwards: process is especially important when static knowledge about static conditions is absent, not the other way around. (2025/05)
 '''
 
+# alignment with reality: General alignment with reality
+- As known, participants will fantasize about fictional reifications.
 ## common perception problems and pitfalls
 -  the 'sweet tooth' or 'channel surfing' problem, or 'eternal quest' problems
 - people ignore details and endlessly search for a 'feels perfect' solution on entirely entertainment-stimulation criteria. 
