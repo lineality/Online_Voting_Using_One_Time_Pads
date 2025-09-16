@@ -1738,7 +1738,6 @@ electricity cost
 (2025-05-28)
 
 # On the operational definition of voting issues and voting choices:
--
 
 # Applied-Algorithms: Efficient computation of ballot processing
 - error checking
@@ -1822,6 +1821,10 @@ electricity cost
 ## efficiency, maintainability, sustainability,
 - scalability
 - 'technical debt'
+
+### trajectory of cost and maintainability
+- R&D as value
+- a trajectory of increased efficiency and maintainability for long running processes
 
 ## Production Databases
 - security
@@ -4634,4 +4637,7 @@ Comparison Book Set:
 - "The Two Cultures" (And Ashby's Technology and the Academics)
 - "Possible Minds"
 
-
+https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
+https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
+There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuff That Gets in the Way of Real Work
+by Nelson P. Repenning, Donald C. Kieffer, et al.
