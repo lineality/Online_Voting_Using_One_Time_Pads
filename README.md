@@ -918,6 +918,10 @@ Question: possible requiring of ballot being completely filled out
 (rows and columns?/.csv-db?)
 - minimal, modular, maintainable functionalities, features, and tools
 - modular database units
+## maintainable system tool and techstack
+- history of tool, hardware, os, software, dependency, extinction
+- history of maintainability, vulnerability, performance issues
+
 
 ## guidelines and standards for maintainability
 
@@ -1860,7 +1864,6 @@ electricity cost
 ## standards for tool usability and liability transparency
 - public sector usability and liabilities
 - private sector usability and liabilities
-- 
 
 ## different uses of high and low resolution data and metrics, test, etc.
 
@@ -2007,7 +2010,6 @@ derivation and integration of process modules
 ### Ulterior motives:
 
 ### Proxy Management:
-
 
 ## priorities in coordinated decision networks and databases:
 - atomicity
