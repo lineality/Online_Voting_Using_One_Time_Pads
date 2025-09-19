@@ -3347,7 +3347,12 @@ vs.
 - possible simple or subsymbolic-rule cell-contagion maps
 
 ## Behavior Language Signals & Psychology around Project Alignment Decisions and Planning
-- 
+- history
+- books on subject
+- case study areas:
+-- from Ashby's history to Bletchley Park and post-war computer building ('mathematicians(logicians) not allowed')
+-- from the 'cult of the dead cow' to bug bounties
+-- "The Power of 10 Rules": 1970-1990, 1990-2005, 2005-2025
 
 ## standard definition problems
 - pseudo-dialectical definitions (The Stalin Method)
@@ -3361,7 +3366,7 @@ is a set of processes.
 - Sometimes structured information is very useful and functional (STEM).
 - Sometimes structured information abstractions are a recreational luxury for whim.
 
-## empty placeholders in process reification illusions and goal reification illusions
+## Empty placeholders in process reification illusions and goal reification illusions
 - empty placeholder abstractions are not project goals or project processes for achieving goals
 - adding more empty placeholder abstractions does not fill existing empty placeholder abstractions
 
