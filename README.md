@@ -1317,6 +1317,9 @@ The idea that you should not use process because you lack perfect eternal knowle
 - rebellion
 - KT areas
 - 
+## STEM pathology psychology
+- religious pathology
+- sport pathology
 
 ### needs, goals, and products
 - topic: contracts and coordinated decisions
