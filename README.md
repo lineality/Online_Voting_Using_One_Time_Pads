@@ -2446,6 +2446,10 @@ by Deborah M. Gordon
 - see automated benchmarks
 - decision coordination and STEM (see Online Voting Using One Time Pads github >= v76)
 
+# modeling, testing, benchmarking
+- the need to specify what exactly is meant contextually by 'model'
+- tests for a given system, tool, etc.
+
 ## meta-data layers: handling and interfacing multiple and changing data storage format: 2024.03.12
 - when different sets of fields are used
 - when different names are used for those fields
