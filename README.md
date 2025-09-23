@@ -2078,7 +2078,6 @@ derivation and integration of process modules
 - for breaking down and building up larger election processes
 
 ## Ascii vs. Diversity: balancing universal tools with universal users
-- 
 
 # Voting Statistic Package
 - frequentist
@@ -2122,7 +2121,7 @@ derivation and integration of process modules
 - system health and system collapse measurement
 
 # functional categories of signals for decisions:
-	- (see hofstedter-gap)
+- (see hofstedter-gap)
 
 ## Standardization:
 - re-use of functions and modules
@@ -2167,7 +2166,6 @@ derivation and integration of process modules
 ## process: 'process' as a STEM innovation contrary to default perception and assumption
 (2025.04.22)
 - making 'next-iteration' decisions based on data-observation
-
 
 ## skills and abilities required to support projects and coordinated decisions
 - What skills and abilities are required to support projects and coordinated decisions?
@@ -2834,6 +2832,8 @@ Revisiting Edmond Burke:
 
 ## psychology of repeating the same mistakes indefinately
 - What is going on? We have to figure this out.
+- cultures of cryptic silos... that in potemkin-village fashion
+people then start to believe are cargo-cult-causal
 
 ## Setting location items and ancestors in local coordinated decisions (2024.04.17)
 
