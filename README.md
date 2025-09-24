@@ -3917,7 +3917,6 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 
 ## relativity, time, decisions, and distance: scale and community
 
-
 # Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
 - note: common areas of real or imagined dispute
 
@@ -4655,3 +4654,12 @@ https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-th
 https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
 There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuff That Gets in the Way of Real Work
 by Nelson P. Repenning, Donald C. Kieffer, et al.
+
+
+
+
+
+views on STEM and STEM & Values
+Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
+from Economist ~ 2025 09 22
+"Science is when you want to survive for millenia, politics is when you are only looking at the next election."
