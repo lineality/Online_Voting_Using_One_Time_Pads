@@ -3916,6 +3916,7 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition, by Martin Kleppmann 
 
 ## relativity, time, decisions, and distance: scale and community
+- ~UTC for satellite distributed databased and operation coordination
 
 # Group Agreed Upon Goal Means Methods Statements for Coordinated Decision Making
 - note: common areas of real or imagined dispute
