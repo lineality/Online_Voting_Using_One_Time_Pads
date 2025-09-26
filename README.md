@@ -3720,7 +3720,6 @@ subsonic(vibration),
 - simplicity, minimalism vs. fetish-art
 
 
-
 ## Healthfood & Junkfood
 - equilibria
 - process
@@ -3729,7 +3728,6 @@ subsonic(vibration),
 - propensity towards sport-halucination
 - supersignals
 - the conspiracy-horror fetish about STEM being value-neutral and anti-health
-
 
 
 ## sustainably funding academia to support decision infrastructure
