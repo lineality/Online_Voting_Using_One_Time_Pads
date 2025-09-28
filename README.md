@@ -2409,6 +2409,8 @@ by Deborah M. Gordon
 # passwords, devices, "fido," etc.
 - salt
 
+
+
 # The Stakeholder Perspective:
 - Would a person who relies upon the voting system as infrastructure for survival go along with decisions being made by people who may be indeterminately incompetent or malicious? 
 
@@ -3352,6 +3354,8 @@ vs.
 - case study collapse event (modeling targets)
 - looking at maybe-similar modeling cases: forest fires, epidemiology
 - possible simple or subsymbolic-rule cell-contagion maps
+
+## Where best practice is active cost reduction as maintenance and liability reduction and prevention
 
 ## Behavior Language Signals & Psychology around Project Alignment Decisions and Planning
 - history
