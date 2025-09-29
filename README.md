@@ -1309,6 +1309,13 @@ problem_diangostics
 The idea that you should not use process because you lack perfect eternal knowledge about a situation is strongly invalid. An analogy may be like saying "I won't ask the waiter for their recommendation if I don't know what's on the menu, because I don't know what's on the menu' is strategically incoherent: asking, communicating, and iterating is time tested "process" for both mostly known situations and especially for volatile and unknown situations. Another analogy might be saying, "We can't use a random-walk heuristic navigation process because we don't know where things are located, and/or locations might change beyond our control." This is strategically inverted and backwards: process is especially important when static knowledge about static conditions is absent, not the other way around. (2025/05)
 '''
 
+# STEM Values
+- "Can" 
+- "Should"
+- https://github.com/lineality/definition_behavior_studies
+- Are long term maintainability, auditability, productivity, and survival, a lack of system-collapse,  'STEM values' or is STEM nihilistically 'value neutral' and absolutely disconnected from any aspect of values, ethics, morals, health, etc.?
+
+
 # alignment with reality: General alignment with reality
 - As known, participants will fantasize about fictional reifications.
 ## common perception problems and pitfalls
