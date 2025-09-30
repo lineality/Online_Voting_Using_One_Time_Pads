@@ -3854,7 +3854,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Definition behaviors (collapse), default trajectories (collapse), bad equilibria (collapse),  
 (2024.12.28)
 - 
-- 
 
 ## Curricula, Fitness, and decision-coordination in Projects
 (2024.05.03)
@@ -3894,8 +3893,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 
 ## What needs to be in a decision-coordination database?
 (2023.09.30)
-
-...
 
 ## Chess, projects, real-time-retroactive-revision, and monologues of baseless fabrication: Confidence without Causality
 - tethering and anchoring perception to reality
