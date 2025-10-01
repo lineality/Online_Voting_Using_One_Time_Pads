@@ -4554,9 +4554,9 @@ https://www.thegreatcourses.com/courses/the-modern-political-tradition-hobbes-to
 https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 
-## Web Resources:
+# Web Resources:
 
-#### C.G.P. Gray on Elections & Voting Systems 
+### C.G.P. Gray on Elections & Voting Systems 
 - https://www.youtube.com/@CGPGrey/search?query=elections 
 - https://www.youtube.com/@CGPGrey/search?query=voting 
 
@@ -4565,7 +4565,8 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 - Ukraine in 2025 is facing pressure to hold election while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
 - What would the requirements be for a sufficiently robust diapora-flexible election to be held? 
 
-#### Case study in password handling:
+
+### Case study in password handling:
 - https://twit.tv/shows/security-now/episodes/905 
 - https://twit.tv/shows/security-now/episodes/904 
 - alternate source episodes 904 or 905: https://www.grc.com/securitynow.htm 
@@ -4574,7 +4575,8 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 ### Counter-Example Books
 - Optical Illusions
 
-#### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
+
+### On Memory Safe Languages (note still actively evolving time-lag and shift to topic, google press release is old, action taken to adopt RUST is new). 
 - https://twit.tv/shows/security-now/episodes/906 
 - alternate source episode 906: https://www.grc.com/securitynow.htm 
 
@@ -4663,10 +4665,17 @@ There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuf
 by Nelson P. Repenning, Donald C. Kieffer, et al.
 
 
-
-
-
 views on STEM and STEM & Values
 Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
+
+//
+https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg 
+https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong 
+https://ora.ox.ac.uk/objects/uuid:ae730381-602d-49d3-97a4-37ede6fd762b/files/s4x51hk476
+https://ora.ox.ac.uk/objects/uuid:e4b1191d-0682-4969-bdca-62136a13fc32/files/r0v838229f 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
+https://www.linkedin.com/posts/flyvbjerg_why-so-many-it-projects-go-so-horribly-wrong-activity-7326395483646554112-UlzU
+The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
+
