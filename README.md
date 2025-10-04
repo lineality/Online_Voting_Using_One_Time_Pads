@@ -3484,7 +3484,6 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 - time scales and processes from sunsets-clauses to campaign durations to security-attack surface, computation time, etc.
 
 ## State: semantics: system-state (unclear convention), administrative-state (government), and analytic-state (statistics)
-- 
 
 ## Dimensions of Project-State
 
