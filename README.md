@@ -4167,7 +4167,10 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 - proportional voting
 - 
 
-
+...
+# Decisions, Projects and Datatypes:
+- What kinds of project decisions and outcomes, including realtime updates that contradict assumptions, are what kind of definable 'goals' or otherwise measurable outcomes?
+...
 
 ## runoff elections and contracts
 
