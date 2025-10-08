@@ -3992,7 +3992,6 @@ etc.
 
 ## errors and parameters in coordinated decisions as formal project schedule systems
 -
--
 
 # Bootstrapping: conditions, issues, challenges, obstacles, requirements, to start processes the first time.
 - hardware bootstrapping
