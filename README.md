@@ -4003,14 +4003,12 @@ etc.
 ## Populism, Extremism, Perception, Learning, STEM-Measurement, Agile-Communication, Project-State:
 - What can we know about what is happening and about what is going wrong?
 
-
 ## Document Formats, Formatting, Processing:
 - automated document processing
 - handling formats
 - uses of documents
 - explanations of documents
 - 'search' and 'retrieval' of documents (Search Augmented Tasks vs. RAG)
-- 
 
 ## Document Processing
 data engineering:
@@ -4682,3 +4680,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223
 https://www.linkedin.com/posts/flyvbjerg_why-so-many-it-projects-go-so-horribly-wrong-activity-7326395483646554112-UlzU
 The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247223 
 
+
+"ouija-board management: messages are being received even if none have actually been sent"
+https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power 
