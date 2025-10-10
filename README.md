@@ -4446,9 +4446,6 @@ Undefined terms (one might say 'undefined behaviors') such as the term 'complexi
 - 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills)
 
 
-
-
-
 # Bibliography & Resources
 
 ## Books on Elections
@@ -4658,7 +4655,6 @@ Comparison Book Set:
 - "The Two Cultures" (And Ashby's Technology and the Academics)
 - "Possible Minds"
 
-
 # There’s Got to Be a Better Way
 https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
 https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
@@ -4670,7 +4666,6 @@ views on STEM and STEM & Values
 Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
-
 
 https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg 
 https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong 
