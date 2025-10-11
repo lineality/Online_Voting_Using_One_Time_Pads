@@ -6,7 +6,7 @@
 #### Project-Context Decision-Making Involving Participants and Components:
 
 # Contents:
-## Part 1: Secure Online-Voting in-Principle`
+## Part 1: Secure Online-Voting in-Principle
 ## Part 2: Practical-&-Secure Online-Voting
 ## Part 3: Whole-Election and Vote-Analysis Platforms
 ## Part 4: Generalized Decision Coordination
@@ -417,7 +417,6 @@ Details: The first part of this report is a more abstract proof-of-concept about
 
 ### Fingerprinting
 - how to give voters anonymity while also allowing them to connect
-
 
 
 # Part 2: Practical Secure Online Voting
@@ -4118,7 +4117,6 @@ and specific task processes
 browser based...
 app based...
 	- Jefferson-Radio type
-- 
 
 
 ...
@@ -4126,9 +4124,8 @@ app based...
 project coordination standards
 - for developers working on project
 
-...
 
-roles votes and definitions:
+## roles votes and definitions:
 One person physically able to vote gets one vote is a very blunt way of deciding who should be voting on a topic, with assumptions that make (made) more sense in low-tech local elections where only local people within an age-range could physically vote. But with various technologies from transportation and translation to networks, that rough match becomes less clear.
 There are a lot of factors and edge cases, with a possibly related topic of district-creation and gerrymandering which run up against challenges where the main problem may be people's refusal to confront the issues. 
 'Make the design-choice go away." is not a good plan.
@@ -4655,6 +4652,7 @@ Comparison Book Set:
 - "The Two Cultures" (And Ashby's Technology and the Academics)
 - "Possible Minds"
 
+
 # There’s Got to Be a Better Way
 https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
 https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
@@ -4666,6 +4664,7 @@ views on STEM and STEM & Values
 Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
+
 
 https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg 
 https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong 
