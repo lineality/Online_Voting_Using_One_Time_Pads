@@ -4653,6 +4653,8 @@ Comparison Book Set:
 - "Possible Minds"
 
 
+## From Sport to Sportsmanship:
+
 # There’s Got to Be a Better Way
 https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
 https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
