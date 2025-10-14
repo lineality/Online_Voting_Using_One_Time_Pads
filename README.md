@@ -4616,12 +4616,16 @@ IT Agile
 https://www.economist.com/podcasts/2025/05/15/why-it-projects-so-often-go-wrong 
 
 
-
-""" https://www.economist.com/letters/2025/06/19/reforming-the-nhs
+""" https://www.economist.com/letters/2025/06/19/reforming-the-nhs 
 How not to lose your head
 Bartleby’s (May 31st) three principles when managers face a crisis of plan, decentralise and prioritise were firmly embedded a quarter of a century ago in the work of Karl Weick and Kathleen Sutcliffe, which emerged from their empirical research on a multitude of organisations, including defence forces, hospitals and first responders.
 
-They listed five principles (which some have expanded to seven): expect failure; be sensitive to what is happening—someone is paying attention—and do not wait for directions from headquarters; do not simplify and take nothing for granted; organise to expect challenge and change—help others and expect to be helped by others; and maintain a deference to expertise.
+They listed five principles (which some have expanded to seven): 
+1. expect failure; 
+2. be sensitive to what is happening—someone is paying attention—and do not wait for directions from headquarters; 
+3. do not simplify and take nothing for granted; 
+4. organise to expect challenge and change—help others and expect to be helped by others; and 
+5. maintain a deference to expertise.
 
 These principles constantly stand the test of time, if only in retrospect, when failing organisations discover them afresh.
 
@@ -4642,16 +4646,14 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 ### institution
 ### STEM
 
-
 # Missing Words & Concepts
 
-...
 
-Comparison Book Set:
+
+## Comparison Book Set:
 - "Breakneck"
 - "The Two Cultures" (And Ashby's Technology and the Academics)
 - "Possible Minds"
-
 
 ## From Sport to Sportsmanship:
 
