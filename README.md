@@ -1015,6 +1015,16 @@ What OS, what network architecture, and what cyber security strategies should/co
 ## State: Project State, STEM-State, Nation-States, & Statistics
 2024.12.30
 
+## Institutions in Checks and Balances
+What institutions need to officially or more-officially be part of the montesque cook adams jefferson franklin madison interlocking set of check and balance institutions? There may be a 'boot-strap' stage of minimal ~data-structures, but the overt goal is long term maintainability, and based on past data more than the bootstrap is needed (unofficially or officially) for that:
+'civil society'
+'academia/education / RAND'
+'trade associations'
+'libraries and theaters'
+'STEM Standards (like NIST)'
+'foreign policy ~thinktanks'
+'market-exchanges with a justice-system'
+
 ## Scaffolding and teaching and learning about process
 
 ## Disturbance Regime Management in Data Ecosystems
