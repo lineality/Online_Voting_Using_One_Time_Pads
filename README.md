@@ -3887,8 +3887,22 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Historical cases of breakdown
 - Rome
 
+## "Blind Spots" for STEM, Projects, Perception, Communication, Decision Making, Learning, and Skills
+(2025.10.18)
+- the 3.11 seaside meeting
+- requesting changes after the project is over
+- basal distal disjunctions
+- agile-"churn" (mid-sprint)
+- "panic" abandonment (mid-sprint)
+- refusal to look
+- un-sort-able design
+- 
+
 ## Non-Homogenous Environments / Heterogeneous Environments:
 - "THe glass universe" America vs. Rober J Jordon's "Rise and fall of American Growth" America
+
+## Standards for error, exception, and assert handling for production systems.
+
 
 ## Rules for how elections get:
 - called
