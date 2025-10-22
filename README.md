@@ -3227,6 +3227,10 @@ e.g. if not a great model, the "psychological" and social obstacles that arise i
 ## Participation and Motivation
 - use-ability of system
 
+## Simulations and Modeling of behavior:
+- empirical studies
+- abstract systems
+
 ## Queues and Byte Arrays
 (2024.11.30)
 
