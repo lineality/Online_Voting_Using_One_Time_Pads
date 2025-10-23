@@ -4063,7 +4063,6 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 ## Succession:
 - types and levels of succession
-- 
 
 ## Conflict, Mediation, Negotiation, and Coordinated Decisions
 - conflict resolution
@@ -4078,13 +4077,15 @@ SN Episode #873: australian digital driver's license as case study in similar sy
 
 # Database security standards
 (no standard "sql" versions)
+
 ...
+
 # Search In General
-- 
 - np completeness
 - fuzzy search
 
 ...
+
 2025.03.09
 # Search, Structuring, & State: The unsolved problem of search:
 
