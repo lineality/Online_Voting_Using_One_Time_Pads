@@ -1768,7 +1768,11 @@ electricity cost
 - security of process
 - auditability of process
 
-## short term and long term
+## short term and long term decision making
+- "dark patterns" and short term vs. long term decisions
+https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark-patterns
+- "to eschew dark patterns is that they can hurt their firms’ long-term interests. Consumers dislike egregious attempts to manipulate them into buying things: the study by Messrs Luguri and Strahilevitz found that aggressive techniques upset the consumers"
+- "patterns can replicate without much thought. According to Marie Potel, a co-founder of Fair Patterns, a firm that helps to fix dark patterns, problematic designs are often cut and pasted from standard templates."
 ### Detection of short term and long term problems
 - short cycle bubbles (fewer than 5 years)
 - indefinite embedded long term problems 
@@ -3506,6 +3510,13 @@ Understanding and being able to examine with falsifiable tests whole past and pr
 ## airgaps
 
 ## Definitions of Symbols in Coordinated Projects
+
+## Learning and Perception
+1. identification
+2. articulation: input output measures
+3. perception
+4. learning
+5. planning/strategizing/mapping-modeling/
 
 ## Learning, Habit, and Contagion
 - how patterns in process move across systems
