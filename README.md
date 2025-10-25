@@ -4005,14 +4005,8 @@ etc.
 - 'Counting'
 - Normalization
 - The Non-Computer-Science-Design of Scientific-Notation and The Historical Problem of Float-Math
-- 
-
-...
 
 # strict efficiency and emergency standards and limits
-- 
-
-...
 
 ## scalability in the problem space of coordinated decision making
 
