@@ -994,6 +994,11 @@ What OS, what network architecture, and what cyber security strategies should/co
 # Perception-Abstraction and disruptive effects of some processes of observation
 - 
 
+## STEM & Navigation: Northstars and Gifts That Keep on Giving
+- timelines
+- schedules
+- feedback
+
 ## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
 (2024.11.25)
 1. STEM has 'values' for project being productive or not in a context of long term sustainability, non-fraud, and non-system-collapse
