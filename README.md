@@ -4693,7 +4693,6 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 # Missing Words & Concepts
 
 
-
 ## Comparison Book Set:
 - "Breakneck"
 - "The Two Cultures" (And Ashby's Technology and the Academics)
@@ -4712,7 +4711,6 @@ views on STEM and STEM & Values
 Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
-
 
 https://www.sbs.ox.ac.uk/about-us/people/bent-flyvbjerg 
 https://www.economist.com/business/2025/05/08/why-so-many-it-projects-go-so-horribly-wrong 
