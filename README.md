@@ -4692,7 +4692,6 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 
 # Missing Words & Concepts
 
-
 ## Comparison Book Set:
 - "Breakneck"
 - "The Two Cultures" (And Ashby's Technology and the Academics)
@@ -4700,7 +4699,7 @@ https://www.economist.com/leaders/2025/07/10/sex-hormones-could-be-mental-health
 
 ## From Sport to Sportsmanship:
 
-# There’s Got to Be a Better Way
+# "There’s Got to Be a Better Way" (book)
 https://www.economist.com/business/2025/09/04/broken-workflows-and-how-to-fix-them 
 https://www.amazon.com/Theres-Got-Be-Better-Way/dp/B0FJHS1BNT/ 
 There’s Got to Be a Better Way: How to Deliver Results and Get Rid of the Stuff That Gets in the Way of Real Work
