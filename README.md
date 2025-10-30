@@ -2955,6 +2955,16 @@ connecting Jan with open frameworks for
 
 ## scalable modular infrastructure
 
+## Stateless and Subsymbolic Systems
+(2025 10 29)
+- expectations of stateful solutions
+- maintainability of small increases in statefulness
+- the constant underestimation of the cost of state
+- the constant lack of awareness of stateless operation
+- the constant cargo-cult superstitious belief that functionality automatically is caused by state and state expansion
+- interdisciplinary overlap, parallels, and differences in jargon between municipal state and engineering state.
+
+
 ## Topics in Election and Decision Coordination Data Management
 - transparency
 - non-potemkin-village
