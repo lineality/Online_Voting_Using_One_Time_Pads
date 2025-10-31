@@ -1442,6 +1442,20 @@ And both may involve the bazaar cargo-cult of undefined 'rational behavior' whic
 	- 
 
 
+# The General Problem Space of Project Decisions:
+- Decision making skills especially in a context of projects are a critical part of education and fall naturally into general-STEM education.
+- It is possible that planning STEM-Education is itself a classic example of the presence of significant definable deficits in decision-making skills and abilities, especially including coordinated-decisions and project outcomes. 
+Biases:
+- aesthetic bias
+- momentum/tradition bias
+- disinformation bias
+- indeterminacy bias
+- spite & perversity bias
+- churn bias
+- panic bias
+
+
+
 # Decision Hygiene & Mirage Goals
 - Pouring effort into an abstraction-proxy is a waste.
 
@@ -3661,7 +3675,6 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - for feedback (the case of the norwegian electric meters)
 
 ## MCU Multipoint Conferencing Units, Modularized Signal-Response Protocols, Moderation virtual Decision-conference Mediation
-- 
 
 ## Junkfood health short-term long-term in coordinated decisions
 - general mind
