@@ -4388,7 +4388,7 @@ scale factors and elections:
 - NLP
 - disinformation?
 
-### minimal and non-minal software for voting
+### minimal and non-minimal software for voting
 - is there such a thing as a simple micro-election that can be quick and secure?
 
 #### Trade-off in UI user interface design: secure but use-able
