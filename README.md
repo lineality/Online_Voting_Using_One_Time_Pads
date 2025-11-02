@@ -1454,6 +1454,11 @@ Biases:
 - churn bias
 - panic bias
 
+## system hygiene policies
+(2025 11 01)
+- system and definition epidemiology
+- defense in process and coordinated definitions
+- identification of bad-actors
 
 
 # Decision Hygiene & Mirage Goals
