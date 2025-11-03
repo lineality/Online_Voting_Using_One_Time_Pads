@@ -999,6 +999,8 @@ What OS, what network architecture, and what cyber security strategies should/co
 - schedules
 - feedback
 
+Inherent in STEM is using data to identify bad-engineering acts/actions,practices,and procedures; identifying bad-engineering and best practice prevention and remediation involves values that overlap (however marginally, and with whatever nuance) with ethics, social values, team values, family values, sportsmanship, morality, civics, political philosophy, economics, and ecology. <2025 11 02>
+
 ## STEM, Productivity, Collaboration, Projects: Agile, Khaneman-Tversky, Externalization, System Collapse; System & Definition Studies: STEM, Definitions, System Collapse, Computer Science in Productive Collaborative Projects:
 (2024.11.25)
 1. STEM has 'values' for project being productive or not in a context of long term sustainability, non-fraud, and non-system-collapse
@@ -2075,6 +2077,8 @@ derivation and integration of process modules
 - how many parties are coordinating
 - synchronous, asynchronous
 - state or stateless (as in memory, not gov) 
+
+
 
 # risk and worst case scenarios
 
