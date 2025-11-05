@@ -4500,7 +4500,7 @@ This is a crucial area in many projects but it has perhaps the worse lexicon and
 
 'Structured' data is roughly tabular or 'dictionary' data, but 'dictionary' is defined differently across and within various programming languages with no single overall lexicon.
 
-'semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
+'Semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
 
 You will need to clearly describe your project manually, not being able to use a lexicon that does not exist.
 
@@ -4630,7 +4630,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 
 ### Case Study in 2025 Diaspora Elections
-- Ukraine in 2025 is facing pressure to hold election while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
+- Ukraine in 2025 is facing pressure to hold elections while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
 - What would the requirements be for a sufficiently robust diapora-flexible election to be held? 
 
 
@@ -4675,6 +4675,10 @@ supported this work, but unfortunately none did."
 https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-on-third-party-candidates
 
 - https://en.wikipedia.org/wiki/VUCA 
+
+
+
+
 
 
 
