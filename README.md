@@ -937,7 +937,6 @@ Question: possible requiring of ballot being completely filled out
 - churn
 - panic
 - abstraction fantasism
-- 
 
 ## Data Formats Data Structures externalization serialization and read-able serialization
 - it may be important for data structures such as dictionaries of lists (to use the python terms) to be able to be exteranlized,shared and loaded and stored in a read-able printable format.
@@ -4193,7 +4192,6 @@ and specific task processes
 browser based...
 app based...
 	- Jefferson-Radio type
-
 
 ...
 
