@@ -3789,7 +3789,6 @@ subsonic(vibration),
 - cost over time
 - simplicity, minimalism vs. fetish-art
 
-
 ## Healthfood & Junkfood
 - equilibria
 - process
