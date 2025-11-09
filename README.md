@@ -3399,6 +3399,15 @@ vs.
 
 ## Security Needs vs. Command-line Aversion and super-signal attraction
 
+# information epidemiology and demand distortion
+(2025 11 08)
+- everything has a default of system collapse within context
+- everything is susceptible to contagious/spreading system-definition patterns and disturbance regime dynamics
+- information asymmetry can refer either to demand distortion exploited by demand (for mutual long term loss) or exploited by supply (for mutual long term loss)
+- non-automatic-skills, literacy, patience, and best practice including learning are (non-automatic) infrastructure needed for survival and non-collapse
+- radicalization, extremism, demand-distortion, and 'rip-off economy' 'bad actors'(terminology from The Economist) 
+- bubble echo-chambers can exacerbate
+
 # Best Practice
 ## Definition Behavior & System Collapse
 ## Tools for Project Management (non-collapsing projects)
