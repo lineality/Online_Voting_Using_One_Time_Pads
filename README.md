@@ -4300,14 +4300,13 @@ Where optical character recognition is used, what standards can be optional and 
 - https://www.youtube.com/greymatter/search?query=elections 
 
 #### Election Data Study Link
-- 
+
 note: page seems to no longer exist or merged into larger course...one fewer resouce on a needed topic...)
 https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
 vs.
 https://www.datacamp.com/courses/data-manipulation-with-dplyr 
 
 https://www.r-bloggers.com/2018/11/new-course-analyzing-election-and-polling-data-in-r/
-
 
 
 ## Data Visualization & Elections
@@ -4342,7 +4341,6 @@ Include pre-election polling?
 - question phasing
 - choice phrasing
 - clarifications of language
-
 
 # Enrollment, Qualification, Inclusion, Selection
 ## Variations on Enrollment and Voter-Tests
@@ -4383,7 +4381,6 @@ Question: Are there, in principle, systems that select qualified voters yet whic
 Verification, stem-information, and disinformation
 - resources:
 - history
--
 
 ### election-space analysis / coordinated-decision space
 - NLP
@@ -4397,7 +4394,7 @@ Verification, stem-information, and disinformation
 
 ### scaling needs for larger elections
 scale factors and elections:
-- 
+
 
 ### Specific AI-ML issues for voting and coordinated decision making:
 - NLP
@@ -4407,7 +4404,7 @@ scale factors and elections:
 - is there such a thing as a simple micro-election that can be quick and secure?
 
 #### Trade-off in UI user interface design: secure but use-able
-- 
+
 
 ### Agile, Security, & Voting: General best practice vs. specific voting system best practice
 
@@ -4435,8 +4432,6 @@ Perhaps as a form of least-trust architecture, which brings with it perhaps the 
 
 ## Coordination as Formal Systems
 - ~'game theory' and decisions
-- 
-
 
 
 # Definitions in Projects and STEM (version 2025 05 30)
