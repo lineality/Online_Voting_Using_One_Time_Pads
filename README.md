@@ -4024,7 +4024,7 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - [structured data and metadata (e.g. contextual metadata) profile field columns]
 - [subsymbolic matrix vectors ('embedding vectors'), ideally multiple types]
 - [graph data [nodes],[edges]]
-- 
+
 ### Level 2: Derived Layers: modeling the rows and collumns
 A. GOFAI: ELIZA, SHRDLU, etc. (1950-2000)
 B. statistical learning, reinforcement, GA, etc. (1990-2010) (or 1750-2010)
@@ -4033,7 +4033,6 @@ D. foundation models (2015/2020-?????)
 E. ? (?-?)
 etc.
 
-...
 (2024 11 29)
 ## Standards for production data handling
 - modular
@@ -4042,8 +4041,6 @@ etc.
 - EDA accessibility (exploratory data analysis)
 - non-hidden
 - 'vanilla' is better than 3rd party
-
-...
 
 ## The Functionality of Base-256 Data Level
 - 'Counting'
