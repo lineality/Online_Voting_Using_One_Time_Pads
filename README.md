@@ -3715,7 +3715,6 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 - hierarchies and sets in comparability
 
 ## defining participants and participation for coordinated decision making
-- 
 
 ## Potential disputes over 'ownership' of election parts or results
 
@@ -3724,7 +3723,6 @@ Q: How have the concerns of historical thinkers from Hobbes to Montesque to John
 ## Bad Actors
 
 ## Historical Pitfalls & Gauntlets
-- 
 
 ## voting, probability, statistics, modeling, census:
 - representation
