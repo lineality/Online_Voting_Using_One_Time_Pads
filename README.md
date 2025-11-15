@@ -3467,7 +3467,6 @@ is a set of processes.
 (2024.08.25)
 
 ## metrics roles organizations wholes and parts
-- 
 
 ## John Adams, Democracy and Checks & Balances
 - the epidemiology of bad idea
