@@ -3804,16 +3804,13 @@ subsonic(vibration),
 - supersignals
 - the conspiracy-horror fetish about STEM being value-neutral and anti-health
 
-
 ## sustainably funding academia to support decision infrastructure
-- 
 
 ## software academia and municipalities
 - overhead costs and infrastructure
 - minimal requirements
 
 # Pedagogy & Coordinated Decisions
-- 
 
 ## problem-space categories of decisions
 - e.g. the summary chapter of 'Noise' seems problematically broad, though there are surely specific relevant contexts.
@@ -3888,12 +3885,11 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 ## Specific QA/QC features/tools?
 
 ## measuring outcomes, measuring process, and measuring ~noise
-- 
 
 ## countability, metrics, and definitions
 
 ## Metrics:
-- Metrics for shorterm/longterm disjunctions
+- Metrics for short-term/long-term disjunctions
 
 ## Pattern, Protocol, and Process
 - skill, ability, learning
