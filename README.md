@@ -4049,15 +4049,12 @@ etc.
 - case studies in handling run-offs and proportional representation
 - uses and issues with parties
 
-
 ## R&D, Smithian Greed Self Interest, Infrastructure, Commons, and Short Term Profit Growth: Factors and outcomes in investing in coordination decision tools vs. not investing
 - tragedy of the commons
 - transparency vs. secret squirrel
-- 
 
 
 ## errors and parameters in coordinated decisions as formal project schedule systems
--
 
 # Bootstrapping: conditions, issues, challenges, obstacles, requirements, to start processes the first time.
 - hardware bootstrapping
