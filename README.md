@@ -2890,7 +2890,6 @@ people then start to believe are cargo-cult-causal
 - Social cohesion and inclusion
 
 ## Standards and best practice around agenda presentation:
-- 
 
 ## Types of Feedback (2024.01.17)
 - decision systems
