@@ -3980,7 +3980,6 @@ https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034, giv
 - language diversity scale
 - platform diversity scale
 
-
 # Data & Decisions
 - trade offs
 - data permanence
@@ -4598,7 +4597,7 @@ Then in chapter 3-4, the author refers to 'process' with a completely different 
 Lexicon issues aside... so far(still reading) this book is fabulous for cutting through and pointing out the de jure pathological 'anti-productivity' 'anti-maker' 'anti-engineering' 'anti-STEM' 'anti-data' wave of destructive extremist ideology that has been suffocating the USA. It is refreshing to hear a clear voice describing the disfunctional, culturally and psychological toxic, illiterate world I have been unendingly attacked by and have unsuccessfully tried to defend productivity against my entire life, briefly finding glimpses of sanity living abroad in Japan.
 All ~countries/nations/republics including the USA can and should achieve sanity and the ability to navigate: can and should. Just as families, communities, schools and institutions can and do teach and require hand-washing and biological epidemiology safeguards, so we can and should do the same for psychological/perceptual/linguistic hygiene. History is full of the 'disturbance regimes' of popular extremism that destroys geographies just like fires or diseases, yet this seems to be persistently invisible. We need to learn to be aware of this persistent problem.
 
-## Books on Project Management
+# Books on Project Management
 ( )
 
 
