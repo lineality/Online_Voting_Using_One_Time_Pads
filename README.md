@@ -371,7 +371,7 @@ To improve accessibility, it is conceivable that some local voting systems would
 
 
 ## Unique Ballots
-At this time or at a later time [a printed copy of a unique ballot] (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breakin of the vote office and wants in advance a verifiable ballot) (not-over-a-network/not-online) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
+At this time or at a later time [a printed copy of a unique ballot] (depending on choice, timing, etc. (e.g. if the ballot has been decided which is often not the case at the time of voter registration or if in terms of security level if the voter does not trust a physical breaking of the vote office and wants in advance a verifiable ballot) (not-over-a-network/not-online) a printed copy of a unique ballot (e.g. containing if not the voter's name the equivalent of a sha256 hash of the unique ballot). Either a unique ballot or a unique ballot identification number will be used on both ends, by the voter to check that the ballot they receive is authentic and by the office that the ballot received completed and sent by the voters is authentic. (Note: some combination of a 'signed' public ballot and a signed sender/recipient may also be possible)
 (todo: list pros and cons of using unique ballots (per voter)
 
 
@@ -4016,7 +4016,7 @@ see: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scala
 - [subsymbolic matrix vectors ('embedding vectors'), ideally multiple types]
 - [graph data [nodes],[edges]]
 
-### Level 2: Derived Layers: modeling the rows and collumns
+### Level 2: Derived Layers: modeling the rows and columns
 A. GOFAI: ELIZA, SHRDLU, etc. (1950-2000)
 B. statistical learning, reinforcement, GA, etc. (1990-2010) (or 1750-2010)
 C. narrow deep learning (~2010-2020) (or 1940-2020)
@@ -4131,7 +4131,7 @@ Does "AI" = 'Better Search"?
 
 In retrospect the 2023 'ai revolution' may be seen and described as a 'search done better and possible locally' breakthrough, which largely came out of google (search giant) technology (transformers) and operates like the google search page, except the search button now says 'chat.' 
 
-Calling search 'chat' may be an example of introduction an needless and meaningless layer of abstraction that causes personal and social confusion.
+Calling search 'chat' may be an example of introduction a needless and meaningless layer of abstraction that causes personal and social confusion.
 
 It is possible that is 'chatGPT' were called 'searchGPT' and called 'search' not 'AI', and 'gen-ai' being 'generative-search' not 'gen-ai' that the same technology and adoption may be processed without all of the misplaced 'super ai taking over the world'.
 
@@ -4269,7 +4269,7 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 
 
 ## Possible roles of language detection, e.g. election monitoring interference tools
-- Can 'junk food language' Be Detected?
+- Can 'junk food language' be detected?
 
 ## OCR
 Where optical character recognition is used, what standards can be optional and in place for how unclear handwriting is handled. Including the question of whether OCR should be avoided.
@@ -4286,7 +4286,7 @@ Where optical character recognition is used, what standards can be optional and 
 
 #### Election Data Study Link
 
-note: page seems to no longer exist or merged into larger course...one fewer resouce on a needed topic...)
+note: page seems to no longer exist or merged into larger course...one fewer resource on a needed topic...)
 https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r?irclickid=TtWxHF0I7xyNUMqzKwUmBUEhUkD3QI3tIzmPW80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=2556128 
 vs.
 https://www.datacamp.com/courses/data-manipulation-with-dplyr 
@@ -4454,7 +4454,7 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
 
 4. Near-Off-The-One-Tree:
-The one-tree is often best defined as simple linear relationship, but as systems get nonlinear, dynamical, and even "chaotic." As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree. 
+The one-tree is often best defined as a simple linear relationship, but as systems get nonlinear, dynamical, and even "chaotic." As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree. 
 
 6. (Far)-Off-The-Nne-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
 
@@ -4617,7 +4617,7 @@ https://www.amazon.com/Modern-Political-Tradition-Hobbes-Habermas/dp/B00KNLZWEA
 
 ### Case Study in 2025 Diaspora Elections
 - Ukraine in 2025 is facing pressure to hold elections while it is being invaded by a hostile neighboring country and while much of its population has fled to non-hostile neighboring countries. 
-- What would the requirements be for a sufficiently robust diapora-flexible election to be held? 
+- What would the requirements be for a sufficiently robust diaspora-flexible election to be held? 
 
 
 ### Case study in password handling:
@@ -4729,7 +4729,7 @@ by Nelson P. Repenning, Donald C. Kieffer, et al.
 
 
 views on STEM and STEM & Values
-Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnositic? Views may be changing.
+Topic: Is STEM (or is STEM viewed as being) shorterm-longterm agnostic? Views may be changing.
 from Economist ~ 2025 09 22
 "Science is when you want to survive for millenia, politics is when you are only looking at the next election."
 
