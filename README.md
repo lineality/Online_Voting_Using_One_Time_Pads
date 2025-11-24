@@ -2363,6 +2363,18 @@ Perhaps as in the more or less deterministic actions of a compiler, what parts o
 - Implications of non-automatic learning 
 - system literacy for local and regional project administration
 
+# Equilibria, Catalysis, Default-Modes, and Non-Automatically Learned Areas:
+- literacy
+- numeracy
+- STEM-literacy
+- project-area
+- value-literacy
+- short-term/long-term 
+- basal-distal 
+- general perception-illusion 
+- sportsmanship
+- ~rolemodel/heros
+
 ## Psychology and learning in types of signal environments
 
 ## meaning and multilingual elections
@@ -4163,7 +4175,6 @@ Start reading it for free: https://a.co/geuRhCb
 To what extent is it possible using symbolic or subsymbolic modeling to detect the presence and prevalence of 'terror' as used by Shirer? 
 Are similar corrupt and fraudulent practices not used by 'fire and brimstone' so-called-self-identified-"religious" groups, by 'doom-and-gloom' so-called-self-identified-'environmental' groups, by learned-helplessness inducing so-called-self-identified-'education' institutions and "professionals"?  
 
-
 ...
 
 # Elusive Project/Election Goals: meritocracy vs. kleptocracy
@@ -4244,7 +4255,6 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 - Feature Comparison in Non-Parametric Models
 
 ## Voting systems, governance, and overall sustainability measures
-
 
 ## Election Types, Calculation of Results, next steps based on results
 
