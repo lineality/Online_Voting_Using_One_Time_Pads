@@ -4675,9 +4675,6 @@ https://www.economist.com/united-states/2024/08/19/good-news-for-kamala-harris-o
 
 
 
-
-
-
 # Link to History Book Recommendations Repo:
 history_book_repository_on_political_philosophy
 
