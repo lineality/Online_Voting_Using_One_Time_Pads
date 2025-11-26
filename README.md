@@ -4233,6 +4233,11 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 ### Poverty Disinformation Non-Automatic Learning and Coordinated Decision Making
 
 ## Low-Bar-Enlightenment-Compassion Project Lifecycles and Coordinated Decision Making (2023.08.25)
+three? different categories of perceptionL
+1: short-sighted illusions, moth to the flame
+2: nihilistic blindness from ~overtoxicity
+3: some sufficiency of long term perception
+note: looking for references to this in Hobbe's discussion of perception and understanding of causality requiring study and learning, not being automatic
 
 
 ## alternatives to first past the post
