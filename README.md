@@ -1867,6 +1867,11 @@ https://www.economist.com/business/2025/10/16/why-bosses-need-to-wake-up-to-dark
 - reasons for keeping historical data
 - data about process
 
+## long term data and software maintainability and efficiency
+- history of undermined software
+- timescales: case study of 'dinosaur DNA' search
+
+
 ## Evaluation Types:
 - Daniel Khanemann: Evaluate the process not the outcome.
 
@@ -4162,7 +4167,6 @@ A few issues are key here in the search context:
 
 ### Infrastructure Cost & Institutions:
 - 
-
 ...
 
 STEM Health-check analysis:
