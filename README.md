@@ -4230,20 +4230,15 @@ and specific task processes
 browser based...
 app based...
 	- Jefferson-Radio type
-
 ...
 
 project coordination standards
 - for developers working on project
 
-
 ## roles votes and definitions:
 One person physically able to vote gets one vote is a very blunt way of deciding who should be voting on a topic, with assumptions that make (made) more sense in low-tech local elections where only local people within an age-range could physically vote. But with various technologies from transportation and translation to networks, that rough match becomes less clear.
 There are a lot of factors and edge cases, with a possibly related topic of district-creation and gerrymandering which run up against challenges where the main problem may be people's refusal to confront the issues. 
 'Make the design-choice go away." is not a good plan.
-
-...
-
 
 ## Shannan/Turing information theory/communication theory and decision coordination problem spaces
 - have we learned anything else about signals and information since Shannan?
@@ -4255,14 +4250,10 @@ There are a lot of factors and edge cases, with a possibly related topic of dist
 
 ## Contracts and Coordination
 
-...
-
 ## topics in voter enrollment
 
 ## historical debates on voter participation
 - John Adams
-
-...
 
 ### Poverty Disinformation Non-Automatic Learning and Coordinated Decision Making
 
@@ -4790,3 +4781,15 @@ The Uniqueness of IT Cost Risk https://papers.ssrn.com/sol3/papers.cfm?abstract_
 
 "ouija-board management: messages are being received even if none have actually been sent"
 https://www.economist.com/business/2025/10/02/how-bosses-unwittingly-exert-power 
+
+
+
+https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis
+
+https://www.economist.com/podcasts/2025/12/04/one-weird-trick-solving-americas-price-problem 
+
+
+participation, meritocracy, and skin in the game:
+https://www.economist.com/interactive/primers/liberalism/primer-1 
+
+
