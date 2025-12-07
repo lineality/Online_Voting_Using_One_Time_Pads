@@ -1,5 +1,6 @@
-##### Online_Voting_Using_One_Time_Pads
-- https://github.com/lineality/Online_Voting_Using_One_Time_Pads
+##### Networked_Voting_and_Decisions_Including_One_Time_Pads
+- https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads/
+
 
 # Decision Coordination: General and Specific
 ## Voting, Decision, & Consensus Systems in Networks and in General
