@@ -4129,7 +4129,6 @@ data engineering:
 
 ## voting system logs and transparency
 - network monitor logs
-- 
 
 ## do one things well, limited functionality
 - 'living off the land' attacks
