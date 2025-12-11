@@ -219,6 +219,7 @@ The voter's completed ballot is stored along with any completed paper ballot (e.
 (Note: Depending on the details, an additional step may be needed to convert the format of the QR code (or abridged format) to the same format as an in-person ballot. For example, if only the vote choice data are recorded in the QR code (or abridged format) the exact placement of each printed character on paper may be needed or useful for manual or automated ballot counting).
 
 Question: How much data can a QR code contain? 
+
 Question: How redundant can a QR be for error-correction?
 
 Question: Other pros and cons of qr codes?
@@ -3095,7 +3096,6 @@ There is perhaps a strange parallel in negative-definition where future-state in
 - like databases
 
 ## Data flow in systems: externalization and formats
-- 
 
 ## Avoiding the echo-chamber of infotainment and distracted-shallowness
 
